@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 00a376d434a08665de00b2dccec02fc86e63b36e
+source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
 workflow-type: tm+mt
-source-wordcount: '1835'
+source-wordcount: '1834'
 ht-degree: 18%
 
 ---
@@ -209,7 +209,7 @@ ht-degree: 18%
    + 管理報表套裝 {#manage-report-suites}
       + [設定郵遞區號設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [在管理控制台中設定變數](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-   + 資料治理與GDPR {data-governance-and-gdpr}
+   + 資料治理與GDPR {#data-governance-and-gdpr}
       + [Adobe Analytics中的資料治理與GDPR](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [在您的Analytics團隊中找到合適的人](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + 流量管理 {#traffic-management}
