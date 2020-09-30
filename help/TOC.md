@@ -5,9 +5,9 @@ breadcrumb-title: Analytics Tutorials
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 6a62298bc79ab3c94cea17863fabdb2e7840b46b
+source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1834'
+source-wordcount: '1846'
 ht-degree: 18%
 
 ---
@@ -94,6 +94,7 @@ ht-degree: 18%
       + [在分析工作區中自動建立自由表格](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由表格中處理維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [在自由表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [在分析工作區中使用參與率度量](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
       + [自由表格中的列和列設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [使用自由表格產生器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [在分析工作區中重新排序靜態行](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -145,6 +146,7 @@ ht-degree: 18%
       + [在分析工作區中新增維度和度量至專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [轉換事件簡介](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [在分析工作區中使用參與率度量](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + 維度 {#dimensions}
       + [在分析工作區中新增維度和度量至專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量變數(Prop)簡介](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
