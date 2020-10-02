@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# 使用累 [!UICONTROL 計平均][!UICONTROL 函式][!UICONTROL 套用量] 度平滑 {#using-the-cumulative-average-function-to-apply-metric-smoothing}
+# 使用累 [!UICONTROL 計平均]&#x200B;[!UICONTROL 函式]&#x200B;[!UICONTROL 套用量] 度平滑 {#using-the-cumulative-average-function-to-apply-metric-smoothing}
 
 量度趨勢的時段越 [!UICONTROL 長] ，就越難判斷量度的方向 [!UICONTROL 趨勢]。 要解決此問題， [!UICONTROL 計算量度] 中的 累計平 均 [!UICONTROL 累積平均值] 函式可用於對分析工作區中 的度量應用平滑。
 
