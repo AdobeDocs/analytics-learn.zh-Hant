@@ -7,9 +7,10 @@ audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 27068.jpg
 kt: 2854
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
 workflow-type: tm+mt
 source-wordcount: '104'
 ht-degree: 0%
@@ -17,8 +18,8 @@ ht-degree: 0%
 ---
 
 
-# 使用累 [!UICONTROL 計平均]&#x200B;[!UICONTROL 函式]&#x200B;[!UICONTROL 套用量] 度平滑 {#using-the-cumulative-average-function-to-apply-metric-smoothing}
+# 使用累 [!UICONTROL 計平均][!UICONTROL 函式][!UICONTROL 套用量] 度平滑 {#using-the-cumulative-average-function-to-apply-metric-smoothing}
 
-量度趨勢的時段越 [!UICONTROL 長] ，就越難判斷量度的方向 [!UICONTROL 趨勢]。 要解決此問題， [!UICONTROL 計算量度] 中的 累計平 均 [!UICONTROL 累積平均值] 函式可用於對分析工作區中 的度量應用平滑。
+量度趨勢的時段越 [!UICONTROL 長] ，就越難判斷量度的方向 [!UICONTROL 趨勢]。 要解決此問題，「計 [!UICONTROL 算度量」中的「累計平] 均 [!UICONTROL 」函式可用於對「分析工作區」中] 的度量應用平滑。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=9)
