@@ -3,14 +3,14 @@ title: 分析工作區中的時間分割維度
 description: 時間分段會擷取收集的點擊時間戳記，並將其分割為更有意義的維度，例如「一天中的某小時」或「一週中的某天」。 這些維度現在在「分析工作區」中是現成可用的。
 feature: freeform tables
 topics: null
-audience: analyst, marketer
+audience: analyst
 activity: use
 doc-type: feature video
-author: Doug Moore
 team: Technical Marketing
+thumbnail: 23727.jpg
 kt: 1903
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 4%
