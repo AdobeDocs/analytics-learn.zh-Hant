@@ -1,14 +1,14 @@
 ---
 user-guide-title: Adobe Analytics 教學課程
-user-guide-description: A collection of videos and tutorials for Adobe Analytics.
-breadcrumb-title: Analytics Tutorials
+user-guide-description: Adobe Analytics 的影片和教學課程系列。
+breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
 source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
 workflow-type: tm+mt
-source-wordcount: '1846'
-ht-degree: 18%
+source-wordcount: '1857'
+ht-degree: 22%
 
 ---
 
@@ -90,12 +90,12 @@ ht-degree: 18%
       + [區段拖放區改良](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace 提供多個報表套裝](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + 建立自由表格 {#building-freeform-tables}
-      + [使用左側導軌在分析工作區中建立自由表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [在分析工作區中自動建立自由表格](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
-      + [在自由表格中處理維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [在自由表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [在 Analysis Workspace 中使用左側邊欄建置自由格式表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中自動建置自由格式表格](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [在自由格式表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [在分析工作區中使用參與率度量](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
-      + [自由表格中的列和列設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [自由格式表格中的列和欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [使用自由表格產生器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [在分析工作區中重新排序靜態行](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [在自由表格中使用歸因IQ](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
@@ -110,7 +110,7 @@ ht-degree: 18%
       + [視覺效果類型](analysis-workspace/visualizations/visualization-types.md)
       + [在分析工作區中使用表格、視覺化和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [選取要視覺化的資料](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [分析工作區中的線條視覺化](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [Analysis Workspace 中的線條視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [項目圖形視覺化](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [色階分佈圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
       + [地圖視覺效果](analysis-workspace/visualizations/map-visualization.md)
@@ -145,13 +145,13 @@ ht-degree: 18%
       + [瞭解基本訪客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [在分析工作區中新增維度和度量至專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [轉換事件簡介](analysis-workspace/metrics/introduction-to-conversion-events.md)
-      + [在自由表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [在自由格式表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [在分析工作區中使用參與率度量](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + 維度 {#dimensions}
       + [在分析工作區中新增維度和度量至專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量變數(Prop)簡介](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
       + [轉換變數簡介(eVar)](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
-      + [在自由表格中處理維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
+      + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
    + 日曆和日期範圍 {#calendar-and-date-ranges}
       + [在分析工作區中使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [在分析工作區中使用日期範圍和比較](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
@@ -172,7 +172,7 @@ ht-degree: 18%
       + [在 Analysis Workspace 中儲存、共用及協作專案](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace 中的「組織」與「共用」](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [專案的直接連結](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [下載50,000個CSV項目](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
+      + [將 50,000 個項目下載為 CSV 檔](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [從分析工作區匯出為CSV](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
       + [共用內嵌元件](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [排程和可下載的專案](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
@@ -331,7 +331,7 @@ ht-degree: 18%
       + [Power BI中的Adobe Analytics Connector](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
       + [Magento Analysis工作區範本](integrations/magento/magento-analysis-workspace-template.md)
-+ 資料科學 {#data-science}
++ Data Science {#data-science}
    + [運用Adobe Analytics機器學習和AI，在重要時刻](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Analysis Workspace 中的異常偵測](data-science/anomaly-detection-in-analysis-workspace.md)
    + [分析工作區中的貢獻分析](data-science/contribution-analysis-workspace.md)
