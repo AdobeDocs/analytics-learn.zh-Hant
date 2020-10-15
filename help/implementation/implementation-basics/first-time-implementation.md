@@ -1,6 +1,6 @@
 ---
 title: 首次實作Adobe Analytics
-description: 這段影片會帶您在幾分鐘內逐步完成使用Adobe Analytics資料的程式。
+description: 此影片會在幾分鐘內帶您逐步體驗準備和運作 Adobe Analytics 資料的程序。
 seo-description: 實作Adobe Analytics比以往更簡單。 如果您是我們解決方案的新手，這段影片將帶領您在幾分鐘內完成啟動和執行資料的程式。
 feature: implementation basics
 topics: null
@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: 56049a25261318663349309164744fbb9bcfc952
 workflow-type: tm+mt
 source-wordcount: '99'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 
