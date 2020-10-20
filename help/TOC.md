@@ -331,7 +331,7 @@ ht-degree: 22%
       + [Power BI中的Adobe Analytics Connector](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
       + [Magento Analysis工作區範本](integrations/magento/magento-analysis-workspace-template.md)
-+ Data Science {#data-science}
++ 資料科學 {#data-science}
    + [運用Adobe Analytics機器學習和AI，在重要時刻](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Analysis Workspace 中的異常偵測](data-science/anomaly-detection-in-analysis-workspace.md)
    + [分析工作區中的貢獻分析](data-science/contribution-analysis-workspace.md)
