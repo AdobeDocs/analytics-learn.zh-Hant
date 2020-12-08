@@ -1,7 +1,7 @@
 ---
 title: Adobe Analysis Workspace如何改變您的業務
-description: 利用 Analysis Workspace，您可以執行臨機分析、彈性分析、同類群組分析和流失分析。
-seo-description: 分析工作區是Adobe Analytics中全新且簡單易用的介面。 在分析工作區中，您可以執行臨機分析、彈性分析、世代分析和流失分析。 您也可以與所有同仁共用分析工作環境，而透過拖放功能，每個人都能輕鬆分析資料並快速獲得寶貴見解。
+landing-page-description: With Analysis Workspace, you can do Ad hoc Analysis, Flexible Analysis, Cohort Analysis, and Fallout Analysis.
+description: 分析工作區是Adobe Analytics中全新且簡單易用的介面。 在分析工作區中，您可以執行臨機分析、彈性分析、世代分析和流失分析。 您也可以與所有同仁共用分析工作環境，而透過拖放功能，每個人都能輕鬆分析資料並快速獲得寶貴見解。
 feature: workspace basics
 topics: null
 audience: all
@@ -10,10 +10,10 @@ doc-type: value video
 team: Technical Marketing
 kt: 4382
 translation-type: tm+mt
-source-git-commit: 56049a25261318663349309164744fbb9bcfc952
+source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 46%
+source-wordcount: '146'
+ht-degree: 41%
 
 ---
 
