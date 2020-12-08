@@ -1,7 +1,7 @@
 ---
 title: Experience Cloud 對象發佈功能改良
-description: 瞭解發佈對象 (區段)，並以前所未有的速度提供。
-seo-description: Experience Cloud 對象發佈功能已經過改良。您現在可以發佈觀眾（區段），並將其發佈速度提高6倍，將目前的延遲時間從48小時縮短至約8小時，而且可能更快，視流量和區段大小而定。
+landing-page-description: Learn publish audiences (segments) and make them available faster than ever.
+description: Experience Cloud 對象發佈功能已經過改良。您現在可以發佈觀眾（區段），並將其發佈速度提高6倍，將目前的延遲時間從48小時縮短至約8小時，而且可能更快，視流量和區段大小而定。
 feature: integration with experience cloud
 topics: null
 audience: analyst
@@ -10,10 +10,10 @@ doc-type: feature video
 team: Technical Marketing
 kt: 4819
 translation-type: tm+mt
-source-git-commit: 56049a25261318663349309164744fbb9bcfc952
+source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 34%
+source-wordcount: '158'
+ht-degree: 29%
 
 ---
 
