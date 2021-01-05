@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 91fa52941263dcac4a30a54ae0916df7233712c9
+source-git-commit: 30868ad30134f1233c643dc7ed23ef060a94e61b
 workflow-type: tm+mt
-source-wordcount: '1857'
+source-wordcount: '1869'
 ht-degree: 22%
 
 ---
@@ -16,10 +16,10 @@ ht-degree: 22%
 # Analytics 教學課程 {#tutorials}
 
 + [概述](overview.md)
-+ Introduction to Analytics {#intro-to-analytics}
-   + Adobe Analytics能為我做什麼？ {#what-can-aa-do-for-me}
++ Analytics {#intro-to-analytics}簡介
+   + Adobe Analytics能為我做什麼？{#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace如何改變您的業務](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-      + [這不僅僅是資料。 客戶智慧](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [這不僅僅是資料。是客戶智慧](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
       + [Adobe Sensei和Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
       + [客戶使用案例- ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
       + [客戶使用案例——重音群組](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
@@ -50,7 +50,7 @@ ht-degree: 22%
       + [產品內支援票證提交](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
       + [取得Adobe Analytics中的說明](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
-   + 分析工作區基本資訊 {#analysis-workspace-basics}
+   + 分析工作區基礎知識{#analysis-workspace-basics}
       + [分析工作區簡介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 概述](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [在分析工作區中啟動您的第一個專案](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
@@ -66,7 +66,7 @@ ht-degree: 22%
       + [分析工作區的7個秘訣與訣竅](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [提高分析工作區生產力的秘訣](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [持續Adobe Analytics學習歷程的客戶秘訣](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
-   + 導覽工作區專案 {#navigating-workspace-projects}
+   + 導覽工作區專案{#navigating-workspace-projects}
       + [在分析工作區中啟動您的第一個專案](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [Analysis Workspace 培訓教學課程範本](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [在分析工作區中複製和插入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
@@ -80,21 +80,22 @@ ht-degree: 22%
       + [分析工作區中的檢視密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [零狀態改進](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
       + [在左側欄中使用篩選器（標籤）](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
-   + 使用面板 {#using-panels}
+   + 使用面板{#using-panels}
       + [在分析工作區中使用表格、視覺化和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace 的「快速深入分析」面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [使用Attribution IQ面板](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
+      + [Analysis Workspace 中的「媒體同時檢閱者」面板](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [使用下拉式篩選](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [面板層級區段](analysis-workspace/using-panels/panel-level-segments.md)
       + [使用面板來組織分析工作區專案](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [區段拖放區改良](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace 提供多個報表套裝](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-   + 建立自由表格 {#building-freeform-tables}
+   + 建立自由表格{#building-freeform-tables}
       + [在 Analysis Workspace 中使用左側邊欄建置自由格式表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [在 Analysis Workspace 中自動建置自由格式表格](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [在自由格式表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [在分析工作區中使用參與率度量](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中使用參與率量度](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
       + [自由格式表格中的列和欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [使用自由表格產生器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [在分析工作區中重新排序靜態行](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -111,6 +112,7 @@ ht-degree: 22%
       + [在分析工作區中使用表格、視覺化和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [選取要視覺化的資料](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [Analysis Workspace 中的線條視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [新增趨勢線至線條視覺化](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [項目圖形視覺化](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [色階分佈圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
       + [地圖視覺效果](analysis-workspace/visualizations/map-visualization.md)
@@ -146,7 +148,7 @@ ht-degree: 22%
       + [在分析工作區中新增維度和度量至專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [轉換事件簡介](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由格式表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [在分析工作區中使用參與率度量](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中使用參與率量度](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
    + 維度 {#dimensions}
       + [在分析工作區中新增維度和度量至專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量變數(Prop)簡介](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -159,7 +161,7 @@ ht-degree: 22%
       + [建立自訂日期範圍](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [分析工作區中的日期比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [新增前一個月和前一年的趨勢比較](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + 分析客戶歷程 {#analyzing-customer-journeys}
+   + 分析客戶歷程{#analyzing-customer-journeys}
       + [歷程IQ —— 跨裝置分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [流失視覺效果](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [流失視覺化的增強功能](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -168,7 +170,7 @@ ht-degree: 22%
       + [流量視覺效果](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
       + [展開流量視覺化](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
       + [文字繞排與多維流程](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
-   + Curate and Share Projects {#curate-and-share-projects}
+   + 組織和共用專案{#curate-and-share-projects}
       + [在 Analysis Workspace 中儲存、共用及協作專案](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace 中的「組織」與「共用」](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [專案的直接連結](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
@@ -181,7 +183,7 @@ ht-degree: 22%
    + 歸因 IQ {#attribution-iq}
       + [使用跨標籤分析探索基本行銷歸因](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [新增並排比較歸因IQ模型](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
-      + [計算量度的歸因 IQ](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
+      + [計算量度中的歸因IQ](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
       + [在自由表格中使用歸因IQ](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
       + [使用Attribution IQ面板](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
       + [使用不同的歸因IQ模型及細分](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
@@ -193,9 +195,9 @@ ht-degree: 22%
       + [同類群組表格設定](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [使用同類群組表格的流失分析](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
       + [使用任何維度的同類群組分析](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
-      + [使用同類群組表格的延時分析](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
+      + [含世代表格的延遲分析](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [計算同類群組表格中的滾動保留率](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
-   + 語音分析 {#voice-analytics}
+   + 語音分析{#voice-analytics}
       + [如何管理和追蹤您的語音助理應用程式資料](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [瞭解不同語音裝置的差異](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
       + [尋找機會提高語音應用程式的參與度](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
@@ -219,14 +221,14 @@ ht-degree: 22%
    + 記錄檔{#logs}
       + [分析工作區的使用記錄追蹤](administration/logs/usage-log-tracking-for-analysis-workspace.md)
 + 實作 {#implementation}
-   + 實作基本資訊 {#implementation-basics}
+   + 實作基礎知識{#implementation-basics}
       + [首次實作](implementation/implementation-basics/first-time-implementation.md)
       + [使用處理規則將contextData變數映射至Prop和Evar](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [如何識別您的Analytics追蹤伺服器和報表套裝](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [建立業務需求文檔](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [建立和維護SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [在您的網站上使用資料層](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
-   + Via Experience Platform Launch {#via-adobe-launch}
+   + 透過Experience Platform Launch {#via-adobe-launch}
       + [透過 Experience Platform Launch 在網站中實施 Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
       + [Analytics Launch擴充功能的基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [設定Analytics的程式庫管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
@@ -248,10 +250,10 @@ ht-degree: 22%
    + 使用JavaScript {#using-javascript}
       + [沒有標籤管理器的自訂連結追蹤](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [未使用Experience Platform啟動時更新AppMeasurement](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + 驗證和疑難排解 {#validating-and-troubleshooting}
+   + 驗證和疑難排解{#validating-and-troubleshooting}
       + [使用Adobe Experience Cloud除錯程式檢查實作](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
       + [使用Experience Cloud除錯程式檢視後處理的點擊](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
-   + SPA頁面 {#spa-pages}
+   + SPA頁{#spa-pages}
       + [在追蹤SPA時使用最佳實務](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + 元件 {#components}
    + 區段 {#segmentation}
@@ -270,7 +272,7 @@ ht-degree: 22%
       + [等於分段中的任意運算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
    + 計算量度 {#calculated-metrics}
       + [計算量度中的近似計數差異函式](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [計算量度的歸因 IQ](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
+      + [計算量度中的歸因IQ](analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.md)
       + [計算量度——量度產生器](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [計算量度——函式](components/calculated-metrics/calculated-metrics-functions.md)
       + [計算量度——無實作量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
@@ -289,16 +291,16 @@ ht-degree: 22%
    + Activity Map {#activity-map}
       + [Activity Map概觀](components/activity-map/activity-map-overview.md)
       + [啟用、除錯和自訂Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
-+ 其他工具 {#additional-tools}
-   + Analytics儀表板 {#analytics-dashboards}
++ 其他工具{#additional-tools}
+   + Analytics儀表板{#analytics-dashboards}
       + [Adobe Analytics 儀表板計分卡產生器](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
       + [Analytics控制面板應用程式內體驗](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
-+ 導出 {#exporting}
++ 導出{#exporting}
    + 從UI {#from-the-ui}
       + [從分析工作區匯出為CSV](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [資料倉庫簡介](exporting/data-warehouse/introduction-to-data-warehouse.md)
-   + 資料饋送 {#data-feeds}
+   + 資料摘要 {#data-feeds}
       + [資料饋送管理UI](exporting/data-feeds/data-feeds-management-ui.md)
    + Report Builder {#report-builder}
       + [在報告建立工具中一次新增區段至多個請求](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
@@ -318,29 +320,29 @@ ht-degree: 22%
       + [在搜尋引擎中實作追蹤範本](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
       + [Advertising Cloud DSP整合分析簡介](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [建立啟動前促銷活動分析](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
-      + [使用Advertising Cloud行銷渠道進行報告](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
+      + [使用 Advertising Cloud 行銷管道製作報表](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
       + [建立 Analytics 網站歷程描述檔](integrations/ad-cloud/create-analytics-site-journey-profiles.md)
       + [建立 Analytics 區段以利執行啟動和報表彙整作業](integrations/ad-cloud/create-analytics-segments-for-activation-and-reporting.md)
       + [使用Adobe Analytics建立Advertising Cloud警報](integrations/ad-cloud/create-advertising-cloud-alerts-with-adobe-analytics.md)
       + [使用 Advertising Cloud 資料建立 Analytics 自訂量度](integrations/ad-cloud/create-analytics-custom-metrics-with-advertising-cloud-data.md)
-      + [建立Advertising Cloud網站登入報表](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
+      + [建立 Advertising Cloud 網站項目報表](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [建立Advertising Cloud儀表板](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
-   + Ad Hoc Analytics {#ad-hoc-analytics}
+   + 臨機分析{#ad-hoc-analytics}
       + [使用專案轉換器將專案從臨機分析移至分析工作區](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Power BI中的Adobe Analytics Connector](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
       + [Magento Analysis工作區範本](integrations/magento/magento-analysis-workspace-template.md)
-+ 資料科學 {#data-science}
++ 資料科學{#data-science}
    + [運用Adobe Analytics機器學習和AI，在重要時刻](data-science/using-machine-learning-and-ai-for-the-moments-that-matter.md)
    + [Analysis Workspace 中的異常偵測](data-science/anomaly-detection-in-analysis-workspace.md)
    + [分析工作區中的貢獻分析](data-science/contribution-analysis-workspace.md)
    + [智慧型警報](data-science/intelligent-alerts.md)
    + [Adobe Analytics與Adobe Sensei —— 讓所有人的資料科學民主化](data-science/adobe-analytics-and-adobe-sensei-democratizing-data-science-for-all.md)
-+ 垂直特定 {#vertical-specific}
-   + 高科技 {#high-tech}
++ 垂直特定{#vertical-specific}
+   + 高科技{#high-tech}
       + [2019年高級峰會——高科技](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + 旅行與接待服務 {#travel-and-hospitality}
+   + 旅行與接待服務業{#travel-and-hospitality}
       + [2019年高峰會超級會議——旅行與接待服務](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
    + 零售 {#retail}
       + [零售變數和事件簡介](vertical-specific/retail/intro-to-retail-variables-and-events.md)
@@ -348,7 +350,7 @@ ht-degree: 22%
       + [新增購買事件的啟動規則](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [2019年高峰會——零售](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
 + Media Analytics {#media-analytics}
-   + 測量語音或音頻 {#measuring-voice-or-audio}
+   + 測量語音或音頻{#measuring-voice-or-audio}
       + [在分析工作區中使用音訊耗用範本](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
 + 行動應用程式分析 {#mobile-app-analytics}
    + 實作 {#implementation}
@@ -359,7 +361,7 @@ ht-degree: 22%
       + [在iOS Swift應用程式中實作](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
       + [在iOS Objective-C應用程式中實作](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
       + [在Android應用程式中實作](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
-   + 測量行動分析 {#measuring-mobile-analytics}
+   + 測量行動分析{#measuring-mobile-analytics}
       + [Adobe Mobile Analytics快速入門](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [觸點在行動歷程中的影響](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
       + [分析跨通道的用戶行為](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
@@ -368,5 +370,5 @@ ht-degree: 22%
    + [使用分析工作區建立API 2.0請求](apis/using-analysis-workspace-to-build-api-2-requests.md)
    + [使用報告建立工具來學習Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
    + [使用Postman提出Adobe Analytics 2.0 API請求](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
-+ Analysis Use Cases {#analysis-use-cases}
++ 分析使用案例{#analysis-use-cases}
    + [設定市場郵遞區號分析](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
