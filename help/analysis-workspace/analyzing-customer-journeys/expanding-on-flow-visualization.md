@@ -10,18 +10,18 @@ team: Technical Marketing
 thumbnail: 24044.jpg
 kt: 2280
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: 7629db3735eb4b81c6a1787cce71b350a603ac3a
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 10%
+source-wordcount: '85'
+ht-degree: 0%
 
 ---
 
 
-# 在分析工作 [!DNL Flow visualization] 區中展開 {#expanding-on-flow-visualization-in-analysis-workspace}
+# 在分析工作區{#expanding-on-flow-visualization-in-analysis-workspace}中展開[!DNL Flow visualization]
 
-此影片顯示分析工作區中可用的各種滑鼠右 [!DNL Flow visualization] 鍵選項。 選項包括從路徑建立區段、收合欄等。
+此視訊顯示分析工作區中[!DNL Flow visualization]中可用的各種滑鼠右鍵選項。 選項包括從路徑建立區段、收合欄等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12)
 
-如需此功能的詳細資訊，請造訪文 [件](https://marketing.adobe.com/resources/help/zh_TW/analytics/analysis-workspace/flow.html)。
+有關此功能的詳細資訊，請造訪[documentation](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=en#analysis-workspace)。
