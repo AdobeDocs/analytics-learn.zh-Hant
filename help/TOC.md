@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 30868ad30134f1233c643dc7ed23ef060a94e61b
+source-git-commit: a6d96878798f2ec2302bcd207aa419fb084d19b1
 workflow-type: tm+mt
-source-wordcount: '1869'
+source-wordcount: '1872'
 ht-degree: 22%
 
 ---
@@ -236,7 +236,8 @@ ht-degree: 22%
       + [在啟動分析擴充功能中設定全域變數](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [在啟動分析擴充功能中設定Cookie設定](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [在設定啟動分析擴充功能時使用自訂代碼](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [使用資料層透過Experience Platform Launch設定頁面名稱和其他變數](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [使用資料層透過Launch設定頁面名稱和其他變數](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [在Launch中新增實施外掛程式](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [在Adobe Analytics擴充功能中使用doPlugins](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [設定簡易下載連結追蹤](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [設定簡易退出連結追蹤](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
