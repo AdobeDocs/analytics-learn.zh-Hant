@@ -1,6 +1,6 @@
 ---
 title: 登入Adobe Analytics
-description: 如果您無法進入Adobe Analytics,Adobe Analytics的功用就不多（哦，真的？）。 在此影片中，我們會引導您進行登入，以便您進入並管理Analytics，以及進行分析。
+description: 在此影片中，您將學習如何登入和管理Analytics，並開始分析。
 feature: analytics basics
 topics: null
 audience: analyst
@@ -9,9 +9,9 @@ doc-type: feature video
 team: Technical Marketing
 kt: 3566
 translation-type: tm+mt
-source-git-commit: ee6c03cff5b051d9293d75965e9fd98f151d7fce
+source-git-commit: 757f04cd1c45a893fd1e7f0a41044f832487dbe0
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '49'
 ht-degree: 0%
 
 ---
@@ -19,6 +19,6 @@ ht-degree: 0%
 
 # 登入Adobe Analytics
 
-如果您無法進入Adobe Analytics,Adobe Analytics的功用就不多（哦，真的？）。 在此影片中，我們將引導您進行登入，以便您進入並管理 [!DNL Analytics]，以及進行分析。
+在此視訊中，我們會引導您進行登入，讓您進入並管理[!DNL Analytics]，以及進行分析。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28771/?quality=12)
