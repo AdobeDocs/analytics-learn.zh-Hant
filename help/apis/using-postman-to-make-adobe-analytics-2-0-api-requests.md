@@ -1,6 +1,6 @@
 ---
-title: 使用Postman提出Adobe Analytics 2.0 API請求
-description: 此影片會逐步說明如何設定API用戶端Postman來傳送Adobe Analytics 2.0 API要求。 其中包括設定Adobe I/O整合（注意——您必須是Experience Cloud的系統管理員才能設定此功能）、尋找全域公司ID的位置等。
+title: 使用 Postman 發出 Adobe Analytics 2.0 API 請求
+description: 本影片將逐步展示如何設定 Postman (API 用戶端) 來發送 Adobe Analytics 2.0 API 請求；其中包括設定 Adobe I/O 整合 (注意：您必須是 Experience Cloud 系統管理員才能進行這項設定)；您可在此查詢您的全球公司 ID 等。
 feature: api
 topics: null
 audience: implementer, developer
@@ -8,19 +8,19 @@ activity: use
 doc-type: technical video
 team: Technical Marketing
 kt: 2387
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 使 [!DNL Postman] 用Adobe Analytics 2.0 API請求 {#using-postman-to-make-adobe-analytics-api-requests}
+# 使用 [!DNL Postman] 發出 Adobe Analytics 2.0 API 請求{#using-postman-to-make-adobe-analytics-api-requests}
 
-此影片會逐步說明如何設 [!DNL Postman]定API用戶端，以傳送Adobe Analytics 2.0 API要求。 其中包括設定Adobe I/O整合(注意：您必須是Experience Cloud的系統管理員才能設定此設定)、在何處尋找全域公司ID等。
+本影片將逐步展示如何設定 [!DNL Postman] (API 用戶端) 來發送 Adobe Analytics 2.0 API 請求；其中包括設定 Adobe I/O 整合 (注意：您必須是 Experience Cloud 系統管理員才能進行這項設定)；您可在此查詢您的全球公司 ID 等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25889/?quality=12)
 
-For more information, visit the [documentation](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/oauth-postman.md).
+如需詳細資訊，請瀏覽[文件](https://www.adobe.io/apis/experiencecloud/analytics/docs.html#!AdobeDocs/analytics-2.0-apis/master/oauth-postman.md)。
