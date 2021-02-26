@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics 開始提供 Adobe Labs (技術預覽)
-description: Adobe Labs（技術預覽）可讓您與新興技術互動，發掘寶貴的見解，並影響未來Analytics功能開發與優先順序。
+title: 透過 Adobe Analytics 使用 Adobe Labs (技術預覽)
+description: Adobe Labs (技術預覽) 可讓您熟悉新興技術、探索有價值的分析和見解，並影響未來 Analytics 功能的開發和優先順序。
 feature: analytics basics
 topics: null
 audience: architect
@@ -8,21 +8,21 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4818
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '91'
-ht-degree: 17%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Adobe Labs] （技術預覽）與Adobe Analytics
+# [!DNL Adobe Labs] (技術預覽) 和 Adobe Analytics
 
-[!DNL Adobe Labs] （技術預覽）可讓您與新興技術互動，發掘寶貴的見解，並影響未來的功能 [!DNL Analytics] 開發與優先順序。
+[!DNL Adobe Labs] (技術預覽) 可讓您熟悉新興技術、探索有價值的分析和見解，並影響未來 [!DNL Analytics] 功能的開發和優先順序。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32841/?quality=12)
 
-使用原型 [!DNL Labs] 時，您可以根據自己的業務使用案例和資料來評估功能。
+使用 [!DNL Labs] 原型時，您可以在自己的業務使用案例和資料環境下評估此功能。
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/tech-previews/overview.html).
+如需詳細資訊，請瀏覽[文件](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/tech-previews/overview.html)。
