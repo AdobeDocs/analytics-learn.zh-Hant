@@ -1,6 +1,6 @@
 ---
-title: 使用處理規則將contextData變數映射至Prop和Evar
-description: 在Adobe Analytics實作中使用contextData變數時，若要讓資料顯示在實際報表中，您必須在「處理規則」介面中將contextData變數對應至prop/eVar。 此影片會示範如何進行此作業。
+title: 使用處理規則將 contextData 變數對應至 Props 和 Evars
+description: 在實施 Adobe Analytics 使用 contextData 變數時，為了使資料顯示在實際報告中，您需要將 contextData 變數對應至處理規則介面中的 props / eVars。本影片將展示如何執行此操作。
 feature: implementation basics
 topics: null
 audience: implementer
@@ -8,19 +8,19 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1850
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 60f4ce4f563a990576b3331b01cd87c29d424f43
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 7%
+ht-degree: 100%
 
 ---
 
 
-# 將變 [!DNL contextData] 數映射至 [!DNL Props] 處理 [!DNL Evars] 規則及 [!UICONTROL 使用] {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
+# 使用[!UICONTROL 處理規則]將 [!DNL contextData] 變數對應至 [!DNL Props] 和 [!DNL Evars]{#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
-在您的 [!DNL contextData] Adobe Analytics實作中使用變數時，若要讓資料顯示在實際報表中，您必須將變數對應至「處 [!DNL contextData] 理 [!DNL props/eVars] 規則」介 [!UICONTROL 面中] 。 此影片會示範如何進行此作業。
+在實施 Adobe Analytics 使用 [!DNL contextData] 變數時，為了使資料顯示在實際報告中，您需要將 [!DNL contextData] 變數對應至[!UICONTROL 處理規則]介面中的 [!DNL props/eVars]。本影片將展示如何執行此操作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12)
 
-For more information, please see the [documentation](https://marketing.adobe.com/resources/help/zh_TW/reference/processing_rules.html).
+如需詳細資訊，請參閱本[文件](https://marketing.adobe.com/resources/help/zh_TW/reference/processing_rules.html)。
