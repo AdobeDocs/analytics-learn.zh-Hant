@@ -1,6 +1,6 @@
 ---
-title: Adobe Sensei和Adobe Analytics
-description: Adobe Sensei讓Adobe Analytics更具智慧，並協助行銷人員發現有關客戶的有意義見解。 此視訊包含由Adobe Sensei提供支援的Adobe Analytics主要功能的其他說明，包括異常偵測、貢獻分析、智慧提醒、叢集、區段IQ和傾向模型。
+title: Adobe Sensei 和 Adobe Analytics
+description: Adobe Sensei 會賦予 Adobe Analytics 更具智慧，並會幫助行銷人員發現有關其客戶的有意義分析和見解。本影片還會針對 Adobe Sensei 支持的 Adobe Analytics 提供主要功能附加說明，包括異常檢測、貢獻分析、情報警示、群集，區段 IQ 和傾向性模型。
 feature: data science
 topics: null
 audience: all
@@ -8,19 +8,19 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4383
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '99'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Adobe Sensei] 和Adobe Analytics
+# [!DNL Adobe Sensei] 和 Adobe Analytics
 
-[!DNL Adobe Sensei] 讓Adobe Analytics更具智慧，並協助行銷人員發現有關客戶的有意義見解。 This video includes additional explanation of key features in Adobe Analytics powered by [!DNL Adobe Sensei], including [!UICONTROL Anomaly Detection], [!UICONTROL Contribution Analysis], [!UICONTROL Intelligent Alerts], Clustering, [!UICONTROL Segment IQ], and Propensity Modeling.
+[!DNL Adobe Sensei] 會賦予 Adobe Analytics 更具智慧，並會幫助行銷人員發現有關其客戶的有意義的分析和見解。本影片還會針對 [!DNL Adobe Sensei] 支持的 Adobe Analytics 提供主要功能附加說明，包括[!UICONTROL 異常檢測]、[!UICONTROL 貢獻分析]、[!UICONTROL 情報警示]、集群[!UICONTROL ，區段 IQ] 和傾向性模型。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12)
 
-進一步了 [!DNL Adobe Sensei] 解 [這裡](https://www.adobe.com/tw/sensei.html)。
+了解更多關於 [!DNL Adobe Sensei](由[此處](https://www.adobe.com/tw/sensei.html))。
