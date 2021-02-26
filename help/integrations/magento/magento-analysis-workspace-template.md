@@ -1,6 +1,6 @@
 ---
-title: Magento Analysis工作區範本
-description: 介紹分析工作區的Magento行銷與商務範本。
+title: Magento Analysis Workspace 範本
+description: 介紹 Analysis Workspace 適用的 Magento 行銷與商業範本。
 feature: integration with experience cloud
 topics: null
 audience: analyst
@@ -9,17 +9,17 @@ doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3269
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# [!DNL Magento] 分析工作區範本 {#magento-analysis-workspace-template}
+# [!DNL Magento]Analysis Workspace 範本 {#magento-analysis-workspace-template}
 
-介紹分析 [!DNL Magento Marketing and Commerce] 工作區 [!UICONTROL 的範本]。 這是針對使用者， [!DNL Magento]但是任何線上零售商都可運用它。 它包括為零售商預先建立的商業活動見解，以協助您提升銷售。
+介紹 [!UICONTROL Analysis Workspace] 適用[!DNL Magento Marketing and Commerce]範本。這是針對 [!DNL Magento] 的用戶，但是任何線上零售商都可以運用。此範本包括零售商對您商業活動的預先建立分析和見解，可幫助您提高銷售。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28164/?quality=12)
