@@ -1,6 +1,6 @@
 ---
-title: 使用Experience Platform SDK的行動應用程式中的追蹤動作（亦即自訂連結）
-description: '動作是發生在您行動應用程式中的事件。 在此影片中，瞭解如何使用trackAction API來追蹤和測量動作。 '
+title: 透過 Experience Platform SDK 追蹤行動應用程式內的行動 (又稱客戶連結)
+description: '動作是指行動應用程式中發生的事件。在本影片中，了解如何使用 trackAction API 來追蹤和衡量一項動作。 '
 feature: mobile sdk
 topics: null
 audience: implementer
@@ -8,23 +8,23 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2563
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '174'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# 使用Experience Platform SDK的行動應用程式中的追蹤動作（亦即自訂連結） {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
+# 透過 Experience Platform SDK 追蹤行動應用程式內的動作 (又稱客戶連結) {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
 
-動作是發生在您行動應用程式中的事件。 在此影片中，瞭解如何使用trackAction API來追蹤和測量動作。
+動作是指行動應用程式中發生的事件。在本影片中，了解如何使用 trackAction API 來追蹤和衡量一項動作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12)
 
-這是您應用來追蹤網站上所有非螢幕載入動作的API。 如果畫面即將出現，則使用trackState，它會觸發頁面檢視點擊。 否則，請使用trackAction傳送與正在發生之動作相關的變數。
+您應該使用此 API 來追蹤網站上的所有非螢幕載入動作。如果螢幕即將顯示，請使用 trackState (這將觸發頁面檢視點閱)。否則，請使用 trackAction 發送與正在執行的動作有關聯的變數。
 
-這些資料的傳入 `contextData`方式也表示，您接著需要使用「處理規則」來提取這些變 [!UICONTROL 數中的行動資料，並將其對應] 至、 `contextData`[!DNL eVars][!DNL Props]事件等。 在Adobe Analytics中。
+這項資料會以 `contextData` 傳入，這也表示您將需要使用[!UICONTROL 處理規則]從這些`contextData` 變數取得行動資料，並對應至 Adobe Analytics 中的 [!DNL eVars]、[!DNL Props]、事件等。。
 
-如需trackAction的詳細資訊，請參閱文 [件](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference)。
+如需 trackAction 的詳細資訊，請參閱本[文件](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference)。
