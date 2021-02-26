@@ -57,7 +57,7 @@ ht-degree: 100%
       + [建立全新 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [在 Analysis Workspace 中建立和管理自訂範本](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace 中的標準範本](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
-      + [使用自訂範本來啟用 Analysis Workspace 新手用戶](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
+      + [使用自訂範本來帶領 Analysis Workspace 新手用戶](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [了解資料如何進入您的 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Analysis Workspace 的元件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [使用元件管理員](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
