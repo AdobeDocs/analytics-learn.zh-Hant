@@ -1,6 +1,6 @@
 ---
-title: 瞭解資料如何進入您的分析工作區專案
-description: 此影片示範如何使用Chrome中的Adobe Experience Cloud除錯程式擴充功能，在分析工作區中查看頁面資料到表格和視覺化的流程。
+title: 了解資料如何進入您的 Analysis Workspace 專案
+description: 本影片將展示如何使用 Chrome 的 Adobe Experience Cloud Debugger 擴充功能，查看資料從頁面流入 Analysis Workspace 中的表格和視覺效果。
 feature: workspace basics
 topics: null
 audience: analyst, marketer
@@ -8,19 +8,19 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4109
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
-# 瞭解資料如何進入您的分析工作區專案
+# 了解資料如何進入您的 Analysis Workspace 專案
 
-此影片會示範如何使用Chrome的擴充功能，在分析工作區中查看頁面資料到表格和視覺化 [!DNL Adobe Experience Cloud Debugger] 的流程。
+本影片將展示如何使用 Chrome 的 [!DNL Adobe Experience Cloud Debugger] 擴充功能，查看資料從頁面流入 Analysis Workspace 中的表格和視覺效果。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12)
 
-如需有關的詳細資 [!DNL Experience Cloud Debugger]訊，請造訪 [檔案](https://docs.adobe.com/content/help/zh-Hant/debugger/using/experience-cloud-debugger.html)。
+如需關於 [!DNL Experience Cloud Debugger] 的詳細資訊，請瀏覽[文件](https://docs.adobe.com/content/help/zh-Hant/debugger/using/experience-cloud-debugger.html)。
