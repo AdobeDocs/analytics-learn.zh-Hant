@@ -1,24 +1,25 @@
 ---
-title: 分析工作區中的資料視覺化
-description: 此工作階段完全與分析工作區中的視覺化有關。 您將學習技能和行動，協助您以最易用的格式向組織提供強大的見解。
-feature: visualizations
+title: Analysis Workspace 中的資料視覺效果
+description: 本課程的內容都是Analysis Workspace的視覺化。 您將學習技能和行動，協助您以最易用的格式向組織提供強大的見解。
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2114
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 8%
 
 ---
 
 
-# 分析工 [!UICONTROL 作區中] 的資料視覺化 {#data-visualization-in-analysis-workspace}
+# Analysis Workspace{#data-visualization-in-analysis-workspace}中的資料[!UICONTROL 可視化]
 
-此工作階段完全與分析工 [!UICONTROL 作區中] 的視覺化有關。 您將學習技能和行動，協助您以最易用的格式向組織提供強大的見解。
+本課程內容與Analysis Workspace的[!UICONTROL 視覺化]有關。 您將學習技能和行動，協助您以最易用的格式向組織提供強大的見解。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25036/?quality=12)
