@@ -1,24 +1,25 @@
 ---
-title: 計算量度——函式
-description: 瞭解如何在Adobe Analytics中使用計算量度中的函式
-feature: calculated metrics
+title: 計算量度 - 函數
+description: 瞭解如何在Adobe Analytics的計算量度中使用函式
+feature: 計算量度
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2321
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '28'
-ht-degree: 0%
+source-wordcount: '33'
+ht-degree: 15%
 
 ---
 
 
 # [!UICONTROL 計算量度]: [!UICONTROL 函式] {#calculated-metrics-functions}
 
-瞭解如何在 [!UICONTROL Adobe Analytics中][!UICONTROL 的計算量] 度中使用函式。
+瞭解如何在Adobe Analytics的[!UICONTROL 計算量度]中使用[!UICONTROL 函式]
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12)
