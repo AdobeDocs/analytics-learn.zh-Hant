@@ -1,25 +1,27 @@
 ---
-title: 使用Advertising Cloud行銷渠道進行報告
+title: 使用 Advertising Cloud 行銷頻道製作報表
 description: Advertising Cloud檢視和點進登入資料如何與Adobe Analytics行銷渠道搭配運作
-feature: integration with ad cloud
+feature: Advertising Cloud整合
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35115.jpg
 kt: 5472
+topic: 整合
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 0%
+source-wordcount: '49'
+ht-degree: 26%
 
 ---
 
 
-# 使用Advertising Cloud行銷渠道進行報告
+# 使用 Advertising Cloud 行銷頻道製作報表
 
-Advertising Cloud檢視和點進登入資料如何與Adobe Analytics [!UICONTROL Marketing Channels搭配運作]。
+Advertising Cloud檢視及點進登入資料如何與Adobe Analytics[!UICONTROL 行銷管道]搭配運作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35115/?quality=12&learn=on)
