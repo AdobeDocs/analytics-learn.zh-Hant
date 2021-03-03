@@ -3,19 +3,20 @@ title: 在 Analysis Workspace 中選取報表套裝
 seo-title: 在 Analysis Workspace 中選取報表套裝 - Adobe Analytics
 description: 本影片將帶您瀏覽報表套裝選擇器。
 seo-description: 本影片將帶您瀏覽報表套裝選擇器。- Adobe Analytics
-feature: workspace basics
+feature: 工作區基本資訊
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2026
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '52'
-ht-degree: 100%
+role: 業務從業人員
+level: 初學者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '57'
+ht-degree: 91%
 
 ---
 
