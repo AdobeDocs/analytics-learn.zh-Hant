@@ -1,24 +1,25 @@
 ---
-title: '在Adobe Analytics中使用分類規則產生器 '
-description: '瞭解如何使用分類規則產生器，在Adobe Analytics中自動套用規則型分類。 '
-feature: classifications
+title: '使用分類規則產生器在Adobe Analytics '
+description: '瞭解如何使用「分類規則產生器」自動套用Adobe Analytics的規則型分類。 '
+feature: 分類
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '50'
+ht-degree: 2%
 
 ---
 
 
-# 在Adobe Analytics [!UICONTROL 中使用分類規則] 產生器 {#using-the-classification-rule-builder-in-adobe-analytics}
+# 使用Adobe Analytics{#using-the-classification-rule-builder-in-adobe-analytics}中的[!UICONTROL 分類規則產生器]
 
-瞭解如何使用 [!UICONTROL 分類規則產生器] ，在Adobe Analytics中自動套 [!UICONTROL 用規則型] 分類。
+瞭解如何使用[!UICONTROL 分類規則產生器]自動套用Adobe Analytics的規則型[!UICONTROL 分類]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12)
