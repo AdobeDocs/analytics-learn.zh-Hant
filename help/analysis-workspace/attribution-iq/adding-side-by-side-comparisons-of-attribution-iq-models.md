@@ -1,25 +1,26 @@
 ---
-title: 在分析工作區中新增並排比較歸因IQ模型
-description: 在此影片中，瞭解如何快速比較Attribution IQ模型，包括自動建立的欄，顯示兩個模型數字之間的百分比差異。
-feature: attribution
+title: Analysis WorkspaceAttribution IQ模型的並行比較
+description: 在此影片中，瞭解如何快速比較Attribution IQ模型，包括自動建立的欄，顯示兩個模型數目之間的百分比差異。
+feature: 出處
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23651.jpg
 kt: 1705
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 29d63fccf471f94569c7632be3361bca15b1ff3f
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 1%
 
 ---
 
 
-# 在分析工作區中新增並排 [!DNL Attribution IQ] 比較 [!DNL Models] 功能 {#adding-side-by-side-comparisons-of-attribution-iq-models-in-analysis-workspace}
+# 在Analysis Workspace{#adding-side-by-side-comparisons-of-attribution-iq-models-in-analysis-workspace}中添加[!DNL Attribution IQ] [!DNL Models]的並排比較
 
-在此影片中，瞭解如何快速比 [!DNL Attribution IQ models]較，包括自動建立的欄，顯示兩個模型數字之間的百分比差異。
+在此影片中，瞭解如何快速比較[!DNL Attribution IQ models]，包括自動建立的欄，顯示兩個機型數目之間的百分比差異。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23651/?quality=12)
