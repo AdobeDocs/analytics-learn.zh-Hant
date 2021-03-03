@@ -1,24 +1,25 @@
 ---
-title: 在分析工作區中重新排列和調整視覺化大小
-description: 此影片示範如何在分析工作區中調整視覺化和表格大小、重新排列和重新組織，以建立自訂版面。
-feature: visualizations
+title: 在Analysis Workspace重新排列和調整視覺化大小
+description: 此影片示範如何透過調整Analysis Workspace的視覺化和表格大小、重新排列和重新組織，來建立自訂版面。
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2138
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 0%
+source-wordcount: '58'
+ht-degree: 1%
 
 ---
 
 
-# 重新排列和分析工 [!UICONTROL 作區中] 的視覺化大小 {#rearranging-and-resizing-visualizations-in-analysis-workspace}
+# 在Analysis Workspace{#rearranging-and-resizing-visualizations-in-analysis-workspace}重新排列和調整[!UICONTROL 視覺化]
 
-此影片示範如何在分析工作區中調整視覺化和表格大小、重新排列 [!UICONTROL 及重新] 組織，以建立自訂版面。
+此影片示範如何透過調整大小、重新排列和重新組織[!UICONTROL 視覺化]和Analysis Workspace的表格來建立自訂版面。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24707/?quality=12)
