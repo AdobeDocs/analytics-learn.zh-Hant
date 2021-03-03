@@ -1,19 +1,21 @@
 ---
 title: Magento Analysis Workspace 範本
 description: 介紹 Analysis Workspace 適用的 Magento 行銷與商業範本。
-feature: integration with experience cloud
+feature: Experience Cloud整合
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3269
-translation-type: ht
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: ht
-source-wordcount: '52'
-ht-degree: 100%
+topic: 整合
+role: 業務從業人員
+level: 中級
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '59'
+ht-degree: 89%
 
 ---
 
