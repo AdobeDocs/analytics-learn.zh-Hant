@@ -1,28 +1,30 @@
 ---
-title: 在Adobe Analytics中設定廣告分析
+title: 在Adobe Analytics配置Advertising Analytics
 description: '此影片將引導您深入瞭解如何設定報表套裝以利用Advertising Analytics、如何設定付費搜尋帳戶以及Advertising Analytics的報表詳細資訊。 '
-feature: integration with ad cloud
+feature: Advertising Cloud整合
 topics: null
-audience: administrator
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 1642
+topic: 整合
+role: 管理員
+level: 中級
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 2%
+source-wordcount: '96'
+ht-degree: 4%
 
 ---
 
 
-# 在 [!DNL Advertising Analytics] Adobe Analytics中設定 {#configuring-advertising-analytics-in-adobe-analytics}
+# 在Adobe Analytics{#configuring-advertising-analytics-in-adobe-analytics}中配置[!DNL Advertising Analytics]
 
-此視訊會逐步帶您檢視如何設定報表套 [!UICONTROL 裝以利用][!DNL Advertising Analytics]、如何設定付費搜尋帳戶以及報表詳細資訊 [!DNL Advertising Analytics]。
+此視訊會逐步帶您檢視如何設定[!UICONTROL 報表套裝]以利用[!DNL Advertising Analytics]、如何設定付費搜尋帳戶以及[!DNL Advertising Analytics]的報表詳細資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23119/?quality=12)
 
 ## 其他資源 {#additional-resources}
 
-For more information, see the [feature documentation](https://docs.adobe.com/content/help/en/analytics/integration/advertising-analytics/overview.html)
+如需詳細資訊，請參閱[功能檔案](https://docs.adobe.com/content/help/en/analytics/integration/advertising-analytics/overview.html)
