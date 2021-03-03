@@ -1,24 +1,25 @@
 ---
-title: 使用Experience Cloud除錯程式檢視後處理的點擊
-description: Experience Cloud除錯程式現在提供後處理資料。 透過Experience Cloud登入並開啟「擷取後處理的點擊」，以檢視已套用VISTA和處理規則後的點擊。 例如，如果您的組織嚴重依賴處理規則中的上下文資料對應，您現在可以看到每個上下文資料變數直接儲存在除錯程式中的位置。
-feature: validation
+title: 透過 Experience Cloud Debugger 查看處理後的點閱
+description: 後處理資料現在可在Experience Cloud Debugger中使用。 透過Experience Cloud登入並開啟「擷取後處理的點擊」，以檢視已套用VISTA和處理規則後的點擊。 例如，如果您的組織嚴重依賴處理規則中的上下文資料對應，您現在可以看到每個上下文資料變數直接儲存在除錯程式中的位置。
+feature: 驗證
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 4843
+role: 「開發人員、資料工程師」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '138'
-ht-degree: 0%
+source-wordcount: '143'
+ht-degree: 11%
 
 ---
 
 
-# 使用Experience Cloud除錯程式檢視後處理的點擊
+# 透過 Experience Cloud Debugger 查看處理後的點閱
 
-Experience Cloud除錯程式現在提供後處理資料。 透過Experience Cloud登入並開啟「擷取後處理的點擊」，以檢視已套用VISTA和處理規則後的點擊。 例如，如果您的組織嚴重依賴處理規則中的上下文資料對應，您現在可以看到每個上下文資料變數直接儲存在除錯程式中的位置。
+後處理資料現在可在Experience Cloud Debugger中使用。 透過Experience Cloud登入並開啟「擷取後處理的點擊」，以檢視已套用VISTA和處理規則後的點擊。 例如，如果您的組織嚴重依賴處理規則中的上下文資料對應，您現在可以看到每個上下文資料變數直接儲存在除錯程式中的位置。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32961/?quality=12)
