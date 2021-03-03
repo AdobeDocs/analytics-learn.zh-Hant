@@ -1,25 +1,26 @@
 ---
-title: 在自由表格中使用量度
-description: 瞭解在分析工作區中自由表格中使用量度的各種方法。
-feature: freeform tables
+title: 在自由格式表格中使用量度
+description: 了解您可以在 Analysis Workspace 的「自由格式表格」中使用量度的各種方式。
+feature: 自由表格
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40817.jpg
 kt: 6291
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 95f0f2e224f8eab785b3d283ca84e9ce5371a5a6
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '51'
+ht-degree: 94%
 
 ---
 
 
-# 在自由表格中使用量度
+# 在自由格式表格中使用量度
 
-瞭解在分析工作區中自由表格中使用量度的各種方法。
+了解您可以在 Analysis Workspace 的「自由格式表格」中使用量度的各種方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40817/?quality=12&learn=on)
