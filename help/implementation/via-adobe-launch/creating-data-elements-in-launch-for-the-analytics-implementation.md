@@ -1,24 +1,25 @@
 ---
-title: 在Launch中建立Analytics實作的資料元素
+title: 為您的 Analytics 實施作業在 Launch 中建立資料元件
 description: 此視訊示範如何根據解決方案設計參考(SDR)檔案中決定和記錄的變數和事件，在Launch中建立Analytics實作的資料元素。
-feature: launch implementation
+feature: 啟動實施
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3587
+role: 「開發人員、資料工程師」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 11%
 
 ---
 
 
-# 在中 [!UICONTROL 建立資料元素] , [!DNL Launch] 以用於實 [!DNL Analytics] 施
+# 在[!DNL Launch]中為[!DNL Analytics]實施建立[!UICONTROL 資料元素]
 
-此視訊示範如何根據 [!UICONTROL (SDR)檔案所決] 定和記錄的變數和事件，在中建立資料元 [!DNL Analytics] 素以供您實作 [!DNL Experience Platform Launch][!DNL Solution Design Reference] 之用。
+本視訊說明如何根據[!DNL Solution Design Reference](SDR)檔案中決定和記錄的變數和事件，為[!DNL Experience Platform Launch]中的[!DNL Analytics]實作建立[!UICONTROL 資料元素]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12)
