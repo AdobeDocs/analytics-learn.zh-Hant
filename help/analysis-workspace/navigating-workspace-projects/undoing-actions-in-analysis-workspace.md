@@ -1,24 +1,25 @@
 ---
-title: 撤消分析工作區中的操作
-description: Adobe Analytics中的分析工作區現在可讓您「復原」動作，例如將項目拖曳至畫布或執行劃分。 此影片說明如何使用還原來提高分析的效率。
-feature: workspace basics
+title: 在 Analysis Workspace 中取消操作
+description: Adobe Analytics的Analysis Workspace現在可讓您「復原」動作，例如將項目拖曳至畫布或執行劃分。 此影片說明如何使用還原來提高分析的效率。
+feature: 工作區基本資訊
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2032
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '91'
+ht-degree: 10%
 
 ---
 
 
-# 撤消分析工作區中的操作 {#undoing-actions-in-analysis-workspace}
+# 在 Analysis Workspace 中取消操作 {#undoing-actions-in-analysis-workspace}
 
-Adobe Analytics中的「分析工作區」現在可讓您「[!UICONTROL 復原]」動作，例如將項目拖曳至畫布或執行劃分。 此影片說明如何使用 [!UICONTROL 還原] ，以提高分析的效率。
+Adobe AnalyticsAnalysis Workspace現在可讓您「[!UICONTROL undo]」動作，例如拖曳項目至畫布或執行劃分。 此影片說明如何使用[!UICONTROL undo]提高分析的效率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23983/?quality=12)
