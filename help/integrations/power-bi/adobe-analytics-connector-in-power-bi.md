@@ -1,18 +1,19 @@
 ---
 title: Power BI 中的 Adobe Analytics Connector
 description: 在本影片中，我們將透過建立和載入請求、變更資料格式、建立視覺效果，並將內容發佈到線上服務，為您逐步展示 Adobe Analytics Connector 功能。
-feature: third-party integration
+feature: 「協力廠商整合」
 topics: null
-audience: developer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1655
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 中級
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '96'
+ht-degree: 86%
 
 ---
 
