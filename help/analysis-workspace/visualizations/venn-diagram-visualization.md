@@ -1,26 +1,27 @@
 ---
-title: 分析工作區中的文氏圖視覺化
-description: 您可以使用文氏圖視覺化在分析工作區中以視覺方式顯示區段的重疊和交集。 在數秒內就能輕鬆建立令人驚艷、洞察力豐富的Venn圖表。 這段影片會告訴您如何進行。
-feature: visualizations
+title: Analysis Workspace文氏圖可視化
+description: 您可以使用文氏圖視覺化在Analysis Workspace以視覺化方式顯示區段的重疊和交集。 在數秒內就能輕鬆建立令人驚艷、洞察力豐富的Venn圖表。 這段影片會告訴您如何進行。
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2118
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 8%
+source-wordcount: '107'
+ht-degree: 9%
 
 ---
 
 
-# [!UICONTROL 分析工作區] 中 [!UICONTROL 的文氏圖] (Venn Diagram Visualization) {#venn-diagram-visualization-in-analysis-workspace}
+# [!UICONTROL VennDiagram ] Visualization(在  Analysis Workspace)  {#venn-diagram-visualization-in-analysis-workspace}
 
-您可以使用文氏圖視覺化，在分析工 [!UICONTROL 作區中] ，以視覺化方式顯 [!UICONTROL 示區段] 的重疊 [!UICONTROL 與交集]。 在數秒內就能輕鬆建立令人驚艷、 [!UICONTROL 洞察深入] 的Venn圖表。 這段影片會告訴您如何進行。
+使用[!UICONTROL Venn]圖[!UICONTROL 視覺化]，您可以在Analysis Workspace以視覺方式顯示[!UICONTROL 區段]的重疊和交集。 在數秒內就能輕鬆建立令人驚艷、洞察力豐富的[!UICONTROL Venn]圖表。 這段影片會告訴您如何進行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23987/?quality=12)
 
-如需此功能的詳細資訊，請前往說 [明檔案](https://marketing.adobe.com/resources/help/zh_TW/analytics/analysis-workspace/venn.html)。
+有關此功能的詳細資訊，請轉至[文檔](https://marketing.adobe.com/resources/help/zh_TW/analytics/analysis-workspace/venn.html)。
