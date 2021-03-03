@@ -1,19 +1,20 @@
 ---
 title: Adobe Analytics 的人員量度
 description: Adobe Analytics 現在提供人員量度功能，可根據 Adobe Experience Cloud Device Co-op 對訪客進行重複資料刪除！本影片提供更多資訊，並將展示如何開始使用。
-feature: metrics
+feature: 量度
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-translation-type: ht
-source-git-commit: 73421344a22dbdc839e4d5fa2d7f38c8db7725a4
-workflow-type: ht
-source-wordcount: '123'
-ht-degree: 100%
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '135'
+ht-degree: 91%
 
 ---
 
