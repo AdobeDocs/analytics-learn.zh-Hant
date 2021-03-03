@@ -1,26 +1,28 @@
 ---
-title: 在管理控制台中設定變數
-seo-title: 在Adobe Analytics的管理控制台中設定變數
-description: 在您定義要在Analytics實作中使用的變數和事件後，您必須移入並在「管理控制台」中設定這些變數和事件，以便報表／維度／量度都具有正確的名稱和行為。 這段影片會告訴您如何做到。
-seo-description: 在您定義要在Analytics實作中使用的變數和事件後，您必須移入並在「管理控制台」中設定這些變數和事件，以便報表／維度／量度都具有正確的名稱和行為。 這段影片會告訴您如何做到。 Adobe Analytics
-feature: report suite settings
+title: 在 Admin Console 中設定變數
+seo-title: 在Adobe Analytics的Admin Console中配置變數
+description: 在您定義要在Analytics實作中使用的變數和事件後，您必須移入並在Admin Console中設定這些變數和事件，以便報表／維度／量度都具有正確的名稱和行為。 這段影片會告訴您如何做到。
+seo-description: 在您定義要在Analytics實作中使用的變數和事件後，您必須移入並在Admin Console中設定這些變數和事件，以便報表／維度／量度都具有正確的名稱和行為。 這段影片會告訴您如何做到。 Adobe Analytics
+feature: 報表套裝設定
 topics: null
-audience: administrator, implementer, architect
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3582
+topic: 管理
+role: '"管理員，架構師"'
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 1%
+source-wordcount: '187'
+ht-degree: 6%
 
 ---
 
 
-# 在 [!DNL Admin Console]
+# 在[!DNL Admin Console]中設定變數
 
-在您定義要用於實作的變數和事件後， [!DNL Analytics] 您必須移入並在中設定變數和事件 [!DNL Admin Console]，以便報表／維度／量度都具有正確的名稱和行為。 這段影片會告訴您如何做到。
+在您定義要在[!DNL Analytics]實作中使用的變數和事件後，您必須移入並在[!DNL Admin Console]中設定變數和事件，如此報表／維度／度量都有正確的名稱和行為。 這段影片會告訴您如何做到。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12)
