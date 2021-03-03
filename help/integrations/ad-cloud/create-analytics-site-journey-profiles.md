@@ -1,19 +1,21 @@
 ---
 title: 建立 Analytics 網站歷程描述檔
 description: 如何使用 Adobe Analytics 為 Advertising Cloud 再行銷工作，建立強大的網站重新鎖定群組。
-feature: integration with ad cloud
+feature: Advertising Cloud整合
 topics: null
-audience: marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35116.jpg
 kt: 5473
+topic: 整合
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 62%
+source-wordcount: '47'
+ht-degree: 55%
 
 ---
 
