@@ -1,25 +1,26 @@
 ---
-title: 以滑鼠右鍵提高工作區效率
+title: 按一下滑鼠右鍵了解 Workspace 效率
 description: 了解在 Analysis Workspace 中按一下滑鼠右鍵能使用哪些實用功能，並掌握其使用方法。按一下滑鼠右鍵即可使用自由表格和流失率視覺化效果等多項功能，協助您更有效地使用工作區，得心應手。
-feature: workspace basics
+feature: 工作區基本資訊
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 72%
+source-wordcount: '71'
+ht-degree: 88%
 
 ---
 
 
-# 以滑鼠右鍵提高效 [!DNL Workspace] 率
+# 按一下右鍵[!DNL Workspace]效率
 
-了解在 Analysis Workspace 中按一下滑鼠右鍵能使用哪些實用功能，並掌握其使用方法。From [!UICONTROL Freeform Tables] to [!UICONTROL Fallout Visualizations], right-clicking will make you more efficient and proficient in [!DNL Workspace].
+了解在 Analysis Workspace 中按一下滑鼠右鍵能使用哪些實用功能，並掌握其使用方法。按一下滑鼠右鍵即可使用[!UICONTROL 自由格式表格]至[!UICONTROL 流失率視覺效果]等多項功能，協助您更有效地使用 [!DNL Workspace]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39377/?quality=12&learn=on)
