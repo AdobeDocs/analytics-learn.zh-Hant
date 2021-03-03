@@ -1,25 +1,26 @@
 ---
 title: Analysis Workspace 培訓教學課程範本
-description: '分析工作區訓練教學課程會引導使用者逐步瞭解在工作區中建立其第一個分析的常用術語和步驟。 '
-feature: projects
+description: 'Analysis Workspace 培訓教學課程會逐步引導您了解在 Workspace 中建立第一個分析的常用術語和步驟。 '
+feature: 面板
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5032
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 4d423c9148e973e4ca0efd2385233da8c4467e79
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 13%
+source-wordcount: '90'
+ht-degree: 56%
 
 ---
 
 
 # Analysis Workspace 培訓教學課程範本
 
-分析工作區訓練教學課程會引導使用者逐步瞭解在工作區中建立其第一個分析的常用術語和步驟。
+Analysis Workspace 培訓教學課程會逐步引導您了解在 Workspace 中建立第一個分析的常用術語和步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33773/?quality=12)
 
