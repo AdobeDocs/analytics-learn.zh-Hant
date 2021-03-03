@@ -1,23 +1,24 @@
 ---
-title: 在分析工作區中複製和插入
+title: Analysis Workspace 中的複製並插入
 description: 「複製+插入」可讓您將視覺化從一個面板或專案複製到另一個面板，以及跨專案複製完整面板。
-feature: projects
+feature: 面板
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1698
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 0%
+source-wordcount: '79'
+ht-degree: 16%
 
 ---
 
 
-# 在分析工作區中複製和插入 {#copy-and-insert-in-analysis-workspace}
+# Analysis Workspace 中的複製並插入 {#copy-and-insert-in-analysis-workspace}
 
 「複製+插入」可讓您將視覺化從一個面板或專案複製到另一個面板，以及跨專案複製完整面板。
 
