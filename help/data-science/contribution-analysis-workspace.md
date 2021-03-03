@@ -1,28 +1,29 @@
 ---
-title: 分析工作區中的貢獻分析
+title: Analysis Workspace 中的貢獻分析
 description: 這段影片會逐步介紹貢獻分析及其運用機器學習功能，以快速輕鬆地解釋造成資料趨勢的因素。
-feature: data science
+feature: 資料科學
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2337
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 10%
+source-wordcount: '111'
+ht-degree: 27%
 
 ---
 
 
-# [!UICONTROL 分析工作區中] 的貢獻分析 {#contribution-analysis-in-analysis-workspace}
+# Analysis Workspace 中的貢獻分析 {#contribution-analysis-in-analysis-workspace}
 
-此視訊會逐步展 [!UICONTROL 示貢獻分析] ，以及運用機器學習快速輕鬆地解釋造成資料趨勢的因素。
+此視訊會逐步執行[!UICONTROL 貢獻分析]，並運用機器學習快速輕鬆地解釋導致資料趨勢的因素。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25443/?quality=12)
 
-[!UICONTROL Adobe Analytics Premium] 的客戶可在分析工作區中使用貢獻分析。
+[!UICONTROL 貢獻分] 析可在Analysis Workspace為Adobe Analytics Premium客戶提供。
 
-如需此功能的詳細資訊，請造訪文 [件](https://marketing.adobe.com/resources/help/zh_TW/analytics/analysis-workspace/anomaly_detection.html)。
+如需有關本功能的詳細資訊，請瀏覽[文件](https://marketing.adobe.com/resources/help/zh_TW/analytics/analysis-workspace/anomaly_detection.html)。
