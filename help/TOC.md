@@ -309,7 +309,7 @@ ht-degree: 100%
       + [編輯全部請求的量度](exporting/report-builder/edit-metrics-across-requests.md)
       + [使用 Report Builder 來了解 Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
 + 整合 {#integrations}
-   + Experience Cloud {體驗-雲端}
+   + Experience Cloud {#experience-cloud}
       + [Experience Cloud 對象發佈功能改善](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [在 Experience Platform Launch 中啟用伺服器端傳輸規則](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
