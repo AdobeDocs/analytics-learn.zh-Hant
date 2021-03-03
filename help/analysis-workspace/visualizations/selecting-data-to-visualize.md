@@ -1,23 +1,24 @@
 ---
-title: 選取要在分析工作區中視覺化的資料
+title: 在Analysis Workspace選擇要可視化的資料
 description: 瞭解如何精確控制在Freeform Analysis中呈現的內容
-feature: visualizations
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2134
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 0%
+source-wordcount: '42'
+ht-degree: 2%
 
 ---
 
 
-# 選取要在分析工作區中視覺化的資料
+# 在Analysis Workspace選擇要可視化的資料
 
 瞭解如何精確控制在Freeform Analysis中呈現的內容
 
