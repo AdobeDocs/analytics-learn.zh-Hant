@@ -1,25 +1,26 @@
 ---
-title: 在分析工作區中自動建立自由表格
-description: 將元件直接拖放至空白的專案、面板或自由表格中，系統會自動以建議的格式為您建立表格。
-feature: freeform tables
+title: 在 Analysis Workspace 中自動建立自由格式表格
+description: 將元件直接拖放至空白專案、面板或自由格式表格中，系統就會自動以建議的格式為您建立表格。
+feature: 自由表格
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40855.jpg
 kt: 6308
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: f466b570c27ab0f40657250e67b366ad8beae354
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 0%
+source-wordcount: '65'
+ht-degree: 95%
 
 ---
 
 
-# 在分析工作區中自動建立自由表格
+# 在 Analysis Workspace 中自動建立自由格式表格
 
-將元件直接拖放至空白的專案、面板或自由表格中，系統會自動以建議的格式為您建立表格。
+將元件直接拖放至空白專案、面板或自由格式表格中，系統就會自動以建議的格式為您建立表格。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40855/?quality=12&learn=on)
