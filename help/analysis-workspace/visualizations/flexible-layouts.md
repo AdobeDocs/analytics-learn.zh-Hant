@@ -1,24 +1,25 @@
 ---
-title: 分析工作區中的彈性版面
+title: 有彈性的Analysis Workspace版面
 description: Freeform Analysis包含變更圖形和表格的位置、寬度和高度的功能，讓您建立更豐富的專案。 此影片顯示如何變更版面。
-feature: visualizations
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2137
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '74'
-ht-degree: 0%
+source-wordcount: '78'
+ht-degree: 1%
 
 ---
 
 
-# 分析工作區中的彈性版面 {#flexible-layouts-in-analysis-workspace}
+# Analysis Workspace的彈性版面{#flexible-layouts-in-analysis-workspace}
 
-[!UICONTROL Freeform] Analysis包含變更圖形和表格的位置、寬度和高度的功能，讓您建立更豐富的專案。 此影片顯示如何變更版面。
+[!UICONTROL FreeformAnalysis可變] 更圖形和表格的位置、寬度和高度，讓您建立更豐富的專案。此影片顯示如何變更版面。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24706/?quality=12)
