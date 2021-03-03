@@ -1,17 +1,18 @@
 ---
 title: 在分段中使用等於任意運算子
 description: 等於任何和不等於任何區段運算子已新增至區段產生器。 使用這些運算子來篩選特定項目的清單，而不是使用多個OR陳述式或「包含任一項」。 使用這些運算子而非包含任何運算子也有助於改善查詢速度。
-feature: segmentation
+feature: 區段
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 4f8f8145a9d559e99d01783c6bf62f590f6c5410
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '140'
+source-wordcount: '144'
 ht-degree: 0%
 
 ---
@@ -23,4 +24,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html)
+如需詳細資訊，請造訪[檔案](https://docs.adobe.com/content/help/en/analytics/components/segmentation/segment-reference/seg-operators.html)
