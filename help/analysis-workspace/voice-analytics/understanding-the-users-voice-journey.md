@@ -1,24 +1,25 @@
 ---
-title: 瞭解使用者的語音歷程
+title: 了解用戶語音歷程
 description: 瞭解如何透過觀察流量路徑和流失來瞭解語音應用程式的客戶歷程，以識別最常見的動作、這些動作的順序，以及使用者何時何地離開歷程。
-feature: visualizations
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2903
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 11%
 
 ---
 
 
-# 瞭解使用者的語音歷程 {#understanding-the-user-s-voice-journey}
+# 了解用戶語音歷程 {#understanding-the-user-s-voice-journey}
 
-瞭解如何透過觀察流程路徑和流失來瞭解語音應用程式的客戶歷程  ，以識別最常見的動作、這些動作的順序，以及使用者何時何地離開歷程。
+瞭解如何瞭解語音應用程式上的客戶歷程，請查看[!UICONTROL flow]路徑和[!UICONTROL fallout]，以識別最常見的動作、這些動作的順序，以及使用者何時何地離開歷程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27226/?quality=12)
