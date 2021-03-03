@@ -1,35 +1,36 @@
 ---
 title: 同類群組表格設定
 description: '有幾種同類群組表格設定可讓您自訂保留或流失的檢視。 在此影片中，請看到反白顯示的項目。 '
-feature: visualizations
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 114aaae2772e7e4de1bf751b3aaebb709bd2a4d2
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 13%
+source-wordcount: '122'
+ht-degree: 11%
 
 ---
 
 
-# [!UICONTROL 同類群組表格設定]
+# [!UICONTROL 世代表] 格設定
 
-有幾個？設定允許您自定義保留或流失 [!UICONTROL 視][!UICONTROL 圖]。 在此影片中，請看到反白顯示的項目。
+有數種？設定允許您自定義[!UICONTROL retention]或[!UICONTROL churn]的視圖。 在此影片中，請看到反白顯示的項目。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12)
 
-世代表格 [!UICONTROL 的自訂] ，包括
+[!UICONTROL 世代表格]的自訂功能包括
 
 1. 僅顯示百分比
 1. 四捨五入百分比至最接近的整數
 1. 顯示／隱藏表格頂端的平均百分比行。
 
-平均列在檢視整體保留率 [!UICONTROL 或流失][!UICONTROL 率時特別有] 用 [!UICONTROL ，而不是依個別同類群組] 列。
+平均行在整體查看[!UICONTROL 保留]或[!UICONTROL 流失]時特別有用，而不是由單個[!UICONTROL 同類群組]行來查看。
 
-如需世代分析的 [!UICONTROL 詳細資訊] ，請造訪 [檔案](https://docs.adobe.com/help/zh-Hant/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html)。
+有關[!UICONTROL choort]分析的更多資訊，請造訪[檔案](https://docs.adobe.com/help/zh-Hant/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html)。
