@@ -1,24 +1,25 @@
 ---
-title: 新增基本零售變數和事件至啟動規則
+title: 新增基本零售業變數和事件至 Launch 規則
 description: 此影片說明如何在Launch中使用特殊產品字串副檔名來追蹤基本零售變數和事件，例如產品檢視、新增至購物車、結帳等。
-feature: launch implementation
+feature: 啟動實施
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3592
+role: 「開發人員、資料工程師」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 0%
+source-wordcount: '84'
+ht-degree: 10%
 
 ---
 
 
-# 新增基本零售變數和事件至規 [!DNL Launch][!UICONTROL 則]
+# 將基本零售變數和事件新增至[!DNL Launch] [!UICONTROL 規則]
 
-此影片說明如何使用特殊產品字串 [!UICONTROL 擴充功能][!DNL Experience Platform Launch] ，來追蹤基本零售變數和事件，例如產品檢視、新增至購物車、結帳等。
+此影片說明如何使用[!DNL Experience Platform Launch]中的特殊產品字串[!UICONTROL extension]來追蹤基本零售變數和事件，例如產品檢視、新增至購物車、結帳等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28763/?quality=12)
