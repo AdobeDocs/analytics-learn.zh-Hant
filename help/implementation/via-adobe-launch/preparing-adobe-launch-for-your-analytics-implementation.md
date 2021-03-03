@@ -1,24 +1,25 @@
 ---
-title: 為您的Analytics實作準備Experience Platform Launch
+title: 為您的 Analytics 實施作業準備 Experience Platform Launch
 description: 在Launch中實作Analytics之前，您需要備妥一些檔案，而且您需要在系統中（包括Analytics和Launch）設定一些項目。 這段視頻講述了這些故事。
-feature: launch implementation
+feature: 啟動實施
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3584
+role: 「開發人員、資料工程師」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 0%
+source-wordcount: '101'
+ht-degree: 7%
 
 ---
 
 
-# 為實 [!DNL Experience Platform Launch] 施做準 [!DNL Analytics] 備
+# 為[!DNL Analytics]實施準備[!DNL Experience Platform Launch]
 
-在您使用Experience Platform Launch實作之前 [!DNL Analytics]，您需要有一些檔案可供使用，而且您也需要在系統中設定一些項目，不論是在 [!DNL Analytics] 內或 [!DNL Launch]。 這段視頻講述了這些故事。
+在使用Experience Platform Launch來實施[!DNL Analytics]之前，您需要保留一些文檔，而且您需要在[!DNL Analytics]和[!DNL Launch]中已在系統中設定一些內容。 這段視頻講述了這些故事。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12)
