@@ -1,17 +1,18 @@
 ---
 title: Analytics 影片和教學課程
 description: Adobe Analytics 的影片和教學課程系列。
-feature: overview
+feature: Analytics 基本需知
 topics: null
-audience: all
 activity: use
 doc-type: overview
 team: Technical Marketing
-translation-type: ht
-source-git-commit: 9fbdd96c3a2bb2a6a26e10a7f2dfeddfa33ec572
-workflow-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '309'
+ht-degree: 96%
 
 ---
 
