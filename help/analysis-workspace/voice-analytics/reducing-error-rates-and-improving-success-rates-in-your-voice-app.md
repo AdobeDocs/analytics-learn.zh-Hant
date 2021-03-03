@@ -1,24 +1,25 @@
 ---
-title: 降低語音應用程式的錯誤率並提高成功率
+title: 減少語音應用程式中的錯誤率並提高成功率
 description: 瞭解如何運用流失率、成功率、錯誤率及備援方式等功能，為語音應用程式尋找改善的方面。
-feature: visualizations
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2907
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 31%
 
 ---
 
 
-# 降低語音應用程式的錯誤率並提高成功率 {#reducing-error-rates-and-improving-success-rates-in-your-voice-app}
+# 減少語音應用程式中的錯誤率並提高成功率 {#reducing-error-rates-and-improving-success-rates-in-your-voice-app}
 
-瞭解如何運用流失率、成功率、錯誤率及備援方式等功能，為語音應 [!UICONTROL 用程式]尋找改善的方面。
+瞭解如何運用[!UICONTROL churn]、成功率和錯誤率以及備援方式等功能，為語音應用程式尋找改善的方面。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27222/?quality=9)
