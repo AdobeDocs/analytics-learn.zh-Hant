@@ -1,24 +1,25 @@
 ---
-title: 新增購買事件的啟動規則
+title: 新增購買事件的 Launch 規則
 description: 此影片說明如何使用Launch中的產品字串擴充功能來追蹤您網站上的購買，進而在分析中產生「收入」、「訂購」和「件數」度量。
-feature: launch implementation
+feature: 啟動實施
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3593
+role: 「開發人員、資料工程師」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '77'
+ht-degree: 10%
 
 ---
 
 
-# 新增事 [!DNL Launch] 件 [!UICONTROL 的規][!DNL Purchase] 則
+# 為[!DNL Purchase]事件添加[!DNL Launch] [!UICONTROL 規則]
 
-此影片說明如何使用產品字串 [!DNL Experience Platform Launch] ，來追蹤您網站上的購買，產生 [!UICONTROL Revenue]、 [!UICONTROL Orders]、Units  和Units分析中的Revenue Extension。
+此影片說明如何使用[!DNL Experience Platform Launch]中的產品字串[!UICONTROL extension]來追蹤您網站上的購買，在分析中產生[!UICONTROL Revenue]、[!UICONTROL Orders]和[!UICONTROL Units][!UICONTROL 度量]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28766/?quality=12)
