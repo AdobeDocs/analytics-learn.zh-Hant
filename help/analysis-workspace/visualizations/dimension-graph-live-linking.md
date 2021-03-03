@@ -1,24 +1,25 @@
 ---
-title: 分析工作區中的維度——圖形即時連結
+title: Analysis Workspace的Dimension圖即時連結
 description: 我們不太知道該怎麼稱呼它，但它很狡猾。 從尺寸值建立折線圖時，現在可以選擇不同的尺寸值並動態更改圖形。 觀看影片以進一步瞭解！
-feature: visualizations
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2115
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 0%
+source-wordcount: '95'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL 分析工作區]中的維度——圖形即時連結 {#dimension-graph-live-linking-in-analysis-workspace}
+# [!UICONTROL Dimension]-圖在Analysis Workspace的即時連結  {#dimension-graph-live-linking-in-analysis-workspace}
 
-我們不太知道該怎麼稱呼它，但它很狡猾。 從尺寸值建立折線圖 [!UICONTROL 時] ，現在可以選擇不同 [!UICONTROL 的尺寸值] ，並動態更改圖形。 觀看影片以進一步瞭解！
+我們不太知道該怎麼稱呼它，但它很狡猾。 當您從[!UICONTROL dimension]值建立折線圖時，現在可以選取不同的[!UICONTROL dimension]值，並動態變更圖形。 觀看影片以進一步瞭解！
 
 >[!VIDEO](https://video.tv.adobe.com/v/23991/?quality=12)
