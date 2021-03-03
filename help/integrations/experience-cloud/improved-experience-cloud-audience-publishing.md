@@ -2,18 +2,20 @@
 title: Experience Cloud 對象發佈功能改善
 landing-page-description: 了解發佈對象 (區段)，並以前所未有的速度提供。
 description: Experience Cloud Audience Publishing 已更臻完善。您現在可以發佈對象 (區段)，並且讓流程速度加快 6 倍，將目前的延遲時間從 48 小時縮短至約 8 小時甚至更快 (取決於流量和區段大小)。
-feature: 與experience Cloud整合
+feature: Experience Cloud整合
 topics: null
-audience: analyst
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 4819
+topic: 整合
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: a02deecd0f95160c634703130f92a79870c41a9d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 52%
+source-wordcount: '176'
+ht-degree: 51%
 
 ---
 
