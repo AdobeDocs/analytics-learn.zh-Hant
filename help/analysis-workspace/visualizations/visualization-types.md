@@ -1,17 +1,18 @@
 ---
 title: Analysis Workspace 中的視覺效果類型
-description: 分析工作區包含區域圖、環圈圖、水準長條圖和許多其他視覺化，可協助您進行分析。
-feature: visualizations
+description: Analysis Workspace包含區域圖、環圈圖、水準長條圖和許多其他視覺化，可協助您進行分析。
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2132
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '54'
 ht-degree: 20%
 
 ---
@@ -19,6 +20,6 @@ ht-degree: 20%
 
 # Analysis Workspace 中的視覺效果類型 {#visualization-types-in-analysis-workspace}
 
-分析工作區包含區域圖 [!UICONTROL 形、環圈圖] 、水準橫條圖 [!UICONTROL 形] ，以及許多其他視覺化，  以協助您進行分析。
+Analysis Workspace包含區域圖、[!UICONTROL 環圈圖、水準[!UICONTROL 橫條]圖和許多其他[!UICONTROL 視覺化]以協助您進行分析。]
 
 >[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12)
