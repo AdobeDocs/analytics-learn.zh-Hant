@@ -1,25 +1,26 @@
 ---
-title: 在分析工作區中使用下拉式篩選
-description: 在此影片中，您將學習如何使用分析工作區中的下拉式篩選器，以動態變更面板的內容。
-feature: panels
+title: 在Analysis Workspace使用下拉式篩選
+description: 在此影片中，您將學習如何使用Analysis Workspace的下拉式篩選器動態變更面板的內容。
+feature: 面板
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1944
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 0%
+source-wordcount: '180'
+ht-degree: 3%
 
 ---
 
 
-# 在分析工作區中使用下拉式篩選 {#using-drop-down-filters-in-analysis-workspace}
+# 在Analysis Workspace{#using-drop-down-filters-in-analysis-workspace}中使用下拉式篩選器
 
-在此影片中，您將學習如何使用分析工作區中的下拉式篩選器，以動態變更面板的內容。
+在此影片中，您將學習如何使用Analysis Workspace的下拉式篩選器動態變更面板的內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12)
 
@@ -27,4 +28,4 @@ ht-degree: 0%
 
 下拉式清單也是整合專案和面板的有用方式。 例如，如果您有數個提供國家／地區特定報表的專案版本，您現在可以將這些專案收合為單一專案，並新增國家／地區下拉式清單，讓使用者可在其中切換。
 
-For more information, visit the [documentation](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html).
+如需詳細資訊，請瀏覽[文件](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html)。
