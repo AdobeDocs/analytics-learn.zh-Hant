@@ -1,24 +1,25 @@
 ---
-title: 在Adobe Analytics中新增維度和量度說明
-description: 此影片會帶您瞭解如何在Adobe Analytics中新增內容至報表、量度和維度。
-feature: workspace basics
+title: 在Adobe Analytics新增Dimension和量度說明
+description: 本影片將帶您瞭解如何在Adobe Analytics新增內容至報表、量度和維度。
+feature: 工作區基本資訊
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2352
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '52'
+source-wordcount: '57'
 ht-degree: 0%
 
 ---
 
 
-# 在Adobe [!UICONTROL Analytics中新增維] 度 [!UICONTROL 和] 度量說明 {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
+# 在Adobe Analytics添加[!UICONTROL Dimension]和[!UICONTROL 度量]說明{#adding-dimension-and-metric-descriptions-in-adobe-analytics}
 
-此影片會帶您瞭解如何在Adobe Analytics中新增內 [!UICONTROL 容][!UICONTROL 至報表] 、量度和維度。
+此影片會帶您瞭解如何在Adobe Analytics的報表、[!UICONTROL metrics]和[!UICONTROL 維度]中新增內容。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12)
