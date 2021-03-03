@@ -1,24 +1,25 @@
 ---
-title: 在Adobe Analytics中將分析工作區設為著陸頁面
-description: 此影片說明如何在Adobe Analytics中將分析工作區的各個層面設為著陸頁面，以簡化您的工作流程。
-feature: workspace basics
+title: 將Analysis Workspace設為您在Adobe Analytics的登陸頁面
+description: 本影片說明如何將Analysis Workspace的各個方面設為Adobe Analytics的登陸頁面，以簡化您的工作流程。
+feature: 工作區基本資訊
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2363
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '71'
 ht-degree: 0%
 
 ---
 
 
-# 在Adobe Analytics中將分析工作區設為著陸頁面 {#set-analysis-workspace-as-your-landing-page-in-adobe-analytics}
+# 將Analysis Workspace設為Adobe Analytics的登陸頁面{#set-analysis-workspace-as-your-landing-page-in-adobe-analytics}
 
-此影片說明如何在Adobe Analytics中將 [!UICONTROL Analysis Workspace的各個方面設為著陸頁面] ，以簡化您的工作流程。
+此影片說明如何將[!UICONTROL Analysis Workspace]的各個方面設為您在Adobe Analytics的登陸頁面，以簡化您的工作流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)
