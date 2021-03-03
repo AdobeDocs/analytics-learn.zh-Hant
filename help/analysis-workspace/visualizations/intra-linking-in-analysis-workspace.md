@@ -1,25 +1,26 @@
 ---
-title: 分析工作區中的內部連結
-description: 內部連結可讓分析人員在分析工作區中建立專案，以將專案的讀者導向專案內精確的面板和視覺化。
-feature: visualizations
+title: Analysis Workspace 中的內部連結
+description: 內部連結可讓分析人員在Analysis Workspace建立專案，將專案的讀者導向專案內精確的面板和視覺化。
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1908
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 0%
+source-wordcount: '83'
+ht-degree: 10%
 
 ---
 
 
-# 分析工作區中的內部連結 {#intra-linking-in-analysis-workspace}
+# Analysis Workspace 中的內部連結 {#intra-linking-in-analysis-workspace}
 
-內部連結可讓分析人員在分析工作區中建立專案，將專案的讀者導向專案內的精確面 [!UICONTROL 板] 和視覺化。
+內部連結可讓在Analysis Workspace建立專案的分析人員將專案的讀者導向專案中精確的面板和[!UICONTROL 視覺化]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12)
 
