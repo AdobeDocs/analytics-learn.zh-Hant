@@ -1,18 +1,19 @@
 ---
 title: 在 Analysis Workspace 中建立和管理自訂範本
 description: 在本影片中，您將了解如何在Analysis Workspace 中建立自訂範本，以便您和您的團隊可以從一組特定報告展開作業。
-feature: projects
+feature: 專案
 topics: null
-audience: analyst, marketer
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1695
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '141'
-ht-degree: 100%
+role: 業務從業人員
+level: 初學者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 97%
 
 ---
 
