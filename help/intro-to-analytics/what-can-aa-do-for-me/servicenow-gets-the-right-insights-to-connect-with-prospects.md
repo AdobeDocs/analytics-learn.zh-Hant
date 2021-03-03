@@ -1,18 +1,19 @@
 ---
 title: 客戶使用案例 - ServiceNow 與潛在客戶建立聯繫的深入見解和分析
 description: 了解 ServiceNow 如何透過自身行銷頻道取得可操作資料，以及如何透過 Adobe Advertising Cloud 和 Adobe Analytics 提高付費搜尋廣告的 ROI (投資回報率)。
-feature: use cases
+feature: 使用個案
 topics: null
-audience: all
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4385
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '95'
-ht-degree: 100%
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 初學者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '108'
+ht-degree: 89%
 
 ---
 
