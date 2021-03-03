@@ -1,24 +1,25 @@
 ---
-title: 瞭解語音助理的使用者行為
+title: 了解語音助理的用戶行為
 description: 瞭解如何透過主要指標（例如主要意圖、參數和使用者驗證）來瞭解使用者行為並獲得深入資訊。
-feature: visualizations
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2904
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '56'
-ht-degree: 0%
+source-wordcount: '60'
+ht-degree: 21%
 
 ---
 
 
-# 瞭解語音助理的使用者行為 {#understand-user-behavior-on-voice-assistants}
+# 了解語音助理的用戶行為 {#understand-user-behavior-on-voice-assistants}
 
-瞭解如何透過主要指標(例如最上層意圖、參數和使用者驗證 [!UICONTROL )] ，瞭解使用者行為並獲得深入見解。
+瞭解如何透過關鍵[!UICONTROL 度量]（例如最上層意圖、參數和使用者驗證）來瞭解使用者行為並獲得深入資訊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27227/?quality=9)
