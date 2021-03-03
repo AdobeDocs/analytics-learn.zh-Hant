@@ -1,18 +1,19 @@
 ---
 title: 使用 Postman 發出 Adobe Analytics 2.0 API 請求
 description: 本影片將逐步展示如何設定 Postman (API 用戶端) 來發送 Adobe Analytics 2.0 API 請求；其中包括設定 Adobe I/O 整合 (注意：您必須是 Experience Cloud 系統管理員才能進行這項設定)；您可在此查詢您的全球公司 ID 等。
-feature: api
+feature: API
 topics: null
-audience: implementer, developer
 activity: use
 doc-type: technical video
 team: Technical Marketing
 kt: 2387
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '131'
-ht-degree: 100%
+role: 「開發人員、資料工程師」
+level: 經驗豐富
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 97%
 
 ---
 
