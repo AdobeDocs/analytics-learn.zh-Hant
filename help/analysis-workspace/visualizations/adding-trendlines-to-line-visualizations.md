@@ -1,24 +1,25 @@
 ---
-title: 新增趨勢線至線條視覺化
+title: 新增趨勢線條為線條視覺效果
 description: 在「視覺化設定」下，您可以選擇將回歸或移動平均趨勢線新增至行系列，以協助描述資料中更清晰的模式。 選項包括線性、對數、指數、冪、二次和移動平均值。
-feature: Visualizations
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330176.jpg
 kt: 6833
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 5e90bf84933fcf6b28a205216a2f04484a7b662d
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 4%
+source-wordcount: '148'
+ht-degree: 11%
 
 ---
 
 
-# 新增趨勢線至線條視覺化
+# 新增趨勢線條為線條視覺效果
 
 在[!UICONTROL 視覺化設定]下，您可以選擇將回歸或移動平均趨勢線新增至行系列，以協助在資料中描繪更清晰的模式。 選項包括線性、對數、指數、冪、二次和移動平均值。
 
