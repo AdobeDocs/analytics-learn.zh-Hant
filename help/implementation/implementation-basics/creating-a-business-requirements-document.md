@@ -1,18 +1,19 @@
 ---
 title: 建立業務需求文件
 description: '本影片將討論界定您要使用 Adobe Analytics 追蹤哪些事情的所有重要步驟。您想了解有關自己網站的哪些事情？請寫下這些事情，然後開始決定如何進行追蹤。 '
-feature: implementation basics
+feature: 實施作業基本需知
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
-translation-type: ht
-source-git-commit: 21a399b7c29562f03dfe7ba90cd1676224e50af8
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+role: 「開發人員、資料工程師」
+level: 初學者
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 97%
 
 ---
 
