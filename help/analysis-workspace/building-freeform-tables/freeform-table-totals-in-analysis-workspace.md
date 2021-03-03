@@ -1,25 +1,26 @@
 ---
-title: 分析工作區中的自由表格總計
+title: Analysis Workspace 中的自由格式表格總計
 description: 在此影片中，您會看到自由表格總計的一些更新，包括移除總計的功能。
-feature: freeform tables
+feature: 自由表格
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29273.jpg
 kt: 3857
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 35558831862c0756e7aaceb3640aef155b3af703
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 0%
+source-wordcount: '68'
+ht-degree: 20%
 
 ---
 
 
-# 分析工作區中的自由表格總計
+# Analysis Workspace 中的自由格式表格總計
 
-在此影片中，您會看到自由表格總 [!UICONTROL 計的一些更新] ，包括移除總計的功能。 它還將向您展示如何移除「未指定」或「無」列。
+在此影片中，您會看到[!UICONTROL 自由表格]總計的一些更新，包括移除總計的功能。 它還將向您展示如何移除「未指定」或「無」列。
 
 >[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12)
