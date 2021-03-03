@@ -1,28 +1,30 @@
 ---
-title: 使用專案轉換器將專案從臨機分析移至分析工作區
-description: 「臨機分析專案轉換程式」只需按一下按鈕，即可順暢地將臨機分析(AHA)專案轉換為「分析工作區」專案。
-feature: integration with experience cloud
+title: 使用專案轉換器將專案從 Ad Hoc Analysis 移到 Analytics Workspace
+description: 臨機分析專案轉換程式將順暢地將臨機分析(AHA)專案轉換為Analysis Workspace專案，只要按一下按鈕。
+feature: Experience Cloud整合
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
+topic: 整合
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 2%
+source-wordcount: '92'
+ht-degree: 20%
 
 ---
 
 
-# 使用「項目轉換器」將項目從「分析」工 [!DNL Ad Hoc Analysis] 作區移 [!UICONTROL 動到「分析」] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
+# 使用項目轉換器將項目從[!DNL Ad Hoc Analysis]移動到[!UICONTROL Analysis Workspace] {#using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace}
 
-「臨 [!UICONTROL 機分析] 」專案轉換程式只要按一下按鈕，就能將「臨機分析 [!UICONTROL (AHA)」專案順暢地轉換為「] 分析工作區」專案。
+[!UICONTROL 臨機分析]專案轉換器只要按一下按鈕，即可順暢地將[!UICONTROL 臨機分析](AHA)專案轉換為[!UICONTROL Analysis Workspace]專案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
 
 ## 其他資源 {#additional-resources}
 
-* [功能檔案](https://marketing.adobe.com/resources/help/en_US/analytics/aha2aw/)
+* [特選文件](https://marketing.adobe.com/resources/help/en_US/analytics/aha2aw/)。
