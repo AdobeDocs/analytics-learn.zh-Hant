@@ -1,24 +1,25 @@
 ---
-title: 分析工作區中專案的直接連結
-description: 此影片說明如何建立縮短的連結，將同事帶往您的分析工作區專案中，以更好地讓分析大眾化。
-feature: curate and share
+title: 直接連結至Analysis Workspace的專案
+description: 此影片說明如何透過建立縮短連結，讓同事參與您的Analysis Workspace專案，以更好地讓分析大眾化。
+feature: 組織與分享
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2296
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '62'
+source-wordcount: '68'
 ht-degree: 0%
 
 ---
 
 
-# 分析工作區中專案的直接連結 {#direct-link-to-a-project-in-analysis-workspace}
+# 直接連結至Analysis Workspace的專案{#direct-link-to-a-project-in-analysis-workspace}
 
-此影片說明如何建立縮短的連結，將同事帶往您的分析工作區專案中，以更好地讓分析大眾化。
+此影片說明如何透過建立縮短連結，讓同事參與您的Analysis Workspace專案，以更好地讓分析大眾化。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24710/?quality=12)
