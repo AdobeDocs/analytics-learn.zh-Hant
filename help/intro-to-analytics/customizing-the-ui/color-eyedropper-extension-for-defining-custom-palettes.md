@@ -1,18 +1,19 @@
 ---
 title: 定義自訂調色盤的色彩滴管擴充功能
 description: 了解如何使用 ColorPick EyeDropper Chrome 擴充功能，輕鬆找出您在工作區專案中自訂調色盤所需的十六進位值。
-feature: workspace basics
+feature: 工作區基本資訊
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5035
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 82%
+source-wordcount: '85'
+ht-degree: 77%
 
 ---
 
@@ -23,4 +24,4 @@ ht-degree: 82%
 
 >[!VIDEO](https://video.tv.adobe.com/v/33775/?quality=12)
 
-**注意：** 這是公開的Chrome擴充功能，不與Adobe產品相關。
+**注意：** 此為公開的Chrome擴充功能，不與Adobe產品相關。
