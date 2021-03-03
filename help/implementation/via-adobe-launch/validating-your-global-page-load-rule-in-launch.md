@@ -1,24 +1,25 @@
 ---
 title: 在啟動中驗證全域頁面載入規則
-description: 當您在網站上實作Adobe Analytics時，您會希望能夠驗證您目前的工作。 Experience Cloud除錯程式即將推出！ 此影片說明如何使用除錯程式驗證全域頁面載入規則。
-feature: validation
+description: 當您在網站上實作Adobe Analytics時，您會想要驗證您在過程中所做的事。 Experience Cloud除錯程式來救援！ 此影片說明如何使用除錯程式驗證全域頁面載入規則。
+feature: 驗證
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3589
+role: 「開發人員、資料工程師」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '99'
+source-wordcount: '104'
 ht-degree: 0%
 
 ---
 
 
-# 驗證全域頁面載入 [!UICONTROL 規則] [!DNL Launch]
+# 驗證[!DNL Launch]中的全局頁載入[!UICONTROL Rule]
 
-當您在網站上實作Adobe Analytics時，Adobe建議您驗證您在此過程中所執行的動作。 讓 [!DNL Experience Cloud debugger] 您完成此作業。 此影片示範如何使用驗證全域頁面 [!UICONTROL 載入規] 則 [!DNL debugger]。
+當您在網站上實作Adobe Analytics時，Adobe建議您驗證您在過程中所做的事。 [!DNL Experience Cloud debugger]可讓您完成此作業。 此影片說明如何使用[!DNL debugger]驗證全域頁面載入[!UICONTROL rule]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28776/?quality=12)
