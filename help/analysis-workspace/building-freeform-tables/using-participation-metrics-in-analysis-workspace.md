@@ -1,27 +1,28 @@
 ---
-title: 在分析工作區中使用參與率度量
-description: 使用這個簡單的技巧，隨時取得分析工作區中的任何參與率度量。
-feature: metrics
+title: 在 Analysis Workspace 中使用參與度量度
+description: 在 Analysis Workspace 中隨時使用這個簡單的秘訣取得任何參與率量度。
+feature: 量度
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 41266.jpg
 kt: 6355
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: fb755fa698e2803249a354a1db533f0d49111db3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '55'
-ht-degree: 18%
+source-wordcount: '59'
+ht-degree: 94%
 
 ---
 
 
-# 在分析工作區中使用參與率度量
+# 在 Analysis Workspace 中使用參與度量度
 
-使用這個簡單的技巧，隨時取得分析工作區中的任何參與率度量。
+在 Analysis Workspace 中隨時使用這個簡單的秘訣取得任何參與率量度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
-For more information, please see the [documentation](https://docs.adobe.com/content/help/zh-Hant/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html).
+如需詳細資訊，請參閱本[文件](https://docs.adobe.com/content/help/zh-Hant/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html)。
