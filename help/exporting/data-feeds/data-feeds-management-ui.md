@@ -1,26 +1,27 @@
 ---
-title: 資料饋送管理UI
-description: Adobe Analytics資料饋送可讓您匯出原始點按流資料，以匯入並合併EDW或資料湖中的其他資料來源。 您可以在Adobe Analytics中建立及管理您自己的資料饋送。 這段影片會告訴您如何進行。
-feature: data feeds
+title: 資料摘要管理 UI
+description: 「Adobe Analytics資料饋送」可讓您匯出原始點按流資料，以匯入並合併EDW或資料湖中的其他資料來源。 您可以在Adobe Analytics建立並管理您自己的資料饋送。 這段影片會告訴您如何進行。
+feature: 資料饋送
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 7%
+source-wordcount: '119'
+ht-degree: 15%
 
 ---
 
 
-# [!UICONTROL 資料饋送] 管理UI {#data-feeds-management-ui}
+# 資料摘要管理 UI {#data-feeds-management-ui}
 
-Adobe Analytics資 [!UICONTROL 料饋送] ，可讓您匯出原始點按流資料，以匯入EDW或資料湖中的其他資料來源並與之合併。 您可以在Adobe Analytics中建立及管 [!UICONTROL 理您自己的資料] 饋送。 這段影片會告訴您如何進行。
+Adobe Analytics[!UICONTROL 資料饋送]可讓您匯出原始點按流資料，以匯入並合併EDW或資料湖中的其他資料來源。 您可以在Adobe Analytics內建立並管理您自己的[!UICONTROL 資料饋送]。 這段影片會告訴您如何進行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12)
 
-如需此功能的詳細資訊，請參閱文 [件](https://marketing.adobe.com/resources/help/en_US/reference/analytics-data-feed.html)。
+有關此功能的更多資訊，請參閱[檔案](https://marketing.adobe.com/resources/help/en_US/reference/analytics-data-feed.html)。
