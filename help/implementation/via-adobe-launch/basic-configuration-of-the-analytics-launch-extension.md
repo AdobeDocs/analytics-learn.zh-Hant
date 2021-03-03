@@ -1,24 +1,25 @@
 ---
-title: Analytics Launch擴充功能的基本設定
+title: Analytics Launch 擴充功能的基本設定
 description: 此視訊顯示在Launch中為基本網站設定Analytics擴充功能的快速方式。
-feature: launch implementation
+feature: 啟動實施
 topics: null
-audience: implementer
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3586
+role: 「開發人員、資料工程師」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 0ec2bbb4af9bd8e55e2ad3b94c8c806249a03fe3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '46'
-ht-degree: 0%
+source-wordcount: '52'
+ht-degree: 13%
 
 ---
 
 
-# Analytics擴充功能的 [!DNL Experience Platform Launch] 基本設定
+# [!DNL Experience Platform Launch]擴充功能的基本設定
 
-此視訊顯示在中設定基本網 [!DNL Analytics] 站副 [!DNL Experience Platform Launch] 檔名的快速方式。
+此視頻顯示了在[!DNL Experience Platform Launch]中為基本站點配置[!DNL Analytics]擴展的快速方法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12)
