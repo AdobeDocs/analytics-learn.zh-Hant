@@ -1,24 +1,25 @@
 ---
-title: 細分中的維度模型
-description: 在分割中，維度模型可透過齒輪取得。 這些模型對循序分段非常有用，可讓您分段維度（預設）、例項或非重複例項的持續值。
-feature: segmentation
+title: 分段中的維度模型
+description: Dimension模型可透過齒輪取得，以供分割任何維度使用。 這些模型對循序分段非常有用，可讓您分段維度（預設）、例項或非重複例項的持續值。
+feature: 區段
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4846
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 2aad57055392d16e4e92be4887c34e18fc4aff80
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 10%
 
 ---
 
 
-# [!UICONTROL 分段中的維度模型] —基於Web的分段模型
+# 分段中的維度模型
 
-[!UICONTROL 在分段中] ，維度模型可透過齒輪取得，以 [!UICONTROL 便進行] 任何維度。 這些模型對循序分段非常有用，可讓您分段維度的持續值  （預設值）、例項或維度的非重複例 [!UICONTROL 項]。
+[!UICONTROL 維] 度模型可透過齒輪進行任  何維分割。這些模型對循序分段非常有用，可讓您分段[!UICONTROL 維度]（預設）、例項或[!UICONTROL 維度]的非重複例項的持續值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32958/?quality=12)
