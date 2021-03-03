@@ -1,26 +1,27 @@
 ---
-title: 在分析工作區中使用音訊耗用範本
-description: 此影片概述分析工作區中的「音訊耗用」範本，此範本現成可用於音訊分析。
-feature: panels
+title: 在 Analysis Workspace 中使用音效使用情況範本
+description: 此影片概述Analysis Workspace的「音訊耗用」範本，此範本現成可用於音訊分析。
+feature: 面板
 topics: null
-audience: all
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
+level: 中級
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 0%
+source-wordcount: '116'
+ht-degree: 7%
 
 ---
 
 
-# 在分析工 [!UICONTROL 作區中使用] 「音訊耗用」範本 {#using-the-audio-consumption-template-in-analysis-workspace}
+# 使用Analysis Workspace{#using-the-audio-consumption-template-in-analysis-workspace}的[!UICONTROL 音訊耗用]範本
 
-此影片概述 [!UICONTROL 分析工作區中的「音訊耗用] 」範本，此範本現成可用 [!DNL Audio Analytics]。
+此影片概述了Analysis Workspace的[!UICONTROL 音訊耗用]範本，此範本適用於[!DNL Audio Analytics]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23901/?quality=12)
 
-[!DNL Audio Analytics] 將聽眾的串流音訊互動與其完整的數位行為連接，以瞭解在通常分散的音訊市場中，誰在何處、何時以及頻率評估使用者行為。 它可讓企業測量其聽眾的觸角、內容的受歡迎程度，以及如何根據其行為和相似的模型來保持其參與度。
+[!DNL Audio Analytics] 將聽眾的串流音訊互動與其完整的數位行為連接，以瞭解在通常分散的音訊市場中，誰在何處、何時以及頻率評估使用者行為。它可讓企業測量其聽眾的觸角、內容的受歡迎程度，以及如何根據其行為和相似的模型來保持其參與度。
