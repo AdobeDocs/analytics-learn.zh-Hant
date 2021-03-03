@@ -1,24 +1,25 @@
 ---
-title: 分析工作區中的專案管理
-description: 此影片顯示如何管理您在Adobe Analytics的「分析工作區」中建立的專案。
-feature: projects
+title: Analysis Workspace項目管理
+description: 此影片顯示如何管理您在Adobe AnalyticsAnalysis Workspace建立的專案。
+feature: 專案
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2034
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '44'
-ht-degree: 0%
+source-wordcount: '48'
+ht-degree: 2%
 
 ---
 
 
-# Project Management in Analysis Workspace {#project-management-in-analysis-workspace}
+# Analysis Workspace項目管理{#project-management-in-analysis-workspace}
 
-此影片顯示如何管理您在Adobe Analytics的「分析工作區」中建立的專案。
+此影片顯示如何管理您在Adobe AnalyticsAnalysis Workspace建立的專案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24035/?quality=12)
