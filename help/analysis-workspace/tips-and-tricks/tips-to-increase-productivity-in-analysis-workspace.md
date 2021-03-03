@@ -1,24 +1,25 @@
 ---
-title: 提高分析工作區生產力的秘訣
-description: 在此影片中，我們將詳細介紹4個提示，以提高您的生產力並節省分析工作區的時間。
-feature: workspace basics
+title: 在 Analysis Workspace 中提升生產力秘訣
+description: 在此影片中，我們將詳細介紹在Analysis Workspace提高您生產力並節省時間的4個秘訣。
+feature: 工作區基本資訊
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4110
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 0%
+source-wordcount: '53'
+ht-degree: 26%
 
 ---
 
 
-# 提高分析工作區生產力的秘訣
+# 在 Analysis Workspace 中提升生產力秘訣
 
-在此影片中，我們將詳細介紹4個提示，以提高您的生產力並節省分析工作區的時間。
+在此影片中，我們將詳細介紹在Analysis Workspace提高您生產力並節省時間的4個秘訣。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31157/?quality=12)
