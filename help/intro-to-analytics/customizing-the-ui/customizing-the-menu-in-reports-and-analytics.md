@@ -1,24 +1,25 @@
 ---
-title: 自訂報告與分析中的功能表
+title: 在 Reports and Analytics 自訂選單
 description: 本影片將帶您瞭解如何針對您的企業自訂Analytics中的功能表。
-feature: analytics basics
+feature: Analytics 基本需知
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2365
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 0%
+source-wordcount: '45'
+ht-degree: 20%
 
 ---
 
 
-# 自訂功能表(位於 [!DNL Reports & Analytics] {#customizing-the-menu-in-reports-analytics}
+# 自定義[!DNL Reports & Analytics] {#customizing-the-menu-in-reports-analytics}中的菜單
 
-本影片將帶您瞭解如何針對您的企業自 [!DNL Analytics] 訂功能表。
+本影片將帶您瞭解如何為您的企業自訂[!DNL Analytics]中的功能表。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25457/?quality=12)
