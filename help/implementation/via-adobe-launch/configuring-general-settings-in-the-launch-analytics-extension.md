@@ -1,25 +1,26 @@
 ---
-title: 在啟動分析擴充功能中設定一般設定
-description: 如果您剛開始使用Launch、Adobe和Adobe Analytics擴充功能，此影片可協助您進行設定的一般設定部分，包括設定追蹤伺服器。
-feature: launch implementation
+title: 在 Analytics Launch 擴充功能中進行一般設定
+description: 如果您剛開始使用Launch、依Adobe和Adobe Analytics擴充功能，此影片可協助您進行設定的一般設定部分，包括設定追蹤伺服器。
+feature: 啟動實施
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
+role: 「開發人員、資料工程師」
+level: 初學者
 translation-type: tm+mt
-source-git-commit: f4d4b506b6771d75402de54a471e437d81d9a1ea
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '130'
-ht-degree: 16%
+source-wordcount: '136'
+ht-degree: 21%
 
 ---
 
 
-# 在擴 [!UICONTROL 充功能中] ，設定一般設 [!DNL Launch Analytics][!UICONTROL 定] {#configuring-general-settings-in-the-launch-analytics-extension}
+# 在[!DNL Launch Analytics] [!UICONTROL Extension] {#configuring-general-settings-in-the-launch-analytics-extension}中配置[!UICONTROL General]設定
 
-如果您剛開始使用Experience Platform Launch和Adobe Analytics [!UICONTROL Extension]，此影片可協助您進行設定的「一般  」設定部分，包括設定追蹤伺服器。
+如果您剛開始使用Experience Platform Launch，而Adobe Analytics[!UICONTROL Extension]，則此視訊可協助您使用設定的[!UICONTROL General]設定部分，包括設定追蹤伺服器。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=9)
 
