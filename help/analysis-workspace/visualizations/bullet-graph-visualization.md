@@ -1,24 +1,25 @@
 ---
-title: 分析工作區中的項目符號圖形視覺化
+title: Analysis Workspace項目圖可視化
 description: 項目符號圖表是顯示分析目標進展（或超出目標）的有用方式。 它們提供您另一種方式，讓您以視覺化方式呈現組織的成功。
-feature: visualizations
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2116
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '72'
-ht-degree: 0%
+source-wordcount: '76'
+ht-degree: 1%
 
 ---
 
 
-# [!UICONTROL 分析工作區中的項目] 圖  (Bullet Graph Visualization) {#bullet-graph-visualization-in-analysis-workspace}
+# [!UICONTROL Analysis Workspace] 的BulletGraph  視覺化  {#bullet-graph-visualization-in-analysis-workspace}
 
-[!UICONTROL 項目符] 號圖表是顯示分析目標進展（或超出）的有用方式。 它們提供您另一種方式，讓您以視覺化方式呈現組織的成功。
+[!UICONTROL 公] 告是顯示分析中目標進展（或超出目標）的有用方式。它們提供您另一種方式，讓您以視覺化方式呈現組織的成功。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
