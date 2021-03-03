@@ -1,24 +1,25 @@
 ---
-title: 分析工作區中的零狀態改進
-description: 「零狀態」(Zero State)是「分析工作區」(Analysis Workspace)的開啟版面。 為協助新手和經驗老道的使用者從分析工作區中獲得價值，我們改良了左側邊欄、空白麵板、自由表格和拖放區域，讓使用者更直覺。
-feature: projects
+title: Analysis Workspace的零狀態改進
+description: Zero State是Analysis Workspace的開放版面。 為協助新手和老手從Analysis Workspace獲得價值，我們改良了左側導軌、空白麵板、自由表格和拖放區域，讓使用者更直覺。
+feature: 專案
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1773
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '88'
-ht-degree: 0%
+source-wordcount: '92'
+ht-degree: 1%
 
 ---
 
 
-# [!DNL Zero State] 分析工作區的改進 {#zero-state-improvements-in-analysis-workspace}
+# [!DNL Zero State] Analysis Workspace的改進  {#zero-state-improvements-in-analysis-workspace}
 
-「[!DNL Zero State]」是分析工作區的開啟版面。 為協助新手和經驗老道的使用者從分析工作區中獲得價值，我們改良了左側邊欄、空白麵板、自由表格 ，以及拖放區域，讓使用者更直覺。
+&quot;[!DNL Zero State]&quot;是Analysis Workspace的開場白。 為協助新手和老手從Analysis Workspace獲得價值，我們改善了左側邊欄、空白麵板、[!UICONTROL 自由表格]和拖放區域，讓使用者更直覺。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23560/?quality=12)
