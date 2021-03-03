@@ -1,18 +1,19 @@
 ---
 title: 如何管理和追蹤您的語音助理應用程式資料
 description: '瞭解如何建立自訂儀表板，以輕鬆、有彈性、直覺式和視覺化的方式管理和追蹤語音助理應用程式的效能。 '
-feature: visualizations
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2902
+role: 業務從業人員
+level: 中級
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '74'
+ht-degree: 28%
 
 ---
 
