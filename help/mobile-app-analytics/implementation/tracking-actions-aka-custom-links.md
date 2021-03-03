@@ -1,18 +1,20 @@
 ---
 title: 透過 Experience Platform SDK 追蹤行動應用程式內的行動 (又稱客戶連結)
 description: '動作是指行動應用程式中發生的事件。在本影片中，了解如何使用 trackAction API 來追蹤和衡量一項動作。 '
-feature: mobile sdk
+feature: Mobile SDK
 topics: null
-audience: implementer
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2563
-translation-type: ht
-source-git-commit: a42658cfd4bae7b077ddd48b4cf5c7db54e35c98
-workflow-type: ht
-source-wordcount: '174'
-ht-degree: 100%
+topic: 行動
+role: 「開發人員、資料工程師」
+level: 經驗豐富
+translation-type: tm+mt
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+workflow-type: tm+mt
+source-wordcount: '181'
+ht-degree: 97%
 
 ---
 
