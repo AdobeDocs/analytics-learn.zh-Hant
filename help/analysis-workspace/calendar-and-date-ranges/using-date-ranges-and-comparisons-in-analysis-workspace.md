@@ -1,26 +1,27 @@
 ---
-title: 在分析工作區中使用日期範圍和比較
+title: 在 Analysis Workspace 中使用日期範圍和比較
 description: 在此影片中，您將學習如何使用日期、日期範圍和日期比較，將表格和視覺化自訂至正確的時間範圍。
-feature: calendar
+feature: 日曆
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 12%
+source-wordcount: '89'
+ht-degree: 29%
 
 ---
 
 
-# Using [!UICONTROL Date Ranges] and Comparisons in Analysis Workspace
+# 在Analysis Workspace使用[!UICONTROL 日期範圍]和比較
 
-在此影片中，您將學習如何使用日期、日 [!UICONTROL 期範圍]，以及日期比較，將表格和視覺化自訂至正確的時間範圍。
+在此影片中，您將學習如何使用日期、[!UICONTROL 日期範圍]和日期比較，將表格和視覺化自訂至正確的時間範圍。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
 
-For more information, visit the [documentation](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html).
+如需詳細資訊，請瀏覽[文件](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html)。
