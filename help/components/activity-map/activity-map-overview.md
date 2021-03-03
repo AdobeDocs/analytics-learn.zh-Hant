@@ -1,26 +1,27 @@
 ---
-title: Adobe Analytics中的Activity Map概觀
-description: Activity Map是Adobe Analytics使用者可使用的工具，可協助您直接在網站上視覺化使用者活動資料。 檢視頁面連結上直接點按的次數（或其他量度）。
-feature: activity map
+title: Activity MapAdobe Analytics概觀
+description: Activity Map是Adobe Analytics用戶可用的工具，可協助您直接在網站上視覺化使用者活動資料。 檢視頁面連結上直接點按的次數（或其他量度）。
+feature: Activity Map
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2349
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 7%
+source-wordcount: '107'
+ht-degree: 17%
 
 ---
 
 
-# [!UICONTROL Adobe Analytics中的Activity] Map {#activity-map-in-adobe-analytics}
+# [!UICONTROL 活動] Adobe Analytics  {#activity-map-in-adobe-analytics}
 
-[!UICONTROL Activity Map是] Adobe Analytics使用者可使用的工具，可協助您直接在網站上視覺化使用者活動資料。 查看頁面連結上直接的點 [!UICONTROL 按次數]（或其他量度）。
+[!UICONTROL Activity ] Map是可供Adobe Analytics使用者使用的工具，可協助您直接在網站上視覺化使用者活動資料。查看頁面連結上直接點按的次數（或其他[!UICONTROL metrics]）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12)
 
-如需此功能的詳細資訊，請造訪文 [件](https://marketing.adobe.com/resources/help/zh_TW/analytics/activitymap/)。
+如需有關本功能的詳細資訊，請瀏覽[文件](https://marketing.adobe.com/resources/help/zh_TW/analytics/activitymap/)。
