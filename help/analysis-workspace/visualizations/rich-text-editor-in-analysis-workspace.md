@@ -1,24 +1,25 @@
 ---
-title: 分析工作區中的豐富型文字編輯器
-description: 一些新功能的逐步介紹，可讓分析人員和行銷人員將編輯套用至分析工作區中的文字視覺化（或說明）-粗體、斜體、標題、超連結等。
-feature: visualizations
+title: Analysis Workspace 中的 RTF 編輯器
+description: 一些新功能的逐步介紹，可讓分析人員和行銷人員將編輯套用至Analysis Workspace的文字視覺化（或說明）-粗體、斜體、標題、超連結等。
+feature: 視覺效果
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1907
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '68'
-ht-degree: 0%
+source-wordcount: '72'
+ht-degree: 18%
 
 ---
 
 
-# 分析工作區中的豐富型文字編輯器 {#rich-text-editor-in-analysis-workspace}
+# Analysis Workspace 中的 RTF 編輯器 {#rich-text-editor-in-analysis-workspace}
 
-分析工作區中分析人員和行銷人員可將編輯套用至文字視覺 [!UICONTROL 化] （或說明）的一些新功能的逐步說明：粗體、斜體、標題、超連結等。
+一些新功能的逐步介紹，可讓分析人員和行銷人員將編輯套用至Analysis Workspace的[!UICONTROL 文字] [!UICONTROL 視覺化]（或說明）:粗體、斜體、標題、超連結等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12)
