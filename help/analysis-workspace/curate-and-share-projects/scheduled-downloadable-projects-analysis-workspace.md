@@ -1,24 +1,25 @@
 ---
-title: 分析工作區中的已排程和可下載專案
-description: 分析工作區可讓您排程專案並下載至PDF和CSV。 本影片說明如何排程專案，以便日後交付給您或同事，以及如何下載您正在處理的專案的PDF。
-feature: curate and share
+title: 在Analysis Workspace排程和可下載的專案
+description: Analysis Workspace可讓您排程專案並下載至PDF和CSV。 本影片說明如何排程專案，以便日後交付給您或同事，以及如何下載您正在處理的專案的PDF。
+feature: 組織與分享
 topics: null
-audience: analyst
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2298
+role: 業務從業人員
+level: 初學者
 translation-type: tm+mt
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
+source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
-source-wordcount: '96'
+source-wordcount: '102'
 ht-degree: 0%
 
 ---
 
 
-# 分析工作區中的已排程和可下載專案{#scheduled-and-downloadable-projects-in-analysis-workspace}
+# Analysis Workspace已排程且可下載的專案{#scheduled-and-downloadable-projects-in-analysis-workspace}
 
-分析工作區可讓您排程專案並下載至PDF和CSV。 本影片說明如何排程專案，以便日後交付給您或同事，以及如何下載您正在處理的專案的PDF。
+Analysis Workspace可讓您排程專案並下載至PDF和CSV。 本影片說明如何排程專案，以便日後交付給您或同事，以及如何下載您正在處理的專案的PDF。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24709/?quality=12)
