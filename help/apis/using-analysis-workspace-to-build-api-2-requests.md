@@ -20,7 +20,7 @@ ht-degree: 96%
 
 # 使用 Analysis Workspace 建立 Adobe Analytics API 2.0 請求{#using-analysis-workspace-to-build-adobe-analytics-api-requests}
 
-在本影片中，我們將展示如何運用 Analysis Workspace 自動建立 API 2.0 請求。透過進行 UI 偵錯，您可以將 JSON 請求直接複製並貼至任何 API 用戶端以傳回 [!DNL Analytics] 資料。現在，您可以前往「Workspace 說明 > 啟用偵錯工具」，更輕鬆地啟用偵錯工具。
+在本影片中，我們將展示如何運用 Analysis Workspace 自動建立 API 2.0 請求。透過進行 UI 偵錯，您可以將 JSON 請求直接複製並貼至任何 API 用戶端以傳回 [!DNL Analytics] 資料。現在，您可以前往「工作區說明 > 啟用偵錯工具」，更輕鬆地啟用偵錯工具。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25890/?quality=12)
 
