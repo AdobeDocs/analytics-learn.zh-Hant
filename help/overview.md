@@ -17,7 +17,7 @@ ht-degree: 96%
 ---
 
 
-# 概覽
+# 概觀
 
 歡迎使用 [!DNL Analytics] 教學課程網站。使用這教學課程和本[文件](https://docs.adobe.com/content/help/zh-Hant/analytics/landing/home.html)，您將比以往更加了解如何使用 Adobe Analytics 來獲得客戶分析和見解。若要開始執行，
 * 查看下面&#x200B;**「新增功能」**&#x200B;部分，了解許多最新有用小工具。
@@ -27,7 +27,7 @@ ht-degree: 96%
 
 ## 新功能
 
-* **[按一下滑鼠右鍵了解 Workspace 效率 (影片)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
+* **[按一下滑鼠右鍵了解工作區效率 (影片)](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)**
 
    <br>
    *了解在 Analysis Workspace 中按一下滑鼠右鍵能使用哪些實用功能，並掌握其使用方法。按一下滑鼠右鍵即可使用[!UICONTROL 自由格式表格]至[!UICONTROL 流失率視覺效果]等多項功能，協助您更有效地使用 [!DNL Workspace]。*
@@ -69,16 +69,16 @@ ht-degree: 96%
     </a>
     </div>
     <p>
-    <em>Analysis Workspace 培訓教學課程會逐步引導您了解在 Workspace 中建立第一個分析的常用術語和步驟。</em>
+    <em>Analysis Workspace 培訓教學課程會逐步引導您了解在工作區中建立第一個分析的常用術語和步驟。</em>
     <p>
   </td>
   <td>
     <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-      <img alt="Analysis Workspace 概覽影片的影像縮圖" src="assets/thumb_analysis-workspace-overview.png" />
+      <img alt="Analysis Workspace 概觀影片的影像縮圖" src="assets/thumb_analysis-workspace-overview.png" />
     </a>
     <div>
       <a href="analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md">
-    <strong>Analysis Workspace 概覽</strong>
+    <strong>Analysis Workspace 概觀</strong>
     </a>
     </div>
     <p>
