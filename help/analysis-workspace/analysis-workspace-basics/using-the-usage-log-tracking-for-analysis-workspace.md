@@ -3,7 +3,7 @@ title: 使用 Analysis Workspace 的「使用情況記錄追蹤」
 seo-title: 使用 Analysis Workspace 的「使用情況記錄追蹤」
 description: 本影片將展示如何在 Workspace 專案使用「使用情況記錄追蹤」，可以幫助您清楚了解用戶的 Adobe Analytics 使用情況。
 seo-description: 本影片將展示如何在 Workspace 專案使用「使用情況記錄追蹤」，可以幫助您清楚了解用戶的 Adobe Analytics 使用情況。
-feature: data configuration and collection
+feature: 資料設定和彙集
 topics: null
 audience: analyst, marketer
 activity: use
@@ -14,7 +14,7 @@ kt: 1597
 translation-type: ht
 source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
 workflow-type: ht
-source-wordcount: '184'
+source-wordcount: '188'
 ht-degree: 100%
 
 ---
