@@ -15,7 +15,7 @@ ht-degree: 100%
 
 # Analytics 教學課程 {#tutorials}
 
-+ [概覽](overview.md)
++ [概觀](overview.md)
 + Analytics 介紹{#intro-to-analytics}
    + Adobe Analytics 對我有何用處？ {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace 如何改變您的業務](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
@@ -28,7 +28,7 @@ ht-degree: 100%
       + [2019 年峰會超級展示 - 零售業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [2019 年峰會超級展示 - 高科技業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + Analytics 基本需知 {#analytics-basics}
-      + [Reports and Analytics 中的「在 Workspace 中嘗試」按鈕](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
+      + [「報表和分析」中的「在工作區中嘗試」按鈕](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [人員量度](intro-to-analytics/analytics-basics/people-metric.md)
       + [了解 Analytics 週期](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
       + [如何搜集 Analytics 資料](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
@@ -40,7 +40,7 @@ ht-degree: 100%
       + [新增維度和量度說明](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [在 Analysis Workspace 中使用調色盤](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [定義自訂調色盤的色彩滴管擴充功能](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
-      + [在 Reports and Analytics 自訂選單](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [在「報表和分析」中自訂選單](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [在 Adobe Analytics 加強安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [將 Analysis Workspace 設為您的登陸頁面](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
       + [將 Analysis Workspace 專案設為您的登陸頁面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
@@ -52,7 +52,7 @@ ht-degree: 100%
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace 基本需知 {#analysis-workspace-basics}
       + [Analysis Workspace 介紹](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
-      + [Analysis Workspace 概覽](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+      + [Analysis Workspace 概觀](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [在 Analysis Workspace 中展開您的第一項專案](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [建立全新 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [在 Analysis Workspace 中建立和管理自訂範本](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -204,8 +204,8 @@ ht-degree: 100%
       + [減少語音應用程式中的錯誤率並提高成功率](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
       + [了解語音助理的用戶行為](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
       + [了解用戶語音歷程](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
-+ Reports and Analytics {#reports-and-analytics}
-   + [Reports and Analytics 中的即時報告](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
++ 「報表和分析」{#reports-and-analytics}
+   + [「報表和分析」中的即時報告](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
    + 使用者管理 {#user-management}
       + [新增管理員至 Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
@@ -258,7 +258,7 @@ ht-degree: 100%
       + [追蹤 SPA 時使用最佳實務](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + 元件 {#components}
    + 區段 {#segmentation}
-      + [區段產生器概覽](components/segmentation/segment-builder-overview.md)
+      + [區段產生器概觀](components/segmentation/segment-builder-overview.md)
       + [在偱序分段中的前/後順序](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [區段中的滾動式日期範圍](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Analysis Workspace 中的區段比較](components/segmentation/segment-comparison-in-analysis-workspace.md)
@@ -282,7 +282,7 @@ ht-degree: 100%
       + [Analysis Workspace 中的快捷計算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [在計算量度中使用維度](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
    + 分類 {#classifications}
-      + [分類概覽](components/classifications/overview-of-classifications.md)
+      + [分類概觀](components/classifications/overview-of-classifications.md)
       + [使用規則分類建立器](components/classifications/using-the-classification-rule-builder.md)
    + 虛擬報表套裝 {#virtual-report-suites}
       + [虛擬報表套裝](components/virtual-report-suites/virtual-report-suites.md)
@@ -290,7 +290,7 @@ ht-degree: 100%
       + [虛擬報表套裝中的內容感知工作階段](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
       + [在虛擬報表套裝中展開任何事件的新造訪](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
-      + [Activity Map 概覽](components/activity-map/activity-map-overview.md)
+      + [Activity Map 概觀](components/activity-map/activity-map-overview.md)
       + [啟動、偵錯並自訂 Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
 + 其他工具 {#additional-tools}
    + Analytics 控制面板 {#analytics-dashboards}
@@ -329,7 +329,7 @@ ht-degree: 100%
       + [建立 Advertising Cloud 網站項目報表](integrations/ad-cloud/create-advertising-cloud-site-entry-reports.md)
       + [建立 Advertising Cloud 控制面板](integrations/ad-cloud/create-advertising-cloud-dashboards-with-adobe-analytics.md)
    + Ad Hoc Analytics {#ad-hoc-analytics}
-      + [使用專案轉換器將專案從 Ad Hoc Analysis 移到 Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
+      + [使用專案轉換器將專案從臨機分析移到 Analytics Workspace](integrations/ad-hoc-analytics/using-the-project-converter-to-move-projects-from-ad-hoc-analysis-to-analytics-workspace.md)
    + Power BI {#power-bi}
       + [Power BI 中的 Adobe Analytics Connector](integrations/power-bi/adobe-analytics-connector-in-power-bi.md)
    + Magento {#magento}
