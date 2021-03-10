@@ -8,13 +8,13 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 初學者
-translation-type: tm+mt
+role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、負責人」
+level: 初級人員
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
