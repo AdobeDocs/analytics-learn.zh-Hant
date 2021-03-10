@@ -7,14 +7,14 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2561
-topic: 行動
+topic: 行動裝置
 role: 「開發人員、資料工程師」
-level: 經驗豐富
-translation-type: tm+mt
+level: 資深經驗
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
