@@ -7,14 +7,14 @@ activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 2493
-topic: 行動
+topic: 行動裝置
 role: 管理員
-level: 經驗豐富
-translation-type: tm+mt
+level: 資深經驗
+translation-type: ht
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '68'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
