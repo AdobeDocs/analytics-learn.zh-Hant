@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12)
 
-了解更多關於 [!DNL Adobe Sensei](由[此處](https://www.adobe.com/tw/sensei.html))。
+了解更多關於 [!DNL Adobe Sensei] (由[此處](https://www.adobe.com/tw/sensei.html))。
