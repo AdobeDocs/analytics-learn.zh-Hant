@@ -10,9 +10,9 @@ team: Technical Marketing
 kt: 4382
 role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、負責人」
 level: 初級人員
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '175'
 ht-degree: 100%
 
