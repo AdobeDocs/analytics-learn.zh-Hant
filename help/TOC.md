@@ -5,10 +5,10 @@ breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: df326b0711ad05c3a0ae73480d66d1980901216f
+source-git-commit: c1683979e1b7146c3d5c9d94eb8d59bf1bc9cef4
 workflow-type: tm+mt
-source-wordcount: '1871'
-ht-degree: 100%
+source-wordcount: '1877'
+ht-degree: 99%
 
 ---
 
@@ -211,6 +211,7 @@ ht-degree: 100%
       + [新增管理員至 Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [在 Admin Console 限制報表套裝的存取權限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + 管理報表套裝 {#manage-report-suites}
+      + [如何設定一般帳戶設定](administration/manage-report-suites/configuring-general-account-settings.md)
       + [正進行郵遞區號和郵政編號的設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [在 Admin Console 中設定變數](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + 資料規範和 GDPR {#data-governance-and-gdpr}
