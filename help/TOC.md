@@ -230,7 +230,7 @@ ht-degree: 99%
       + [建立和管理 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [在網站上使用資料圖層](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + 透過 Experience Platform Launch 進行{#via-adobe-launch}
-      + [透過 Experience Platform Launch 在網站中實施 Experience Cloud](https://docs.adobe.com/content/help/zh/experience-cloud/implementing-in-websites-with-launch/index.html)
+      + [透過 Experience Platform Launch 在網站中實施 Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-websites-with-launch/index.html)
       + [Analytics Launch 擴充功能的基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [設定 Analytics 的資料庫管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [在 Analytics Launch 擴充功能中進行一般設定](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
@@ -360,9 +360,9 @@ ht-degree: 99%
       + [使用 Experience Platform SDK 初始化和查看生命週期量度](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [追蹤動作 (又稱為自訂連結)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [追蹤頁面狀態 (又稱為頁面或螢幕)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [iOS Swift 應用程式中的實施作業](https://docs.adobe.com/content/help/zh/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [iOS Objective-C 應用程式中的實施作業](https://docs.adobe.com/content/help/zh/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-      + [Android 應用程式中的實施作業](https://docs.adobe.com/content/help/zh/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+      + [iOS Swift 應用程式中的實施作業](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [iOS Objective-C 應用程式中的實施作業](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [Android 應用程式中的實施作業](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + 測量 Mobile Analytics {#measuring-mobile-analytics}
       + [Adobe Mobile Analytics 快速入門](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [行動歷程中的接觸點影響](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
