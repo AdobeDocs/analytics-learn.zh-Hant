@@ -5,10 +5,10 @@ breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 3e5b0118822722b9c7c00132a995e387bfe7449f
+source-git-commit: 38e0c9fdf0d5033c176d822de8a218f82bcd333c
 workflow-type: tm+mt
 source-wordcount: '1885'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -95,7 +95,7 @@ ht-degree: 99%
       + [在 Analysis Workspace 中自動建立自由格式表格](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [在自由格式表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [在 Analysis Workspace 中使用參與度量度](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中使用參與度量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [自由格式表格中的列和欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [使用自由格式表格建立器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [在 Analysis Workspace 中重新排序靜態資料列](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -111,7 +111,7 @@ ht-degree: 99%
       + [視覺效果類型](analysis-workspace/visualizations/visualization-types.md)
       + [在 Analysis Workspace 中使用表格、視覺效果和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [選取資料以產生視覺效果](analysis-workspace/visualizations/selecting-data-to-visualize.md)
-      + [將資料匯入視覺化](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+      + [將資料帶入視覺效果中](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [Analysis Workspace 中的線條視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [新增趨勢線條為線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
@@ -149,7 +149,7 @@ ht-degree: 99%
       + [在 Analysis Workspace 中新增維度和量度至您的專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [轉換事件介紹](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由格式表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [在 Analysis Workspace 中使用參與度量度](analysis-workspace/building-freeform-tables/using-participation-metrics-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中使用參與度量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
    + 維度 {#dimensions}
       + [在 Analysis Workspace 中新增維度和量度至您的專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量變數 (Props) ](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
