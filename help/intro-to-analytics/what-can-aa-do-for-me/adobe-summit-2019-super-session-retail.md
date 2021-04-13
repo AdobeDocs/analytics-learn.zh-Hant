@@ -7,16 +7,16 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4389
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、負責人」
-level: 初級人員
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 64f4be39-9800-4700-bfce-29ab9ba1a338,a20179c5-3b45-4c1c-90d0-54f7fd6a3bd1,a20179c5-3b45-4c1c-90d0-54f7fd6a3bd1,64f4be39-9800-4700-bfce-29ab9ba1a338
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 00d58427dcbd2d2a20119933693fcf264fb86080
 workflow-type: ht
-source-wordcount: '40'
+source-wordcount: '29'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Adobe Summit]2019 年超級展示 - 零售業
 
