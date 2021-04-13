@@ -8,16 +8,16 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2563
 topic: 行動裝置
-role: 「開發人員、資料工程師」
-level: 資深經驗
+role: Developer, Data Engineer
+level: Experienced
+exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '181'
+source-wordcount: '177'
 ht-degree: 100%
 
 ---
-
 
 # 透過 Experience Platform SDK 追蹤行動應用程式內的動作 (又稱客戶連結) {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
 
