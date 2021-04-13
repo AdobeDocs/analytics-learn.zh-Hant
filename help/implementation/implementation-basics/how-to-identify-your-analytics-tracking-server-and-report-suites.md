@@ -7,16 +7,16 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: 「開發人員、資料工程師」
-level: 初級人員
+role: Developer, Data Engineer
+level: Beginner
+exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '309'
+source-wordcount: '305'
 ht-degree: 100%
 
 ---
-
 
 # 如何識別您的 Analytics [!DNL Tracking Server] 和[!UICONTROL 報表套裝]{#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
