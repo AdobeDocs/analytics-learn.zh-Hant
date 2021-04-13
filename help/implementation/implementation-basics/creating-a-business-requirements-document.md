@@ -7,16 +7,16 @@ activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3580
-role: 「開發人員、資料工程師」
-level: 初級人員
+role: Developer, Data Engineer
+level: Beginner
+exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '134'
+source-wordcount: '130'
 ht-degree: 100%
 
 ---
-
 
 # 建立業務需求文件
 
