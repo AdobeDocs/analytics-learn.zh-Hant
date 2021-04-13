@@ -7,16 +7,16 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4386
-role: 「業務從業人員、開發人員、資料工程師、架構者、資料架構者、管理員、負責人」
-level: 初級人員
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '107'
+source-wordcount: '96'
 ht-degree: 100%
 
 ---
-
 
 # 客戶使用案例：[!DNL Accent Group] 投資於客戶體驗以促進銷售
 
