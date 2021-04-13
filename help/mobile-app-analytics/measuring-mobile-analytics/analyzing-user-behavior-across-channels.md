@@ -7,16 +7,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3053
-role: 業務從業人員
-level: 初級人員
+role: Business Practitioner
+level: Beginner
+exl-id: 92af75b4-c1c3-4679-aede-b9e154e9f836
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '86'
+source-wordcount: '83'
 ht-degree: 100%
 
 ---
-
 
 # 分析所有頻道中的用戶行為 {#analyzing-user-behavior-across-channels}
 
