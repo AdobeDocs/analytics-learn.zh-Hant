@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: b33c6d1d22758f1fb88dec9beed83fde823aba79
+source-git-commit: df4876d8cca8023036e75edfb1150aee5243b591
 workflow-type: tm+mt
-source-wordcount: '1970'
+source-wordcount: '1980'
 ht-degree: 93%
 
 ---
@@ -37,6 +37,7 @@ ht-degree: 93%
       + [了解和建立報表套裝](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [Adobe Labs (技術預覽)](intro-to-analytics/analytics-basics/adobe-labs-technology-previews.md)
    + 自訂 UI {#customizing-the-ui}
+      + [Adobe Analytics的用戶首選項](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [新增維度和量度說明](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [在 Analysis Workspace 中使用調色盤](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [定義自訂調色盤的色彩滴管擴充功能](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
@@ -107,6 +108,7 @@ ht-degree: 93%
       + [視覺效果類型](analysis-workspace/visualizations/visualization-types.md)
       + [選取資料以產生視覺效果](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [將資料帶入視覺效果中](analysis-workspace/visualizations/getting-data-into-visualizations.md)
+      + [在工作區中使用元件下拉式清單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Analysis Workspace 中的線條視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [新增趨勢線條為線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
