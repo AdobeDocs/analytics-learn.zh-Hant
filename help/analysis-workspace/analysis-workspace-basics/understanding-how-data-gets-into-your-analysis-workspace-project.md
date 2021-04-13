@@ -7,16 +7,16 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4109
-role: 業務從業人員
-level: 初級人員
+role: Business Practitioner
+level: Beginner
+exl-id: eb6eada2-74b1-423c-a80d-2bcc2148e167
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '97'
+source-wordcount: '94'
 ht-degree: 100%
 
 ---
-
 
 # 了解資料如何進入您的 Analysis Workspace 專案
 
