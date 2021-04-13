@@ -8,16 +8,16 @@ doc-type: feature video
 team: Technical Marketing
 thumbnail: 24037.jpg
 kt: 1986
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、負責人」
-level: 初級人員
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 47110d1b-7ae7-483f-ba05-796d00741b20
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '135'
+source-wordcount: '124'
 ht-degree: 100%
 
 ---
-
 
 # Adobe Analytics 中的[!UICONTROL 人員][!UICONTROL 量度] {#people-metric-in-adobe-analytics}
 
