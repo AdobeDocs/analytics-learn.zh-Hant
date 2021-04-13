@@ -7,16 +7,16 @@ activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4383
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、負責人」
-level: 初級人員
+role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+level: Beginner
+exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
 translation-type: ht
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
 workflow-type: ht
-source-wordcount: '112'
+source-wordcount: '101'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Adobe Sensei] 和 Adobe Analytics
 
