@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace地圖視覺化
 description: 這段影片會示範如何使用Analysis Workspace的新地圖視覺化。 「地圖」檢視可讓您根據動態地圖檢視行動(lat/long)或網路（IP位址）資料，讓您瞭解客戶在其所在位置的使用情況。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1771
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

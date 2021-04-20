@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 提供多個報表套裝
 description: 在單一「工作區」專案中，您可在面板層級選取套裝，以分析多個報表套裝。 這項功能可讓您在不同資料集之間執行並排式的面板分析。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4820
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

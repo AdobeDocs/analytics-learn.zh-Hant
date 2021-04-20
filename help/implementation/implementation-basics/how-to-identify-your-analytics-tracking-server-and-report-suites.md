@@ -1,13 +1,13 @@
 ---
 title: 如何識別您的 Analytics Tracking Server 和報表套裝
 description: 設定 Adobe Analytics 或在其他 Experience Cloud 解決方案中引用時，您可以甚至有必要了解正在使用的 Analytics "Tracking Server"，或您的資料所要發送的「報表套裝」。本影片將展示如何找到這兩個值，無論您是否已經實施 Adobe Analytics。
-feature: 實作基本知識
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
 translation-type: ht

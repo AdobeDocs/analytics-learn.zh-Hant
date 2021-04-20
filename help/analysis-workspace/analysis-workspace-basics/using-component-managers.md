@@ -3,7 +3,7 @@ title: 在 Adobe Analytics 中使用元件管理員
 seo-title: 在 Adobe Analytics 中使用元件管理員
 description: '本影片將展示如何在 Adobe Analytics 中使用警示和已排程專案的元件管理員，以及一些其他功能。了解如何輕鬆尋找所需的警示或已排程專案，以及啟用/停用警示。 '
 seo-description: '本影片將展示如何在 Adobe Analytics 中使用警示和已排程專案的元件管理員，以及一些其他功能。了解如何輕鬆尋找所需的警示或已排程專案，以及啟用/停用警示。 '
-feature: Workspace 基本知識
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video

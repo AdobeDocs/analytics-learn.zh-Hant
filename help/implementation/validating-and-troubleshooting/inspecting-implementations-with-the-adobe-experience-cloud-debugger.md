@@ -1,14 +1,14 @@
 ---
 title: 透過 Adobe Experience Cloud Debugger 檢查實施作業
 description: Experience Cloud除錯程式是一種工具，可讓使用者檢查並除錯Experience Cloud標籤。 此影片介紹如何使用Experience Cloud Debugger來檢查Analytics實作。
-feature: 驗證
+feature: Validation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1942
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

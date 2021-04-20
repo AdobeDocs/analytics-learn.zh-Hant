@@ -1,14 +1,14 @@
 ---
 title: 在Experience Platform Launch中設定簡易下載連結追蹤
 description: 在Experience Platform Launch的Adobe Analytics擴充功能中按幾下滑鼠，您就可以開始追蹤網站上的下載連結（在電腦上下載非瀏覽器檔案的連結）。 此影片會示範如何設定。
-feature: 啟動實施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1844
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

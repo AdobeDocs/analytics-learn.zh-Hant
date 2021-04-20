@@ -1,7 +1,7 @@
 ---
 title: 了解和建立報表套裝
 description: 本影片將幫助您了解什麼是報表套裝，並展示如何在介面中建立報表套裝，以便您可以追蹤和最佳化瀏覽網站的人。
-feature: Analytics 基本知識
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video

@@ -1,15 +1,15 @@
 ---
 title: 在自由格式表格中使用 Attribution IQ
 description: Attribution IQ可讓您在自由格式欄上，將歸因模型變更為十個以規則為基礎的模型。
-feature: 出處
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
-role: 業務從業人員
-level: 中級
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

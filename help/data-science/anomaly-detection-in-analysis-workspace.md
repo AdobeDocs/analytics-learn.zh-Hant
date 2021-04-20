@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的異常偵測
 description: Analysis Workspace會自動偵測資料中任何時間系列視覺化或資料表格的異常。 捕捉「未知的未知」，而不需要你付出任何努力！
-feature: 資料科學
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2336
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 初學者
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

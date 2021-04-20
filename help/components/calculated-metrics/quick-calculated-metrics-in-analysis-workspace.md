@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace 中的快捷計算量度
 description: 現在，您可以在Analysis Workspace內即時建立計算量度。  如果您想要在自由表格中快速變更百分比或劃分幾個量度，只需從標題中選取量度，按一下滑鼠右鍵並選取您想要的運算子。  新的計算量度會顯示在右側。
-feature: 計算量度
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23126.jpg
 kt: 1666
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

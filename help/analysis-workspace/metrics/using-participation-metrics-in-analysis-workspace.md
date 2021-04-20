@@ -1,7 +1,7 @@
 ---
 title: 在 Analysis Workspace 中使用參與度量度
 description: 在 Analysis Workspace 中隨時使用這個簡單的秘訣取得任何參與率量度。
-feature: 量度
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video

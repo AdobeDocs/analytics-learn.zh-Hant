@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的繼續右鍵選單
 description: Analysis Workspace包含功能強大的右鍵功能表，其中包含許多強大的功能。 此影片說明如何在Analysis Workspace境內使用右鍵功能表。
-feature: 自由表格
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2030
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

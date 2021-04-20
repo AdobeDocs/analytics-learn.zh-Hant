@@ -2,7 +2,7 @@
 title: 首度實施 Adobe Analytics
 landing-page-description: 此影片會在幾分鐘內引導您逐步體驗準備和運作 Adobe Analytics 資料的程序。
 description: 實作 Adobe Analytics 比以往更輕鬆。如果您是初次接觸我們的解決方案，此影片將逐步引導您在幾分鐘內完成認識和處理資料的程序。
-feature: 實施作業基本需知
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: feature video

@@ -1,14 +1,14 @@
 ---
 title: 在分段中使用等於任意運算子
 description: 等於任何和不等於任何區段運算子已新增至區段產生器。 使用這些運算子來篩選特定項目的清單，而不是使用多個OR陳述式或「包含任一項」。 使用這些運算子而非包含任何運算子也有助於改善查詢速度。
-feature: 區段
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

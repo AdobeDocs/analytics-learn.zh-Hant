@@ -1,7 +1,7 @@
 ---
 title: 登入 Adobe Analytics
 description: 在本影片中，您將學習如何登入和管理 Google Analytics 並開始進行分析。
-feature: Analytics 基本知識
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video

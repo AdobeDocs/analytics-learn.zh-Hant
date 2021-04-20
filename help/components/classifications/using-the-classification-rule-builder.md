@@ -1,14 +1,14 @@
 ---
 title: '使用分類規則產生器在Adobe Analytics '
 description: '瞭解如何使用「分類規則產生器」自動套用Adobe Analytics的規則型分類。 '
-feature: 分類
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1936
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

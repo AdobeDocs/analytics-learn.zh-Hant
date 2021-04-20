@@ -1,7 +1,7 @@
 ---
 title: 了解 Analytics 週期
 description: 在這個簡單但重要的影片中，您將了解有關網站資料分析應進行的步驟。花一點時間了解此過程，可讓您的 Analytics 計劃取得成功。
-feature: Analytics 基本知識
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video

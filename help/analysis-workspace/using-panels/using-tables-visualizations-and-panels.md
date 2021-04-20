@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中使用表格、視覺效果和面板
 description: 在此影片中，您將學習如何使用您的Analysis Workspace專案的建置區塊，即面板、表格和視覺化。 這些元素是資料上色的畫布。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4103
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

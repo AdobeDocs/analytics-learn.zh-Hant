@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace100%堆疊視覺化
 description: 在此影片中，您將學習如何將堆疊視覺化設定為百分比，而非只設定原始值。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1670
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

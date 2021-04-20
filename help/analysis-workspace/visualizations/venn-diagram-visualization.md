@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace文氏圖可視化
 description: 您可以使用文氏圖視覺化在Analysis Workspace以視覺化方式顯示區段的重疊和交集。 在數秒內就能輕鬆建立令人驚艷、洞察力豐富的Venn圖表。 這段影片會告訴您如何進行。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2118
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

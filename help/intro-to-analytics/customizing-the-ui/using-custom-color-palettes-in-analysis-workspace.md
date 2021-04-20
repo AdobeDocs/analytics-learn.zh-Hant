@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中使用調色盤
 description: 您可以變更Analysis Workspace的調色盤，以更符合您的品牌或客戶的品牌。
-feature: 工作區基本資訊
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1943
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

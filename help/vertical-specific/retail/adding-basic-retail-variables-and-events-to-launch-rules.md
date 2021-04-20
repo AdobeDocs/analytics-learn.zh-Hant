@@ -1,14 +1,14 @@
 ---
 title: 新增基本零售業變數和事件至 Launch 規則
 description: 此影片說明如何在Launch中使用特殊產品字串副檔名來追蹤基本零售變數和事件，例如產品檢視、新增至購物車、結帳等。
-feature: 啟動實施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3592
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

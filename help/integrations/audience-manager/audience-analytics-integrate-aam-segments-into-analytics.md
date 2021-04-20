@@ -1,16 +1,16 @@
 ---
 title: Audience Analytics - 整合 AAM 區段至 Analytics
 description: Audience Analytics是新的整合，可讓您即時分享Audience Manager(AAM)到Analytics(AA)的細分，以便通知受眾發現、細分和最佳化。
-feature: Experience Cloud整合
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25450.jpg
 kt: 2354
-topic: 整合
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 中級
+topic: Integrations
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace 中的自由格式表格總計
 description: 在此影片中，您會看到自由表格總計的一些更新，包括移除總計的功能。
-feature: 自由表格
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29273.jpg
 kt: 3857
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

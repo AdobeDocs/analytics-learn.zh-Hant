@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的內部連結
 description: 內部連結可讓分析人員在Analysis Workspace建立專案，將專案的讀者導向專案內精確的面板和視覺化。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1908
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace流失視覺化增強功能
 description: 此視訊顯示客戶強烈要求的流失視覺化更新，包括直接與最終步驟、重新命名觸點、比較不限的區段，以及隨時間推移的趨勢觸點轉換百分比。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24047.jpg
 kt: 2276
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

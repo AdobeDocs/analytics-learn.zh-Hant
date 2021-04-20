@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中使用音效使用情況範本
 description: 此影片概述Analysis Workspace的「音訊耗用」範本，此範本現成可用於音訊分析。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1950
-role: 「業務從業人員、開發人員、資料工程師、架構師、資料架構師、管理員、領導者」
-level: 中級
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

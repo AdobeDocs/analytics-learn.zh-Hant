@@ -1,14 +1,14 @@
 ---
 title: Reports and Analytics 中的即時報告
 description: 此視訊顯示Adobe對Adobe Analytics「報告與分析」中的「即時報表」所做的一些更新。
-feature: Analytics 基本需知
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2360
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

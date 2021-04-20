@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的「組織」與「共用」
 description: 在Analysis Workspace建立專案後，您就可以組織（簡化）專案，並與組織中的其他團隊和個人共用專案，讓他們能夠探索專案，並自行運用資料。 此影片會示範如何使用組織與分享。
-feature: 組織與分享
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2294
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 在 Reports and Analytics 自訂選單
 description: 本影片將帶您瞭解如何針對您的企業自訂Analytics中的功能表。
-feature: Analytics 基本需知
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2365
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

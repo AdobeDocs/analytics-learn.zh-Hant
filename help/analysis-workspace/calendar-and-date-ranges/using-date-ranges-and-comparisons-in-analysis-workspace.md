@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中使用日期範圍和比較
 description: 在此影片中，您將學習如何使用日期、日期範圍和日期比較，將表格和視覺化自訂至正確的時間範圍。
-feature: 日曆
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4105
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

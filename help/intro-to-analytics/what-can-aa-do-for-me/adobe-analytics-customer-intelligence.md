@@ -1,13 +1,13 @@
 ---
 title: Adobe Analytics - 不只是提供資料。更可提供客戶情報
 description: 若要成為提供優質體驗的企業，資料導向行銷是重要關鍵。將您的分析成熟度提高到一個全新水準 - 從資料得到分析見解、再採取行動。
-feature: Analytics 基本知識
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4384
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
 translation-type: ht

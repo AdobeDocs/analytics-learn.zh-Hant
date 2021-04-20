@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics 儀表板計分卡產生器
 description: 在此影片中，瞭解如何在Analysis Workspace建立和共用「記分卡」，以便在Adobe Analytics儀表板（行動應用程式）上檢視。
-feature: Analytics儀表板
+feature: Analytics Dashboards
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 5286
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

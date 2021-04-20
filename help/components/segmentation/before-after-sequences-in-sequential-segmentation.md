@@ -1,14 +1,14 @@
 ---
 title: 在偱序分段中的前/後順序
 description: 此影片說明如何在Adobe Analytics區段，以便您只取得特定使用者路徑之前或之後的資料。
-feature: 區段
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2303
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

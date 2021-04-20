@@ -1,15 +1,15 @@
 ---
 title: 用跨標籤分析探討Analysis Workspace市場營銷基本歸因
 description: 想透過 Adobe Analytics 將歸因方法提升到全新層次，其實有許多方式。這部影片的重點，在於介紹如何使用工作區中的跨索引標籤分析，從行銷管道報表獲取更深入的寶貴見解。
-feature: 行銷管道
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39237.jpg
 kt: 6067
-role: 業務從業人員
-level: 中級
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

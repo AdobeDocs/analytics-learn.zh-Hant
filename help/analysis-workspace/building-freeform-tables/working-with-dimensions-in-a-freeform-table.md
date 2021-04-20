@@ -1,15 +1,15 @@
 ---
 title: 在自由格式表格中使用維度
 description: 瞭解在自由表格中處理維度的相關資訊，包括新增維度、排序、篩選、依其他維度劃分維度等。
-feature: 維度
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40179.jpg
 kt: 6176
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

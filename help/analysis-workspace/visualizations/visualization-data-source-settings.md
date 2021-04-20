@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace的視覺化資料來源設定
 description: 已簡化資料來源模型，並簡化基礎表格架構。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1905
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace區段放置區改進
 description: 區段拖放區域已改善，讓您可以真正將任何項目拖放至任何位置。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2008
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

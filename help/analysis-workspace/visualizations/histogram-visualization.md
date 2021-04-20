@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的長條圖視覺效果
 description: 直方圖可讓您視覺化度量在訪客、瀏覽和點擊之間的分佈，以尋找高值和低值區段。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1909
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

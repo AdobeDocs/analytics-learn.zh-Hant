@@ -1,15 +1,15 @@
 ---
 title: 在Adobe Analytics配置Advertising Analytics
 description: '此影片將引導您深入瞭解如何設定報表套裝以利用Advertising Analytics、如何設定付費搜尋帳戶以及Advertising Analytics的報表詳細資訊。 '
-feature: Advertising Cloud整合
+feature: Advertising Cloud Integration
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 1642
-topic: 整合
-role: 管理員
-level: 中級
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

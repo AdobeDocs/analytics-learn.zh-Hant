@@ -1,13 +1,13 @@
 ---
 title: 在網站上使用資料圖層
 description: 在使用 Experience Cloud 時，包括在使用 Adobe Analytics 時，最好的方法是在網站上使用資料圖層。本影片將介紹資料圖層並展示範例。
-feature: 實作基本知識
+feature: Implementation Basics
 topics: null
 activity: setup
 doc-type: feature video
 team: Technical Marketing
 kt: 3585
-role: Developer, Data Engineer
+role: "Developer, Data Engineer"
 level: Beginner
 exl-id: a357b5a9-b1f3-449c-9f6e-31613211c009
 translation-type: ht

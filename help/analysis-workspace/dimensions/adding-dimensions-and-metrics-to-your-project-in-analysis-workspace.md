@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中新增維度和量度至您的專案
 description: 在此影片中，瞭解維度和量度、它們之間的差異，以及如何將它們新增至Analysis Workspace的表格和視覺化。 同時也瞭解如何新增現成可用的計算量度。
-feature: 維度
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4104
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

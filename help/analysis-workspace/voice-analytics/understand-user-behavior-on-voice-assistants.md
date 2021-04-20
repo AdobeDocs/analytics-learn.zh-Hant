@@ -1,14 +1,14 @@
 ---
 title: 了解語音助理的用戶行為
 description: 瞭解如何透過主要指標（例如主要意圖、參數和使用者驗證）來瞭解使用者行為並獲得深入資訊。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2904
-role: 業務從業人員
-level: 中級
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

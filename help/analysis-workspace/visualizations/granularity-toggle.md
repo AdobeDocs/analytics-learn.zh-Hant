@@ -1,14 +1,14 @@
 ---
 title: 在Analysis Workspace切換粒度
 description: 精細度選擇器已新增至趨勢視覺化設定，可讓您非常輕鬆地從分鐘調整資料精細度，一直到一年。 該設定將同時調整圖形和源表，從而保存取消隱藏和操作表的步驟。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1770
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

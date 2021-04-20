@@ -1,7 +1,7 @@
 ---
 title: 使用處理規則將 contextData 變數對應至 Props 和 Evars
 description: 在實施 Adobe Analytics 使用 contextData 變數時，為了使資料顯示在實際報告中，您需要將 contextData 變數對應至處理規則介面中的 props / eVars。本影片將展示如何執行此操作。
-feature: 實施作業基本需知
+feature: Implementation Basics
 topics: null
 activity: implement
 doc-type: technical video

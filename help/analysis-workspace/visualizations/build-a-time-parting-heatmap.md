@@ -1,14 +1,14 @@
 ---
 title: 在Analysis Workspace建立時分熱圖
 description: 瞭解如何透過建立行為的熱圖視覺化，將時間分割分析提升到新的層次。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2813
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

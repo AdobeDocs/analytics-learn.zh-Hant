@@ -1,14 +1,14 @@
 ---
 title: 在啟動中驗證全域頁面載入規則
 description: 當您在網站上實作Adobe Analytics時，您會想要驗證您在過程中所做的事。 Experience Cloud除錯程式來救援！ 此影片說明如何使用除錯程式驗證全域頁面載入規則。
-feature: 驗證
+feature: Validation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3589
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 按一下滑鼠右鍵了解 Workspace 效率
 description: 了解在 Analysis Workspace 中按一下滑鼠右鍵能使用哪些實用功能，並掌握其使用方法。按一下滑鼠右鍵即可使用自由表格和流失率視覺化效果等多項功能，協助您更有效地使用工作區，得心應手。
-feature: 工作區基本資訊
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 39377.jpg
 kt: 5939
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

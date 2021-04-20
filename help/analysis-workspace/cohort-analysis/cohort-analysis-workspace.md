@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的「同類群組分析」
 description: 如何在Analysis Workspace建立世代分析表格。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2135
-role: 業務從業人員
-level: 中級
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 為您的 Analytics 實施作業準備 Experience Platform Launch
 description: 在Launch中實作Analytics之前，您需要備妥一些檔案，而且您需要在系統中（包括Analytics和Launch）設定一些項目。 這段視頻講述了這些故事。
-feature: 啟動實施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3584
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

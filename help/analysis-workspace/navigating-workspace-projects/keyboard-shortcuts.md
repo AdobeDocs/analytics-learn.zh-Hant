@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace鍵盤快速鍵
 description: '這段視訊會透過Analysis Workspace的鍵盤快速鍵選項，來示範如何更快速且有效率地移動。 '
-feature: 工作區基本資訊
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2031
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

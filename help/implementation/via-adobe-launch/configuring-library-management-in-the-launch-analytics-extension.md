@@ -1,14 +1,14 @@
 ---
 title: 設定 Analytics 的資料庫管理
 description: 如果您剛開始使用Adobe Analytics的Experience Platform Launch擴充功能，此影片可協助您處理設定的程式庫管理部分，包括選擇您要傳送資料的報表套裝。
-feature: 啟動實施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2836
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

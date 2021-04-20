@@ -1,14 +1,14 @@
 ---
 title: 在計算量度中使用維度
 description: Dimension現在可在計算量度產生器中使用。 您可以將這些量度新增至任何計算量度公式，以便即時建立內部區段。
-feature: 計算量度
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1904
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

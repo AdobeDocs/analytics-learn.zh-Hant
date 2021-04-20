@@ -1,7 +1,7 @@
 ---
 title: 在工作區中使用元件下拉式清單
 description: 元件下拉式清單可讓您從相容元件清單中挑選，以建立分析。 如果您找不到所需項目，也可以直接從下拉式清單建立新元件。 如果您有更進階的使用案例，這些空格也會繼續當做放置區。
-feature: 元件
+feature: Components
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

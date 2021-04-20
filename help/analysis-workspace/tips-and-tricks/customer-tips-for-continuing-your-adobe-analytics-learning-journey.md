@@ -1,14 +1,14 @@
 ---
 title: 繼續 Adobe Analytics 學習歷程的客戶柲訣
 description: 在本文中，請與3位Adobe客戶會面，他們提供您如何從Adobe Analytics獲得最大價值的秘訣與訣竅。
-feature: 工作區基本資訊
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: article
 team: Technical Marketing
 kt: 4111
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

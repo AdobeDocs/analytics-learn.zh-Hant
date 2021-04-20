@@ -1,14 +1,14 @@
 ---
 title: 使用資料層透過Launch在Adobe Analytics設定頁面名稱和其他變數
 description: 使用資料層做為Analytics和其他Experience Cloud解決方案被視為最佳實務。 在此影片中，您將瞭解如何將值從資料層拉出，並在Launch中使用這些值來填入Adobe Analytics的變數。
-feature: 啟動實施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1852
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

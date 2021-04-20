@@ -1,15 +1,15 @@
 ---
 title: 使用專案轉換器將專案從 Ad Hoc Analysis 移到 Analytics Workspace
 description: 臨機分析專案轉換程式將順暢地將臨機分析(AHA)專案轉換為Analysis Workspace專案，只要按一下按鈕。
-feature: Experience Cloud整合
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
-topic: 整合
-role: 業務從業人員
-level: 中級
+topic: Integrations
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

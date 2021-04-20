@@ -1,8 +1,8 @@
 ---
 title: Adobe Analytics的用戶首選項
 description: 「元件——使用者」偏好設定頁面可讓您在使用者層級管理Analysis Workspace及其相關元件的設定。 例如，您可以選擇預設報表套裝和色盤。 使用者偏好設定會套用至所有新專案和新面板。
-feature: Workspace 基本知識
-topic: 個性化
+feature: Workspace Basics
+topic: Personalization
 role: Business Practitioner, Administrator
 level: Beginner
 doc-type: feature video

@@ -1,15 +1,15 @@
 ---
 title: 使用同類群組表格進行延遲分析
 description: 同類群組表格中的「延遲表格」設定可讓您分析包含事件前後同類群組的行為（而不只是標準同類群組描述之後）。 例如，此設定有助於分析新產品或促銷活動啟動的影響。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: 業務從業人員
-level: 中級
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

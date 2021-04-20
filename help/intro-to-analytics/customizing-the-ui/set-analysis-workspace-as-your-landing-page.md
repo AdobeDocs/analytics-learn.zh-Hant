@@ -1,14 +1,14 @@
 ---
 title: 將Analysis Workspace設為您在Adobe Analytics的登陸頁面
 description: 本影片說明如何將Analysis Workspace的各個方面設為Adobe Analytics的登陸頁面，以簡化您的工作流程。
-feature: 工作區基本資訊
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2363
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

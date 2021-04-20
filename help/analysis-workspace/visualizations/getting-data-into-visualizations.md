@@ -1,7 +1,7 @@
 ---
 title: 將資料帶入視覺效果中
 description: 在Analysis Workspace新增視覺化時，有幾種不同的方式可將資料新增至它們，視視覺化類型而定。 此影片會示範這些方法。
-feature: 視覺效果
+feature: Visualizations
 role: Business Practitioner
 level: Beginner
 doc-type: feature video

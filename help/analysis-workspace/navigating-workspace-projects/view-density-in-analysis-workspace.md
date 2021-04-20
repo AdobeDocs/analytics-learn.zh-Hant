@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中檢視密度
 description: 「專案>資訊與設定」下方的「檢視密度」設定可讓您控制套用至左側導軌和表格（自由格式與同類群組）的垂直間距。 您可以選擇「已擴充」（預設）、「舒適」或「精簡」。
-feature: 專案
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2492
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

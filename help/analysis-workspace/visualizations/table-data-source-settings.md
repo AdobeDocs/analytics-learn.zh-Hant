@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace的表資料源設定
 description: '資料來源設定現在可從自由格式和同類群組表格中使用。 以前，資料來源只能從連結的視覺化中管理。 現在，您可以從表格設定中查看連結至該表格的視覺效果，並隱藏來源表格本身。 '
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1772
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

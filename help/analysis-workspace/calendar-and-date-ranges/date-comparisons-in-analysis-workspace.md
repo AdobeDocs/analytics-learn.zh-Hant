@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace 中的日期比較
 description: 在此影片中，我們將示範如何運用自由表格中的兩個日期比較功能-「新增時段欄」和「比較時段」。
-feature: 日曆
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23985.jpg
 kt: 2011
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

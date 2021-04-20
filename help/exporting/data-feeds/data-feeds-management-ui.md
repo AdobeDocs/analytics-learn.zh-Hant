@@ -1,14 +1,14 @@
 ---
 title: 資料摘要管理 UI
 description: 「Adobe Analytics資料饋送」可讓您匯出原始點按流資料，以匯入並合併EDW或資料湖中的其他資料來源。 您可以在Adobe Analytics建立並管理您自己的資料饋送。 這段影片會告訴您如何進行。
-feature: 資料饋送
+feature: Data Feeds
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2353
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

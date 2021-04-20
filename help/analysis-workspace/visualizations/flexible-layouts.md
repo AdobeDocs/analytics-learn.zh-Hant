@@ -1,14 +1,14 @@
 ---
 title: 有彈性的Analysis Workspace版面
 description: Freeform Analysis包含變更圖形和表格的位置、寬度和高度的功能，讓您建立更豐富的專案。 此影片顯示如何變更版面。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2137
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 在Adobe Analytics新增Dimension和量度說明
 description: 本影片將帶您瞭解如何在Adobe Analytics新增內容至報表、量度和維度。
-feature: 工作區基本資訊
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2352
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

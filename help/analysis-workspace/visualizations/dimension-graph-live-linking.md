@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace的Dimension圖即時連結
 description: 我們不太知道該怎麼稱呼它，但它很狡猾。 從尺寸值建立折線圖時，現在可以選擇不同的尺寸值並動態更改圖形。 觀看影片以進一步瞭解！
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2115
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics的序列分段
 description: 這段影片會逐步帶您瞭解如何區隔Adobe Analytics的行為順序，以及如何使用這些順序來比較行銷管道和流失。
-feature: 區段
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2302
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

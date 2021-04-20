@@ -1,14 +1,14 @@
 ---
 title: 在Analysis Workspace共用內嵌元件
 description: 有時您想要共用Analysis Workspace專案，但忘記也共用您與同事一起包含的區段和量度。 此影片說明您現在如何在共用專案的過程中共用區段和量度，讓同事每次都能看到您所要的內容。
-feature: 組織與分享
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2295
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

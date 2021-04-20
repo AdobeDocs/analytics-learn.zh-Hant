@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace項目圖可視化
 description: 項目符號圖表是顯示分析目標進展（或超出目標）的有用方式。 它們提供您另一種方式，讓您以視覺化方式呈現組織的成功。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2116
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

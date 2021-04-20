@@ -1,15 +1,15 @@
 ---
 title: 比較流失中的區段在Analysis Workspace
 description: 此影片說明如何比較Analysis Workspace不同區段的關鍵工作流程。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24046.jpg
 kt: 2278
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: 同類群組表格設定
 description: '有幾種同類群組表格設定可讓您自訂保留或流失的檢視。 在此影片中，請看到反白顯示的項目。 '
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 29433.jpg
 kt: 3972
-role: 業務從業人員
-level: 中級
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

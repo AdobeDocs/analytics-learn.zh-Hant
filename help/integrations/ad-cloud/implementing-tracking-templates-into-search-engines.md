@@ -1,15 +1,15 @@
 ---
 title: 將追蹤範本從Advertising Analytics建置到搜尋引擎
 description: 此影片將引導您逐步將追蹤範本從Advertising Analytics建置至支援的搜尋引擎。 實作追蹤範本是收集資料並將資料傳送至Adobe Analytics的重要步驟。
-feature: Advertising Cloud整合
+feature: Advertising Cloud Integration
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 1651
-topic: 整合
-role: 管理員
-level: 中級
+topic: Integrations
+role: Administrator
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

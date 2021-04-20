@@ -3,7 +3,7 @@ title: Analysis Workspace 中的標準範本
 seo-title: Analysis Workspace 中的標準範本
 description: Analysis Workspace 會提供標準範本 (以前稱為「入門專案」)，讓您的分析工作超前領先
 seo-description: Analysis Workspace 會提供標準範本 (以前稱為「入門專案」)，讓您的分析工作超前領先
-feature: 專案
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video

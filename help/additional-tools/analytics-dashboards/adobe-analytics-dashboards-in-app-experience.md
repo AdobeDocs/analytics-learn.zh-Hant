@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics 儀表板應用程式內體驗
 description: 在此影片中，瞭解如何使用Adobe Analytics儀表板（行動應用程式）存取並檢視由您建立或與您共用的「記分卡」。
-feature: Analytics儀表板
+feature: Analytics Dashboards
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5287
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

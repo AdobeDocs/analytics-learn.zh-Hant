@@ -1,10 +1,10 @@
 ---
 title: 如何設定一般帳戶設定
 description: 當您設定Adobe Analytics時，設定設定會影響資料的收集和儲存方式。 此影片會涵蓋一些一般設定。 您也可以在實施後變更這些項目，因為要讓資料更正確一點永遠不會太遲。
-feature: 報表套裝設定
-topic: 管理
-role: 管理員
-level: 初級人員
+feature: Report Suite Settings
+topic: Administration
+role: Administrator
+level: Beginner
 doc-type: feature video
 thumbnail: 332330.jpg
 kt: 7399

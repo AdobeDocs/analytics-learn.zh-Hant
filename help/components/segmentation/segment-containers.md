@@ -1,14 +1,14 @@
 ---
 title: 區隔Adobe Analytics的容器
 description: 此影片說明如何在Adobe Analytics的區段產生器中處理三種不同的區段容器類型。
-feature: 區段
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2301
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

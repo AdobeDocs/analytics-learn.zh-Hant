@@ -1,14 +1,14 @@
 ---
 title: 在 Analytics Launch 擴充功能中進行 Cookie 設定
 description: 如果您剛開始使用Launch、Adobe和Adobe Analytics分機，此影片可協助您瞭解是否以及如何在Analytics分機中設定Cookie設定。
-feature: 啟動實施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2856
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

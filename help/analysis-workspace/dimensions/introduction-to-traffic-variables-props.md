@@ -1,14 +1,14 @@
 ---
 title: '流量變數 (Props) '
 description: 在此影片中，取得流量變數的簡介，包括頁面名稱、網站區段和「prop」。
-feature: 維度
+feature: Dimensions
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3576
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

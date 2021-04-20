@@ -1,14 +1,14 @@
 ---
 title: 使用面板來整理 Analysis Workspace 專案
 description: 面板是Analysis Workspace的視覺化集合。 空白麵板和自由格式面板是您開始分析的地方，而Attribution IQ和區段比較則會為更進階的分析做許多繁重的工作。 我們現在也新增了「+」面板按鈕，讓您可以即時新增空白麵板。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1756
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

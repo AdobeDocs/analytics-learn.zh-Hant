@@ -1,15 +1,15 @@
 ---
 title: 使用累積平均函數以套用度量平滑處理
 description: 量度趨勢的時段越長，就越難判斷量度的方向趨勢。 若要解決此問題，「計算量度」中的「累積平均值」函式可用來套用平滑至Analysis Workspace的量度。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 27068.jpg
 kt: 2854
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

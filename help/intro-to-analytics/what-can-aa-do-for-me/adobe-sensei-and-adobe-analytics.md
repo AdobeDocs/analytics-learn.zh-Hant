@@ -1,13 +1,13 @@
 ---
 title: Adobe Sensei 和 Adobe Analytics
 description: Adobe Sensei 會賦予 Adobe Analytics 更具智慧，並會幫助行銷人員發現有關其客戶的有意義分析和見解。本影片還會針對 Adobe Sensei 支持的 Adobe Analytics 提供主要功能附加說明，包括異常檢測、貢獻分析、情報警示、群集，區段 IQ 和傾向性模型。
-feature: 資料科學
+feature: Data Science
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4383
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
 translation-type: ht

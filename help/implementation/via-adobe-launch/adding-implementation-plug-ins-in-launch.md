@@ -1,15 +1,15 @@
 ---
 title: 在 Launch 中新增實施外掛程式
 description: 實作外掛程式是JavaScript程式碼的一部分，您可將其新增至Analytics實作，以追蹤其他自訂資料。 請在這段影片中了解如何在 Launch 中新增程式碼，以及要新增到何處。
-feature: 啟動實施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 28772.jpg
 kt: 3594
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 減少語音應用程式中的錯誤率並提高成功率
 description: 瞭解如何運用流失率、成功率、錯誤率及備援方式等功能，為語音應用程式尋找改善的方面。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2907
-role: 業務從業人員
-level: 中級
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

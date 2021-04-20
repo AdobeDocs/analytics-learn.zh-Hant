@@ -1,14 +1,14 @@
 ---
 title: 尋找合適的 Analytics 團隊人員
 description: 在實施Adobe Analytics和分析網站活動時，請團隊中適當的人員，這非常重要。 此影片將快速列出您要填寫的不同角色。
-feature: Analytics 基本需知
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3563
-role: 管理員
-level: 初學者
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

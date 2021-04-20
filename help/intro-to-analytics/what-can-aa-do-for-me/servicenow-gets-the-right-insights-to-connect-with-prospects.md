@@ -1,13 +1,13 @@
 ---
 title: 客戶使用案例 - ServiceNow 與潛在客戶建立聯繫的深入見解和分析
 description: 了解 ServiceNow 如何透過自身行銷頻道取得可操作資料，以及如何透過 Adobe Advertising Cloud 和 Adobe Analytics 提高付費搜尋廣告的 ROI (投資回報率)。
-feature: 使用個案
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4385
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
 translation-type: ht

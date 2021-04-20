@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics區段管理與共用
 description: 此影片將示範如何在Adobe Analytics分享及管理區段。
-feature: 區段
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2305
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

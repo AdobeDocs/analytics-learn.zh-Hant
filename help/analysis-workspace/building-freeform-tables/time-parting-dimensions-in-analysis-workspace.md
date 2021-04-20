@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace 中的時間分隔維度
 description: 時間分段會擷取收集的點擊時間戳記，並將其分割為更有意義的維度，例如「一天中的某小時」或「一週中的某天」。 在Analysis Workspace，這些維度現在已經開放了。
-feature: 自由表格
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

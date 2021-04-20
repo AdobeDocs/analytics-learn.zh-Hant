@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中使用右鍵選單
 description: 瞭解如何使用Analysis Workspace的右鍵功能表，以更快速地進行劃分等。
-feature: 自由表格
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2029
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

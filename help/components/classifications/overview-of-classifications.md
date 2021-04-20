@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics分類概述
 description: 分類是將中繼資料——描述性屬性——新增至產品、促銷活動、頁面、客戶等的強大方式。 這些屬性可協助您進一步瞭解行銷和體驗工作，讓您將類似元素分組，並細分資料，深入探討對您有用、無用的功能。
-feature: 分類
+feature: Classifications
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2350
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

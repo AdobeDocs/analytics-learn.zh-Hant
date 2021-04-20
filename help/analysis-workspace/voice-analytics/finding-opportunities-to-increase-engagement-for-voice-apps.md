@@ -1,14 +1,14 @@
 ---
 title: 尋找機會提高語音應用程式的參與度
 description: 瞭解如何運用使用頻率、同類群組、造訪／使用者和作業長度等功能，深入瞭解語音應用程式的參與品質。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2906
-role: 業務從業人員
-level: 中級
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,14 +1,14 @@
 ---
 title: 在設定Analytics啟動擴充功能時使用自訂代碼
 description: 如果您剛開始使用Launch，依Adobe和Adobe Analytics擴充功能，此影片可協助您瞭解自訂程式碼視窗選項、程式碼執行的時間等。
-feature: 啟動實施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2914
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

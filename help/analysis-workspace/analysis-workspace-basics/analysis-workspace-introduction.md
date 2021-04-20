@@ -2,7 +2,7 @@
 title: 'Analysis Workspace 簡介 '
 seo-title: 'Analysis Workspace 簡介 '
 description: 快速瀏覽 Analysis Workspace，了解產品如何支援資料新手和專家。
-feature: Workspace 基本需知
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video

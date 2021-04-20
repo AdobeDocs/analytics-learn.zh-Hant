@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace的零狀態改進
 description: Zero State是Analysis Workspace的開放版面。 為協助新手和老手從Analysis Workspace獲得價值，我們改良了左側導軌、空白麵板、自由表格和拖放區域，讓使用者更直覺。
-feature: 專案
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1773
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

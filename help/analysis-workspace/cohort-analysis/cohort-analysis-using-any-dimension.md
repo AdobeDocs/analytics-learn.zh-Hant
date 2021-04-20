@@ -1,15 +1,15 @@
 ---
 title: 使用任何維度進行同類群組分析
 description: 「自訂同類群組Dimension」選項可讓您使用時間以外的維度來分析同類群組。 依行銷渠道、促銷活動地區、產品頁面等比較群組。 以進一步瞭解維度項目的保留率（或流失率）變化。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25967.jpg
 kt: 2478
-role: 業務從業人員
-level: 中級
+role: Business Practitioner
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

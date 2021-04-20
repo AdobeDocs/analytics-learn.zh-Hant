@@ -1,7 +1,7 @@
 ---
 title: 如何搜集 Analytics 資料
 description: 資料如何從您的頁面進入 Adobe Analytics 中的報告？本影片將展示如何操作。
-feature: Analytics 基本知識
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video

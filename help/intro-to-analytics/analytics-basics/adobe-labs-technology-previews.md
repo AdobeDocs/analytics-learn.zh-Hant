@@ -1,7 +1,7 @@
 ---
 title: 透過 Adobe Analytics 使用 Adobe Labs (技術預覽)
 description: Adobe Labs (技術預覽) 可讓您熟悉新興技術、探索有價值的分析和見解，並影響未來 Analytics 功能的開發和優先順序。
-feature: Analytics 基本知識
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video

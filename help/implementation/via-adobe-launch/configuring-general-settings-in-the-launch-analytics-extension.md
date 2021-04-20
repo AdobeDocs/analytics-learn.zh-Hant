@@ -1,14 +1,14 @@
 ---
 title: 在 Analytics Launch 擴充功能中進行一般設定
 description: 如果您剛開始使用Launch、依Adobe和Adobe Analytics擴充功能，此影片可協助您進行設定的一般設定部分，包括設定追蹤伺服器。
-feature: 啟動實施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2837
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

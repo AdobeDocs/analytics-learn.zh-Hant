@@ -1,7 +1,7 @@
 ---
 title: 在 Analysis Workspace 中建立和管理自訂範本
 description: 在本影片中，您將了解如何在Analysis Workspace 中建立自訂範本，以便您和您的團隊可以從一組特定報告展開作業。
-feature: 專案
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video

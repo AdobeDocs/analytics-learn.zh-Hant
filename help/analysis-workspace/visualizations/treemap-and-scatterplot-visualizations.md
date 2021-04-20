@@ -1,14 +1,14 @@
 ---
 title: 樹狀圖與Analysis Workspace散點圖視覺化
 description: Adobe Analytics的Analysis Workspace市包含兩種常用的視覺化類型：樹狀圖和散點圖。 此影片說明如何在分析中使用這兩種視覺化類型。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2117
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

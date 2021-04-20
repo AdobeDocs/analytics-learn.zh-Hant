@@ -1,15 +1,15 @@
 ---
 title: 在 Analysis Workspace 中使用區段
 description: 瞭解如何將區段套用至Analysis Workspace專案。
-feature: 區段
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2104
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

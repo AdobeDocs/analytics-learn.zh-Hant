@@ -1,14 +1,14 @@
 ---
 title: Adobe Analytics 中的資料規範和 GDPR
 description: 本視訊將引導您瞭解資料治理，以及資料標籤如何與GDPR整備整合。 它提供了使用Data Governance進行資料標籤的實際操作範例。
-feature: 隱私權
+feature: Privacy
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2361
-role: '"管理員，架構師"'
-level: 中級
+role: "Administrator, Architect"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

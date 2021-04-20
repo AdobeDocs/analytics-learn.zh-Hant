@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace的摘要數字和摘要變更視覺化
 description: 此影片顯示如何使用分析工作區中的「摘要編號」和「摘要變更」視覺化。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2136
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

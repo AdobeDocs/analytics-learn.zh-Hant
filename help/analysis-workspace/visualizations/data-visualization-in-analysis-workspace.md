@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的資料視覺效果
 description: 本課程的內容都是Analysis Workspace的視覺化。 您將學習技能和行動，協助您以最易用的格式向組織提供強大的見解。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2114
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

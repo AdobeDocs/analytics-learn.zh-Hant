@@ -1,14 +1,14 @@
 ---
 title: 無 Tag Manager 的自訂連結追蹤
 description: 對於頁面上的許多動作，追蹤不應被視為頁面檢視。 在此影片中，如果您不使用標籤管理器(如Experience Platform Launch)，您將學習如何將連結追蹤信標編碼至Analytics。 檢視程式碼，以及學習重要提示。
-feature: Appmeasurement實作
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: 「開發人員、資料工程師」
-level: 中級
+role: "Developer, Data Engineer"
+level: Intermediate
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

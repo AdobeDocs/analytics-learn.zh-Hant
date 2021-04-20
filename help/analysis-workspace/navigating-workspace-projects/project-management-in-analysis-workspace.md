@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace項目管理
 description: 此影片顯示如何管理您在Adobe AnalyticsAnalysis Workspace建立的專案。
-feature: 專案
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2034
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

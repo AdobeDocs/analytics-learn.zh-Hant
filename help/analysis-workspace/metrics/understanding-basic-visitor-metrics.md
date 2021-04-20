@@ -1,14 +1,14 @@
 ---
 title: 了解基本訪客量度
 description: 頁面檢視、瀏覽和訪客（哦，我的？）。 此短片將提供您一些瞭解這些主旨的基本資訊，以瞭解網站流量。
-feature: 量度
+feature: Metrics
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3575
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

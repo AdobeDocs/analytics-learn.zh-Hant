@@ -3,7 +3,7 @@ title: 在 Analysis Workspace 中選取報表套裝
 seo-title: 在 Analysis Workspace 中選取報表套裝 - Adobe Analytics
 description: 本影片將帶您瀏覽報表套裝選擇器。
 seo-description: 本影片將帶您瀏覽報表套裝選擇器。- Adobe Analytics
-feature: Workspace 基本需知
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video

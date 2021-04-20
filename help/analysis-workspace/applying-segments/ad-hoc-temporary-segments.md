@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace臨機（臨時）區段
 description: 您是否曾想要快速建立簡單區段以回答特定問題，然後捨棄區段，以免填入儲存的區段清單？ 現在您可以將報表!
-feature: 區段
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2010
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

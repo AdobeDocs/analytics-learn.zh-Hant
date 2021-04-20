@@ -3,16 +3,16 @@ title: Adobe Analytics的伺服器呼叫使用
 seo-title: Adobe Analytics的伺服器呼叫使用
 description: 「伺服器呼叫使用情況」報告可讓您追蹤您在任何時間點使用的伺服器呼叫承諾量，並在您接近總承諾量時主動提醒您。
 seo-description: 「伺服器呼叫使用情況」報告可讓您追蹤您在任何時間點使用的伺服器呼叫承諾量，並在您接近總承諾量時主動提醒您。
-feature: 資料設定與收集
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: 管理
-role: '"管理員，架構師"'
-level: 初學者
+topic: Administration
+role: "Administrator, Architect"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

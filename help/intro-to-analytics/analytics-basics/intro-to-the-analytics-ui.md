@@ -1,7 +1,7 @@
 ---
 title: Analytics UI 介紹
 description: 本影片旨在介紹 Adobe Analytics 介面，並顯示在實施和進行分析時如何找到所需工具。
-feature: Analytics 基本知識
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video

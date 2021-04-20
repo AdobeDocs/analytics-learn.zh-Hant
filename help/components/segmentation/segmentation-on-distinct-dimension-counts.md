@@ -1,14 +1,14 @@
 ---
 title: 不同維度數的分段
 description: 「區段產生器」中新的「區段計數」運算子可讓您根據任何維度內的獨特項目數來分段。 篩選檢視超過5個頁面的瀏覽，或購買超過5個產品的點擊（即單次訂購）。
-feature: 區段
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2918
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

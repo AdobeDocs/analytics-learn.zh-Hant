@@ -1,14 +1,14 @@
 ---
 title: 在 Analytics Launch 擴充功能中設定全域變數
 description: 如果您剛開始使用Launch，依Adobe和Adobe Analytics擴充功能，此影片可協助您瞭解設定全域變數的時機和位置，亦即您想在每個頁面上設定或按一下的值。
-feature: 啟動實施
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2855
-role: 「開發人員、資料工程師」
-level: 初學者
+role: "Developer, Data Engineer"
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace 專案共用
 description: 專案共用是開放使用者取用 Analysis Workspace 資料和深入分析的一種方式。您可以根據您希望收件者擁有的專案體驗，賦予收件者下列三個專案角色：編輯、複製和檢視。
-feature: 組織與分享
+feature: Curate and Share
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36207.jpg
 kt: 5555
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

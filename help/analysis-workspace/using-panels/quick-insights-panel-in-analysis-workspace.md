@@ -1,15 +1,15 @@
 ---
 title: Analysis Workspace 中的「快速深入分析」面板
 description: 快速深入分析為 Analysis Workspace 的非分析師和新使用者提供指引，瞭解如何快速輕鬆回答業務問題。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 37248.jpg
 kt: 5838
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

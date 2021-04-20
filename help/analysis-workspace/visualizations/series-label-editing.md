@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace系列標籤編輯
 description: 一些新功能的逐步介紹，可讓分析師和行銷人員調整圖表中的標籤，以符合您的視覺化需求。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1906
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

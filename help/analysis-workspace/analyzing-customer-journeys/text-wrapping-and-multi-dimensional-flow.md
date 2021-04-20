@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace文本包繞與多維流
 description: 此視訊示範如何開啟和關閉流程視覺化中的標籤截斷。 此外，還可瞭解如何將維度拖放至您的流程，以進行多維度的流程分析。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -9,8 +9,8 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 24041.jpg
 kt: 2281
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

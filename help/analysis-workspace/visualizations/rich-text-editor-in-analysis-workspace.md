@@ -1,14 +1,14 @@
 ---
 title: Analysis Workspace 中的 RTF 編輯器
 description: 一些新功能的逐步介紹，可讓分析人員和行銷人員將編輯套用至Analysis Workspace的文字視覺化（或說明）-粗體、斜體、標題、超連結等。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1907
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

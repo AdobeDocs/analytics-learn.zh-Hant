@@ -1,14 +1,14 @@
 ---
 title: 套用區段至您的 Analysis Workspace 專案
 description: 在此影片中，瞭解如何將區段套用至資料，以限制表格和視覺化中的資料。
-feature: 區段
+feature: Segmentation
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4107
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt

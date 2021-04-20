@@ -1,13 +1,13 @@
 ---
 title: 客戶使用案例 - Accent Group 投資於客戶體驗以促進銷售
 description: 澳洲最大的鞋類零售業 Accent Group 透過實體和數位接觸點，提供最佳客戶體驗以促進銷售和轉換率。觀看 Accent Group 集團如何使用 Adobe Experience Cloud 打造順暢的數位體驗。
-feature: 使用個案
+feature: Use Cases
 topics: null
 activity: understand
 doc-type: value video
 team: Technical Marketing
 kt: 4386
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
 level: Beginner
 exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
 translation-type: ht

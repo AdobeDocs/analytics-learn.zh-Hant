@@ -3,7 +3,7 @@ title: 使用自訂範本來帶領 Analysis Workspace 新手用戶
 seo-title: 使用自訂範本來帶領 Analysis Workspace 新手用戶
 description: 本影片將示範如何結合自訂範本與複製+貼上/插入功能，以便更有效為組織中的新手用戶提供服務。
 seo-description: 本影片將示範如何結合自訂範本與複製+貼上/插入功能，以便更有效為組織中的新手用戶提供服務。
-feature: 專案
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video

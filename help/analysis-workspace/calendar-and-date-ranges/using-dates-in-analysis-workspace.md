@@ -1,14 +1,14 @@
 ---
 title: 在 Analysis Workspace 中使用日期
 description: 「此影片說明在Freeform Analysis中處理日期的三種不同方式：日曆、日期範圍元素和詳細程度元素。 沒有出現，有點尷尬：如何使用日期來啟用折線圖。 "
-feature: 日曆
+feature: Calendar
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2014
-role: 業務從業人員
-level: 初學者
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
 workflow-type: tm+mt
