@@ -5,10 +5,10 @@ breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '1998'
+ht-degree: 99%
 
 ---
 
@@ -208,7 +208,10 @@ ht-degree: 0%
       + [在 Admin Console 限制報表套裝的存取權限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
    + 管理報表套裝 {#manage-report-suites}
       + [如何設定一般帳戶設定](administration/manage-report-suites/configuring-general-account-settings.md)
-      + [自訂日曆設定](administration/manage-report-suites/customize-calendar-settings.md)
+      + [自訂行事曆設定](administration/manage-report-suites/customize-calendar-settings.md)
+      + [自訂報告與分析中的功能表](administration/manage-report-suites/customize-menus.md)
+      + [設定尋找方法](administration/manage-report-suites/configure-finding-methods.md)
+      + [設定內部URL篩選器](administration/manage-report-suites/set-internal-url-filters.md)
       + [正進行郵遞區號和郵政編號的設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [在 Admin Console 中設定變數](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + 資料規範和 GDPR {#data-governance-and-gdpr}
@@ -372,4 +375,4 @@ ht-degree: 0%
    + [使用 Postman 發出 Adobe Analytics 2.0 API 請求](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis 使用案例{#analysis-use-cases}
    + [設定市場內郵遞區號分析](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Analytics大學課程](analytics-university/curriculum.md)
++ [Analytics University 課程](analytics-university/curriculum.md)
