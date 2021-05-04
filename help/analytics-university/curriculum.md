@@ -1,39 +1,39 @@
 ---
-title: Adobe Analytics大學課程
-description: Adobe很榮幸向您的大學介紹此Analytics基礎內容。 在課程中，您將會找到4個不同的模組，以介紹您使用Adobe Analytics的系列和報告，這些模組可分為數位分析或行銷課程。 本入門手冊將讓教授和學生獲得每年秋季參加Adobe Analytics全球挑戰所需的知識。
+title: Adobe Analytics University 課程
+description: Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您會看到 4 個旨在介紹 Adobe Analytics 集合和報告的課程模組，該課程模組可再細分為數位分析或行銷課程。此入門手冊可讓教授和學生獲得參加 Adobe Analytics 每年秋季全球挑戰賽所需的知識。
 hide: true
 hidefromtoc: true
 translation-type: tm+mt
-source-git-commit: 299d9ff15d3c2a4847e6b4f122dd80035043b41a
+source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '240'
+ht-degree: 95%
 
 ---
 
 
 
-# Adobe Analytics大學
+# Adobe Analytics University
 
-## Analytics課程內容
+## Analytics 課程內容
 
-Adobe很榮幸向您的大學介紹此Analytics基礎內容。 在課程中，您將會找到4個不同的模組，以介紹您使用Adobe Analytics的系列和報告，這些模組可分為數位分析或行銷課程。 本入門手冊將讓教授和學生獲得每年秋季參加Adobe Analytics全球挑戰所需的知識。
+Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您會看到 4 個旨在介紹 Adobe Analytics 集合和報告的課程模組，該課程模組可再細分為數位分析或行銷課程。此入門手冊可讓教授和學生獲得參加 Adobe Analytics 每年秋季全球挑戰賽所需的知識。
 
-### 以下是您將學到的：
+### 您將了解以下內容：
 
-*它以DATA開頭：*
+*這始於資料：*
 
-* 資料收集模組(1)資料實作、收集、報告與驗證的架構
-* 資料策略與架構模組(2)資料變數、策略與架構的基本概念
+* 資料收集課程模組 (1) 資料實施、收集、報告和驗證的框架
+* 資料策略和架構課程模組 (2) 資料變數、策略和架構的基本知識
 
-*接下來，您將結合該資料與見解：*
+*接著，將資料與見解相結合：*
 
-* 標準Adobe量度與功能模組(3)如何存取及檢視重要分析KPI量度和報表
-* Analysis Workspace基礎模組(4)利用分析報告視覺化功能進階
+* Adobe 標準計量和功能課程模組 (3) 如何存取及檢視重要的 KPI 計量和報告
+* Analysis Workspace 基礎課程模組 (4) 進階分析報告視覺化
 
-本課程在每個章節結尾處都有專門建立的活動，可與Adobe Analytics大學沙盒環境結合。
+在此課程的每個區段結尾，都有可與 Adobe Analytics University 沙箱環境結合的特製活動。
 
-請在此處註冊以取用：https://experienceleague.adobe.com/AnalyticsUniversity
+請在此處註冊以取用：[https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
-[下載課程PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
+[下載課程 PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
