@@ -4,11 +4,11 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1998'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -209,9 +209,9 @@ ht-degree: 99%
    + 管理報表套裝 {#manage-report-suites}
       + [如何設定一般帳戶設定](administration/manage-report-suites/configuring-general-account-settings.md)
       + [自訂行事曆設定](administration/manage-report-suites/customize-calendar-settings.md)
-      + [自訂報告與分析中的功能表](administration/manage-report-suites/customize-menus.md)
-      + [設定尋找方法](administration/manage-report-suites/configure-finding-methods.md)
-      + [設定內部URL篩選器](administration/manage-report-suites/set-internal-url-filters.md)
+      + [自訂 Reports and Analytics 中的選單](administration/manage-report-suites/customize-menus.md)
+      + [設定「尋找方法」](administration/manage-report-suites/configure-finding-methods.md)
+      + [設定內部 URL 篩選器](administration/manage-report-suites/set-internal-url-filters.md)
       + [正進行郵遞區號和郵政編號的設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [在 Admin Console 中設定變數](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
    + 資料規範和 GDPR {#data-governance-and-gdpr}
@@ -221,16 +221,16 @@ ht-degree: 99%
       + [伺服器呼叫使用量](administration/traffic-management/server-call-usage.md)
    + 記錄檔{#logs}
       + [Analysis Workspace 的「使用情況記錄追蹤」](administration/logs/usage-log-tracking-for-analysis-workspace.md)
-+ 實施作業 {#implementation}
-   + 實施作業基本需知 {#implementation-basics}
-      + [首次實施作業](implementation/implementation-basics/first-time-implementation.md)
++ 實作{#implementation}
+   + 實作基本需知 {#implementation-basics}
+      + [首次實作](implementation/implementation-basics/first-time-implementation.md)
       + [使用處理規則將 contextData 變數對應至 Props 和 Evars](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [如何識別您的 Analytics Tracking Server 和報表套裝](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [建立業務需求文件](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [建立和管理 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [在網站上使用資料圖層](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + 透過 Experience Platform Launch 進行{#via-adobe-launch}
-      + [透過 Experience Platform Launch 在網站中實施 Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-websites-with-launch/index.html)
+      + [透過 Experience Platform Launch 在網站中實作 Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-websites-with-launch/index.html)
       + [Analytics Launch 擴充功能的基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [設定 Analytics 的資料庫管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [在 Analytics Launch 擴充功能中進行一般設定](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
@@ -238,12 +238,12 @@ ht-degree: 99%
       + [在 Analytics Launch 擴充功能中進行 Cookie 設定](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [設定 Analytics Launch 擴充功能時使用自訂編碼](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [透過 Launch 使用資料圖層來設定頁面名稱和其他變數](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [在 Launch 中新增實施外掛程式](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
+      + [在 Launch 中新增實作外掛程式](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
       + [在 Adobe Analytics 擴充功能中使用 doPlugins](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [設定輕鬆下載的連結追蹤](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [設定輕鬆退出的連結追蹤](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
-      + [為您的 Analytics 實施作業準備 Experience Platform Launch](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
-      + [為您的 Analytics 實施作業在 Experience Platform Launch 中建立資料元件](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
+      + [為您的 Analytics 實作準備 Experience Platform Launch](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
+      + [為您的 Analytics 實作在 Experience Platform Launch 中建立資料元件](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
       + [在 Experience Platform Launch 中建立全域頁面規則](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
       + [在 Experience Platform Launch 中驗證您的全域頁面載入規則](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
       + [建立特別頁面的 Experience Platform Launch 規則](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
@@ -253,7 +253,7 @@ ht-degree: 99%
       + [無 Tag Manager 的自訂連結追蹤](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [不使用 Experience Platform Launch 時進行 AppMeasurement 更新](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
    + 驗證和疑難排解 {#validating-and-troubleshooting}
-      + [透過 Adobe Experience Cloud Debugger 檢查實施作業](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
+      + [透過 Adobe Experience Cloud Debugger 檢查實作](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
       + [透過 Experience Cloud Debugger 查看處理後的點閱](implementation/validating-and-troubleshooting/view-post-processed-hits-with-the-experience-cloud-debugger.md)
    + SPA 頁面 {#spa-pages}
       + [追蹤 SPA 時使用最佳實務](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
@@ -277,7 +277,7 @@ ht-degree: 99%
       + [計算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=zh-Hant)
       + [計算量度 - 量度產生器](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [計算量度 - 函數](components/calculated-metrics/calculated-metrics-functions.md)
-      + [計算量度 - 實施-較少量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
+      + [計算量度 - 實作-較少量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
       + [計算量度 - 分段量度](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
       + [計算量度 - 量度選擇器](components/calculated-metrics/calculated-metrics-metric-selector.md)
       + [Analysis Workspace 中的快捷計算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
@@ -356,14 +356,14 @@ ht-degree: 99%
    + 測量語音或音效 {#measuring-voice-or-audio}
       + [在 Analysis Workspace 中使用音效使用情況範本](media-analytics/measuring-voice-or-audio/using-the-audio-consumption-template-in-analysis-workspace.md)
 + 行動應用程式分析 {#mobile-app-analytics}
-   + 實施作業 {#implementation}
+   + 實作 {#implementation}
       + [行動應用程式的管理設定](mobile-app-analytics/implementation/admin-settings-for-mobile-apps.md)
       + [使用 Experience Platform SDK 初始化和查看生命週期量度](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [追蹤動作 (又稱為自訂連結)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [追蹤頁面狀態 (又稱為頁面或螢幕)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [iOS Swift 應用程式中的實施作業](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [iOS Objective-C 應用程式中的實施作業](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-      + [Android 應用程式中的實施作業](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+      + [iOS Swift 應用程式中的實作](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [iOS Objective-C 應用程式中的實作](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [Android 應用程式中的實作](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + 測量 Mobile Analytics {#measuring-mobile-analytics}
       + [Adobe Mobile Analytics 快速入門](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [行動歷程中的接觸點影響](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
