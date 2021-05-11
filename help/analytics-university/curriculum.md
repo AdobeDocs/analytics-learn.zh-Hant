@@ -7,7 +7,7 @@ translation-type: tm+mt
 source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
 workflow-type: tm+mt
 source-wordcount: '240'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您
 
 *先從資料開始：*
 
-* 資料收集課程模組 (1) 資料實施、收集、報告和驗證的框架
+* 資料收集課程模組 (1) 資料實作、收集、報告和驗證的框架
 * 資料策略和架構課程模組 (2) 資料變數、策略和架構的基本知識
 
 *接著，將資料與見解相結合：*
@@ -33,7 +33,7 @@ Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您
 
 在此課程的每個區段結尾，都有可與 Adobe Analytics University 沙箱環境結合的特製活動。
 
-請在此處註冊以取用：[https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
+在此註冊以取得存取權：[https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
 
 
 [下載課程 PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
