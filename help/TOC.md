@@ -4,11 +4,10 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-translation-type: ht
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
-workflow-type: ht
-source-wordcount: '1998'
-ht-degree: 100%
+source-git-commit: 1cb9e6e4903c48514a75c18e530c74f7549369b5
+workflow-type: tm+mt
+source-wordcount: '2007'
+ht-degree: 99%
 
 ---
 
@@ -52,7 +51,7 @@ ht-degree: 100%
       + [在 Adobe Analytics 中取得協助](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace 基本需知 {#analysis-workspace-basics}
-      + [Analysis Workspace 介紹](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Analysis Workspace 簡介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 概觀](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [建立全新 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [在 Analysis Workspace 中建立和管理自訂範本](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
@@ -183,7 +182,7 @@ ht-degree: 100%
       + [在自由格式表格中使用 Attribution IQ](analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.md)
       + [使用 Attribution IQ 面板](analysis-workspace/attribution-iq/using-the-attribution-iq-panel.md)
       + [對區段使用不同的 Attribution IQ 模型](analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.md)
-      + [Attribution IQ 演算法模型](analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md)
+      + [Attribution IQ 中的演算法模型](analysis-workspace/attribution-iq/algorithmic-model-in-attribution-iq.md)
       + [自訂 Attribution IQ 的回顧期間](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + 同類群組分析 {#cohort-analysis}
       + [Analysis Workspace 中的「同類群組分析」](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
@@ -318,6 +317,7 @@ ht-degree: 100%
       + [Audience Analytics - 整合 AAM 區段至 Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
    + 目標 {#target}
       + [Analysis Workspace 中的 Analytics for Target (A4T) 面板](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
+      + [使用A4T面板分析自動定位活動](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [設定 Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [實施追蹤範本至搜尋引擎](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
