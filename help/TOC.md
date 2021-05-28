@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: 04c046c74c5287ebdd1b01bc9a5586475d14363a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2017'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -374,7 +374,7 @@ ht-degree: 99%
    + [使用 Report Builder 來了解 Adobe Analytics API](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.html?lang=zh-Hant)
    + [使用 Postman 發出 Adobe Analytics 2.0 API 請求](apis/using-postman-to-make-adobe-analytics-2-0-api-requests.md)
 + Analysis 使用案例{#analysis-use-cases}
-   + 內部站點搜索{#internal-site-search}
-      + [定義您的內部站點搜索業務需求](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
+   + 內部網站搜尋 {#internal-site-search}
+      + [定義您的內部網站搜尋業務要求](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
    + [設定市場內郵遞區號分析](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University 課程](analytics-university/curriculum.md)
