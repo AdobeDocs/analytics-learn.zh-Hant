@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2042'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -376,9 +376,9 @@ ht-degree: 98%
 + Analysis 使用案例{#analysis-use-cases}
    + 內部網站搜尋 {#internal-site-search}
       + [定義您的內部網站搜尋業務要求](analysis-use-cases/internal-site-search/defining-your-internal-site-search-business-requirements.md)
-      + [使用AppMeasurement實作內部搜尋變數](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
-      + [使用Web SDK實作內部搜尋變數](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
-      + [將Web SDK變數對應至Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
-      + [設定內部網站搜尋報表](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
+      + [使用 AppMeasurement 實作內部搜尋變數](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-appmeasurement.md)
+      + [使用 Web SDK 實作內部搜尋變數](analysis-use-cases/internal-site-search/implement-internal-search-variables-using-web-sdk.md)
+      + [將 Web SDK 變數對應至 Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
+      + [設定內部網站搜尋報告](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [設定市場內郵遞區號分析](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University 課程](analytics-university/curriculum.md)
