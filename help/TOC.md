@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: cc377025e4d793a908fd6cddceb74441300f3449
-workflow-type: ht
-source-wordcount: '2042'
-ht-degree: 100%
+source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+workflow-type: tm+mt
+source-wordcount: '2067'
+ht-degree: 98%
 
 ---
 
@@ -54,6 +54,7 @@ ht-degree: 100%
       + [Analysis Workspace 簡介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 概觀](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [建立全新 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
+      + [從草稿開始建立工作區專案](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中建立和管理自訂範本](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace 中的標準範本](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [使用自訂範本來帶領 Analysis Workspace 新手用戶](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -88,6 +89,7 @@ ht-degree: 100%
       + [區段下拉區域改善](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace 提供多個報表套裝](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + 建立自由格式表格 {#building-freeform-tables}
+      + [了解您的資料 — 自由表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [在 Analysis Workspace 中使用左側邊欄建立自由格式表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [在 Analysis Workspace 中自動建立自由格式表格](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
@@ -105,6 +107,7 @@ ht-degree: 100%
    + 視覺效果 {#visualizations}
       + [Analysis Workspace 中的資料視覺效果](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [視覺效果類型](analysis-workspace/visualizations/visualization-types.md)
+      + [視覺效果使用案例](analysis-workspace/visualizations/visualization-use-cases.md)
       + [選取資料以產生視覺效果](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [將資料帶入視覺效果中](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的元件下拉選單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
@@ -157,6 +160,7 @@ ht-degree: 100%
       + [Analysis Workspace 中的日期比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [新增前一個月和前一年的趨勢比較](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + 分析客戶歷程{#analyzing-customer-journeys}
+      + [了解您的資料 — 流失和流量](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [歷程 IQ - 跨裝置分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [流失視覺效果](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [增強流失視覺效果](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -186,6 +190,7 @@ ht-degree: 100%
       + [Attribution IQ 中的自訂回顧期間](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + 同類群組分析 {#cohort-analysis}
       + [Analysis Workspace 中的「同類群組分析」](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
+      + [了解您的資料 — 同類群組表格](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [同類群組表格概觀](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [同類群組表格設定](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [使用同類群組表進行客戶流失分析](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
@@ -259,6 +264,7 @@ ht-degree: 100%
 + 元件 {#components}
    + 區段 {#segmentation}
       + [區段產生器概觀](components/segmentation/segment-builder-overview.md)
+      + [尋找和建立區段](components/segmentation/finding-and-creating-segments.md)
       + [在偱序分段中的前/後順序](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [區段中的滾動式日期範圍](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Analysis Workspace 中的區段比較](components/segmentation/segment-comparison-in-analysis-workspace.md)
