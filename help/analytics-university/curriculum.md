@@ -3,15 +3,13 @@ title: Adobe Analytics University 課程
 description: Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您會看到 4 個旨在介紹 Adobe Analytics 集合和報告的課程模組，該課程模組可再細分為數位分析或行銷課程。此入門手冊可讓教授和學生獲得參加 Adobe Analytics 每年秋季全球挑戰賽所需的知識。
 hide: true
 hidefromtoc: true
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '240'
 ht-degree: 100%
 
 ---
-
-
 
 # Adobe Analytics University
 
