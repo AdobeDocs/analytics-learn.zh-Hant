@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1824ce43c99a56d2dd4c116783e06f71c0d74a46
+source-git-commit: f28d92541b8750f8f65de64023e672f9e5a0f694
 workflow-type: tm+mt
-source-wordcount: '2067'
+source-wordcount: '2071'
 ht-degree: 98%
 
 ---
@@ -113,6 +113,7 @@ ht-degree: 98%
       + [使用 Workspace 中的元件下拉選單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [Analysis Workspace 中的線條視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [新增趨勢線條為線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [區域圖和堆疊區域圖](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [長條圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
       + [地圖視覺效果](analysis-workspace/visualizations/map-visualization.md)
