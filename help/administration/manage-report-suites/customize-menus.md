@@ -1,6 +1,6 @@
 ---
-title: 自訂報告與分析中的功能表
-description: 我們建議您使用Analysis Workspace來分析資料。 不過，如果您選擇使用「報告與分析」介面來存取您的資料，自訂功能表會很有幫助，讓您能夠快速存取所需的資料。 這段影片會帶您進行自訂。
+title: 自訂 Reports and Analytics 中的選單
+description: 建議您使用Analysis Workspace來分析資料。 不過，如果您選擇使用「Reports & Analytics」介面來存取您的資料，自訂功能表將有所幫助，讓您能夠快速存取您所需的資料。 此影片會逐步帶您了解自訂項目。
 feature: 報告套裝設定
 topic: 管理
 role: Administrator
@@ -8,19 +8,18 @@ level: Beginner
 doc-type: feature video
 thumbnail: 333035.jpg
 kt: 7707
-translation-type: tm+mt
-source-git-commit: bdb2439218cff25fc619e627546a17204ad64c3d
+exl-id: 7465f4f9-0afb-447e-a8fe-ea46ac71e439
+source-git-commit: a1606697b78d1a48d4defffac3a8524cfb7fcf54
 workflow-type: tm+mt
 source-wordcount: '136'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
+# 自訂 Reports and Analytics 中的選單
 
-# 自訂報告與分析中的功能表
-
-我們建議您使用Analysis Workspace來分析資料。 不過，如果您選擇使用「報告與分析」介面來存取您的資料，自訂功能表會很有幫助，讓您能夠快速存取所需的資料。 這段影片會帶您進行自訂。
+建議您使用Analysis Workspace來分析資料。 不過，如果您選擇使用「Reports &amp; Analytics」介面來存取您的資料，自訂功能表將有所幫助，讓您能夠快速存取您所需的資料。 此影片會逐步帶您了解自訂項目。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333035/?quality=12&learn=on)
 
-如需詳細資訊，請造訪[檔案](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/customize-menus.html)。
+有關詳細資訊，請訪問[文檔](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/customize-menus.html)。
