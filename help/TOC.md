@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: f28d92541b8750f8f65de64023e672f9e5a0f694
 workflow-type: tm+mt
 source-wordcount: '2071'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 98%
       + [Analysis Workspace 簡介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 概觀](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [建立全新 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
-      + [從草稿開始建立工作區專案](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
+      + [從頭開始建立 Workspace 專案](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中建立和管理自訂範本](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace 中的標準範本](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
       + [使用自訂範本來帶領 Analysis Workspace 新手用戶](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
@@ -89,7 +89,7 @@ ht-degree: 98%
       + [區段下拉區域改善](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace 提供多個報表套裝](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
    + 建立自由格式表格 {#building-freeform-tables}
-      + [了解您的資料 — 自由表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
+      + [了解您的資料--自由表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [在 Analysis Workspace 中使用左側邊欄建立自由格式表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [在 Analysis Workspace 中自動建立自由格式表格](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
@@ -161,7 +161,7 @@ ht-degree: 98%
       + [Analysis Workspace 中的日期比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [新增前一個月和前一年的趨勢比較](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + 分析客戶歷程{#analyzing-customer-journeys}
-      + [了解您的資料 — 流失和流量](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [了解您的資料--流失和流量](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [歷程 IQ - 跨裝置分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
       + [流失視覺效果](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
       + [增強流失視覺效果](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
@@ -191,7 +191,7 @@ ht-degree: 98%
       + [Attribution IQ 中的自訂回顧期間](analysis-workspace/attribution-iq/custom-lookback-windows-in-attribution-iq.md)
    + 同類群組分析 {#cohort-analysis}
       + [Analysis Workspace 中的「同類群組分析」](analysis-workspace/cohort-analysis/cohort-analysis-workspace.md)
-      + [了解您的資料 — 同類群組表格](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
+      + [了解您的資料--同類群組表格](analysis-workspace/cohort-analysis/understand-your-data-cohort-tables.md)
       + [同類群組表格概觀](analysis-workspace/cohort-analysis/overview-of-cohort-tables-in-analysis-workspace.md)
       + [同類群組表格設定](analysis-workspace/cohort-analysis/cohort-table-settings.md)
       + [使用同類群組表進行客戶流失分析](analysis-workspace/cohort-analysis/churn-analysis-with-cohort-tables.md)
