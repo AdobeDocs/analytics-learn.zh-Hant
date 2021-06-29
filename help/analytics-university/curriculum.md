@@ -4,10 +4,10 @@ description: Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此�
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
-source-git-commit: 43382a7de3dc0b0d65ccf8403ce200c2fd980518
+source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '244'
+ht-degree: 91%
 
 ---
 
@@ -33,7 +33,6 @@ Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您
 
 在此課程的每個區段結尾，都有可與 Adobe Analytics University 沙箱環境結合的特製活動。
 
-在此註冊以取得存取權：[https://experienceleague.adobe.com/AnalyticsUniversity](https://experienceleague.adobe.com/AnalyticsUniversity)
-
+在此處註冊以訪問：[Analytics課程註冊](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [下載課程 PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
