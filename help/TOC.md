@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 1896c5d47fcb0bdde0e6c854a78004cef32e9d90
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '2072'
+source-wordcount: '2066'
 ht-degree: 99%
 
 ---
@@ -111,15 +111,18 @@ ht-degree: 99%
       + [選取資料以產生視覺效果](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [將資料帶入視覺效果中](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的元件下拉選單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [Analysis Workspace 中的線條視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [新增趨勢線條為線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [區域圖和堆疊區域圖](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [長條圖和堆疊長條圖視覺效果](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
-      + [使用環圈圖視覺效果](analysis-workspace/visualizations/using-the-donut-visualization.md)
+      + [環形圖視覺效果](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [長條圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
+      + [Analysis Workspace 中的線條視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [新增趨勢線條為線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [地圖視覺效果](analysis-workspace/visualizations/map-visualization.md)
       + [摘要數目和摘要變動視覺效果](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
+      + [文字視覺效果](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
+      + [樹狀圖和散佈圖視覺效果](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [文氏圖表視覺效果](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [使用累積平均函數以套用度量平滑處理](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [彈性版面配置](analysis-workspace/visualizations/flexible-layouts.md)
       + [變更視覺效果的比例/軸](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
@@ -128,13 +131,10 @@ ht-degree: 99%
       + [Analysis Workspace 中的內部連結](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [正面-負面地圖主題](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [重新排列視覺效果和調整大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [Analysis Workspace 中的 RTF 編輯器](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [數列標籤編輯](analysis-workspace/visualizations/series-label-editing.md)
       + [100% 堆疊視覺效果](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [表格資料來源設定](analysis-workspace/visualizations/table-data-source-settings.md)
       + [建立時間分隔的熱度圖](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-      + [樹狀圖和散佈圖視覺效果](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
-      + [文氏圖表視覺效果](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [視覺效果資料來源設定](analysis-workspace/visualizations/visualization-data-source-settings.md)
    + 套用區段 {#applying-segments}
       + [套用區段至您的 Analysis Workspace 專案](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
