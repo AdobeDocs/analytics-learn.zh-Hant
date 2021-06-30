@@ -1,25 +1,24 @@
 ---
-title: Analysis Workspace項目圖可視化
-description: 項目符號圖表是顯示分析目標進展（或超出目標）的有用方式。 它們提供您另一種方式，讓您以視覺化方式呈現組織的成功。
-feature: Visualizations
-topics: null
+title: Analysis Workspace中的項目符號圖表視覺效果
+description: 項目符號圖表是顯示分析中目標進展（或超過）的實用方式。 它們提供您另一種視覺化組織成功的方式。
+feature: 視覺效果
 activity: use
 doc-type: feature video
-team: Technical Marketing
 kt: 2116
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
+source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 1%
+source-wordcount: '90'
+ht-degree: 8%
 
 ---
 
+#  BulletGraph視  覺化在Analysis Workspace {#bullet-graph-visualization-in-analysis-workspace}
 
-# [!UICONTROL Analysis Workspace] 的BulletGraph  視覺化  {#bullet-graph-visualization-in-analysis-workspace}
-
-[!UICONTROL 公] 告是顯示分析中目標進展（或超出目標）的有用方式。它們提供您另一種方式，讓您以視覺化方式呈現組織的成功。
+ 佈告欄是顯示分析中目標進展（或超過）的實用方式。它們提供您另一種視覺化組織成功的方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
+
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=en)。
