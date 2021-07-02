@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 5689424f4597c509ca5040f8b8f2b06a1fd60bfb
+source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
 workflow-type: tm+mt
-source-wordcount: '2066'
-ht-degree: 99%
+source-wordcount: '2065'
+ht-degree: 98%
 
 ---
 
@@ -111,17 +111,18 @@ ht-degree: 99%
       + [選取資料以產生視覺效果](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [將資料帶入視覺效果中](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的元件下拉選單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [區域圖和堆疊區域圖](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [區域圖和堆疊區域圖視覺效果](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [長條圖和堆疊長條圖視覺效果](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [環形圖視覺效果](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [長條圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
-      + [Analysis Workspace 中的線條視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [新增趨勢線條為線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [線條視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [新增趨勢線至線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [地圖視覺效果](analysis-workspace/visualizations/map-visualization.md)
       + [摘要數目和摘要變動視覺效果](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
       + [文字視覺效果](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [樹狀圖和散佈圖視覺效果](analysis-workspace/visualizations/treemap-and-scatterplot-visualizations.md)
+      + [散點圖視覺效果](analysis-workspace/visualizations/scatterplot-visualization.md)
+      + [樹狀圖視覺效果](analysis-workspace/visualizations/treemap-visualization.md)
       + [文氏圖表視覺效果](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [使用累積平均函數以套用度量平滑處理](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [彈性版面配置](analysis-workspace/visualizations/flexible-layouts.md)
