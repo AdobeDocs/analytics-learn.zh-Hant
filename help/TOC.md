@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
 workflow-type: tm+mt
 source-wordcount: '2065'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -111,7 +111,7 @@ ht-degree: 98%
       + [選取資料以產生視覺效果](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [將資料帶入視覺效果中](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的元件下拉選單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [區域圖和堆疊區域圖視覺效果](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [區域圖和堆疊區域圖 視覺效果](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [長條圖和堆疊長條圖視覺效果](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [環形圖視覺效果](analysis-workspace/visualizations/using-the-donut-visualization.md)
