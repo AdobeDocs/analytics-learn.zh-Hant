@@ -1,17 +1,17 @@
 ---
-title: Adobe Analytics教育課程
+title: Adobe Analytics 教育課程
 description: Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您會看到 4 個旨在介紹 Adobe Analytics 集合和報告的課程模組，該課程模組可再細分為數位分析或行銷課程。此入門手冊可讓教授和學生獲得參加 Adobe Analytics 每年秋季全球挑戰賽所需的知識。
 hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: 9b5969ddfb29cac1085b6b0bc7fb330333b1a58a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '244'
-ht-degree: 91%
+ht-degree: 100%
 
 ---
 
-# Adobe Analytics教育課程
+# Adobe Analytics 教育課程
 
 >[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
@@ -33,6 +33,6 @@ Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您
 
 在此課程的每個區段結尾，都有可與 Adobe Analytics University 沙箱環境結合的特製活動。
 
-在此處註冊以訪問：[Analytics課程註冊](https://experienceleague.adobe.com/landing/analytics-university/)
+在此註冊以取得存取權：[Analytics 課程註冊](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [下載課程 PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)
