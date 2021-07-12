@@ -1,27 +1,26 @@
 ---
 title: 使用同類群組表格進行延遲分析
-description: 同類群組表格中的「延遲表格」設定可讓您分析包含事件前後同類群組的行為（而不只是標準同類群組描述之後）。 例如，此設定有助於分析新產品或促銷活動啟動的影響。
-feature: Visualizations
+description: 同類群組表格中的「延時表格」設定可讓您分析包含事件前後同類群組的行為（而非像標準同類群組描述的那樣）。 例如，此設定有助於分析新產品或促銷活動啟動的影響。
+feature: 視覺效果
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 25964.jpg
 kt: 2480
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e31fc334-9a60-4b90-a126-98ff169952b3
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 18%
+source-wordcount: '120'
+ht-degree: 19%
 
 ---
 
+# 具有[!UICONTROL 同類群組表格]的延遲分析 {#latency-analysis-with-cohort-tables}
 
-# 使用[!UICONTROL 同類群組表格] {#latency-analysis-with-cohort-tables}的延遲分析
-
-[!UICONTROL 同類群組表格]中的[!UICONTROL 延遲表格]設定可讓您分析包含事件前後的[!UICONTROL 同類群組]行為（而非類似標準[!UICONTROL 同類群組]所描述）。 例如，此設定有助於分析新產品或促銷活動啟動的影響。
+[!UICONTROL 同類群組表格]中的[!UICONTROL 延時表格]設定可讓您分析包含事件前後[!UICONTROL 同類群組]的行為（而非像標準[!UICONTROL 同類群組]所描繪的行為）。 例如，此設定有助於分析新產品或促銷活動啟動的影響。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25964/?quality=12)
 
