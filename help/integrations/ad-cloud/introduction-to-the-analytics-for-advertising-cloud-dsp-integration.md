@@ -1,26 +1,25 @@
 ---
 title: Advertising Cloud DSP 整合適用的 Analytics 介紹
-description: 「Advertising Cloud DSP分析」整合是Adobe Analytics與Adobe Advertising Cloud之間的原生雙向整合。 透過此整合，客戶可以將Advertising Cloud廣告曝光的檢視次數擷取至Analytics。 然後，Analytics可以將「閱覽」連接至所有下游網站活動（就像點進）。 然後，Analytics可將量度傳回Advertising Cloud，用於進階演算法競標模型。 此影片涵蓋「檢視」的內容、整合的優點，以及在Analysis Workspace使用新Dimension/量度的幾個基本範例。
-feature: Advertising Cloud Integration
+description: Advertising Cloud DSP整合是Adobe Analytics和Adobe Advertising Cloud之間的原生雙向整合。 透過這項整合，客戶可將Advertising Cloud廣告曝光數的閱覽擷取到Analytics中。 然後Analytics就可以將閱覽連結至所有下游網站活動（就像點進一樣）。 然後Analytics可將量度傳回Advertising Cloud，以用於進階演算法競標模型。 此影片說明檢視的功能、整合的優點，以及在Analysis Workspace中使用新Dimension/量度的一些基本範例。
+feature: Advertising Cloud整合
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 2913
-topic: Integrations
-role: "Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader"
+topic: 整合
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 66fb50e7-6500-4b16-beab-7ceac17f9245
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '198'
+source-wordcount: '187'
 ht-degree: 5%
 
 ---
 
+# [!DNL Analytics for Advertising Cloud] DSP整合簡介 {#introduction-to-the-analytics-for-advertising-cloud-dsp-integration}
 
-# [!DNL Analytics for Advertising Cloud]整DSP合{#introduction-to-the-analytics-for-advertising-cloud-dsp-integration}簡介
-
-[!DNL Analytics for Advertising Cloud]整合是DSPAdobe Analytics和Adobe Advertising Cloud之間的原生雙向整合。 透過此整合，客戶可將`Viewthroughs`從Advertising Cloud廣告印象擷取至[!DNL Analytics]。 [!DNL Analytics] 然後，可將 `Viewthroughs` 連結至所有下游網站活動(如 `Clickthrough`a)。[!DNL Analytics] 然後再傳 [!DNL metrics] 回給 [!DNL Advertising Cloud] 進階算法競標模型。本視訊涵蓋`Viewthrough`、整合的優點，以及使用[!UICONTROL Analysis Workspace]中新[!UICONTROL Dimension]和[!UICONTROL 量度]的幾個基本範例。
+[!DNL Analytics for Advertising Cloud] DSP整合是Adobe Analytics與Adobe Advertising Cloud之間的原生雙向整合。 透過此整合，客戶可將`Viewthroughs`從Advertising Cloud廣告曝光次數擷取到[!DNL Analytics]中。 [!DNL Analytics] 然後可將連 `Viewthroughs` 線至所有下游網站活動(就像 `Clickthrough`)。[!DNL Analytics] 然後可傳 [!DNL metrics] 回至 [!DNL Advertising Cloud] 以用於進階演算法競標模型。此影片涵蓋`Viewthrough`的內容、整合的優點，以及在[!UICONTROL Analysis Workspace]中使用新[!UICONTROL Dimension]和[!UICONTROL 量度]的一些基本範例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27237/?quality=9)
