@@ -1,25 +1,24 @@
 ---
-title: 在Analysis Workspace切換粒度
-description: 精細度選擇器已新增至趨勢視覺化設定，可讓您非常輕鬆地從分鐘調整資料精細度，一直到一年。 該設定將同時調整圖形和源表，從而保存取消隱藏和操作表的步驟。
-feature: Visualizations
+title: 粒度切換Analysis Workspace
+description: 趨勢視覺效果設定已新增粒度選取器，可讓您輕鬆調整資料粒度，從分鐘到年。 此設定將調整圖形和源表，為您保存取消隱藏和操作表的步驟。
+feature: 視覺效果
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1770
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '110'
+source-wordcount: '107'
 ht-degree: 0%
 
 ---
 
+#  粒度切換Analysis Workspace {#granularity-toggle-in-analysis-workspace}
 
-# [!UICONTROL 詳細程] 度切換Analysis Workspace  {#granularity-toggle-in-analysis-workspace}
-
-[!UICONTROL 精細度]選擇器已新增至趨勢[!UICONTROL 視覺化]設定，可讓您輕鬆地從分鐘到年調整資料[!UICONTROL 精細度]。 該設定將同時調整圖形和源表，從而保存取消隱藏和操縱表的步驟。
+已將[!UICONTROL 粒度]選取器新增至趨勢[!UICONTROL 視覺效果]設定，讓您可以非常輕鬆地從分鐘開始調整資料[!UICONTROL 粒度]，直到一年。 此設定將調整圖形和源表格，為您保存取消隱藏和操作表格的步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
