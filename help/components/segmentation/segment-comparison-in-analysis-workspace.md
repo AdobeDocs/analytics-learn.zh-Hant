@@ -1,26 +1,25 @@
 ---
 title: Analysis Workspace 中的區段比較
-description: 瞭解行銷區段之間的真正差異向來是一個困難且耗時的程式。 細分IQ是Adobe AnalyticsAnalysis Workspace州的一部分，可透過檢查所有維度和量度的任何兩個Analytics細分，自動發現其最具統計意義的差異，簡化此分析。
-feature: Segmentation
+description: 了解行銷區段之間的真正差異向來是一項困難且耗時的程式。 區段IQ是Adobe AnalyticsAnalysis Workspace的一部分，可檢查所有維度和量度中的任意兩個Analytics區段，以自動找出統計上最顯著的差異，借此簡化此分析。
+feature: 區段
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2103
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 35ac587e-33af-4bd3-8d68-7683d09a54ee
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '122'
 ht-degree: 16%
 
 ---
 
+# [!UICONTROL Analysis Workspace 中的區段比較] {#segment-comparison-in-analysis-workspace}
 
-# Analysis Workspace 中的區段比較 {#segment-comparison-in-analysis-workspace}
-
-瞭解行銷區段之間的真正差異向來是一個困難且耗時的程式。 [!DNL Segment IQ]，位於Adobe AnalyticsAnalysis Workspace的部分地區，透過檢查所有維度和量度中的任 [!DNL Analytics]  何兩個區段，自  動發現  其最具統計意義的差異，簡化此分析。
+了解行銷區段之間的真正差異向來是一項困難且耗時的程式。 [!DNL Segment IQ]，是Adobe AnalyticsAnalysis Workspace的一部分，可透過檢查所有維度和量度中的任 [!DNL Analytics]  兩個區段來自動  找出其  在統計上最顯著的差異，簡化此分析。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23976/?quality=12)
 
