@@ -1,24 +1,23 @@
 ---
 title: 新增管理員至 Adobe Analytics
 description: 了解如何在 Adobe Admin Console 將使用者新增為管理員。
-feature: User Management
+feature: 使用者管理
 topics: null
 activity: setup
 doc-type: feature video
 team: Evangelism
 thumbnail: 37648.jpg
 kt: 5520
-topic: Administration
-role: Administrator
+topic: 管理
+role: Admin
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2d8692e0-a2f9-4edc-9a26-421aeac4a85a
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 85%
+source-wordcount: '55'
+ht-degree: 87%
 
 ---
-
 
 # 新增管理員至 Adobe Analytics
 
@@ -26,4 +25,4 @@ ht-degree: 85%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37648/?quality=12&learn=on)
 
-前往[documentation](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)瞭解更多資訊。
+前往[檔案](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)了解更多資訊。
