@@ -1,25 +1,24 @@
 ---
-title: Analysis Workspace菜單欄
-description: Analysis Workspace的更新功能表讓控制和導覽變得更輕鬆，功能表可將管理專案和分析的各種選項組織成熟悉的類別。
-feature: Projects
+title: Analysis Workspace中的功能表列
+description: Analysis Workspace更輕鬆地控制和導覽更新的功能表，將管理專案和分析的各種選項整理成熟悉的類別。
+feature: 專案
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2025
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4c05cff8-5a83-4fd5-82bd-8e6c588c4461
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '63'
 ht-degree: 1%
 
 ---
 
+# Analysis Workspace中的功能表列 {#menu-bar-in-analysis-workspace}
 
-# Analysis Workspace的菜單欄{#menu-bar-in-analysis-workspace}
-
-Analysis Workspace的更新功能表讓控制和導覽變得更輕鬆，功能表可將管理專案和分析的各種選項組織成熟悉的類別。
+Analysis Workspace更輕鬆地控制和導覽更新的功能表，將管理專案和分析的各種選項整理成熟悉的類別。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23965/?quality=12)
