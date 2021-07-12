@@ -1,25 +1,24 @@
 ---
 title: 尋找機會提高語音應用程式的參與度
-description: 瞭解如何運用使用頻率、同類群組、造訪／使用者和作業長度等功能，深入瞭解語音應用程式的參與品質。
-feature: Visualizations
+description: 了解如何運用使用頻率、同類群組、造訪/使用者和工作階段長度等功能，深入了解語音應用程式的參與品質。
+feature: 視覺效果
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2906
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: bcd89ea1-fa1b-41d1-816e-cdd9d49ae172
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 21%
+source-wordcount: '77'
+ht-degree: 22%
 
 ---
 
-
 # 尋找機會提高語音應用程式的參與度 {#finding-opportunities-to-increase-engagement-for-voice-apps}
 
-瞭解如何運用使用頻率、[!UICONTROL choort]、瀏覽／使用者和作業長度等功能，深入瞭解語音應用程式的參與品質。
+了解如何善用使用頻率、[!UICONTROL 同類群組]、造訪/使用者和工作階段長度等功能，深入了解語音應用程式的參與品質。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=9)
