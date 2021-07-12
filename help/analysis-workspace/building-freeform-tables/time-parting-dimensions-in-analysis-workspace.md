@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace 中的時間分隔維度
-description: 時間分段會擷取收集的點擊時間戳記，並將其分割為更有意義的維度，例如「一天中的某小時」或「一週中的某天」。 在Analysis Workspace，這些維度現在已經開放了。
-feature: Freeform Tables
+description: 時間分段會擷取收集到的點擊的時間戳記，並將其劃分為更有意義的維度，例如「小時」或「星期」。 這些維度現在已可在Analysis Workspace中立即使用。
+feature: 自由表格
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23727.jpg
 kt: 1903
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4d754c86-92cd-49cd-91b4-6711fbb61bf7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 21%
+source-wordcount: '90'
+ht-degree: 22%
 
 ---
 
-
 # [!DNL Time-parting] Analysis Workspace 中的維度 {#time-parting-dimensions-in-analysis-workspace}
 
-[!DNL Time-parting] 將收集的點擊時間戳記分為更有意義的維度，例如「一天中的某小時」或「一週中的某天」。在Analysis Workspace，這些維度現在已經開放了。
+[!DNL Time-parting] 取用所收集點擊的時間戳記，並將其劃分為更有意義的維度，例如「小時」或「星期」。這些維度現在已可在Analysis Workspace中立即使用。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23727/?quality=12)
 
