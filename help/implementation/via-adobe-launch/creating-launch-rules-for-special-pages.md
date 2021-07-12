@@ -1,25 +1,24 @@
 ---
 title: 建立特殊頁面的啟動規則
-description: 除了每個頁面上的資料外，您還需要在單一頁面上加入一些資料。 這段影片會告訴您如何將資料與每頁資料合併，並傳送至Adobe Analytics。
-feature: Launch Implementation
+description: 除了每個頁面上會傳入的資料之外，您還需要將一些資料放入一個頁面。 此影片會示範如何將該資料與每頁資料合併，並將其傳送至Adobe Analytics。
+feature: Launch實作
 topics: null
 activity: implement
 doc-type: feature video
 team: Technical Marketing
 kt: 3590
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 7cc9ea3e-1c31-4dac-9f7e-89f7a6ef315b
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '101'
 ht-degree: 0%
 
 ---
 
+# 為特殊頁面建立[!DNL Launch] [!UICONTROL 規則]
 
-# 為特殊頁建立[!DNL Launch] [!UICONTROL 規則]
-
-除了每個頁面上的資料外，您還需要在單一頁面上加入一些資料。 這段影片會告訴您如何將資料與每頁資料合併，並傳送至Adobe Analytics。
+除了每個頁面上會傳入的資料之外，您還需要將一些資料放入一個頁面。 此影片會示範如何將該資料與每頁資料合併，並將其傳送至Adobe Analytics。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12)
