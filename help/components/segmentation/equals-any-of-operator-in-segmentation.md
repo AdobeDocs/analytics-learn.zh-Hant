@@ -1,26 +1,25 @@
 ---
-title: 在分段中使用等於任意運算子
-description: 等於任何和不等於任何區段運算子已新增至區段產生器。 使用這些運算子來篩選特定項目的清單，而不是使用多個OR陳述式或「包含任一項」。 使用這些運算子而非包含任何運算子也有助於改善查詢速度。
-feature: Segmentation
+title: 在分段中使用等於任何運算子
+description: 區段產生器已新增「等於任何」和「不等於任何」區段運算子。 使用這些運算子來篩選特定項目的清單，而不是使用多個OR陳述式或「包含任何」。 使用這些運算子（而非包含任何）也有助於改善查詢速度。
+feature: 區段
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4844
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '141'
 ht-degree: 0%
 
 ---
 
+# 在細分中使用「等於任何」運算子
 
-# 在分段中使用「等於任一」運算子
-
-區段產生器中已新增「等於任一」和「不等於任一」區段運算子。 使用這些運算子來篩選特定項目的清單，而不是使用多個OR陳述式或「包含任何項目」。 使用這些運算子而非&#39;contains any of&#39;也有助於改善查詢速度。
+區段產生器已新增「等於任何」和「不等於任何」區段運算子。 使用這些運算子來篩選特定項目的清單，而非使用多個OR陳述式或「包含任何」。 使用這些運算子而非「包含任何」，也有助於改善查詢速度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12)
 
