@@ -1,26 +1,25 @@
 ---
-title: Analysis Workspace鍵盤快速鍵
-description: '這段視訊會透過Analysis Workspace的鍵盤快速鍵選項，來示範如何更快速且有效率地移動。 '
-feature: Workspace Basics
+title: Analysis Workspace中的鍵盤快速鍵
+description: '此影片會在Analysis Workspace中瀏覽鍵盤快速鍵選項，告訴您如何更快速、更有效率地移動。 '
+feature: Workspace 基本知識
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2031
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f344469b-b925-4978-918f-5204f6f10094
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 2%
 
 ---
 
+# Analysis Workspace中的鍵盤快速鍵 {#keyboard-shortcuts-in-analysis-workspace}
 
-# Analysis Workspace的鍵盤快速鍵{#keyboard-shortcuts-in-analysis-workspace}
-
-這段視訊會透過Analysis Workspace的鍵盤快速鍵選項，來示範如何更快速且有效率地移動。
+此影片會在Analysis Workspace中瀏覽鍵盤快速鍵選項，告訴您如何更快速、更有效率地移動。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23984/?quality=12)
 
