@@ -2,19 +2,18 @@
 title: 'Analysis Workspace 簡介 '
 seo-title: 'Analysis Workspace 簡介 '
 description: 快速瀏覽 Analysis Workspace，了解產品如何支援資料新手和專家。
-feature: Workspace Basics
+feature: Workspace 基本需知
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: TM
 kt: 3268
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: df3f1215-0458-4a9f-b408-e62e07a0b919
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '45'
 ht-degree: 100%
 
