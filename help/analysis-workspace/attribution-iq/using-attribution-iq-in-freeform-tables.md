@@ -1,33 +1,32 @@
 ---
 title: 在自由格式表格中使用 Attribution IQ
-description: Attribution IQ可讓您在自由格式欄上，將歸因模型變更為十個以規則為基礎的模型。
-feature: Attribution
+description: Attribution IQ可讓您在自由格式欄上，將歸因模型變更為十個以規則為基礎的模型中的任何一個。
+feature: 歸因
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 23136.jpg
 kt: 1661
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,adf48696-d495-43a3-9421-993434f35962
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 20%
+source-wordcount: '95'
+ht-degree: 21%
 
 ---
 
+# 在[!DNL Freeform Tables]中使用[!DNL Attribution IQ] {#using-attribution-iq-in-freeform-tables}
 
-# 在[!DNL Freeform Tables] {#using-attribution-iq-in-freeform-tables}中使用[!DNL Attribution IQ]
-
-[!DNL Attribution IQ] 可讓您在Freeform欄上  即時變更以規則為基礎的10種模  型中的任何一種歸因模型。
+[!DNL Attribution IQ] 可讓您在「自由格式」  欄中，即時變更十個以規則為基礎的模  型中的任何一個歸因模型。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12)
 
-每個歸因[!UICONTROL model]完全支援區段和劃分，並可讓您對任何維度（即使是[!DNL props]!）進行無限比較。
+每個歸因[!UICONTROL model]都完全支援分段和劃分，並可讓您對任何維度（即使[!DNL props]！）進行無限制的比較。
 
-[!DNL Attribution IQ] 僅供Analysis Workspace使用，客戶可享有以下套件：
+[!DNL Attribution IQ] 僅供Analysis Workspace使用，若客戶有下列套件：
 
 * [!DNL Adobe Analytics Foundation]
 * [!DNL Adobe Analytics Select]
