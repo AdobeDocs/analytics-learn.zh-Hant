@@ -1,26 +1,25 @@
 ---
-title: Adobe Analytics區段管理與共用
-description: 此影片將示範如何在Adobe Analytics分享及管理區段。
-feature: Segmentation
+title: 區段管理與共用Adobe Analytics
+description: 此影片會示範如何在Adobe Analytics中共用和管理區段。
+feature: 區段
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2305
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: d78f2b6f-d685-4a21-8f45-4f410c3a0e5c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 31%
+source-wordcount: '60'
+ht-degree: 33%
 
 ---
 
+#  區段管理與共用Adobe Analytics {#segment-management-and-sharing-in-adobe-analytics}
 
-# [!UICONTROL Adobe Analytics] 區段管理與共用  {#segment-management-and-sharing-in-adobe-analytics}
-
-此影片將示範如何在Adobe Analytics共用及管理[!UICONTROL 區段]。
+此影片會示範如何在Adobe Analytics中共用和管理[!UICONTROL 區段]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25402/?quality=12)
 
