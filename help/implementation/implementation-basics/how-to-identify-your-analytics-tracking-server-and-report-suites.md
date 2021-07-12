@@ -1,24 +1,23 @@
 ---
 title: 如何識別您的 Analytics Tracking Server 和報表套裝
 description: 設定 Adobe Analytics 或在其他 Experience Cloud 解決方案中引用時，您可以甚至有必要了解正在使用的 Analytics "Tracking Server"，或您的資料所要發送的「報表套裝」。本影片將展示如何找到這兩個值，無論您是否已經實施 Adobe Analytics。
-feature: Implementation Basics
+feature: 實作基本知識
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2358
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '305'
 ht-degree: 100%
 
 ---
 
-# 如何識別您的 Analytics [!DNL Tracking Server] 和[!UICONTROL 報表套裝]{#how-to-identify-your-analytics-tracking-server-and-report-suites}
+# 如何識別您的 Analytics [!DNL Tracking Server] 和[!UICONTROL 報表套裝] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
 設定 Adobe Analytics 或在其他 Experience Cloud 解決方案中引用時，您可以甚至有必要了解正在使用的 [!DNL Analytics][!DNL Tracking Server]，或也可了解您的資料所要發送的[!UICONTROL 報表套裝]。本影片將展示如何找到這兩個值，無論您是否已經實施 Adobe Analytics。
 
