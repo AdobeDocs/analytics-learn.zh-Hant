@@ -1,7 +1,7 @@
 ---
-title: Analysis Workspace文本包繞與多維流
-description: 此視訊示範如何開啟和關閉流程視覺化中的標籤截斷。 此外，還可瞭解如何將維度拖放至您的流程，以進行多維度的流程分析。
-feature: Visualizations
+title: Analysis Workspace中的文字繞排和多維度流量
+description: 此影片說明如何在流量視覺效果中開啟和關閉標籤截斷。 此外，還可學習將維度拖放至流量，以進行多維度流量分析。
+feature: 視覺效果
 topics: null
 activity: use
 doc-type: feature video
@@ -9,20 +9,19 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 24041.jpg
 kt: 2281
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: da173124-ce09-4be3-9418-8791acd16240
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 21%
 
 ---
 
+# Analysis Workspace中的文字繞排與[!DNL Multi-Dimensional Flow] {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
 
-# Analysis Workspace{#text-wrapping-multi-dimensional-flow-in-analysis-workspace}中的文字繞排和[!DNL Multi-Dimensional Flow]
-
-此視訊說明如何在[!DNL flow visualization]中開啟和關閉標籤截斷。 此外，瞭解如何將維度拖放至[!DNL flow]以進行多維度[!DNL flow]分析。
+此影片說明如何在[!DNL flow visualization]中開啟和關閉標籤截斷。 此外，還可學習將維度拖放至[!DNL flow]以進行多維度[!DNL flow]分析。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 
