@@ -1,26 +1,25 @@
 ---
 title: 在 Analysis Workspace 中展開您的第一項專案
-description: 在此影片中，您將學習如何使用預設和自訂範本在Analysis Workspace建立專案，以及如何在專案之間複製元素。
-feature: Projects
+description: 此影片會說明如何使用預設和自訂範本在Analysis Workspace中建立專案，以及如何在專案之間複製元素。
+feature: 專案
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4102
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 24%
+source-wordcount: '83'
+ht-degree: 25%
 
 ---
 
-
 # 在 Analysis Workspace 中展開您的第一項專案
 
-在此影片中，您將學習如何使用預設和自訂範本在Analysis Workspace建立專案，以及如何在專案之間複製元素。
+此影片會說明如何使用預設和自訂範本在Analysis Workspace中建立專案，以及如何在專案之間複製元素。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
 
