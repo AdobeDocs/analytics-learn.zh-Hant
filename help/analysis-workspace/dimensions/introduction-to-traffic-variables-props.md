@@ -1,25 +1,24 @@
 ---
-title: '流量變數 (Props) '
-description: 在此影片中，取得流量變數的簡介，包括頁面名稱、網站區段和「prop」。
-feature: Dimensions
+title: 流量變數 (Prop) 簡介
+description: 在此影片中，概略介紹流量變數，包括頁面名稱、網站區段和「prop」。
+feature: 維度
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3576
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e5ccac21-d0ac-4882-b8aa-0da749cbf6e7
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '46'
+source-wordcount: '43'
 ht-degree: 13%
 
 ---
 
+# 流量變數簡介([!UICONTROL Prop])
 
-# 流量變數簡介([!UICONTROL Props])
-
-在此影片中，瞭解流量變數的簡介，包括[!UICONTROL 頁面名稱]、[!UICONTROL 網站區域]和&quot;[!UICONTROL props]&quot;。
+在此影片中，了解流量變數的簡介，包括[!UICONTROL 頁面名稱]、[!UICONTROL 網站區域]和&quot;[!UICONTROL props]&quot;。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12)
