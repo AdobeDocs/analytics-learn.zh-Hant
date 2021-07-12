@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace 深色模式擴充功能
 description: 啟用 Dark Reader Chrome 擴充功能，將 Analysis Workspace 變暗。
-feature: Workspace Basics
+feature: Workspace 基本知識
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 5034
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ae36e538-7ed7-4ca1-a321-a952ee405a9c
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 43%
+source-wordcount: '50'
+ht-degree: 50%
 
 ---
 
-
 # Analysis Workspace 深色模式擴充功能
 
-啟用深色Reader鉻延伸模組，將[!UICONTROL Analysis Workspace]變暗。
+啟用深色ReaderChrome擴充功能，將[!UICONTROL Analysis Workspace]變暗。
 
 >[!VIDEO](https://video.tv.adobe.com/v/33774/?quality=12)
 
-**注意：** 此為公開的Chrome擴充功能，不與Adobe產品相關。
+**注意：** 此為公開Chrome擴充功能，不與Adobe產品關聯。
