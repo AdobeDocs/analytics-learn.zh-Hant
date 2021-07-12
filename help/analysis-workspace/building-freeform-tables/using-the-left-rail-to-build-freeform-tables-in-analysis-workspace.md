@@ -1,26 +1,25 @@
 ---
 title: 在 Analysis Workspace 中使用左側邊欄建立自由格式表格
-description: 瞭解如何使用Analysis Workspace的左側邊欄來尋找、建立項目，以及新增項目至自由表格。
-feature: Freeform Tables
+description: 了解如何使用Analysis Workspace中的左側邊欄來尋找、建立項目，以及將其新增至自由表格。
+feature: 自由表格
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40089.jpg
 kt: 6161
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 60611747-80c7-4bd0-88b8-a36fb420d290
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '65'
-ht-degree: 36%
+source-wordcount: '62'
+ht-degree: 38%
 
 ---
 
-
 # 在 Analysis Workspace 中使用左側邊欄建立自由格式表格
 
-瞭解如何使用Analysis Workspace的左側邊欄來尋找、建立項目，以及新增項目至自由表格。
+了解如何使用Analysis Workspace中的左側邊欄來尋找、建立項目，以及將其新增至自由表格。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
