@@ -1,7 +1,7 @@
 ---
-title: 使用Analysis Workspace的Attribution IQ小組
-description: 在這段影片中，您將看到Attribution IQ小組，這是您建立歸因Analysis Workspace專案時的絕佳起點。
-feature: Attribution
+title: 在Analysis Workspace中使用Attribution IQ面板
+description: 此影片中會顯示「Attribution IQ面板」，這是您建立歸因Analysis Workspace專案時的絕佳起點。
+feature: 歸因
 topics: null
 activity: use
 doc-type: feature video
@@ -9,24 +9,23 @@ author: Doug Moore
 team: Technical Marketing
 thumbnail: 23139.jpg
 kt: 1667
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9,2c265c0b-5d5e-435f-9fdd-086f7faa0bd9
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '119'
 ht-degree: 4%
 
 ---
 
+# 在Analysis Workspace中使用[!DNL Attribution IQ] [!UICONTROL 面板] {#using-the-attribution-iq-panel-in-analysis-workspace}
 
-# 使用Analysis Workspace{#using-the-attribution-iq-panel-in-analysis-workspace}中的[!DNL Attribution IQ][!UICONTROL 面板]
-
-在此影片中，您將看到[!DNL Attribution IQ] [!UICONTROL  Panel]，這是您建立歸因Analysis Workspace專案時的絕佳起點。
+此影片中會顯示[!DNL Attribution IQ] [!UICONTROL 面板]，這是您建立歸因Analysis Workspace專案時的絕佳起點。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23139/?quality=12)
 
-Analysis Workspace的[!DNL Attribution IQ][!UICONTROL 面板]是以視覺化方式快速比較十個以規則為基礎的[!DNL attribution models]中任何一個的方式。 瞭解每個模型如何使用[!DNL Bar Charts]、[!DNL Venn diagrams]、[!DNL Histograms]、[!DNL Scatter Plots]甚至[!DNL Flow Diagram]影響任何維度。 [!DNL Attribution] [!UICONTROL Panel]是更精密歸因分析的絕佳起點。
+Analysis Workspace中的[!DNL Attribution IQ] [!UICONTROL 面板]是以視覺化方式快速比較十個以規則為基礎的[!DNL attribution models]之一的方法。 查看每個模型如何使用[!DNL Bar Charts]、[!DNL Venn diagrams]、[!DNL Histograms]、[!DNL Scatter Plots]甚至[!DNL Flow Diagram]影響任何維。 [!DNL Attribution] [!UICONTROL 面板]是更精密歸因分析的絕佳起點。
 
 ## 其他資源 {#additional-resources}
 
