@@ -1,18 +1,17 @@
 ---
 title: Analysis Workspace 的元件管理
 description: 您可以直接在 Analysis Workspace 中管理維度、區段、量度和日期範圍。當您找到要共用的區段時，無需離開專案。
-feature: Workspace Basics
+feature: Workspace 基本知識
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1988
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 6778e714-3fe9-479f-aacd-d1e702e2c584
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 100%
 
