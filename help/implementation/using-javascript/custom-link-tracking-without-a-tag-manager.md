@@ -1,37 +1,36 @@
 ---
 title: 無 Tag Manager 的自訂連結追蹤
-description: 對於頁面上的許多動作，追蹤不應被視為頁面檢視。 在此影片中，如果您不使用標籤管理器(如Experience Platform Launch)，您將學習如何將連結追蹤信標編碼至Analytics。 檢視程式碼，以及學習重要提示。
-feature: Appmeasurement Implementation
+description: 對於頁面上的許多動作，追蹤不應視為頁面檢視。 如果您未使用標籤管理程式(如Experience Platform Launch)，您將學習如何將連結追蹤信標編碼至Analytics。 請參閱程式碼，並學習重要秘訣。
+feature: Appmeasurement實作
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1845
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '297'
+source-wordcount: '293'
 ht-degree: 8%
 
 ---
 
-
 # 無 Tag Manager 的自訂連結追蹤 {#custom-link-tracking-without-a-tag-manager}
 
-對於頁面上的許多動作，追蹤不應被視為頁面檢視。 在此影片中，如果您未使用標籤管理器(例如Adobe[!DNL Experience Platform Launch])，您將學習如何將連結追蹤信標編碼至Analytics。 檢視程式碼，以及學習重要提示。
+對於頁面上的許多動作，追蹤不應視為頁面檢視。 如果您未使用標籤管理程式(例如Adobe[!DNL Experience Platform Launch])，您將學習如何將連結追蹤信標編碼至Analytics。 請參閱程式碼，並學習重要秘訣。
 
-## 傳送s.tl()信標{#sending-an-s-tl-beacon}
+## 傳送s.tl()信標 {#sending-an-s-tl-beacon}
 
-將資料發送到Adobe Analytics有兩個功能：
+有兩個函式可將資料傳送至Adobe Analytics:
 
-1. s.t()- 「track」信標，即頁面檢視點擊、增加指定頁面名稱的頁面檢視，以及設定其他變數
-1. s.tl()- 「追蹤連結」信標，通常稱為「自訂連結」點擊／信標，不會增加頁面檢視，並會忽略pageName變數。 這通常用於追蹤未載入新頁面／畫面之頁面上的較小動作，或其他未導致新頁面載入的動作。
+1. s.t()- 「track」信標（即頁面檢視點擊）會遞增指定頁面名稱的頁面檢視，以及設定其他變數
+1. s.tl()- 「追蹤連結」信標，通常稱為「自訂連結」點擊/信標，不會遞增頁面檢視，並會忽略pageName變數。 這通常用於追蹤未載入新頁面/畫面之頁面上的較小動作，或不導致新頁面載入的其他動作。
 
 >[!NOTE]
 >
->在此影片中，我們將示範如何在您未使用標籤管理器(例如Adobe[!DNL Experience Platform Launch])時，對自訂連結點擊進行編碼。 我們建議您使用[!DNL Experience Platform Launch]，這是我們實施的最佳實務建議。 不過，如果您需要在`s.tl()`中編寫程式碼，請參閱以下說明如何執行。
+>此影片會示範當您未使用Adobe[!DNL Experience Platform Launch]之類的標籤管理程式時，如何編寫自訂連結點擊的程式碼。 建議您使用[!DNL Experience Platform Launch]，我們的實作最佳實務建議。 不過，如果您需要在`s.tl()`中編寫程式碼，以下說明操作方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
@@ -51,4 +50,4 @@ ht-degree: 8%
 </a>
 ```
 
-有關自訂連結的詳細資訊，請參閱[documentation](https://marketing.adobe.com/resources/help/zh_TW/sc/implement/function_tl.html)。
+如需自訂連結的詳細資訊，請參閱[檔案](https://marketing.adobe.com/resources/help/zh_TW/sc/implement/function_tl.html)。
