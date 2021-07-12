@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace 中的「流量分析」
-description: 這段視訊會帶您檢視Analysis Workspace的流量視覺化。 您可以使用「流量」來展示和探索使用者的動向，以便更好地瞭解客戶歷程。
-feature: Visualizations
+description: 此影片會帶您觀看Analysis Workspace中的「流量」視覺效果。 您可以使用流量來顯示和探索使用者移動，以更清楚了解您的客戶歷程。
+feature: 視覺效果
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 24045.jpg
 kt: 2279
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 888fec4a-308d-4a05-9c7b-a4b4deba09b1
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 30%
+source-wordcount: '76'
+ht-degree: 31%
 
 ---
 
+# [!DNL Flow Visualization] 在Analysis Workspace {#flow-visualization-in-analysis-workspace}
 
-# [!DNL Flow Visualization] Analysis Workspace  {#flow-visualization-in-analysis-workspace}
-
-這段視訊會帶您瀏覽Analysis Workspace的[!DNL Flow visualization]。 您可以使用[!DNL Flow]來顯示和探索使用者動作，以便更好地瞭解[!DNL customer journey]。
+此影片會帶您逐步了解Analysis Workspace的[!DNL Flow visualization]。 您可以使用[!DNL Flow]來顯示和探索使用者移動，以便更清楚了解您的[!DNL customer journey]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24045/?quality=12)
 
