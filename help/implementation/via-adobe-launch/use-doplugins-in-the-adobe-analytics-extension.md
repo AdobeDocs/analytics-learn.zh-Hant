@@ -1,25 +1,24 @@
 ---
 title: 在 Adobe Analytics 擴充功能中使用 doPlugins
-description: 瞭解如何使用Experience Platform Launch，以運用doPlugins功能，進一步控制您的Adobe Analytics點擊。
-feature: Launch Implementation
+description: 了解如何使用Experience Platform Launch，透過運用doPlugins功能，進一步掌控Adobe Analytics點擊。
+feature: Launch實作
 topics: null
 activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 1994
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 2c6b5d24-9a7f-47ea-a239-d0f8784029df
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 11%
+source-wordcount: '57'
+ht-degree: 12%
 
 ---
 
+# 在Adobe Analytics [!UICONTROL Extension]中使用doPlugins {#use-doplugins-in-the-adobe-analytics-extension}
 
-# 在Adobe Analytics[!UICONTROL 擴充功能] {#use-doplugins-in-the-adobe-analytics-extension}中使用doPlugins
-
-瞭解如何使用Adobe[!DNL Experience Platform Launch]，以利用`doPlugins`功能，對您的Adobe Analytics點擊擁有更多控制權。
+了解如何使用Adobe[!DNL Experience Platform Launch]，善用`doPlugins`功能，進一步控制Adobe Analytics點擊。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25171?quality=12)
