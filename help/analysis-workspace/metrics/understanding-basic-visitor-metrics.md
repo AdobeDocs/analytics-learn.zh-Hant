@@ -1,25 +1,24 @@
 ---
 title: 了解基本訪客量度
-description: 頁面檢視、瀏覽和訪客（哦，我的？）。 此短片將提供您一些瞭解這些主旨的基本資訊，以瞭解網站流量。
-feature: Metrics
+description: 頁面檢視、瀏覽和訪客（哦，我？）。 此簡短影片將提供一些基本資訊，協助您了解這些主用檔案，以了解網站流量。
+feature: 量度
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3575
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: efc12fc6-c031-4c50-832a-786c84e76151
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 14%
+source-wordcount: '59'
+ht-degree: 15%
 
 ---
 
-
 # 了解基本訪客量度
 
-[!UICONTROL 頁面檢視]、 [!UICONTROL 瀏覽和]訪客  （哦，我的？）。此短片將提供您一些瞭解這些主旨的基本資訊，以瞭解網站流量。
+[!UICONTROL 頁面檢視]、 [!UICONTROL 瀏覽]和 [!UICONTROL 訪客] （哦，我的？）。此簡短影片將提供一些基本資訊，協助您了解這些主用檔案，以了解網站流量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12)
