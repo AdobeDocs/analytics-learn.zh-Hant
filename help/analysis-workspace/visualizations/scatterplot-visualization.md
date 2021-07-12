@@ -2,12 +2,12 @@
 title: 散點圖視覺效果
 description: 透過此視覺效果，您可以查看維度的多個量度之間的關係，在X/Y圖上繪製項目圖形。 發掘異常值和洞察力，協助您做出業務決策。
 feature: 視覺效果
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334459.jpg
 kt: 8188
-source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '88'
 ht-degree: 9%
