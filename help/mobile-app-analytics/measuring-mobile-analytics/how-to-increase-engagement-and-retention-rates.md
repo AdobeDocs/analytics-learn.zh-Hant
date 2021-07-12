@@ -1,18 +1,17 @@
 ---
 title: 如何提高參與度和駐留率
 description: 使用同類群組的行為來識別參與的對象，並了行動應用程式中促成綁定的根本原因。使用市場 IQ 中的資料科學算法，了解市場之間的差異和相似性。
-feature: Workspace Basics
+feature: Workspace 基本知識
 topics: mobile
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3054
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 4caefb24-c8a9-468e-9ab4-9422e7dcca69
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 100%
 
