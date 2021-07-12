@@ -1,26 +1,25 @@
 ---
 title: 自由格式表格中的列和欄設定
-description: 瞭解Analysis Workspace自由表格中的設定，以及這些設定對進入這些表格的資料有何影響。
-feature: Freeform Tables
+description: 了解Analysis Workspace中自由表格的設定，以及這些設定如何影響進入這些表格的資料。
+feature: 自由表格
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 40382.jpg
 kt: 6225
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 976119f0-16b7-4d36-8d0e-0a552c83a614
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '59'
-ht-degree: 27%
+source-wordcount: '56'
+ht-degree: 28%
 
 ---
 
-
 # 自由格式表格中的列和欄設定
 
-瞭解Analysis Workspace自由表格中的設定，以及這些設定對進入這些表格的資料有何影響。
+了解Analysis Workspace中自由表格的設定，以及這些設定如何影響進入這些表格的資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40382/?quality=12&learn=on)
