@@ -7,18 +7,17 @@ activity: use
 doc-type: technical video
 team: Technical Marketing
 kt: 2387
-role: "Developer, Data Engineer"
+role: Developer, Data Engineer
 level: Experienced
 exl-id: 0b0e73f8-921d-40ad-b93d-98a1cbc020c8
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 
 ---
 
-# 使用 [!DNL Postman] 發出 Adobe Analytics 2.0 API 請求{#using-postman-to-make-adobe-analytics-api-requests}
+# 使用 [!DNL Postman] 發出 Adobe Analytics 2.0 API 請求 {#using-postman-to-make-adobe-analytics-api-requests}
 
 本影片將逐步展示如何設定 [!DNL Postman] (API 用戶端) 來發送 Adobe Analytics 2.0 API 請求；其中包括設定 Adobe I/O 整合 (注意：您必須是 Experience Cloud 系統管理員才能進行這項設定)；您可在此查詢您的全球公司 ID 等。
 
