@@ -1,25 +1,24 @@
 ---
-title: 轉換變數 (eVars) 介紹
-description: 在此影片中，取得轉換變數的簡介，也稱為「eVar」。 同時瞭解流量和轉換變數之間的差異，以及它們與轉換事件的關聯。
-feature: Dimensions
+title: 轉換變數 (eVar) 簡介
+description: 在此影片中，概略介紹轉換變數，也稱為「eVar」。 同時了解流量和轉換變數之間的差異，以及它們與轉換事件的關聯方式。
+feature: 維度
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3577
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 4f7bedec-efca-46e8-981a-18118982012f
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '69'
-ht-degree: 8%
+source-wordcount: '66'
+ht-degree: 9%
 
 ---
 
-
 # 轉換變數簡介([!DNL eVars])
 
-在此影片中，請瞭解轉換變數的簡介，也稱為&quot;[!DNL eVars]&quot;。 同時瞭解流量和轉換變數之間的差異，以及它們與轉換[!DNL events]的關聯。
+在此影片中，了解轉換變數的簡介，也稱為「[!DNL eVars]」。 也了解流量和轉換變數之間的差異，以及它們與轉換[!DNL events]的關聯性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12)
