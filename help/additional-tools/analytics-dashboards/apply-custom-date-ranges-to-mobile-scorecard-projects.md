@@ -1,26 +1,25 @@
 ---
-title: 將自訂日期範圍套用至Mobile Scorecard專案
-description: 此影片說明當您針對行動裝置設定分析專案時，如何管理不同的日期範圍選項，包括選擇您要顯示的現成可用範圍，以及建立您自己的自訂日期範圍。
-feature: Analytics Dashboards
-topic: Mobile
-role: Business Practitioner
+title: 套用自訂日期範圍到行動計分卡專案
+description: 此影片說明當您為行動裝置設定分析專案時，如何管理日期範圍的不同選項，包括選擇您要顯示的現成可用範圍，以及建立您自己的自訂日期範圍。
+feature: Analytics 儀表板
+topic: 行動裝置
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440
-translation-type: tm+mt
-source-git-commit: 292ef7c2a104e578ecdb677c516860c4985373c0
+exl-id: feb04719-8d70-403d-9546-f42a32442113
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 9%
+source-wordcount: '115'
+ht-degree: 28%
 
 ---
 
+# 套用自訂日期範圍到行動計分卡專案
 
-# 將自訂日期範圍套用至Mobile Scorecard專案
-
-此影片說明當您針對行動裝置設定分析專案時，如何管理不同的日期範圍選項，包括選擇您要顯示的現成可用範圍，以及建立您自己的自訂日期範圍。
+此影片說明當您為行動裝置設定分析專案時，如何管理日期範圍的不同選項，包括選擇您要顯示的現成可用範圍，以及建立您自己的自訂日期範圍。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
-如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html)。
+如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=zh-Hant)。
