@@ -7,19 +7,18 @@ activity: implement
 doc-type: technical video
 team: Technical Marketing
 kt: 2563
-topic: Mobile
-role: "Developer, Data Engineer"
+topic: 行動裝置
+role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 100%
 
 ---
 
-# 透過 Experience Platform SDK 追蹤行動應用程式內的動作 (又稱客戶連結) {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
+# 透過 Experience Platform SDK 追蹤行動應用程式內的行動 (又稱客戶連結) {#tracking-actions-aka-custom-links-in-a-mobile-app-with-the-experience-platform-sdk}
 
 動作是指行動應用程式中發生的事件。在本影片中，了解如何使用 trackAction API 來追蹤和衡量一項動作。
 
