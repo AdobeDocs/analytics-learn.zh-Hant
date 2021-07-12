@@ -1,25 +1,24 @@
 ---
-title: 變更Analysis Workspace視覺化的比例／軸
-description: 本影片說明如何輕鬆變更Analysis Workspace線圖上Y軸的比例（或軸限制），讓您和其他人更難誤讀資料。
-feature: Visualizations
+title: 變更Analysis Workspace中視覺效果的縮放/軸
+description: 此影片說明如何輕鬆變更Analysis Workspace中折線圖上Y軸的縮放（或軸限），讓您和其他人更難誤譯資料。
+feature: 視覺效果
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2133
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: c76d8252-d6b7-48d7-b75e-3f8bedc50815
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '87'
 ht-degree: 1%
 
 ---
 
+# 變更[!UICONTROL 視覺效果]上的縮放/軸(Analysis Workspace) {#changing-the-scale-axis-on-visualizations-in-analysis-workspace}
 
-# 變更Analysis Workspace{#changing-the-scale-axis-on-visualizations-in-analysis-workspace}中[!UICONTROL 視覺化]的比例／軸
-
-此影片說明如何輕鬆變更Analysis Workspace[!UICONTROL 折線]圖表上Y軸的比例（或軸限制），讓您和其他人更難誤讀資料。
+本影片說明如何輕鬆變更Analysis Workspace中[!UICONTROL 折線圖]上Y軸的比例（或軸限），讓您和其他人更難誤譯資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12)
