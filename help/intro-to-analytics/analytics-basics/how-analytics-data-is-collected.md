@@ -1,18 +1,17 @@
 ---
 title: 如何搜集 Analytics 資料
 description: 資料如何從您的頁面進入 Adobe Analytics 中的報告？本影片將展示如何操作。
-feature: Analytics Basics
+feature: Analytics 基本知識
 topics: null
 activity: understand
 doc-type: feature video
 team: Technical Marketing
 kt: 3565
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 9d823311-8679-4d5b-873d-1ae0a49bbd7a
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '47'
 ht-degree: 100%
 
