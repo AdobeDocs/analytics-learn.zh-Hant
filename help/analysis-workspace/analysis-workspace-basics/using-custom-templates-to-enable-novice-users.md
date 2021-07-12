@@ -3,19 +3,18 @@ title: 使用自訂範本來帶領 Analysis Workspace 新手用戶
 seo-title: 使用自訂範本來帶領 Analysis Workspace 新手用戶
 description: 本影片將示範如何結合自訂範本與複製+貼上/插入功能，以便更有效為組織中的新手用戶提供服務。
 seo-description: 本影片將示範如何結合自訂範本與複製+貼上/插入功能，以便更有效為組織中的新手用戶提供服務。
-feature: Projects
+feature: 專案
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1694
-role: Business Practitioner
+role: User
 level: Intermediate
 exl-id: 9766aff9-1025-43a1-bdf3-3559d48060a1
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '146'
 ht-degree: 100%
 
