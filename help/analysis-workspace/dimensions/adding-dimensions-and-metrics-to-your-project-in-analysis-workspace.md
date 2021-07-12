@@ -1,26 +1,25 @@
 ---
 title: 在 Analysis Workspace 中新增維度和量度至您的專案
-description: 在此影片中，瞭解維度和量度、它們之間的差異，以及如何將它們新增至Analysis Workspace的表格和視覺化。 同時也瞭解如何新增現成可用的計算量度。
-feature: Dimensions
+description: 此影片可讓您了解維度和量度、維度和量度之間的差異，以及如何將維度和量度新增至表格和Analysis Workspace中的視覺效果。 同時也了解如何新增現成可用的計算量度。
+feature: 維度
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4104
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725,01466500-25ef-40d5-9ae1-ce1e0e92b0b5,01466500-25ef-40d5-9ae1-ce1e0e92b0b5,748ba7ff-a75d-4ecb-a5d8-5451d1922725
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '106'
-ht-degree: 25%
+source-wordcount: '103'
+ht-degree: 26%
 
 ---
 
+# 新增[!UICONTROL Dimension]和[!UICONTROL 量度]至您在Analysis Workspace的專案
 
-# 將[!UICONTROL Dimension]和[!UICONTROL 度量]新增至您在Analysis Workspace的專案
-
-在此影片中，請瞭解[!UICONTROL 維度]和[!UICONTROL 度量]、它們之間的差異，以及如何將它們新增至您在Analysis Workspace的表格和視覺化。 也瞭解如何新增現成可用的[!UICONTROL 計算量度]。
+此影片可讓您了解[!UICONTROL 維度]和[!UICONTROL 量度]之間的差異，以及如何將它們新增至您的表格和Analysis Workspace中的視覺效果。 也了解如何新增現成可用的[!UICONTROL 計算量度]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12)
 
