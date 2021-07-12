@@ -1,27 +1,26 @@
 ---
 title: Analysis Workspace 中的「媒體同時檢閱者」面板
-description: 對於Media Analytics客戶，「媒體並行檢視器」面板可讓您瞭解並行性最高的發生位置，或中斷的發生位置，以便提供內容品質和檢視器參與度的寶貴洞見，並協助排除故障或規劃大量／規模。
-feature: Panels
+description: 「媒體同時檢閱者」面板可供Media Analytics客戶了解人數高峰或趨勢反轉的時間，以針對內容品質和檢視者互動提供重要的深入分析，並協助疑難排解或針對數量/規模進行規劃。
+feature: 面板
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 330177.jpg
 kt: 6834
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 3ba5f76d-cab4-4014-b377-9083dbfea1a0
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: '118'
 ht-degree: 17%
 
 ---
 
-
 # Analysis Workspace 中的「媒體同時檢閱者」面板
 
-對於Media Analytics客戶，「媒體並行檢視器」面板可讓您瞭解並行性最高的發生位置，或中斷的發生位置，以便提供內容品質和檢視器參與度的寶貴洞見，並協助排除故障或規劃大量／規模。
+「媒體同時檢閱者」面板可供Media Analytics客戶了解人數高峰或趨勢反轉的時間，以針對內容品質和檢視者互動提供重要的深入分析，並協助疑難排解或針對數量/規模進行規劃。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 
