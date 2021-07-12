@@ -2,12 +2,12 @@
 title: 樹狀圖視覺效果
 description: 了解如何在Analysis Workspace專案中新增和設定樹狀圖視覺效果。 此視覺效果可協助您一次以視覺化方式分析許多資料點。
 feature: 視覺效果
-role: Business Practitioner
+role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334458.jpg
 kt: 8186
-source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
 source-wordcount: '78'
 ht-degree: 10%
