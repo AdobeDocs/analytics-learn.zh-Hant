@@ -1,24 +1,23 @@
 ---
 title: 建立 Analytics 區段以利執行啟動和報表彙整作業
 description: 使用 Advertising Cloud 維度建立區段，以簡化報表和分析作業。
-feature: Advertising Cloud Integration
+feature: Advertising Cloud整合
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 35117.jpg
 kt: 5474
-topic: Integrations
-role: Business Practitioner
+topic: 整合
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: 0df46be9-bae9-4792-912a-7c95a7fce4ee
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '45'
-ht-degree: 86%
+source-wordcount: '42'
+ht-degree: 92%
 
 ---
-
 
 # 建立 Analytics 區段以利執行啟動和報表彙整作業
 
