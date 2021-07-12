@@ -1,26 +1,25 @@
 ---
-title: Adobe Analytics分類概述
-description: 分類是將中繼資料——描述性屬性——新增至產品、促銷活動、頁面、客戶等的強大方式。 這些屬性可協助您進一步瞭解行銷和體驗工作，讓您將類似元素分組，並細分資料，深入探討對您有用、無用的功能。
-feature: Classifications
+title: Adobe Analytics中的分類概觀
+description: 分類是將中繼資料（描述性屬性）新增至產品、行銷活動、頁面、客戶等的強大方式。 這些屬性可讓您將類似的元素分組並劃分資料，深入探討哪些元素對您有用，哪些不適用，借此協助您更清楚了解行銷和體驗工作。
+feature: 分類
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2350
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: bca1c26b-d3dc-4f70-a406-0fe0bdf8d0a8
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '137'
+source-wordcount: '134'
 ht-degree: 13%
 
 ---
 
+# Adobe Analytics中的[!UICONTROL 分類]概觀 {#overview-of-classifications-in-adobe-analytics}
 
-# Adobe Analytics{#overview-of-classifications-in-adobe-analytics}[!UICONTROL 分類]概觀
-
-[!UICONTROL 分] 類是將中繼資料——描述性屬性——新增至產品、促銷活動、頁面、客戶等等的強大方式。這些屬性可協助您進一步瞭解行銷和體驗工作，讓您將類似元素分組，並細分資料，深入探討對您有用、無用的功能。
+ 分類是將中繼資料（描述性屬性）新增至產品、行銷活動、頁面、客戶等的強大方式。這些屬性可讓您將類似的元素分組並劃分資料，深入探討哪些元素對您有用，哪些不適用，借此協助您更清楚了解行銷和體驗工作。
 
 >[!VIDEO](https://video.tv.adobe.com/v/16853/?quality=12)
 
