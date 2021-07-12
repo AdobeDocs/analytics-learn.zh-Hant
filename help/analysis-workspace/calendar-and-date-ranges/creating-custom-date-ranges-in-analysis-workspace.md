@@ -1,25 +1,24 @@
 ---
-title: 在Analysis Workspace建立自訂日期範圍
-description: 這段視訊會逐步帶您瞭解如何使用Analysis Workspace的日期範圍。
-feature: Calendar
+title: 在Analysis Workspace中建立自訂日期範圍
+description: 此影片會逐步帶您了解如何在Analysis Workspace中使用日期範圍。
+feature: 行事曆
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2113
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: ce01320f-24fa-4c9b-ad77-3f82c0829323
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '44'
+source-wordcount: '41'
 ht-degree: 2%
 
 ---
 
+# 在Analysis Workspace中建立自訂[!UICONTROL 日期範圍] {#creating-custom-date-ranges-in-analysis-workspace}
 
-# 在Analysis Workspace建立自訂[!UICONTROL 日期範圍] {#creating-custom-date-ranges-in-analysis-workspace}
-
-本影片會逐步帶您瞭解如何在Analysis Workspace使用[!UICONTROL 日期範圍]。
+此影片會逐步帶您了解如何在Analysis Workspace中使用[!UICONTROL 日期範圍]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23975/?quality=12)
