@@ -1,29 +1,28 @@
 ---
 title: 在計算量度中使用維度
-description: Dimension現在可在計算量度產生器中使用。 您可以將這些量度新增至任何計算量度公式，以便即時建立內部區段。
-feature: Calculated Metrics
+description: Dimension現在可在計算量度產生器中使用。 可將其新增至任何計算量度公式，即時建立內部區段。
+feature: 計算量度
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1904
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 27%
+source-wordcount: '96'
+ht-degree: 28%
 
 ---
 
+# 在[!UICONTROL 計算量度]中使用[!UICONTROL Dimension] {#using-dimensions-in-calculated-metrics}
 
-# 在[!UICONTROL 計算量度] {#using-dimensions-in-calculated-metrics}中使用[!UICONTROL Dimension]
-
-[!UICONTROL 「] 計算量度產生器」中現 [!UICONTROL 在提供維度]。這些量度可新增至任何[!UICONTROL 計算量度] [!UICONTROL 公式]，以便即時建立內部區段。
+ 維度現在可在計算量度 [!UICONTROL 產生器中使用]。可將其新增至任何[!UICONTROL 計算量度] [!UICONTROL 公式]中，即時建立內部區段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12)
 
-此功能可簡化在[!UICONTROL 計算量度]中建立和使用[!UICONTROL 區段]的工作流程。
+此功能可簡化在[!UICONTROL 計算量度]內建立和使用[!UICONTROL 區段]的工作流程。
 
 如需有關本功能的詳細資訊，請瀏覽[文件](https://marketing.adobe.com/resources/help/zh_TW/analytics/calcmetrics/cm_build_metrics.html)。
