@@ -1,27 +1,26 @@
 ---
-title: 自訂 Attribution IQ 的回顧期間
-description: 自訂回顧期間可讓您將歸因期間擴展至報表範圍以外 (最多 90 天)，並套用至報表範圍內的每個轉換。此選項通常會計入上個月的互動，以提高報告期間早期發生事件的歸因正確性。
-feature: Attribution
+title: Attribution IQ 中的自訂回顧期間
+description: 自訂回顧期間可讓您將歸因期間擴展至報表範圍以外 (最多 90 天)，並套用至報表範圍內的每個轉換。此選項通常會計算前一個月的互動，以提高報表期間前期所發生之事件的歸因準確度。
+feature: 歸因
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 thumbnail: 36204.jpg
 kt: 5553
-role: Business Practitioner
+role: User
 level: Intermediate
-translation-type: tm+mt
-source-git-commit: f3b3fa7d91b0cb21005b57768ca23ed6700fcc03
+exl-id: eea84902-834c-4826-91cd-5d258fcb4f0e
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 55%
+source-wordcount: '144'
+ht-degree: 56%
 
 ---
 
+# Attribution IQ 中的自訂回顧期間
 
-# 自訂 Attribution IQ 的回顧期間
-
-自訂回顧期間可讓您將歸因期間擴展至報表範圍以外 (最多 90 天)，並套用至報表範圍內的每個轉換。此選項通常會計入上個月的互動，以提高報告期間早期發生事件的歸因正確性。
+自訂回顧期間可讓您將歸因期間擴展至報表範圍以外 (最多 90 天)，並套用至報表範圍內的每個轉換。此選項通常會計算前一個月的互動，以提高報表期間前期所發生之事件的歸因準確度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36204/?quality=12&learn=on)
 
