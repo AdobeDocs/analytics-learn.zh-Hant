@@ -3,19 +3,18 @@ title: Analysis Workspace 中的標準範本
 seo-title: Analysis Workspace 中的標準範本
 description: Analysis Workspace 會提供標準範本 (以前稱為「入門專案」)，讓您的分析工作超前領先
 seo-description: Analysis Workspace 會提供標準範本 (以前稱為「入門專案」)，讓您的分析工作超前領先
-feature: Projects
+feature: 專案
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1963
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 1234f64e-f5e5-4bb1-a553-da438bde46e0
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
+source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
