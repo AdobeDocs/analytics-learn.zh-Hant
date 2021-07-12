@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
 source-git-commit: e2f27788da1c1355f55984c1435dd00d29f2fbd5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2065'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -112,16 +112,16 @@ ht-degree: 99%
       + [將資料帶入視覺效果中](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的元件下拉選單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [區域圖和堆疊區域圖 視覺效果](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [長條圖和堆疊長條圖視覺效果](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [橫條圖和堆疊橫條圖視覺效果](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [環形圖視覺效果](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [長條圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
-      + [線條視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [新增趨勢線至線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [線條圖視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [新增趨勢線到線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [地圖視覺效果](analysis-workspace/visualizations/map-visualization.md)
       + [摘要數目和摘要變動視覺效果](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations.md)
       + [文字視覺效果](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [散點圖視覺效果](analysis-workspace/visualizations/scatterplot-visualization.md)
+      + [散佈圖視覺效果](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [樹狀圖視覺效果](analysis-workspace/visualizations/treemap-visualization.md)
       + [文氏圖表視覺效果](analysis-workspace/visualizations/venn-diagram-visualization.md)
       + [使用累積平均函數以套用度量平滑處理](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
