@@ -11,7 +11,7 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 5e6bb1fe-1677-479e-b953-6b42356450e1
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ ht-degree: 100%
 
 ## 其他資源 {#additional-resources}
 
-* [特選文件](https://docs.microsoft.com/zh-tw/power-bi/desktop-connect-adobe-analytics)。
+* [功能文件](https://docs.microsoft.com/zh-tw/power-bi/desktop-connect-adobe-analytics)
