@@ -14,13 +14,13 @@ role: User
 level: Beginner
 exl-id: 2230ca48-4b08-45cd-9674-fa3c4dd482d7
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
 ht-degree: 100%
 
 ---
 
-# 在 Adobe Analytics 使用[!DNL Component Managers] {#using-component-managers-in-adobe-analytics}
+# 在 Adobe Analytics 使用 [!DNL Component Managers] {#using-component-managers-in-adobe-analytics}
 
 本影片將展示如何在 Adobe Analytics 中使用[!UICONTROL 警示]和[!UICONTROL 已排程專案]的[!DNL component managers]，以及一些其他功能。了解如何輕鬆尋找所需的[!UICONTROL 警示]或[!UICONTROL 已排程專案]，以及啟用/停用[!UICONTROL 警示]。
 
