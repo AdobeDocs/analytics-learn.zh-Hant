@@ -11,7 +11,7 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '305'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 設定 Adobe Analytics 或在其他 Experience Cloud 解決方案中引用時，您可以甚至有必要了解正在使用的 [!DNL Analytics][!DNL Tracking Server]，或也可了解您的資料所要發送的[!UICONTROL 報表套裝]。本影片將展示如何找到這兩個值，無論您是否已經實施 Adobe Analytics。
 
-## 實施 以後 {#after-implementation}
+## 實施以後 {#after-implementation}
 
 在網站上實施 [!DNL Analytics] 以後，您可以在追蹤指標中找到 [!DNL tracking server] 和[!DNL report suite ID]。[!DNL tracking server] 是指標內的主機名稱，因此很容易可找到。[!UICONTROL 報表套裝] ID 是指標路徑名稱內在 “/b/ss/” 以後且以逗號分隔的清單。
 
