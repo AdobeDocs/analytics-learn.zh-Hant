@@ -4,10 +4,10 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 6587d9ff43b7fcbf697bda4cdd9be2ae7a63ef86
-workflow-type: ht
+source-git-commit: dbab0f9190e660eadfacdb75ac00994afff375e7
+workflow-type: tm+mt
 source-wordcount: '2065'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -132,7 +132,7 @@ ht-degree: 100%
       + [Analysis Workspace 中的內部連結](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [正面-負面地圖主題](analysis-workspace/visualizations/positive-negative-map-theme.md)
       + [重新排列視覺效果和調整大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
-      + [數列標籤編輯](analysis-workspace/visualizations/series-label-editing.md)
+      + [自訂視覺效果圖例](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% 堆疊視覺效果](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [表格資料來源設定](analysis-workspace/visualizations/table-data-source-settings.md)
       + [建立時間分隔的熱度圖](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
