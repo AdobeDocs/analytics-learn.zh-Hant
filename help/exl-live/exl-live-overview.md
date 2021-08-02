@@ -6,10 +6,10 @@ role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: f9cb8039fbea267c81439ade541dbbe0b02043d2
+source-git-commit: 7b35dbe13d81473ae6bb860ab43ef660f73649fa
 workflow-type: tm+mt
-source-wordcount: '157'
-ht-degree: 1%
+source-wordcount: '200'
+ht-degree: 0%
 
 ---
 
@@ -18,67 +18,70 @@ ht-degree: 1%
 
 Experience League即時(LIVE)是由Experience League團隊製作的即時串流節目，提供您可在Experience Cloud應用程式、應用程式服務及Adobe Experience Platform中套用的可操作秘訣、技巧和策略。
 
->[!TIP]
->
->如需其他學習方法，請查看免費的[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別的[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html)。
+## 下一集：Experience Platform和即時CDP!
+
+![下](assets/exl-live-ep2-after-2.jpg)
+*集來賓：* Aaron Shields, Yaya Wang, Andres Monroy 
+***MARK THE DATE!*** 太平洋時間8 **月26日** 星 **期四上** 午9點
 
 ## 近期劇集
 
-標籤您的日曆，查看即將上映的以下LIVEExperience League!
+接下來即將上映的Experience LeagueLIVE!
 
 <table>
 <tr>
   <td>
-    <strong>日期</strong>
+    <img height="113" width="200" alt="Adobe Campaign標誌" src="assets/AdobeCampaignLogo.jpg" />
   </td>
   <td>
-    <strong>客人</strong>
+    <strong><img height="113" width="200" alt="AdobeAEM標誌" src="assets/aem-logo.png" /></strong>
   </td>
   <td>
-    <strong>主題</strong>
+    <strong><img height="113" width="200" alt="Adobe Campaign標誌" src="assets/platform-logo.jpeg" /></strong>
   </td>
 </tr>
 <tr>
   <td>
-    2021年8月26日星期四
+    <strong>應用程式：</strong> Adobe<br/>
+    <strong>促銷活動日期：</strong> 2021年9月<br/>
+    <strong>主題：</strong> <br/>
+    <strong>TBDGusets:</strong> TBD
   </td>
   <td>
-    產品經理David Kao
+    <strong>應用程式：</strong> Adobe Experience <br/>
+    <strong>Manager日期：</strong> 2021年10月<br/>
+    <strong>主題：</strong> <br/>
+    <strong>TBDGusets:</strong> TBD
   </td>
   <td>
-    利用Real-time CDP Destinations中的新功能
+    <strong>應用程式：</strong> Adobe Experience <br/>
+    <strong>Platform日期：</strong> 2021年11月<br/>
+    <strong>主題：</strong> <br/>
+    <strong>TBDGusets:</strong> TBD
   </td>
 </tr>
 </table>
 
 ## 過去劇集的重播
 
-你錯過了一集Experience League直播嗎？ 你怎麼敢！ JK 我們原諒你。 以下是連結，讓您可以觀看過去的劇集。
+你錯過了一集Experience League直播嗎？ 我們原諒你。 以下是連結，讓您可以觀看過去的劇集。
 
 <table>
 <tr>
   <td>
-    <strong>播放日期</strong>
-  </td>
-  <td>
-    <strong>客人</strong>
-  </td>
-  <td>
-    <strong>重播的資訊/連結</strong>
-  </td>
-</tr>
-<tr>
-  <td>
-    2021年7月29日
-  </td>
-  <td>
-    埃里克·馬蒂索夫，<br/>達沙·菲茨帕特里克
-  </td>
-  <td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
-      <img alt="Experience League上線" src="assets/AELLIVE_AA.png" />
-    </a>
+      <img height="225" width="400" alt="Experience League上線" src="assets/exl-live-after2.jpg" />
+    </a><br/>
+    <b>主持人：</b> <i></i><br/>
+    <b></b> <i>Eric Matisoff和Dasha </i><br/>
+    <b>FitzpatrickLide:</b> <i>2021年7月29日</i>
 
 </td>
+
 </tr>
+
 </table>
+
+>[!TIP]
+>
+>如需其他學習方法，請查看免費的[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別的[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html)。
