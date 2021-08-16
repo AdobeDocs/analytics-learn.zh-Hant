@@ -1,22 +1,22 @@
 ---
-title: Experience League即時事件
-description: 先前Experience LeagueLIVE事件的連結集合
-feature: 事件
-role: Business Practitioner, Developer, Data Engineer, Architect, Data Architect, Administrator, Leader
+title: Experience League LIVE 活動
+description: 先前 Experience League LIVE 活動的連結集合
+type: Event
+role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 7b35dbe13d81473ae6bb860ab43ef660f73649fa
+source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
 workflow-type: tm+mt
-source-wordcount: '200'
-ht-degree: 0%
+source-wordcount: '199'
+ht-degree: 56%
 
 ---
 
 
-# Experience League上線
+# Experience League LIVE
 
-Experience League即時(LIVE)是由Experience League團隊製作的即時串流節目，提供您可在Experience Cloud應用程式、應用程式服務及Adobe Experience Platform中套用的可操作秘訣、技巧和策略。
+Experience League LIVE 是 Experience League 團隊所製作的直播節目，為您提供可套用於 Experience Cloud 應用程式、應用程式服務和 Adobe Experience Platform 的可行提示、技巧和策略。
 
 ## 下一集：Experience Platform和即時CDP!
 
@@ -24,7 +24,7 @@ Experience League即時(LIVE)是由Experience League團隊製作的即時串流�
 *集來賓：* Aaron Shields, Yaya Wang, Andres Monroy 
 ***MARK THE DATE!*** 太平洋時間8 **月26日** 星 **期四上** 午9點
 
-## 近期劇集
+## 即將上線的集數
 
 接下來即將上映的Experience LeagueLIVE!
 
@@ -62,9 +62,9 @@ Experience League即時(LIVE)是由Experience League團隊製作的即時串流�
 </tr>
 </table>
 
-## 過去劇集的重播
+## 過去集數重播
 
-你錯過了一集Experience League直播嗎？ 我們原諒你。 以下是連結，讓您可以觀看過去的劇集。
+您錯過 Experience League LIVE 集數了嗎？沒關係原諒你了。以下連結可讓您觀看過去集數。
 
 <table>
 <tr>
@@ -84,4 +84,4 @@ Experience League即時(LIVE)是由Experience League團隊製作的即時串流�
 
 >[!TIP]
 >
->如需其他學習方法，請查看免費的[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別的[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html)。
+>如需其他學習方法，請查看我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html)。
