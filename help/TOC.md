@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 breadcrumb-url: /docs/analytics-learn/tutorials/overview.html
 solution: Analytics
-source-git-commit: 48da246e50ed658bdb496a8a8a551e8f0454021d
+source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
 workflow-type: tm+mt
-source-wordcount: '2141'
+source-wordcount: '2139'
 ht-degree: 96%
 
 ---
@@ -135,9 +135,8 @@ ht-degree: 96%
       + [重新排列視覺效果和調整大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [自訂視覺效果圖例](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% 堆疊視覺效果](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
-      + [表格資料來源設定](analysis-workspace/visualizations/table-data-source-settings.md)
+      + [表格和視覺效果資料來源設定](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [建立時間分隔的熱度圖](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
-      + [視覺效果資料來源設定](analysis-workspace/visualizations/visualization-data-source-settings.md)
    + 套用區段 {#applying-segments}
       + [套用區段至您的 Analysis Workspace 專案](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [在 Analysis Workspace 中使用區段](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
