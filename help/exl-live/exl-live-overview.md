@@ -6,80 +6,89 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+source-git-commit: dcfa04814012434a3f017cd0f06c8707b4d4cf2c
 workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 56%
+source-wordcount: '201'
+ht-degree: 34%
 
 ---
 
 
 # Experience League LIVE
 
-Experience League LIVE 是 Experience League 團隊所製作的直播節目，為您提供可套用於 Experience Cloud 應用程式、應用程式服務和 Adobe Experience Platform 的可行提示、技巧和策略。
+## 加入我們，看下一集！
 
-## 下一集：Experience Platform和即時CDP!
+<a href="https://www.youtube.com/watch?v=rogVKsTFbWk"><img alt="按一下「 」會將您導向至YouTube大堂的「Experience League直播」" src="assets/1440x492.png" /></a>
 
-![下](assets/exl-live-ep2-after-2.jpg)
-*集來賓：* Aaron Shields, Yaya Wang, Andres Monroy 
-***MARK THE DATE!*** 太平洋時間8 **月26日** 星 **期四上** 午9點
+Experience League即時(LIVE)是由Experience League團隊製作的即時串流節目。  這是您與Adobe產品專家連絡，並學習可與Adobe Experience Cloud應用程式套用的可操作秘訣、訣竅和策略的機會。
 
-## 即將上線的集數
 
-接下來即將上映的Experience LeagueLIVE!
+## 即將推出的Experience League即時活動！
 
 <table>
 <tr>
   <td>
-    <img height="113" width="200" alt="Adobe Campaign標誌" src="assets/AdobeCampaignLogo.jpg" />
+      <img alt="內容服務" src="./assets/journeys.png" />
+     <div>
+          <strong>客戶歷程</strong>
+     </div>
+     <div>
+          <em>2021年9月</em>
+     </div>
+    <p>
+    <em>向產品專家學習如何即時建立能適應客戶的體驗</em>
+    <p>
   </td>
   <td>
-    <strong><img height="113" width="200" alt="AdobeAEM標誌" src="assets/aem-logo.png" /></strong>
+      <img alt="內容服務" src="./assets/content.png" />
+     <div>
+          <strong>Content and Commerce</strong>
+     <div>
+          <em>2021 年 10 月</em>
+     </div>
+     </div>
+    <p>
+    <em>了解如何大規模建立及管理內容，並建立個人化商務體驗</em>
+    <p>
   </td>
   <td>
-    <strong><img height="113" width="200" alt="Adobe Campaign標誌" src="assets/platform-logo.jpeg" /></strong>
-  </td>
-</tr>
-<tr>
-  <td>
-    <strong>應用程式：</strong> Adobe<br/>
-    <strong>促銷活動日期：</strong> 2021年9月<br/>
-    <strong>主題：</strong> <br/>
-    <strong>TBDGusets:</strong> TBD
-  </td>
-  <td>
-    <strong>應用程式：</strong> Adobe Experience <br/>
-    <strong>Manager日期：</strong> 2021年10月<br/>
-    <strong>主題：</strong> <br/>
-    <strong>TBDGusets:</strong> TBD
-  </td>
-  <td>
-    <strong>應用程式：</strong> Adobe Experience <br/>
-    <strong>Platform日期：</strong> 2021年11月<br/>
-    <strong>主題：</strong> <br/>
-    <strong>TBDGusets:</strong> TBD
+      <img alt="內容服務" src="./assets/platform.png" />
+     <div>
+          <strong>Experience Platform</strong>
+     </div>
+     <div>
+          <em>2021年12月</em>
+     </div>    
+    <p>
+    <em>向產品專家學習如何即時建立能適應客戶的體驗</em>
+    <p>
   </td>
 </tr>
 </table>
 
-## 過去集數重播
 
-您錯過 Experience League LIVE 集數了嗎？沒關係原諒你了。以下連結可讓您觀看過去集數。
+## 過去集數
+
+您錯過 Experience League LIVE 集數了嗎？沒關係原諒你了。看看我們過去的劇集！
 
 <table>
 <tr>
-  <td>
+
+<td>
     <a href="https://www.youtube.com/watch?v=lxOvLCzEGBI">
       <img height="225" width="400" alt="Experience League上線" src="assets/exl-live-after2.jpg" />
-    </a><br/>
-    <b>主持人：</b> <i></i><br/>
-    <b></b> <i>Eric Matisoff和Dasha </i><br/>
-    <b>FitzpatrickLide:</b> <i>2021年7月29日</i>
-
-</td>
-
+    </a>
+     <div>
+          <strong>來賓</strong> : <i>埃里克·馬蒂索夫和達沙·菲茨帕特里克</i>
+     </div>
+     <div>
+          <em>2021 年 7 月 29 日</em>
+     </div>    
+    <p>
+    <em></em>
+    <p>
+  </td>
 </tr>
-
 </table>
 
 >[!TIP]
