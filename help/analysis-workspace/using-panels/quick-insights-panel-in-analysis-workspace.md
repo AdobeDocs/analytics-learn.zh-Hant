@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace 中的 Quick Insights 面板
 description: 快速深入分析為 Analysis Workspace 的非分析師和新使用者提供指引，瞭解如何快速輕鬆回答業務問題。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 5838
 role: User
 level: Beginner
 exl-id: af6da0a2-9273-480c-a915-bd5bab7d5c5d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '73'
-ht-degree: 100%
+source-wordcount: '70'
+ht-degree: 88%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
-如需詳細資訊，請參閱 [ 說明文件](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/panels/quickinsight.html)。
+如需詳細資訊，請參閱 [ 說明文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html)。

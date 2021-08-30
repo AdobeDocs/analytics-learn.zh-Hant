@@ -1,7 +1,7 @@
 ---
 title: 在計算量度中使用維度
 description: Dimension現在可在計算量度產生器中使用。 可將其新增至任何計算量度公式，即時建立內部區段。
-feature: 計算量度
+feature: Calculated Metrics
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 1904
 role: User
 level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 28%
+source-wordcount: '93'
+ht-degree: 15%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 28%
 
 此功能可簡化在[!UICONTROL 計算量度]內建立和使用[!UICONTROL 區段]的工作流程。
 
-如需有關本功能的詳細資訊，請瀏覽[文件](https://marketing.adobe.com/resources/help/zh_TW/analytics/calcmetrics/cm_build_metrics.html)。
+如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/cm-build-metrics.html?lang=en)。

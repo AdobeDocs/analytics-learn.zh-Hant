@@ -10,10 +10,10 @@ kt: 1768
 role: User
 level: Intermediate
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 32%
+ht-degree: 30%
 
 ---
 
@@ -27,4 +27,4 @@ ht-degree: 32%
 
 在[!UICONTROL Report Builder]中，您可以傳回[!UICONTROL metric]實際值，以及預期值和上下邊界，為您分析和共用的資料增加更深度。
 
-如需有關本功能的詳細資訊，請瀏覽[文件](https://marketing.adobe.com/resources/help/en_US/arb/anomaly_detection.html)。
+如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=en)。

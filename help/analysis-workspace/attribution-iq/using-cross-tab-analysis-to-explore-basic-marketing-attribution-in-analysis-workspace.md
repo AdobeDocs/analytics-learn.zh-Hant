@@ -1,7 +1,7 @@
 ---
 title: 使用跨索引標籤分析，探索Analysis Workspace中的基本行銷歸因
 description: 想透過 Adobe Analytics 將歸因方法提升到全新層次，其實有許多方式。這部影片的重點，在於介紹如何使用工作區中的跨索引標籤分析，從行銷管道報表獲取更深入的寶貴見解。
-feature: 行銷管道
+feature: Marketing Channels
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '292'
-ht-degree: 38%
+source-wordcount: '288'
+ht-degree: 37%
 
 ---
 
@@ -39,4 +39,4 @@ ht-degree: 38%
 * 4:30 — 欄設定現在可以大量更新，而非1乘1。 觀看影片8:45以深入了解：[自由表格中的列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-有關此主題的詳細資訊，請訪問[文檔](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/attribution/models.html)。
+有關此主題的詳細資訊，請訪問[文檔](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hant)。

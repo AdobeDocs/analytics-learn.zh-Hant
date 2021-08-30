@@ -1,8 +1,8 @@
 ---
 title: 使用 Analysis Workspace 的「使用情況記錄追蹤」
-seo-title: 使用 Analysis Workspace 的「使用情況記錄追蹤」
+seo-title: Using the Usage Log Tracking for Analysis Workspace
 description: 本影片將展示如何在 Workspace 專案使用「使用情況記錄追蹤」，可以幫助您清楚了解用戶的 Adobe Analytics 使用情況。
-seo-description: 本影片將展示如何在 Workspace 專案使用「使用情況記錄追蹤」，可以幫助您清楚了解用戶的 Adobe Analytics 使用情況。
+seo-description: This video shows how to use the Usage Log Tracking on Workspace projects, which can help you better understand your users’ usage of Adobe Analytics.
 feature: data configuration and collection
 topics: null
 audience: analyst, marketer
@@ -11,16 +11,15 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-translation-type: ht
-source-git-commit: 24ad92b0ccdf1112e3ed4a0968cd47db757598c3
-workflow-type: ht
-source-wordcount: '188'
-ht-degree: 100%
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '152'
+ht-degree: 94%
 
 ---
 
 
-# 使用 Analysis Workspace 的「[!UICONTROL 使用情況記錄追蹤]」{#using-the-usage-log-tracking-for-analysis-workspace}
+# 使用 Analysis Workspace 的「[!UICONTROL 使用情況記錄追蹤]」 {#using-the-usage-log-tracking-for-analysis-workspace}
 
 本影片將展示如何在 [!DNL Workspace] 專案使用「[!UICONTROL 使用情況記錄追蹤]」，可以幫助您清楚了解用戶的 Adobe Analytics 使用情況。
 
@@ -39,7 +38,7 @@ ht-degree: 100%
 
 ## 其他資源 {#additional-resources}
 
-* [有關記錄的更多資訊](https://marketing.adobe.com/resources/help/zh-TW/reference/logs.html)
+* [有關記錄的更多資訊](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [下載示範控制面板](https://adobe.ly/2ygP5ws)
 
 後續行動：我們正積極進行並希望很快能在 [!DNL Analytics] 易用的 UI 當中展示這項資訊 (及更多詳情)。

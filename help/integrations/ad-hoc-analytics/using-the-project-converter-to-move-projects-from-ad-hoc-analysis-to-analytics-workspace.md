@@ -1,20 +1,20 @@
 ---
 title: 使用專案轉換器將專案從 Ad Hoc Analysis 移到 Analytics Workspace
 description: 只要按一下按鈕，Ad Hoc Analysis專案轉換器就能將Ad Hoc Analysis(AHA)專案輕鬆轉換為Analysis Workspace專案。
-feature: Experience Cloud 整合
+feature: Experience Cloud Integration
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 1641
-topic: 整合
+topic: Integrations
 role: User
 level: Intermediate
 exl-id: 04dfc59e-d7a8-4477-bc98-2bd63debf81f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 24%
+source-wordcount: '72'
+ht-degree: 19%
 
 ---
 
@@ -24,6 +24,3 @@ ht-degree: 24%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23118/?quality=12)
 
-## 其他資源 {#additional-resources}
-
-* [特選文件](https://marketing.adobe.com/resources/help/en_US/analytics/aha2aw/)。

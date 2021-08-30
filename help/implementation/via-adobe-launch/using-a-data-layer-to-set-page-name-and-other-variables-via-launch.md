@@ -1,7 +1,7 @@
 ---
 title: 透過Launch使用資料層在Adobe Analytics中設定頁面名稱和其他變數
 description: 將資料層用於Analytics和其他Experience Cloud解決方案，是最佳作法。 在此影片中，您將了解如何從資料層提取值，並在Launch中使用這些值來填入Adobe Analytics中的變數。
-feature: Launch實作
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,9 +10,9 @@ kt: 1852
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '365'
 ht-degree: 7%
 
 ---
@@ -23,7 +23,7 @@ ht-degree: 7%
 
 ## 資料層 {#data-layers}
 
-使用您網站和Adobe Experience Cloud解決方案上的資料時(尤其是搭配Adobe Analytics)，最好使用資料層。 _資料層_&#x200B;是 JavaScript 物件的架構，由開發人員將其插入頁面中。追蹤工具（包括[!DNL Experience Platform Launch]等標籤管理系統）可使用資料層來填入報表。 在[Experience Cloud文檔](https://marketing.adobe.com/resources/help/en_US/sc/implement/ref-data-layer.html)或[W3C站點](https://www.w3.org/)上查找有關資料層的其他資訊。
+使用您網站和Adobe Experience Cloud解決方案上的資料時(尤其是搭配Adobe Analytics)，最好使用資料層。 _資料層_&#x200B;是 JavaScript 物件的架構，由開發人員將其插入頁面中。追蹤工具（包括[!DNL Experience Platform Launch]等標籤管理系統）可使用資料層來填入報表。 在[Experience Cloud文檔](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=en)或[W3C站點](https://www.w3.org/)上查找有關資料層的其他資訊。
 
 此外，請參閱部落格[資料層：從Buzzword到最佳實務，](https://theblog.adobe.com/data-layers-buzzword-best-practice/)可提供一些關於資料層的絕佳資訊，以及一些範例。
 

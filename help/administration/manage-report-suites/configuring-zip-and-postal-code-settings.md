@@ -1,22 +1,22 @@
 ---
 title: 在Adobe Analytics中配置郵遞區號設定
-seo-title: 在Adobe Analytics中配置郵遞區號設定
+seo-title: Configuring Zip and Postal Code Settings in Adobe Analytics
 description: 此影片會說明如何設定郵遞區號設定，讓您能夠根據此地區資料進行分析。
-seo-description: 此影片會說明如何設定郵遞區號設定，讓您能夠根據此地區資料進行分析。
-feature: 資料配置和收集
+seo-description: In this video you will learn how to configure zip and postal code settings, so that you can do analysis based on this region data.
+feature: Data Configuration and Collection
 topics: null
 activity: setup
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 2679
-topic: 管理
+topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '126'
+source-wordcount: '87'
 ht-degree: 0%
 
 ---
@@ -27,4 +27,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
 
-如需[!UICONTROL 郵遞區號]設定的詳細資訊，請參閱[檔案](https://marketing.adobe.com/resources/help/en_US/reference/reports_zip.html)。
+如需[!UICONTROL 郵遞區號]設定的詳細資訊，請參閱[檔案](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)。

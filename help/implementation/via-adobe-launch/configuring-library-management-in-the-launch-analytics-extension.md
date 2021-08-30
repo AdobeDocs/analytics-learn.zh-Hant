@@ -1,7 +1,7 @@
 ---
 title: 設定 Analytics 的資料庫管理
 description: 如果您剛開始使用Adobe Analytics的Experience Platform Launch擴充功能，此影片可協助您處理設定的程式庫管理部分，包括選取您要將資料傳送至哪個報表套裝。
-feature: Launch實作
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 2836
 role: Developer, Data Engineer
 level: Beginner
 exl-id: be28db8a-0de6-4f9f-ae2e-2337e86740a1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 19%
+source-wordcount: '125'
+ht-degree: 12%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 19%
 
 [郵遞區號](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
 
-[分類](https://docs.adobe.com/content/help/zh-Hant/analytics/components/classifications/c-classifications.html)
+[分類](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=zh-Hant)
 
-[Analysis Workspace](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)

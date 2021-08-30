@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace 提供多個報表套裝
 description: 您可以在面板層級選取多個報表套裝，以便在單一工作區專案中分析多個報表套裝。 這項功能可讓您在不同資料集之間執行並排式的面板分析。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 4820
 role: User
 level: Beginner
 exl-id: ae9e55c0-a9ab-4b71-8a00-67a2c31a7676
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 33%
+source-wordcount: '145'
+ht-degree: 31%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 33%
 
 來自多個[!UICONTROL 報表套裝的資料無法在表格、[!UICONTROL 區段]或[!UICONTROL 計算量度]（加總、分割等）中結合。 ]整體資料方法的最佳實務會繼續將所有點擊傳送至「全域套裝」。
 
-如需詳細資訊，請瀏覽[文件](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html)。
+如需詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/multiple-report-suites.html?lang=zh-Hant)。

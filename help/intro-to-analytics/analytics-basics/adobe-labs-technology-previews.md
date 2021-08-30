@@ -10,10 +10,9 @@ kt: 4818
 role: Architect
 level: Beginner
 exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
-translation-type: ht
-source-git-commit: 5dead486510dd74b7f6a04848ecd7dc03267958f
-workflow-type: ht
-source-wordcount: '93'
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+workflow-type: tm+mt
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
@@ -26,4 +25,4 @@ ht-degree: 100%
 
 使用 [!DNL Labs] 原型時，您可以在自己的業務使用案例和資料環境下評估此功能。
 
-如需詳細資訊，請瀏覽[文件](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/tech-previews/overview.html)。
+如需詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=zh-Hant)。

@@ -1,7 +1,7 @@
 ---
 title: 在自由格式表格中使用 Attribution IQ
 description: Attribution IQ可讓您在自由格式欄上，將歸因模型變更為十個以規則為基礎的模型中的任何一個。
-feature: 歸因
+feature: Attribution
 topics: null
 activity: use
 doc-type: feature video
@@ -11,10 +11,10 @@ kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,28b1dbc4-315b-47d5-82f7-4b394ed31ad8,adf48696-d495-43a3-9421-993434f35962
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '95'
-ht-degree: 21%
+source-wordcount: '81'
+ht-degree: 7%
 
 ---
 
@@ -32,7 +32,3 @@ ht-degree: 21%
 * [!DNL Adobe Analytics Select]
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
-
-## 其他資源 {#additional-resources}
-
-* [特選文件](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/attribution.html)。

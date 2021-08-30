@@ -1,7 +1,7 @@
 ---
 title: 在 Analytics Launch 擴充功能中進行一般設定
 description: 如果您剛開始使用Launch、依Adobe和Adobe Analytics擴充功能，此影片可協助您處理設定的一般設定部分，包括設定追蹤伺服器。
-feature: Launch實作
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 21%
+source-wordcount: '126'
+ht-degree: 14%
 
 ---
 
@@ -27,6 +27,6 @@ ht-degree: 21%
 
 [郵遞區號](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
 
-[分類](https://docs.adobe.com/content/help/zh-Hant/analytics/components/classifications/c-classifications.html)
+[分類](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=zh-Hant)
 
-[Analysis Workspace](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
+[Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)

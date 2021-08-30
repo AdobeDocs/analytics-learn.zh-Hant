@@ -1,7 +1,7 @@
 ---
 title: 樹狀圖和散點圖視覺效果(Analysis Workspace)
 description: Adobe Analytics中的Analysis Workspace包含兩種熱門的視覺效果類型：樹狀圖和散點圖。 此影片說明如何在分析中使用這兩種視覺效果類型。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -10,9 +10,9 @@ kt: 2117
 role: User
 level: Beginner
 exl-id: 149bf674-2444-488a-aafe-2a1df0a0315c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '104'
+source-wordcount: '108'
 ht-degree: 0%
 
 ---
@@ -23,6 +23,6 @@ Adobe Analytics中的Analysis Workspace包含兩種熱門[!UICONTROL visualizati
 
 >[!VIDEO](https://video.tv.adobe.com/v/23988/?quality=12)
 
-如需這些[!UICONTROL 視覺效果]的詳細資訊，請前往[檔案](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/treemap.html)。
+如需這些[!UICONTROL 視覺效果]的詳細資訊，請前往[檔案](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/treemap.html?lang=en)。
 
-若要取得其他絕佳的[!UICONTROL 視覺效果]，請嘗試在Analysis Workspace中使用[[!UICONTROL 項目符號]圖表](https://helpx.adobe.com/analytics/kt/using/bullet-graph-viz-analysis-workspace-feature-video-use.html)。
+若要取得其他絕佳的[!UICONTROL 視覺效果]，請嘗試在Analysis Workspace中使用[[!UICONTROL 項目符號]圖表](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/bullet-graph-visualization.html?lang=en)。

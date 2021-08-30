@@ -1,7 +1,7 @@
 ---
 title: Adobe Analytics中的智慧型警報
 description: 智慧型警報會直接將異常偵測的功能放入您的收件匣或手機。 立即得知關鍵量度和區段發生重大變更，即表示機會不會遺失。
-feature: 資料科學
+feature: Data Science
 topics: null
 activity: use
 doc-type: feature video
@@ -10,10 +10,10 @@ kt: 2338
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 04af0dc3-3cf3-446d-924c-82f21ee6974c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '93'
-ht-degree: 22%
+source-wordcount: '92'
+ht-degree: 9%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 22%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12)
 
-如需有關本功能的詳細資訊，請瀏覽[文件](https://marketing.adobe.com/resources/help/zh_TW/analytics/analysis-workspace/intellligent_alerts.html)。
+如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en)。

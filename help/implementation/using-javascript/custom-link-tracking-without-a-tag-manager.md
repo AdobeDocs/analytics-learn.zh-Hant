@@ -1,7 +1,7 @@
 ---
 title: 無 Tag Manager 的自訂連結追蹤
 description: 對於頁面上的許多動作，追蹤不應視為頁面檢視。 如果您未使用標籤管理程式(如Experience Platform Launch)，您將學習如何將連結追蹤信標編碼至Analytics。 請參閱程式碼，並學習重要秘訣。
-feature: Appmeasurement實作
+feature: Appmeasurement Implementation
 topics: null
 activity: implement
 doc-type: technical video
@@ -10,10 +10,10 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 8%
+source-wordcount: '271'
+ht-degree: 5%
 
 ---
 
@@ -49,5 +49,3 @@ ht-degree: 8%
     Click here to share on FaceBook
 </a>
 ```
-
-如需自訂連結的詳細資訊，請參閱[檔案](https://marketing.adobe.com/resources/help/zh_TW/sc/implement/function_tl.html)。

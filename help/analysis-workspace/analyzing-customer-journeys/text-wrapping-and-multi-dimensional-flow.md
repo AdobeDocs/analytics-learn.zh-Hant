@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace中的文字繞排和多維度流量
 description: 此影片說明如何在流量視覺效果中開啟和關閉標籤截斷。 此外，還可學習將維度拖放至流量，以進行多維度流量分析。
-feature: 視覺效果
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -12,10 +12,10 @@ kt: 2281
 role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 21%
+source-wordcount: '88'
+ht-degree: 10%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 21%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 
-如需有關本功能的詳細資訊，請瀏覽[文件](https://marketing.adobe.com/resources/help/zh_TW/analytics/analysis-workspace/flow.html)。
+如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en)。

@@ -10,10 +10,10 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
-source-wordcount: '1664'
-ht-degree: 6%
+source-wordcount: '1641'
+ht-degree: 4%
 
 ---
 
@@ -55,11 +55,11 @@ ht-degree: 6%
 
 ## [!DNL Cross-Device Analytics]如何運作
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] 與整合， [!DNL Adobe Experience Platform Identity Service]利用或來 [[!DNL Co-op Graph]](https://docs.adobe.com/content/help/zh-Hant/device-co-op/using/home.html) 識別 [!DNL Private Graph] 裝置對應至人員的方式。然後，它會運用此智慧，建立使用者行為的跨裝置檢視。 CDA包含無與倫比的功能和工具，可協助您的企業在與品牌互動時，了解這些裝置的使用方式和客戶體驗。 它位於Analysis Workspace下方的一個層級，可使用功能強大的工具（例如[!UICONTROL Fallout]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]及[!DNL Attribution IQ]），深入分析以人為為基礎的受眾分析和跨裝置歸因、細分和歷程分析。
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] 與整合， [!DNL Adobe Experience Platform Identity Service]利用或來 [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html?lang=zh-Hant) 識別 [!DNL Private Graph] 裝置對應至人員的方式。然後，它會運用此智慧，建立使用者行為的跨裝置檢視。 CDA包含無與倫比的功能和工具，可協助您的企業在與品牌互動時，了解這些裝置的使用方式和客戶體驗。 它位於Analysis Workspace下方的一個層級，可使用功能強大的工具（例如[!UICONTROL Fallout]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]及[!DNL Attribution IQ]），深入分析以人為為基礎的受眾分析和跨裝置歸因、細分和歷程分析。
 
 ### 此  [!DNL Cross-Device Virtual Report Suite]
 
-CDA是透過特殊類型的跨裝置[[!UICONTROL 虛擬報表套裝]](https://docs.adobe.com/content/help/zh-Hant/analytics/components/virtual-report-suites/vrs-about.html)呈現。 這可讓您在組織導入跨裝置分析時，繼續使用原始的裝置型報表套裝。 設定CDA VRS很簡單。
+CDA是透過特殊類型的跨裝置[[!UICONTROL 虛擬報表套裝]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html)呈現。 這可讓您在組織導入跨裝置分析時，繼續使用原始的裝置型報表套裝。 設定CDA VRS很簡單。
 
 在VRS產生器的步驟一中，選擇已由Adobe設定為已啟用CDA的[!UICONTROL 報表套裝]:
 
@@ -98,8 +98,8 @@ Isabelle直到購買前才登錄，而[!DNL Co-op Graph]或[!DNL Private Graph]�
 
 CDA隨[[!DNL Analytics Ultimate]](https://helpx.adobe.com/legal/product-descriptions/adobe-analytics.html)一起包含。 自2019年9月起，符合下列先決條件的[!DNL Analytics Ultimate]客戶即符合使用CDA的資格。 CDA的必要條件如下：
 
-* 您的公司必須是[!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://docs.adobe.com/content/help/en/device-co-op/using/home.html)的成員，或使用[!DNL Adobe Experience Platform Identity Service Private Graph]。
-* 您必須實作[!DNL Co-op Graph]或[!DNL Private Graph]所需的所有項目，包括[Experience CloudID(ECID)](https://docs.adobe.com/content/help/zh-Hant/id-service/using/home.html)以及與圖形同步的ID。 請注意，除技術要求外，[!DNL Co-op Graph]還有其他法律和合同要求。
+* 您的公司必須是[!DNL Adobe Experience Platform Identity Service] [[!DNL Co-op Graph]](https://experienceleague.adobe.com/docs/device-co-op/using/home.html)的成員，或使用[!DNL Adobe Experience Platform Identity Service Private Graph]。
+* 您必須實作[!DNL Co-op Graph]或[!DNL Private Graph]所需的所有項目，包括[Experience CloudID(ECID)](https://experienceleague.adobe.com/docs/id-service/using/home.html?lang=zh-Hant)以及與圖形同步的ID。 請注意，除技術要求外，[!DNL Co-op Graph]還有其他法律和合同要求。
 * 目前無法搭配單一[!DNL Private Graph]使用兩個IMS組織，因此您必須標準化單一IMS組織。 在某些情況下，具有多個IMS組織的客戶可搭配CDA使用[!DNL Co-op Graph]。
 * [!DNL Co-op graph]和[!DNL Private Graph]以及CDA的某些元件托管在[!DNL Microsoft Azure]中。 這表示[!DNL Analytics]資料會在Adobe的資料處理中心與Adobe在[!DNL Microsoft Azure]中的存在之間來回複製。 某些[!DNL Analytics]資料將儲存在[!DNL Azure]中。 貴公司必須同意這項安排。
 * CDA需要「跨裝置」[!UICONTROL 報表套裝]。 也就是說，您用於CDA的[!UICONTROL 報表套裝]必須包含來自多種不同裝置類型或「曲面」（例如案頭網頁、行動網頁和行動應用程式）的資料。 自2019年9月起，此[!UICONTROL 報表套裝]的伺服器呼叫量必須為100MM/天或更短時間。 （未來幾個月，伺服器呼叫量限制將會增加。）
@@ -114,7 +114,7 @@ CDA隨[[!DNL Analytics Ultimate]](https://helpx.adobe.com/legal/product-descript
 *人員與不重複裝*
 ![置CDA [!UICONTROL 人員量度]](assets/cda-people-metric.png)
 
-在[[!UICONTROL 區段產生器]](https://docs.adobe.com/content/help/zh-Hant/analytics/components/segmentation/segmentation-workflow/seg-build.html)中，[!UICONTROL 訪客]區段容器已由[!UICONTROL 人員]區段容器取代。 您可以使用CDA VRS建立跨裝置區段，例如：
+在[[!UICONTROL 區段產生器]](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=zh-Hant)中，[!UICONTROL 訪客]區段容器已由[!UICONTROL 人員]區段容器取代。 您可以使用CDA VRS建立跨裝置區段，例如：
 
 * 使用多部裝置的使用者
 * 在行動裝置上開始歷程，之後在桌上型電腦裝置上購買的人
@@ -136,21 +136,21 @@ CDA隨[[!DNL Analytics Ultimate]](https://helpx.adobe.com/legal/product-descript
 
 ### 以人員為基礎的受眾分析
 
-您是否曾想過有多少人正在與您的品牌互動？ 您是否想要了解他們使用的裝置數量和類型？ 其使用量如何重疊？ 使用CDA VRS，您可以建立跨裝置[Venn圖表](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/visualizations/venn.html)和每人裝置[色階分佈圖](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/visualizations/histogram.html)。
+您是否曾想過有多少人正在與您的品牌互動？ 您是否想要了解他們使用的裝置數量和類型？ 其使用量如何重疊？ 使用CDA VRS，您可以建立跨裝置[Venn圖表](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hant)和每人裝置[色階分佈圖](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=zh-Hant)。
 
 *以人為基礎的受眾*
 ![分析Venn和色階分佈圖](assets/cda-venn-and-histogram.png)
 
 ### 跨裝置[!DNL Flow]
 
-透過CDA和Analysis Workspace，您可以在[[!DNL Flow visualization]](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/visualizations/flow/flow.html)中將人們在不同裝置間移動的情形，隨著時間推移而視覺化。 你可以看到他們在旅程中的下場，以及他們的下場。
+透過CDA和Analysis Workspace，您可以在[[!DNL Flow visualization]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html)中將人們在不同裝置間移動的情形，隨著時間推移而視覺化。 你可以看到他們在旅程中的下場，以及他們的下場。
 
 *[!DNL Flow]與CDA*
 ![[!DNL Flow Visualization]](assets/cda-flow-viz.png)
 
 ### 跨裝置[!DNL Fallout]
 
-您可能會使用數個[[!DNL Fallout visualizations]](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html)來分析使用者在成功前，透過一系列指定步驟所完成的進度。 您是否知道使用傳統的基於設備的分析時，您對這些[!DNL Fallout visualizations]的視圖有限？ 為了成功「落體」，下一個步驟必須發生在與上一個步驟相同的瀏覽器或應用程式中。 在以裝置為基礎的分析中，您不會看見在另一部裝置上成功完成下一個步驟的使用者。
+您可能會使用數個[[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hant)來分析使用者在成功前，透過一系列指定步驟所完成的進度。 您是否知道使用傳統的基於設備的分析時，您對這些[!DNL Fallout visualizations]的視圖有限？ 為了成功「落體」，下一個步驟必須發生在與上一個步驟相同的瀏覽器或應用程式中。 在以裝置為基礎的分析中，您不會看見在另一部裝置上成功完成下一個步驟的使用者。
 
 別擔心，CDA給你包了。 CDA會建立讓[!DNL Fallout visualizations]更實用的跨裝置檢視。 畢竟，真正重要的是，這個人最終是否在某個地方成功完成了自己的任務。
 
@@ -159,11 +159,11 @@ CDA隨[[!DNL Analytics Ultimate]](https://helpx.adobe.com/legal/product-descript
 
 ### [!DNL Cross-Device Attribution IQ]
 
-因為CDA會在Analysis Workspace下建立一層跨裝置資料，因此您的所有分析都會以跨裝置的觀點來調整。 有一個強大的範例是透過[[!DNL Attribution IQ]](https://docs.adobe.com/content/help/zh-Hant/analytics/analyze/analysis-workspace/panels/attribution/attribution.html)。 [!DNL Attribution IQ] Analysis Workspace可讓您並排比較多個歸因模型。透過CDA使用此功能，您現在可以比較不同裝置對成功的貢獻。
+因為CDA會在Analysis Workspace下建立一層跨裝置資料，因此您的所有分析都會以跨裝置的觀點來調整。 有一個強大的範例是透過[[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=zh-Hant)。 [!DNL Attribution IQ] Analysis Workspace可讓您並排比較多個歸因模型。透過CDA使用此功能，您現在可以比較不同裝置對成功的貢獻。
 
 例如，假設您想要了解行動電話是互動中第一個最終導致成功的裝置的頻率。 這代表行動電話的「贏取率」。 CDA + [!DNL Attribution IQ]可讓您執行此分析：
 
 *[!DNL Attribution IQ]與CDA*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)
 
-如需詳細資訊，請參閱[[!DNL Cross-Device Analytics] 說明檔案](https://docs.adobe.com/content/help/zh-Hant/analytics/components/cda/cda-home.html)。
+如需詳細資訊，請參閱[[!DNL Cross-Device Analytics] 說明檔案](https://experienceleague.adobe.com/docs/analytics/components/cda/cda-home.html?lang=zh-Hant)。

@@ -1,7 +1,7 @@
 ---
 title: 在Analysis Workspace中使用下拉式篩選器
 description: 此影片會說明如何在Analysis Workspace中使用下拉式篩選器，以動態變更面板的內容。
-feature: 面板
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 3%
@@ -27,4 +27,4 @@ ht-degree: 3%
 
 下拉式清單也是整合專案和面板的實用方式。 例如，如果您有數個提供國家/地區特定報表的專案版本，您現在可以將這些專案折疊為單一專案，並新增國家/地區下拉式清單，供使用者在其間切換。
 
-如需詳細資訊，請瀏覽[文件](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/panels.html)。
+如需詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)。
