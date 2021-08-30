@@ -93,4 +93,4 @@ Experience League即時(LIVE)是由Experience League團隊製作的即時串流�
 
 >[!TIP]
 >
->如需其他學習方法，請查看我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html)。
+>如需其他學習方法，請查看我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。

@@ -7,7 +7,7 @@ solution: Analytics
 source-git-commit: a0cf655c7eab8deaf2897746ece4883147888d7a
 workflow-type: tm+mt
 source-wordcount: '2139'
-ht-degree: 96%
+ht-degree: 99%
 
 ---
 
@@ -62,7 +62,7 @@ ht-degree: 96%
       + [Analysis Workspace 的元件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [使用元件管理員](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [在 Analysis Workspace 中選取報表套裝](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
-      + [檢視Analysis Workspace效能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
+      + [檢視 Analysis Workspace 效能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 秘訣與技巧 {#tips-and-tricks}
       + [Analysis Workspace 7 個秘訣與技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [在 Analysis Workspace 中提升生產力的秘訣](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -212,13 +212,13 @@ ht-degree: 96%
    + [Reports and Analytics 中的即時報告](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
    + 公司設定 {#company-settings}
-      + [執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
-      + [查看您的帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
-   + 使用者管理 {#user-management}
+      + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
+      + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
+   + 用戶管理 {#user-management}
       + [新增管理員至 Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [在 Admin Console 限制報表套裝的存取權限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
-      + [將使用者資產轉移給不同的使用者](administration/user-management/transfer-user-assets-to-a-different-user.md)
-      + [檢查連結的IMS ID以防止登入問題](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
+      + [將用戶資產轉移給其他用戶](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [檢查綁定的 IMS ID 以防止登入問題](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + 管理報表套裝 {#manage-report-suites}
       + [如何設定一般帳戶設定](administration/manage-report-suites/configuring-general-account-settings.md)
       + [自訂行事曆設定](administration/manage-report-suites/customize-calendar-settings.md)
@@ -227,8 +227,8 @@ ht-degree: 96%
       + [設定內部 URL 篩選器](administration/manage-report-suites/set-internal-url-filters.md)
       + [正進行郵遞區號和郵政編號的設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [在 Admin Console 中設定變數](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-      + [啟用可選時間戳記設定](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
-      + [在Analytics中設定機器人規則](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
+      + [啟用時間戳記選用設定](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
+      + [在 Analytics 中設定機器人規則](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + 資料控管和 GDPR {#data-governance-and-gdpr}
       + [Adobe Analytics 中的資料控管和 GDPR](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
       + [尋找合適的 Analytics 團隊人員](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
@@ -237,7 +237,7 @@ ht-degree: 96%
       + [管理即將到來的流量尖峰](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + 記錄檔{#logs}
       + [Analysis Workspace 的「使用情況記錄追蹤」](administration/logs/usage-log-tracking-for-analysis-workspace.md)
-      + [Analytics管理員記錄檔概觀](administration/logs/overview-of-analytics-admin-logs.md)
+      + [Analytics 管理員記錄總覽](administration/logs/overview-of-analytics-admin-logs.md)
 + 實作{#implementation}
    + 實作基本需知 {#implementation-basics}
       + [首次實作](implementation/implementation-basics/first-time-implementation.md)
@@ -247,7 +247,7 @@ ht-degree: 96%
       + [建立和管理 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [在網站上使用資料圖層](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + 透過 Experience Platform Launch 進行{#via-adobe-launch}
-      + [透過 Experience Platform Launch 在網站中實作 Experience Cloud](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-websites-with-launch/index.html)
+      + [透過 Experience Platform Launch 在網站中實作 Experience Cloud](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-websites-with-launch/index.html)
       + [Analytics Launch 擴充功能的基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [設定 Analytics 的資料庫管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [在 Analytics Launch 擴充功能中進行一般設定](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
@@ -320,11 +320,11 @@ ht-degree: 96%
       + [從 Analysis Workspace 匯出 CSV 檔案](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse 介紹](exporting/data-warehouse/introduction-to-data-warehouse.md)
-      + [透過SFTP傳送Data Warehouse請求](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [透過 SFTP 傳送 Data Warehouse 請求](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
    + 資料摘要 {#data-feeds}
       + [資料摘要管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [下載資料摘要驗證金鑰](exporting/data-feeds/download-the-data-feed-authentication-key.md)
-      + [尋找您的資料摘要ID](exporting/data-feeds/find-your-data-feed-id.md)
+      + [尋找您的資料摘要 ID](exporting/data-feeds/find-your-data-feed-id.md)
       + [重新執行資料摘要工作](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
       + [在 Report Builder 中一次新增區段至多個請求](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
@@ -383,9 +383,9 @@ ht-degree: 96%
       + [使用 Experience Platform SDK 初始化和查看生命週期量度](mobile-app-analytics/implementation/initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk.md)
       + [追蹤動作 (又稱為自訂連結)](mobile-app-analytics/implementation/tracking-actions-aka-custom-links.md)
       + [追蹤狀態 (又稱為頁面或螢幕)](mobile-app-analytics/implementation/tracking-state-aka-pages-or-screens.md)
-      + [iOS Swift 應用程式中的實作](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
-      + [iOS Objective-C 應用程式中的實作](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
-      + [Android 應用程式中的實作](https://docs.adobe.com/content/help/zh-Hant/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
+      + [iOS Swift 應用程式中的實作](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-swift-apps-with-launch/index.html)
+      + [iOS Objective-C 應用程式中的實作](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-ios-objective-c-apps-with-launch/index.html)
+      + [Android 應用程式中的實作](https://docs.adobe.com/content/help/en/experience-cloud/implementing-in-mobile-android-apps-with-launch/index.html)
    + 測量 Mobile Analytics {#measuring-mobile-analytics}
       + [Adobe Mobile Analytics 快速入門](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [行動歷程中的接觸點影響](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
