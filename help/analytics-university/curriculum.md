@@ -5,9 +5,9 @@ hide: true
 hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: a5e8cb510cff46332297bcc95f94e9792dc4fc88
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -19,11 +19,11 @@ ht-degree: 76%
 
 Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您會看到 4 個旨在介紹 Adobe Analytics 集合和報告的課程模組，該課程模組可再細分為數位分析或行銷課程。此入門手冊可讓教授和學生獲得參加 Adobe Analytics 每年秋季全球挑戰賽所需的知識。
 
-### 幫助您準備的新課程
+### 幫助您做好準備的新課程
 
-為了準備學習和教學分析課程，我們已在Adobe Education Exchange上推出全新課程，讓您了解如何教授以下概述的所有核心概念。 建議您從本課程開始，確保您準備好就4個核心模組及其他課程對學生進行教育。
+為了幫助您學習及教授 Analytics 課程，我們在 Adobe Education Exchange 上推出了全新課程，您可以在該課程中學習如何教授以下概述的所有核心概念。 我們建議您從這項課程開始，以確保您已準備好可以在 4 個核心單元及更多單元中對學生進行教育。
 
-在此註冊課程：[https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
+請在這裡報名此課程：[https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 
 ### 您將了解以下內容：
 
