@@ -1,19 +1,19 @@
 ---
 title: Analysis Workspace 的「使用情況記錄追蹤」
 description: 在「管理員 — 記錄檔 — 使用與存取」下方，您可以更清楚了解使用者對Adobe Analytics的使用情形。 此影片特別著重於測量工作區專案的使用情形。
-feature: 資料配置和收集
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 4024
-topic: 管理
+topic: Administration
 role: Admin
 level: Beginner
 exl-id: 397cfb51-7d7d-49dd-8b54-e928fe77d39e
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
-source-wordcount: '102'
+source-wordcount: '98'
 ht-degree: 18%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 18%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12)
 
-如需詳細資訊，請瀏覽[文件](https://docs.adobe.com/help/en/analytics/admin/admin-tools/logs.html)。
+如需詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)。

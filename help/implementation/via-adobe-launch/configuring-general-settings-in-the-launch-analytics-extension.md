@@ -10,7 +10,7 @@ kt: 2837
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 14%
@@ -25,7 +25,7 @@ ht-degree: 14%
 
 如需與此使用案例各方面相關的詳細資訊，請參閱下列檔案主題：
 
-[郵遞區號](https://docs.adobe.com/help/en/analytics/components/variables/dimensions-reports/reports-zip.html)
+[郵遞區號](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=en)
 
 [分類](https://experienceleague.adobe.com/docs/analytics/components/classifications/c-classifications.html?lang=zh-Hant)
 
