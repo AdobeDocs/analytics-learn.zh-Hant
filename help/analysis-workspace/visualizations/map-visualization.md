@@ -2,15 +2,13 @@
 title: Analysis Workspace中的地圖視覺效果
 description: 此影片會示範如何在Analysis Workspace中使用新的地圖視覺效果。 地圖視覺效果可讓您根據動態地圖檢視行動（緯度/經度）或網頁（IP位址）資料，讓您了解客戶在其位置環境中的使用方式。
 feature: Visualizations
-topics: null
-activity: use
 doc-type: feature video
-team: Technical Marketing
+thumbnail: 23559.jpg
 kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 0%
