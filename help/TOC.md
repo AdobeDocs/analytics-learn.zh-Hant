@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 3fa5d24147c0a2074921144d725d21ea57a92336
-workflow-type: ht
-source-wordcount: '2197'
-ht-degree: 100%
+source-git-commit: 808129e3d71b11446eadac44862e6a879c9e95b7
+workflow-type: tm+mt
+source-wordcount: '2201'
+ht-degree: 99%
 
 ---
 
@@ -317,6 +317,7 @@ ht-degree: 100%
    + [Adobe Labs (技術預覽)](additional-tools/adobe-labs-technology-previews.md)
    + Analytics 儀表板 {#analytics-dashboards}
       + [Adobe Analytics 儀表板計分卡產生器](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)
+      + [行動計分卡的視覺效果](additional-tools/analytics-dashboards/visualizations-for-mobile-scorecards.md)
       + [套用自訂日期範圍](additional-tools/analytics-dashboards/apply-custom-date-ranges-to-mobile-scorecard-projects.md)
       + [Analytics 儀表板應用程式內體驗](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)
 + 匯出 {#exporting}
