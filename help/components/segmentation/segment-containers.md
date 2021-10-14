@@ -1,25 +1,23 @@
 ---
 title: Adobe Analytics中的區段容器
-description: 此影片說明如何在Adobe Analytics的「區段產生器」中處理三種不同的區段容器類型。
+description: 建立區段時，點擊、造訪和訪客容器會控制您的區段將包含多少資料。 此影片會說明如何使用容器，並聽取各容器的一些範例。
 feature: Segmentation
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 2301
+thumbnail: 2301.jpg
 role: User
 level: Beginner
 exl-id: 742e263e-2ac0-4d6e-b321-90691189d914
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: 4b195762364148ca1f4affe79f5c9a174761558f
 workflow-type: tm+mt
-source-wordcount: '50'
-ht-degree: 0%
+source-wordcount: '90'
+ht-degree: 7%
 
 ---
 
-#   Adobe Analytics中的Segmentcontainer {#segment-containers-in-adobe-analytics}
+Adobe Analytics中的區段容器{#segment-containers-in-adobe-analytics}
 
-此影片說明如何在Adobe Analytics的[!UICONTROL 區段產生器]中處理三種不同的[!UICONTROL 區段] [!UICONTROL 容器]類型。
+建立區段時，點擊、造訪和訪客容器會控制您的區段將包含多少資料。 此影片會說明如何使用容器，並聽取各容器的一些範例。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12)
 
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=en)。
