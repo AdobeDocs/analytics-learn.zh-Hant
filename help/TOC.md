@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: bf34fbd9aa8f707efd8cb96a3cebda03d6ebdeb1
+source-git-commit: da55943c5e956f7b03952babf8cdaf50d6239133
 workflow-type: tm+mt
 source-wordcount: '2209'
 ht-degree: 99%
@@ -280,7 +280,6 @@ ht-degree: 99%
    + 區段 {#segmentation}
       + [區段產生器概觀](components/segmentation/segment-builder-overview.md)
       + [尋找和建立區段](components/segmentation/finding-and-creating-segments.md)
-      + [在偱序分段中的前/後順序](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [區段中的滾動式日期範圍](components/segmentation/rolling-date-ranges-in-segments.md)
       + [Analysis Workspace 中的區段比較](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [區段容器](components/segmentation/segment-containers.md)
@@ -289,6 +288,7 @@ ht-degree: 99%
       + [在 Analysis Workspace 中將區段用作維度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=zh-Hant)
       + [在 Analysis Workspace 中使用區段來限制資料](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=zh-Hant)
       + [順序分段](components/segmentation/sequential-segmentation.md)
+      + [在偱序分段中的前/後順序](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [不同維度數的分段](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [分段中的維度模型](components/segmentation/dimension-models-in-segmentation.md)
       + [分段中等於任何的運算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
