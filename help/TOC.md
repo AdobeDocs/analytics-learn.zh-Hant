@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 source-git-commit: 74f9fce66df5b5b9cf9f05feed1b992aa6b7a114
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2208'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -160,7 +160,7 @@ ht-degree: 99%
       + [在自由格式表格中使用維度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=zh-Hant)
    + 行事曆和日期範圍 {#calendar-and-date-ranges}
       + [在 Analysis Workspace 中使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
-      + [在專案中套用可重複使用的日期範圍](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
+      + [在您的專案中套用可重複使用的日期範圍](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [在 Analysis Workspace 中使用日期範圍和比較](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
       + [建立自訂日期範圍](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace 中的日期比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
@@ -288,7 +288,7 @@ ht-degree: 99%
       + [在 Analysis Workspace 中將區段用作維度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=zh-Hant)
       + [在 Analysis Workspace 中使用區段來限制資料](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=zh-Hant)
       + [順序分段](components/segmentation/sequential-segmentation.md)
-      + [在偱序分段中的前/後順序](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
+      + [在順序分段中的前/後順序](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [不同維度數的分段](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [分段中的維度模型](components/segmentation/dimension-models-in-segmentation.md)
       + [分段中等於任何的運算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
