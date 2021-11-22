@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2225'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -87,7 +87,7 @@ ht-degree: 99%
       + [Analysis Workspace 中的 Quick Insights 面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [使用 Attribution IQ 面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=zh-Hant)
       + [Analysis Workspace 中的「媒體同時檢閱者」面板](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
-      + [媒體播放逗留時間面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
+      + [媒體播放時間面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html)
       + [使用下拉式篩選器](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [使用面板來整理 Analysis Workspace 專案](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [區段下拉區域改善](analysis-workspace/using-panels/segment-dropzone-improvements.md)
@@ -381,8 +381,8 @@ ht-degree: 99%
       + [新增購買事件的 Launch 規則](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [2019 年峰會超級展示 - 零售業](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=zh-Hant)
 + Media Analytics {#media-analytics}
-   + 測量Media Analytics {#measuring-media-analytics}
-      + [媒體播放逗留時間面板](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
+   + 衡量媒體分析{#measuring-media-analytics}
+      + [媒體播放時間面板](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [在 Analysis Workspace 中使用音效使用情況範本](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + 行動應用程式分析 {#mobile-app-analytics}
    + 實作 {#implementation}
