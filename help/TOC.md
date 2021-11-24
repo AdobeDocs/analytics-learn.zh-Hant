@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 4092033ff06e0b4805a94bb77e7d9c964adcf82a
-workflow-type: ht
-source-wordcount: '2225'
-ht-degree: 100%
+source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
+workflow-type: tm+mt
+source-wordcount: '2231'
+ht-degree: 99%
 
 ---
 
@@ -293,6 +293,7 @@ ht-degree: 100%
       + [不同維度數的分段](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [分段中的維度模型](components/segmentation/dimension-models-in-segmentation.md)
       + [分段中等於任何的運算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Analytics Insider網路研討會 — 客戶細分策略](components/segmentation/customer-segmentation-strategies.md)
    + 計算量度 {#calculated-metrics}
       + [計算量度中近似計數的不同函數](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
       + [計算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=zh-Hant)
