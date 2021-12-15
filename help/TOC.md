@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: acc9965df12599640462302becd18d82e7dcbc33
-workflow-type: ht
-source-wordcount: '2231'
+source-git-commit: decddf7d0623120b9d2ee9620c922cf280476086
+workflow-type: tm+mt
+source-wordcount: '2235'
 ht-degree: 100%
 
 ---
@@ -225,6 +225,7 @@ ht-degree: 100%
    + 管理報表套裝 {#manage-report-suites}
       + [如何設定一般帳戶設定](administration/manage-report-suites/configuring-general-account-settings.md)
       + [自訂行事曆設定](administration/manage-report-suites/customize-calendar-settings.md)
+      + [設定付費搜尋偵測](administration/manage-report-suites/configure-paid-search-detection.md)
       + [自訂 Reports and Analytics 中的選單](administration/manage-report-suites/customize-menus.md)
       + [設定「尋找方法」](administration/manage-report-suites/configure-finding-methods.md)
       + [設定內部 URL 篩選器](administration/manage-report-suites/set-internal-url-filters.md)
