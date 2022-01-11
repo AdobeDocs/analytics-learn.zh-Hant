@@ -6,11 +6,12 @@ topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
+thumbnail: 23877.jpg
 kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 3%
@@ -27,4 +28,4 @@ ht-degree: 3%
 
 下拉式清單也是整合專案和面板的實用方式。 例如，如果您有數個提供國家/地區特定報表的專案版本，您現在可以將這些專案折疊為單一專案，並新增國家/地區下拉式清單，供使用者在其間切換。
 
-如需詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)。
+如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)。
