@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: decddf7d0623120b9d2ee9620c922cf280476086
-workflow-type: ht
-source-wordcount: '2235'
-ht-degree: 100%
+source-git-commit: c04177fead4f2f7d3187907172ed916accaeecc6
+workflow-type: tm+mt
+source-wordcount: '2248'
+ht-degree: 99%
 
 ---
 
@@ -227,6 +227,9 @@ ht-degree: 100%
       + [自訂行事曆設定](administration/manage-report-suites/customize-calendar-settings.md)
       + [設定付費搜尋偵測](administration/manage-report-suites/configure-paid-search-detection.md)
       + [自訂 Reports and Analytics 中的選單](administration/manage-report-suites/customize-menus.md)
+      + [使用處理規則處理傳入資料](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
+      + [設定流量變數(prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [設定清單變數](administration/manage-report-suites/configuring-list-variables.md)
       + [設定「尋找方法」](administration/manage-report-suites/configure-finding-methods.md)
       + [設定內部 URL 篩選器](administration/manage-report-suites/set-internal-url-filters.md)
       + [正進行郵遞區號和郵政編號的設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
