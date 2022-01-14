@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace中的區段放置區改良
-description: 區段放置區已改善，讓您可以真正將任何項目放置在專案中的任何位置。
+title: Analysis Workspace 中的區段下拉區域改善
+description: 區段下拉區域已進行改善，因此您真的可以在專案中的任一處下拉任何物件。
 feature: Panels
 topics: null
 activity: use
@@ -12,18 +12,18 @@ role: User
 level: Beginner
 exl-id: d07ba0a5-735b-43f2-ad67-31520ac897bd
 source-git-commit: be1ffd44024ea883427c3099434f4ed4e719a128
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL 區段] 改善Analysis Workspace中的放置區 {#segment-drop-zone-improvements-in-analysis-workspace}
+# [!UICONTROL Analysis Workspace] 中的區段下拉區域改善 {#segment-drop-zone-improvements-in-analysis-workspace}
 
-[!UICONTROL 區段] 已改善放置區，讓您可以真正將任何項目放置在任何位置。
+[!UICONTROL 區段]下拉區域已進行改善，因此您真的可以在專案中的任一處下拉任何物件。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24036/?quality=12)
 
-您現在可以放置完整 [!UICONTROL 維度] 和 [!UICONTROL 量度]，此外， [!UICONTROL 維度] 項目， [!UICONTROL 日期範圍] 和 [!UICONTROL 區段]. 此外，我們已改善 [!UICONTROL 維度] 拖放至「未指定」和「無」項目時，系統會加以處理 [!UICONTROL 區段] 拖放區域。
+除了[!UICONTROL 維度]項目、[!UICONTROL 資料範圍]和[!UICONTROL 區段]之外，您現在可以下拉完整的[!UICONTROL 維度]和[!UICONTROL 量度]。 此外，當在[!UICONTROL 片段]下拉區中下拉時，我們已改善如何處理「未指定」和「無」的[!UICONTROL 維度]項目。
 
 如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/t-freeform-project-segment.html?lang=en)。
