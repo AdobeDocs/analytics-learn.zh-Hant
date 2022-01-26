@@ -1,9 +1,9 @@
 ---
 title: 在 Adobe Analytics 中使用元件管理員
-seo-title: 在 Adobe Analytics 中使用元件管理員
+seo-title: Using Component Managers in Adobe Analytics
 description: '本影片將展示如何在 Adobe Analytics 中使用警示和已排程專案的元件管理員，以及一些其他功能。了解如何輕鬆尋找所需的警示或已排程專案，以及啟用/停用警示。 '
-seo-description: '本影片將展示如何在 Adobe Analytics 中使用警示和已排程專案的元件管理員，以及一些其他功能。了解如何輕鬆尋找所需的警示或已排程專案，以及啟用/停用警示。 '
-feature: Workspace 基本知識
+seo-description: This video shows how to use the Alerts and Scheduled Projects component managers in Adobe Analytics, along with some additional features. Learn how to easily find the Alert or Scheduled Project you’re looking for as well as Enable/Disable Alerts.
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -15,7 +15,7 @@ level: Beginner
 exl-id: 2230ca48-4b08-45cd-9674-fa3c4dd482d7
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '136'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
