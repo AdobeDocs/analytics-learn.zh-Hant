@@ -1,7 +1,7 @@
 ---
 title: 了解資料如何進入您的 Analysis Workspace 專案
 description: 此影片將說明如何使用 Chrome 中的 Adobe Experience Platform Debugger 擴充功能，查看資料從頁面流入 Analysis Workspace 中的表格和視覺效果的情況。
-feature: 工作區基本知識
+feature: Workspace Basics
 doc-type: feature video
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ thumbnail: 31072.jpg
 exl-id: eb6eada2-74b1-423c-a80d-2bcc2148e167
 source-git-commit: bbd67178a523233a2a1aebac6b206ba4d7724388
 workflow-type: ht
-source-wordcount: '101'
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
