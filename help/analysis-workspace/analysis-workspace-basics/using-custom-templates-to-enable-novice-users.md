@@ -1,9 +1,9 @@
 ---
 title: 使用自訂範本來帶領 Analysis Workspace 新手用戶
-seo-title: 使用自訂範本來帶領 Analysis Workspace 新手用戶
+seo-title: Using custom templates to enable novice Analysis Workspace users
 description: 本影片將示範如何結合自訂範本與複製+貼上/插入功能，以便更有效為組織中的新手用戶提供服務。
-seo-description: 本影片將示範如何結合自訂範本與複製+貼上/插入功能，以便更有效為組織中的新手用戶提供服務。
-feature: 專案
+seo-description: This video demonstrates how to bring together custom templates with copy + paste/insert capabilities to better serve novice users in your organization.
+feature: Projects
 topics: null
 activity: use
 doc-type: feature video
@@ -15,7 +15,7 @@ level: Intermediate
 exl-id: 9766aff9-1025-43a1-bdf3-3559d48060a1
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
 workflow-type: ht
-source-wordcount: '146'
+source-wordcount: '114'
 ht-degree: 100%
 
 ---
