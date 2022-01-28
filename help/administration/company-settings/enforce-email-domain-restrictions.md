@@ -1,24 +1,23 @@
 ---
-title: 執行電子郵件網域限制
-description: '安全管理員可讓您控制報表資料的存取權。選項包括增強式密碼、密碼過期、IP 登入限制及電子郵件網域限制。「執行電子郵件網域限制」會篩選Analytics傳送書籤、可下載報表及警報的電子郵件地址和網域。 電子郵件篩選清單支援高達 100 個項目，每個項目都可以是電子郵件地址或整個電子郵件網域。 '
-feature: 管理工具、公司設定
-topic: '安全性 '
+title: 強制執行電子郵件網域限制
+description: 安全管理員可讓您控制報表資料的存取權。選項包括增強式密碼、密碼過期、IP 登入限制及電子郵件網域限制。強制電子郵件域限制過濾分析發送書籤、可下載報告和警報的電子郵件地址和域。 電子郵件篩選清單支援高達 100 個項目，每個項目都可以是電子郵件地址或整個電子郵件網域。
+feature: Admin Tools, Company Settings
+topic: Security
 role: User, Admin
 level: Intermediate
-doc-type: feature video
 thumbnail: 335741.jpg
-kt: KT-8461
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
+kt: 8461
+exl-id: fc5f251b-120b-487c-a415-1949df62d32f
+source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
 workflow-type: tm+mt
-source-wordcount: '137'
-ht-degree: 70%
+source-wordcount: '132'
+ht-degree: 72%
 
 ---
 
+# 強制執行電子郵件網域限制
 
-# 執行電子郵件網域限制
-
-安全管理員可讓您控制報表資料的存取權。選項包括增強式密碼、密碼過期、IP 登入限制及電子郵件網域限制。「執行電子郵件網域限制」會篩選Analytics傳送書籤、可下載報表及警報的電子郵件地址和網域。 電子郵件篩選清單支援高達 100 個項目，每個項目都可以是電子郵件地址或整個電子郵件網域。
+安全管理員可讓您控制報表資料的存取權。選項包括增強式密碼、密碼過期、IP 登入限制及電子郵件網域限制。強制電子郵件域限制過濾分析發送書籤、可下載報告和警報的電子郵件地址和域。 電子郵件篩選清單支援高達 100 個項目，每個項目都可以是電子郵件地址或整個電子郵件網域。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335741/?quality=12&learn=on)

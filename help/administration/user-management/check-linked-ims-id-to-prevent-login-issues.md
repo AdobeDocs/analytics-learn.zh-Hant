@@ -1,24 +1,23 @@
 ---
-title: 檢查連結的IMS ID以防止登入問題
-description: Adobe Analytics中的連結IMS ID不正確或遺失，可能會導致使用者的登入問題。 使用者可自行檢查連結的IMS ID，並聯絡客戶支援以了解任何問題，免除執行常見疑難排解步驟的麻煩。
-feature: 管理工具、使用者管理
-topic: 管理
+title: 檢查綁定的 IMS ID 以防止登入問題
+description: Adobe Analytics中連結的IMS ID不正確或缺失可能會導致用戶登錄問題。 用戶可以自己檢查連結的IMS ID並聯繫客戶支援瞭解任何問題，從而省去執行常見故障排除步驟的麻煩。
+feature: Admin Tools, User Management
+topic: Administration
 role: Admin
 level: Beginner
-doc-type: feature video
 thumbnail: 335749.jpg
-kt: KT-8466
-source-git-commit: 824efaa2f806a578839caaaed0c5c5dda8173b9a
+kt: 8466
+exl-id: ce096b45-a7bf-4ebd-96e9-b2e10c2c175b
+source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
 workflow-type: tm+mt
-source-wordcount: '103'
-ht-degree: 0%
+source-wordcount: '98'
+ht-degree: 16%
 
 ---
 
+# 檢查綁定的 IMS ID 以防止登入問題
 
-# 檢查連結的IMS ID以防止登入問題
-
-Adobe Analytics中的連結IMS ID不正確或遺失，可能會導致使用者的登入問題。 使用者可自行檢查連結的IMS ID，並聯絡客戶支援以了解任何問題，免除執行常見疑難排解步驟的麻煩。
+Adobe Analytics中連結的IMS ID不正確或缺失可能會導致用戶登錄問題。 用戶可以自己檢查連結的IMS ID並聯繫客戶支援瞭解任何問題，從而省去執行常見故障排除步驟的麻煩。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335749/?quality=12&learn=on)
