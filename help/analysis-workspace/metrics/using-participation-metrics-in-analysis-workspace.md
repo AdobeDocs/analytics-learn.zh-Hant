@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 84%
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
-如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html)。
+如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html?lang=zh-Hant)。
