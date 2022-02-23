@@ -13,19 +13,19 @@ role: User
 level: Intermediate
 exl-id: c23ebad6-2967-4739-b381-1f3c6415f8c7
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '165'
-ht-degree: 47%
+ht-degree: 100%
 
 ---
 
 # Experience Cloud 對象發佈功能改善
 
-Experience Cloud Audience Publishing 已更臻完善。您現在可以發佈對象（[!UICONTROL 區段]），並加速其提供速度六倍，將目前的延遲時間從48小時縮短至約8小時，而且速度可能更快，具體取決於流量和[!UICONTROL 區段]大小。
+Experience Cloud Audience Publishing 已更臻完善。您現在可以發佈對象 ([!UICONTROL 區段])，並且讓流程速度加快 6 倍，將目前的延遲時間從 48 小時縮短至約 8 小時甚至更快 (取決於流量和[!UICONTROL 區段]大小)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12)
 
-此外，每個[!UICONTROL 報表套裝]可一次發佈的[!UICONTROL 區段]數量已從20個增加至75個。
-如需詳細資訊，請參閱Analytics說明中的[將區段發佈至Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html)。
+此外，可以一次發佈的[!UICONTROL 區段]數量已從每個[!UICONTROL 報告套裝] 20 個提高到 75 個。
+如需詳細資訊，請參閱 Analytics 說明中的[發佈區段至 Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=zh-Hant)。
 
-此外，如需[!UICONTROL Audience Library]的相關資訊，請參閱Experience Cloud說明中的[Audiences](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html?lang=zh-Hant)。
+另請閱讀 Experience Cloud 說明中的[對象](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html?lang=zh-Hant)，以了解[!UICONTROL 對象庫]的資訊。
