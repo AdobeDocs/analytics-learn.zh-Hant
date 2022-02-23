@@ -1,7 +1,7 @@
 ---
-title: 在Adobe Analytics中新增Dimension和量度說明
-description: 此影片會帶您了解如何將內容新增至Adobe Analytics中的報表、量度和維度。
-feature: Workspace 基本知識
+title: 新增 Adobe Analytics 中的維度和量度說明
+description: 本影片會說明如何在 Adobe Analytics 中將快顯選單新增到您的報告、量度和維度。
+feature: Workspace Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: ffc9c54c-1afc-47f0-b057-e57f05139d88
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 3%
+workflow-type: ht
+source-wordcount: '52'
+ht-degree: 100%
 
 ---
 
-# 在Adobe Analytics中新增[!UICONTROL Dimension]和[!UICONTROL 量度]說明 {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
+# 新增 Adobe Analytics 中的[!UICONTROL 維度]和[!UICONTROL 量度]說明 {#adding-dimension-and-metric-descriptions-in-adobe-analytics}
 
-此影片會帶您了解如何在Adobe Analytics中，將內容新增至報表、[!UICONTROL metrics]和[!UICONTROL 維度]。
+本影片會說明如何在 Adobe Analytics 中將快顯選單新增到您的報告、[!UICONTROL 量度]和[!UICONTROL 維度]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25453/?quality=12)
