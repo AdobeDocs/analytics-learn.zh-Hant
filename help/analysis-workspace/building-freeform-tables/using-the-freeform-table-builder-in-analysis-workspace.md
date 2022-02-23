@@ -1,7 +1,7 @@
 ---
-title: 在Analysis Workspace中使用自由表格產生器
-description: 自由表格產生器可讓您拖放許多維度、劃分、量度和區段，以建立可回答更複雜商業問題的表格。 資料不會即時更新；而是會在您按一下「建置」後更新，因為表格只更新一次，所以可為您節省時間。
-feature: 自由表格
+title: 在 Analysis Workspace 中使用自由格式表格產生器
+description: 自由格式表格產生器可讓您拖放使用許多維度、劃分、量度和區段，方便建立可回答更複雜商業問題的表格。資料將不會立即更新；由於表格僅會更新一次，因此在您按一下「建置」後資料將會更新，為您節省時間。
+feature: Freeform Tables
 topics: null
 activity: use
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 exl-id: 4cf94512-e4e4-418f-b759-db5feff272e6
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 1%
+workflow-type: ht
+source-wordcount: '102'
+ht-degree: 100%
 
 ---
 
-# 在Analysis Workspace中使用[!DNL Freeform Table Builder]
+# 使用 Analysis Workspace 中的 [!DNL Freeform Table Builder]
 
-[!DNL Freeform Table Builder] 可讓您拖放許多維度、劃分、量度和區段，以建立可回答更複雜業務問題的表格。資料不會即時更新；而是會在您按一下「建置」後更新，因為表格只更新一次，所以可為您節省時間。
+[!DNL Freeform Table Builder]可讓您拖放使用許多維度、劃分、量度和區段，方便建立可回答更複雜商業問題的表格。資料將不會立即更新；由於表格僅會更新一次，因此在您按一下「建置」後資料將會更新，為您節省時間。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31318/?quality=12)
