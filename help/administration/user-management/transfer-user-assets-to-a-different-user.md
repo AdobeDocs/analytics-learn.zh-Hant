@@ -1,6 +1,6 @@
 ---
 title: 將用戶資產轉移給其他用戶
-description: 「使用者管理」頁面上的「管理報表使用者和群組」可讓您管理使用者和群組，以及控制對報表、工具和報表套裝的存取。您可以通過Adobe Analytics的用戶管理將儀表板、日曆事件、書籤等用戶帳戶項從一個用戶帳戶分配給另一個用戶的帳戶項。
+description: 「使用者管理」頁面上的「管理報表使用者和群組」可讓您管理使用者和群組，以及控制對報表、工具和報表套裝的存取。您可以透過 Adobe Analytics 中的用戶管理將某個用戶帳戶中的用戶帳戶項目 (例如儀表板、行事曆活動、書籤等) 指派給另一個用戶的帳戶。
 feature: Admin Tools, User Management
 topic: Administration, Migration
 role: User, Admin
@@ -11,13 +11,13 @@ exl-id: 0949cb1f-9ea2-4682-8ca5-62b74434e722
 source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
 workflow-type: tm+mt
 source-wordcount: '118'
-ht-degree: 54%
+ht-degree: 100%
 
 ---
 
 # 將用戶資產轉移給其他用戶
 
-「使用者管理」頁面上的「管理報表使用者和群組」可讓您管理使用者和群組，以及控制對報表、工具和報表套裝的存取。您可以通過Adobe Analytics的用戶管理將儀表板、日曆事件、書籤等用戶帳戶項從一個用戶帳戶分配給另一個用戶的帳戶項。
+「使用者管理」頁面上的「管理報表使用者和群組」可讓您管理使用者和群組，以及控制對報表、工具和報表套裝的存取。您可以透過 Adobe Analytics 中的用戶管理將某個用戶帳戶中的用戶帳戶項目 (例如儀表板、行事曆活動、書籤等) 指派給另一個用戶的帳戶。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335745/?quality=12&learn=on)

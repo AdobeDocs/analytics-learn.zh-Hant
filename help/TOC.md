@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: d97a15fbefd174cbd5345b1ff7fe28502de676d8
 workflow-type: tm+mt
 source-wordcount: '2254'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -229,9 +229,9 @@ ht-degree: 99%
       + [自訂 Reports and Analytics 中的選單](administration/manage-report-suites/customize-menus.md)
       + [使用處理規則操控傳入的資料](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [設定流量變數 (Prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
-      + [配置通信分類](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [設定流量分類](administration/manage-report-suites/configure-traffic-classifications.md)
       + [在 Admin Console 中設定變數](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
-      + [配置轉換分類](administration/manage-report-suites/configure-conversion-classifications.md)
+      + [設定轉換分類](administration/manage-report-suites/configure-conversion-classifications.md)
       + [設定清單變數](administration/manage-report-suites/configuring-list-variables.md)
       + [設定「尋找方法」](administration/manage-report-suites/configure-finding-methods.md)
       + [設定內部 URL 篩選器](administration/manage-report-suites/set-internal-url-filters.md)
