@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace中的地圖視覺效果
-description: 此影片會示範如何在Analysis Workspace中使用新的地圖視覺效果。 地圖視覺效果可讓您根據動態地圖檢視行動（緯度/經度）或網頁（IP位址）資料，讓您了解客戶在其位置環境中的使用方式。
+title: Analysis Workspace 中的地圖視覺效果
+description: 本影片說明您如何在 Analysis Workspace 中使用新的地圖視覺效果。地圖視覺效果可讓您對照動態地圖檢視行動 (緯度/經度) 或網頁 (IP 位址) 資料，可讓您了解客戶在其位置下的使用情況。
 feature: Visualizations
 doc-type: feature video
 thumbnail: 23559.jpg
@@ -9,26 +9,26 @@ role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
 source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '144'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-#   MapVisualization在Analysis Workspace {#map-visualization-in-analysis-workspace}
+# Analysis Workspace 中的[!UICONTROL 地圖] [!UICONTROL 視覺效果] {#map-visualization-in-analysis-workspace}
 
-此影片會示範如何在Analysis Workspace中使用[!UICONTROL Map] [!UICONTROL visualization]。 [!UICONTROL Map]視覺化可讓您針對動態[!UICONTROL map]檢視[!UICONTROL 行動lat/long]或網頁（IP位址）資料，從而了解客戶在其所在位置的使用概念。
+本影片說明您如何在 Analysis Workspace 中使用[!UICONTROL 地圖] [!UICONTROL 視覺效果]。[!UICONTROL 地圖]視覺效果可讓您對照動態[!UICONTROL 地圖]檢視[!UICONTROL 行動緯度/經度] 或網頁 (IP 位址) 資料，可讓您了解客戶在其位置下的使用情況。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12)
 
-此影片的章節：
+本影片中的章節：
 
-0:00 — 功能概述與設定
+0:00 - 功能總覽和設定
 
-1:05 — 與[!UICONTROL Map]互動
+1:05 - 與[!UICONTROL 地圖]互動
 
-2:55 — 調整[!UICONTROL Map]設定
+2:55 - 調整[!UICONTROL 地圖]設定
 
-7:00 — 熱度圖檢視
+7:00 - 熱度圖檢視
 
-如需此[!UICONTROL visualization]的詳細資訊，請造訪[檔案](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=en)。
+如需有關本[!UICONTROL 視覺效果]的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=zh-Hant)。
