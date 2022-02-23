@@ -1,7 +1,7 @@
 ---
 title: 在 Adobe Analytics 加強安全性
-description: Adobe Analytics達到了最新的安全標準。 如果您的組織想要透過增強式密碼和IP登入限制等功能來擴充安全性，此影片會示範如何操作。
-feature: Analytics 基本知識
+description: Adobe Analytics 遵循最新的安全性標準。如果您的組織想要使用如增強式密碼和 IP 登入限制的功能擴大安全性，本影片將說明如何做到。
+feature: Analytics Basics
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Beginner
 exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 16%
+workflow-type: ht
+source-wordcount: '73'
+ht-degree: 100%
 
 ---
 
 # 在 Adobe Analytics 加強安全性 {#enhancing-security-in-adobe-analytics}
 
-Adobe Analytics達到了最新的安全標準。 如果您的組織想要透過增強式密碼和IP登入限制等功能來擴充安全性，此影片會示範如何操作。
+Adobe Analytics 遵循最新的安全性標準。如果您的組織想要使用如增強式密碼和 IP 登入限制的功能擴大安全性，本影片將說明如何做到。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)
