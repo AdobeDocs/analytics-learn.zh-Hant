@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: 7d638458-0e52-4824-8667-873045cfc372
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '95'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 94%
 
 >[!VIDEO](https://video.tv.adobe.com/v/40384/?quality=12&learn=on)
 
-進一步了解[檔案](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=zh-Hant)。
+在[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=zh-Hant)中了解更多。
