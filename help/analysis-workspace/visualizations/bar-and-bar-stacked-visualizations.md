@@ -1,24 +1,24 @@
 ---
 title: 橫條圖和堆疊橫條圖視覺效果
-description: 在此影片中，我們將討論在Analysis Workspace的專案中新增和設定長條圖、堆疊長條圖、橫條圖和堆疊橫條圖的視覺效果。 雖然這些視覺效果被視為基本項目，但可協助您講述資料故事，並為分析人員提供深入分析。
-feature: 視覺效果
+description: 在這段影片中，我們將討論如何在您的 Analysis Workspace 專案中新增及設定橫條圖、堆疊橫條圖、水平橫條圖和水平堆疊橫條圖等視覺效果。 雖然這些被視為基本的視覺效果，但有助於訴說您的資料故事，並提供分析人員的見解。
+feature: Visualizations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 334308.jpg
 kt: 8129
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 16%
+exl-id: da2789de-ded1-4661-9b1f-46e3f3a0857e
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '111'
+ht-degree: 100%
 
 ---
 
-
 # 橫條圖和堆疊橫條圖視覺效果
 
-在此影片中，我們將討論在Analysis Workspace的專案中新增和設定長條圖、堆疊長條圖、橫條圖和堆疊橫條圖的視覺效果。 雖然這些視覺效果被視為基本項目，但可協助您講述資料故事，並為分析人員提供深入分析。
+在這段影片中，我們將討論如何在您的 Analysis Workspace 專案中新增及設定橫條圖、堆疊橫條圖、水平橫條圖和水平堆疊橫條圖等視覺效果。 雖然這些被視為基本的視覺效果，但有助於訴說您的資料故事，並提供分析人員的見解。
 
 >[!VIDEO](https://video.tv.adobe.com/v/334308/?quality=12&learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bar.html?lang=en)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bar.html?lang=zh-Hant)。
