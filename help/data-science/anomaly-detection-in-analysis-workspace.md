@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace 中的異常偵測
-description: Analysis Workspace會自動偵測您資料中任何時間序列視覺效果或資料表格的異常。 捕捉「未知的未知」，而您無需付出任何額外努力！
+description: Analysis Workspace 會自動針對任何時間序列視覺效果或資料表格偵測資料中的異常。您無須費力，就能找到「未知的未知事物」。
 feature: Data Science
 topics: null
 activity: use
@@ -11,16 +11,16 @@ role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '82'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
 # [!UICONTROL Analysis Workspace 中的異常偵測] {#anomaly-detection-in-analysis-workspace}
 
-Analysis Workspace會自動偵測您資料中任何時間系列[!UICONTROL visualization]或資料表格的異常。 捕捉「未知的未知」，而您無需付出任何額外努力！
+Analysis Workspace 會自動針對任何時間序列[!UICONTROL 視覺效果]或資料表格偵測資料中的異常。您無須費力，就能找到「未知的未知事物」。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12)
 
-有關此功能的詳細資訊，請訪問[文檔](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en)。
+如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=zh-Hant)。
