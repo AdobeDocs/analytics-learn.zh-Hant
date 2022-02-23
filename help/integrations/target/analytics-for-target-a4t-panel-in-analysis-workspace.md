@@ -13,16 +13,16 @@ role: User
 level: Intermediate
 exl-id: 2dad80ba-4032-490f-b7b4-30f0c2f0d608
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '72'
-ht-degree: 44%
+ht-degree: 100%
 
 ---
 
-# [!DNL Analytics for Target] (A4T)Analysis Workspace面板
+# Analysis Workspace 中的 [!DNL Analytics for Target] (A4T) 面板
 
-[!DNL Analytics for Target](A4T)面板可讓您以[!UICONTROL Analysis Workspace]，輕鬆分析Adobe Target活動和體驗。
+「[!DNL Analytics for Target]」(A4T) 面板可讓您在 [!UICONTROL Analysis Workspace] 中輕鬆分析 Adobe Target 活動和體驗。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-進一步了解[檔案](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html)。
+在[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/a4t-panel.html?lang=zh-Hant)中了解更多。
