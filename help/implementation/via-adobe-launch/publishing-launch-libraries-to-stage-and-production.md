@@ -1,7 +1,7 @@
 ---
-title: 將Launch程式庫發佈至預備和生產環境
-description: 在您的開發伺服器上將實作鎖定後，您會想要將其移至預備環境、在該環境進行測試，然後將其移至生產環境。 此影片會逐步顯示程式。
-feature: Launch實作
+title: 發布 Launch 資料庫至階段和生產環境
+description: 您已鎖定開發伺服器上的實作後，您將會想要將它移至中繼環境、在當中測試，然後移至您的生產環境。本影片逐步說明該程序。
+feature: Launch Implementation
 topics: null
 activity: implement
 doc-type: feature video
@@ -11,14 +11,14 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: a2805315-ef40-4f8f-a730-8c29596e6652
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '96'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '94'
+ht-degree: 100%
 
 ---
 
-# 將Launch程式庫發佈至預備和生產環境
+# 發布 Launch 資料庫至階段和生產環境
 
-在開發伺服器上完成實作後，您會想要將其移至預備環境，在該環境進行測試，然後將其移至生產環境。 此影片會逐步顯示程式。
+您已在開發伺服器上完成實作後，您將會想要將它移至中繼環境、在當中測試，然後移至您的生產環境。本影片逐步說明該程序。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12)
