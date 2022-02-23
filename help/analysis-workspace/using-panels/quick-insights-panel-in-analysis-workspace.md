@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: af6da0a2-9273-480c-a915-bd5bab7d5c5d
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '70'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 88%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37248/?quality=12&learn=on)
 
-如需詳細資訊，請參閱 [ 說明文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html)。
+如需詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=zh-Hant)。
