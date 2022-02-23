@@ -1,30 +1,30 @@
 ---
-title: Adobe Analytics中的伺服器呼叫使用量
-seo-title: Adobe Analytics中的伺服器呼叫使用量
-description: 「伺服器呼叫使用量」報告可讓您追蹤在任何時間點使用的伺服器呼叫使用量，並在接近總承諾使用量時主動提醒您。
-seo-description: 「伺服器呼叫使用量」報告可讓您追蹤在任何時間點使用的伺服器呼叫使用量，並在接近總承諾使用量時主動提醒您。
-feature: 資料配置和收集
+title: Adobe Analytics 中的伺服器呼叫使用量
+seo-title: Server Call Usage in Adobe Analytics
+description: 伺服器呼叫使用量報告將能夠準確地追蹤您在任何時間點上使用的伺服器呼叫承諾使用量，並在接近總承諾使用量時主動警示您。
+seo-description: Server Call usage reporting will make it possible for you to track exactly how much of your server call commitment you’ve used at any point in time, and will also proactively alert you when you are approaching your total commitment.
+feature: Data Configuration and Collection
 topics: null
 activity: use
 doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1665
-topic: 管理
+topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 8ada68ff-c7fc-45e3-a663-c477519f557f
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '237'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '186'
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL Adobe Analytics中的伺] 服器呼叫使用 {#server-call-usage-in-adobe-analytics}
+# Adobe Analytics 中的[!UICONTROL 伺服器呼叫使用量] {#server-call-usage-in-adobe-analytics}
 
-[!UICONTROL 伺服器] 呼叫使用報告功能可讓您追蹤您在任何時間點使用的伺服器呼叫承諾使用量，並在接近總承諾使用量時主動提醒您。
+[!UICONTROL 伺服器呼叫使用量]報告將能夠準確地追蹤您在任何時間點上使用的伺服器呼叫承諾使用量，並在接近總承諾使用量時主動警示您。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23137/?quality=12)
 
-您很難保持在組織伺服器呼叫耗用量的頂端，導致使用過量時的挫折感。 透過[!UICONTROL 伺服器呼叫使用量]報告，您可以追蹤您在任何時間點使用的伺服器呼叫承諾使用量，並在接近總承諾使用量時主動提醒您。 隨附的控制面板可讓您分析使用伺服器呼叫的位置，以修正失控的實作，或與同事合作，在可能收集大量價值較低資料的位置進行回縮。
+難以控制您組織的伺服器呼叫消耗量，導致超額使用的挫折。您可以使用[!UICONTROL 伺服器呼叫使用量]報告準確地追蹤您在任何時間點上使用的伺服器呼叫承諾使用量，並在接近總承諾使用量時主動警示您。隨附的儀表板可讓您分析哪裡正在使用伺服器呼叫，因此您可以修正控制不住的實作，或若可能收集到大量較不寶貴的資料，則與同事合作下修規模到合適的規模。
