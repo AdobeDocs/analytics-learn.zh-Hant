@@ -1,24 +1,24 @@
 ---
-title: 摘要數字和摘要變更視覺效果
-description: 此影片會逐步說明如何新增和設定Analysis Workspace中的「摘要編號」和「摘要變更」視覺效果。 這些視覺效果可提供大數字，讓您能夠在每個人都看得到的地方顯示最重要的量度。
-feature: 視覺效果
+title: 摘要編號和摘要變更視覺效果
+description: 本影片逐步說明如何新增並設定 Analysis Workspace 中的摘要編號和摘要變更視覺效果。這些視覺效果提供一個大數，因此您可以在此顯示每個人都可以看見的最重要量度。
+feature: Visualizations
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 335564.jpg
 kt: 2136
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 7%
+exl-id: 3d60ecdc-4161-4b2d-9615-de410d89358e
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '111'
+ht-degree: 100%
 
 ---
 
+# 摘要編號和摘要變更視覺效果
 
-# 摘要數字和摘要變更視覺效果
-
-此影片會逐步說明如何新增和設定Analysis Workspace中的「摘要編號」和「摘要變更」視覺效果。 這些視覺效果可提供大數字，讓您能夠在每個人都看得到的地方顯示最重要的量度。
+本影片逐步說明如何新增並設定 Analysis Workspace 中的摘要編號和摘要變更視覺效果。這些視覺效果提供一個大數，因此您可以在此顯示每個人都可以看見的最重要量度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335564/?quality=12&learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/summary-number-change.html?lang=zh-Hant)。
