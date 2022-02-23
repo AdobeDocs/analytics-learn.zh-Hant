@@ -1,24 +1,24 @@
 ---
 title: 管理即將到來的流量尖峰
-description: Adobe會嘗試與客戶合作，以確保高流量事件成功。 排程流量尖峰是該合作程式的起點。 「排程尖峰」區段可讓您針對臨時流量尖峰傳送警報給 Adobe，以便配置適當資源來處理這些流量。
-feature: 資料配置和收集、流量管理
-topic: 共同作業
+description: Adobe 會嘗試與客戶合作，以確保高流量的活動能夠順利完成。 安排流量尖峰是該合作過程的起點。 排程尖峰區段可讓您提醒 Adobe 有臨時流量尖峰，以便可以分配適當的資源來處理。
+feature: Data Configuration and Collection, Traffic Management
+topic: Collaboration
 role: User
 level: Intermediate, Experienced
 doc-type: feature video
 thumbnail: 335744.jpg
 kt: KT-8462
-source-git-commit: 9cfeda9bd17455ffe9315efe3ffde5482ae27991
-workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 40%
+exl-id: fd28c2dc-4f4e-430a-a88b-42e44e3e6dda
+source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+workflow-type: ht
+source-wordcount: '104'
+ht-degree: 100%
 
 ---
 
-
 # 管理即將到來的流量尖峰
 
-Adobe會嘗試與客戶合作，以確保高流量事件成功。 排程流量尖峰是該合作程式的起點。 「排程尖峰」區段可讓您針對臨時流量尖峰傳送警報給 Adobe，以便配置適當資源來處理這些流量。
+Adobe 會嘗試與客戶合作，以確保高流量的活動能夠順利完成。 安排流量尖峰是該合作過程的起點。 排程尖峰區段可讓您提醒 Adobe 有臨時流量尖峰，以便可以分配適當的資源來處理。
 
 
 >[!VIDEO](https://video.tv.adobe.com/v/335744/?quality=12&learn=on)
