@@ -1,6 +1,6 @@
 ---
-title: 粒度切換Analysis Workspace
-description: 趨勢視覺效果設定已新增粒度選取器，可讓您輕鬆調整資料粒度，從分鐘到年。 此設定將調整圖形和源表，為您保存取消隱藏和操作表的步驟。
+title: Analysis Workspace 中的詳細程度切換
+description: 趨勢方式視覺效果設定已新增詳細程度選擇器，以便讓您輕鬆調整資料詳細程度，從分鐘一直調整到年份。此設定會調整圖表和來源表，讓您省去取消隱藏和處理表格的步驟。
 feature: Visualizations
 doc-type: feature video
 thumbnail: 23548.jpg
@@ -9,14 +9,14 @@ role: User
 level: Beginner
 exl-id: 35746c54-fb23-44bd-be95-d79c2b1705f9
 source-git-commit: ad0fa7f4e781d826a3a10a5ad7e7022334cb44e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-#  粒度切換Analysis Workspace {#granularity-toggle-in-analysis-workspace}
+# Analysis Workspace 中的[!UICONTROL 詳細程度]切換 {#granularity-toggle-in-analysis-workspace}
 
-已將[!UICONTROL 粒度]選取器新增至趨勢[!UICONTROL 視覺效果]設定，讓您可以非常輕鬆地從分鐘開始調整資料[!UICONTROL 粒度]，直到一年。 此設定將調整圖形和源表格，為您保存取消隱藏和操作表格的步驟。
+趨勢方式[!UICONTROL 視覺效果]設定已新增[!UICONTROL 詳細程度]選擇器，以便讓您輕鬆調整資料[!UICONTROL 詳細程度]，從分鐘一直調整到年份。此設定會調整圖表和來源表，讓您省去取消隱藏和處理表格的步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12)
