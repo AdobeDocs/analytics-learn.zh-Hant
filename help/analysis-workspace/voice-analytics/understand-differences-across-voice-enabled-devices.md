@@ -1,7 +1,7 @@
 ---
 title: 了解啟用語音的裝置之間的差異
-description: 了解如何了解各種語音輔助裝置的不同效能和功能，協助排定產品藍圖的優先順序。
-feature: 視覺效果
+description: 了解如何察覺各種語音輔助裝置之間的不同效能和功能，以協助設定產品藍圖優先順序。
+feature: Visualizations
 topics: null
 activity: use
 doc-type: feature video
@@ -11,14 +11,14 @@ role: User
 level: Intermediate
 exl-id: 73cb28d8-1078-4d70-a4ce-76427c550fc3
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 23%
+workflow-type: ht
+source-wordcount: '46'
+ht-degree: 100%
 
 ---
 
 # 了解啟用語音的裝置之間的差異 {#understand-differences-across-voice-enabled-devices}
 
-了解如何了解各種語音輔助裝置的不同效能和功能，協助排定產品藍圖的優先順序。
+了解如何察覺各種語音輔助裝置之間的不同效能和功能，以協助設定產品藍圖優先順序。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27225/?quality=9)
