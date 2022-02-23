@@ -1,6 +1,6 @@
 ---
 title: 無 Tag Manager 的自訂連結追蹤
-description: 對於頁面上的許多動作，追蹤不應視為頁面檢視。 如果您未使用標籤管理程式(如Experience Platform Launch)，您將學習如何將連結追蹤信標編碼至Analytics。 請參閱程式碼，並學習重要秘訣。
+description: 對於頁面上的許多動作，不應將追蹤視為頁面檢視處理。在本影片中，您將了解如何將連結追蹤指標編碼到 Analytics，如果您未使用 Tag Manager (如 Experience Platform Launch)。請參閱編碼並學習重要秘訣。
 feature: Appmeasurement Implementation
 topics: null
 activity: implement
@@ -11,32 +11,32 @@ role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '271'
-ht-degree: 5%
+ht-degree: 100%
 
 ---
 
 # 無 Tag Manager 的自訂連結追蹤 {#custom-link-tracking-without-a-tag-manager}
 
-對於頁面上的許多動作，追蹤不應視為頁面檢視。 如果您未使用標籤管理程式(例如Adobe[!DNL Experience Platform Launch])，您將學習如何將連結追蹤信標編碼至Analytics。 請參閱程式碼，並學習重要秘訣。
+對於頁面上的許多動作，不應將追蹤視為頁面檢視處理。在本影片中，您將了解如何將連結追蹤指標編碼到 Analytics，如果您未使用 Tag Manager (如 Adobe [!DNL Experience Platform Launch])。請參閱編碼並學習重要秘訣。
 
-## 傳送s.tl()信標 {#sending-an-s-tl-beacon}
+## 傳送 s.tl() 指標 {#sending-an-s-tl-beacon}
 
-有兩個函式可將資料傳送至Adobe Analytics:
+有兩個功能會傳送資料到 Adobe Analytics：
 
-1. s.t()- 「track」信標（即頁面檢視點擊）會遞增指定頁面名稱的頁面檢視，以及設定其他變數
-1. s.tl()- 「追蹤連結」信標，通常稱為「自訂連結」點擊/信標，不會遞增頁面檢視，並會忽略pageName變數。 這通常用於追蹤未載入新頁面/畫面之頁面上的較小動作，或不導致新頁面載入的其他動作。
+1. s.t() - 「追蹤」指標是頁面檢視點擊，增加指定頁面名稱的頁面檢視，以及設定其他變數
+1. s.tl() - 「追蹤連結」指標常稱為「自訂連結」點擊/治標，不會增加頁面檢視並忽略 pageName 變數。這常用於追蹤頁面上不會載入新頁面/畫面的小動作，或不會造成新頁面載入的其他動作。
 
 >[!NOTE]
 >
->此影片會示範當您未使用Adobe[!DNL Experience Platform Launch]之類的標籤管理程式時，如何編寫自訂連結點擊的程式碼。 建議您使用[!DNL Experience Platform Launch]，我們的實作最佳實務建議。 不過，如果您需要在`s.tl()`中編寫程式碼，以下說明操作方式。
+>在本影片中，我們將說明如何在未使用 Tag Manager (如 Adobe [!DNL Experience Platform Launch]) 時編碼自訂連結點擊。我們建議您使用 [!DNL Experience Platform Launch] 我們對於實作的最佳實務建議。然而，如果您需要在 `s.tl()` 中編碼，以下說明該怎麼做。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
 
 ## 程式碼範例 {#sample-code}
 
-以下是影片中自訂連結所使用的范常式式碼：
+以下是在影片中自訂連結使用的程式碼範例：
 
 ```JavaScript
 <a href="#" onclick="
