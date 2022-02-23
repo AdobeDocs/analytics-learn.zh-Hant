@@ -1,6 +1,6 @@
 ---
-title: 使用跨索引標籤分析，探索Analysis Workspace中的基本行銷歸因
-description: 想透過 Adobe Analytics 將歸因方法提升到全新層次，其實有許多方式。這部影片的重點，在於介紹如何使用工作區中的跨索引標籤分析，從行銷管道報表獲取更深入的寶貴見解。
+title: 在 Analysis Workspace 中使用交叉表分析來探索基本的行銷歸因
+description: 有許多方式可透過 Adobe Analytics 將您的歸因方法提升到全新的境界。 這部影片的重點，在於介紹如何使用工作區中的交叉表分析，從行銷管道報表獲取更深入的見解。
 feature: Marketing Channels
 topics: null
 activity: use
@@ -12,31 +12,31 @@ role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '288'
-ht-degree: 37%
+ht-degree: 100%
 
 ---
 
-# 使用跨索引標籤分析，探索Analysis Workspace中的基本行銷歸因
+# 在 Analysis Workspace 中使用交叉表分析來探索基本的行銷歸因
 
-想透過 Adobe Analytics 將歸因方法提升到全新層次，其實有許多方式。這部影片的重點，在於介紹如何使用工作區中的跨索引標籤分析，從行銷管道報表獲取更深入的寶貴見解。
+有許多方式可透過 Adobe Analytics 將您的歸因方法提升到全新的境界。 這部影片的重點，在於介紹如何使用工作區中的交叉表分析，從行銷管道報表獲取更深入的見解。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
 
-**更新**:自此影片發佈後，已 [!DNL Workspace] 進行幾項改善。我們將離開視頻直播，因為它有一些很棒的提示，你無論如何都應該知道。
+**更新**：自影片發佈以來，[!DNL Workspace] 已進行過數次改進。由於影片中有一些您應知道的絕佳秘訣，因此我們正離開影片直播。
 
-**首先**，請務必查看歸因 [!UICONTROL IQ] 功能，協助您進一步進行行銷歸因分析。這包括下列影片及其周圍的影片：
+**首先**，請務必查看 [!UICONTROL Attribution IQ] 功能，協助讓您的行銷歸因分析走得更遠。這包含下列影片和相關影片：
 
 * [使用 Attribution IQ 面板](using-the-attribution-iq-panel.md)
 * [新增 Attribution IQ 模型的並排比較](adding-side-by-side-comparisons-of-attribution-iq-models.md)
 * [Attribution IQ 中的演算法模型](algorithmic-model-in-attribution-iq.md)
 * [Attribution IQ 中的自訂回顧期間](custom-lookback-windows-in-attribution-iq.md)
 
-**第二**，如果您正在執行此影片中的步驟，請注意，您可以使用自 [由表格產生](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md) 器來設定表格。
+**第二**，如果您依照本影片中的步驟進行，請注意您可以[使用自由格式表格產生器](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)設定您的表格。
 
-* 3:20 — 跨索引標籤維度放置時會自動動態顯示，表示其值可能隨時間而變更。 對於此分析，最好改用靜態欄。 在影片的6:33深入了解動態欄：[自由表格中的列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-* 4:30 — 欄設定現在可以大量更新，而非1乘1。 觀看影片8:45以深入了解：[自由表格中的列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 3:20 - 交叉表維度會在捨棄時自動適時變動，表示其值會隨著時間變更。 若是此分析，最好引入靜態欄。在影片的 6:33 了解更多關於動態欄的資訊：[自由格式表格中的列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 4:30 - 欄設定現在可以大量更新，而不用逐一更新。在影片的 8:45 了解更多資訊：[自由格式表格中的列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 
-有關此主題的詳細資訊，請訪問[文檔](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hant)。
+如需有關本主題的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hant)。
