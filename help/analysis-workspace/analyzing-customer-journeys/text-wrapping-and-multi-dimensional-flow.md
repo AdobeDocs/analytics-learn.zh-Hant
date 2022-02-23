@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace中的文字繞排和多維度流量
-description: 此影片說明如何在流量視覺效果中開啟和關閉標籤截斷。 此外，還可學習將維度拖放至流量，以進行多維度流量分析。
+title: Analysis Workspace 中的文繞圖和多維度流量
+description: 本影片說明如何在流量視覺效果中開啟與關閉標籤截斷。此外，也可以了解如何拖放維度至您的流量，以進行多維度流量分析。
 feature: Visualizations
 topics: null
 activity: use
@@ -13,16 +13,16 @@ role: User
 level: Beginner
 exl-id: da173124-ce09-4be3-9418-8791acd16240
 source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '88'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-# Analysis Workspace中的文字繞排與[!DNL Multi-Dimensional Flow] {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
+# Analysis Workspace 中的文繞圖和[!DNL Multi-Dimensional Flow] {#text-wrapping-multi-dimensional-flow-in-analysis-workspace}
 
-此影片說明如何在[!DNL flow visualization]中開啟和關閉標籤截斷。 此外，還可學習將維度拖放至[!DNL flow]以進行多維度[!DNL flow]分析。
+本影片說明如何在[!DNL flow visualization]中開啟與關閉標籤截斷。此外，也可以了解如何拖放維度至您的[!DNL flow]，以進行多維度流量[!DNL flow]分析。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24041/?quality=12)
 
-如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=en)。
+如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hant)。
