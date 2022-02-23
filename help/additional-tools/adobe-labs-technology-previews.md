@@ -8,7 +8,7 @@ role: Architect
 level: Beginner
 exl-id: 05bbfccf-a76f-4f01-9f44-a959afc7d12a
 source-git-commit: d8ac4494a517608fce4c78769136b684937c7639
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '89'
 ht-degree: 100%
 
@@ -22,4 +22,4 @@ ht-degree: 100%
 
 使用 [!DNL Labs] 原型時，您可以在自己的業務使用案例和資料環境下評估此功能。
 
-如需詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html)。
+如需詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/tech-previews/overview.html?lang=zh-Hant)。
