@@ -1,7 +1,7 @@
 ---
 title: 尋找合適的 Analytics 團隊人員
-description: 實作Adobe Analytics和分析網站活動時，請務必在您的團隊中找到合適的人員。 此影片會快速執行您要填入的不同角色。
-feature: Analytics 基本知識
+description: 非常重要的是，隨著您實作 Adobe Analytics 和分析網站上的活動，要為您的團隊尋找合適的人員。本影片將快速介紹您想要取得的不同的角色。
+feature: Analytics Basics
 topics: null
 activity: understand
 doc-type: feature video
@@ -11,14 +11,14 @@ role: Admin
 level: Beginner
 exl-id: ea671adf-c290-4cbe-b65d-2ebdf980b76b
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+workflow-type: ht
+source-wordcount: '97'
+ht-degree: 100%
 
 ---
 
-# 在您的[!DNL Analytics]團隊中找到合適的人
+# 尋找合適的 [!DNL Analytics] 團隊人員
 
-實作Adobe Analytics和分析網站活動時，請務必在您的團隊中找到合適的人員。 此影片會快速執行您要填入的不同角色。
+非常重要的是，隨著您實作 Adobe Analytics 和分析網站上的活動，要為您的團隊尋找合適的人員。本影片將快速介紹您想要取得的不同的角色。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28756/?quality=12)
