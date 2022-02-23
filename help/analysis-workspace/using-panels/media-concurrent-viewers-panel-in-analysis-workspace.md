@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace 中的「媒體同時檢閱者」面板
-description: 「媒體同時檢閱者」面板可供Media Analytics客戶了解人數高峰或趨勢反轉的時間，以針對內容品質和檢視者互動提供重要的深入分析，並協助疑難排解或針對數量/規模進行規劃。
-feature: 面板
+description: 如果是 Media Analytics 客戶，「媒體同時檢閱者」面板可讓您了解發生高峰期同時觀看人數或客戶流失的時間，以針對內容品質和檢視者參與度提供重要解析，並有助於疑難排解或完成數量/規模的相關規劃。
+feature: Panels
 topics: null
 activity: use
 doc-type: feature video
@@ -12,16 +12,16 @@ role: User
 level: Intermediate
 exl-id: 3ba5f76d-cab4-4014-b377-9083dbfea1a0
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 17%
+workflow-type: ht
+source-wordcount: '117'
+ht-degree: 100%
 
 ---
 
 # Analysis Workspace 中的「媒體同時檢閱者」面板
 
-「媒體同時檢閱者」面板可供Media Analytics客戶了解人數高峰或趨勢反轉的時間，以針對內容品質和檢視者互動提供重要的深入分析，並協助疑難排解或針對數量/規模進行規劃。
+如果是 Media Analytics 客戶，「媒體同時檢閱者」面板可讓您了解發生高峰期同時觀看人數或客戶流失的時間，以針對內容品質和檢視者參與度提供重要解析，並有助於疑難排解或完成數量/規模的相關規劃。
 
 >[!VIDEO](https://video.tv.adobe.com/v/330177/?quality=12&learn=on)
 
-如需詳細資訊，請參閱 [ 說明文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=en#analysis-workspace)。
+如需詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/media-concurrent-viewers.html?lang=zh-Hant#analysis-workspace)。
