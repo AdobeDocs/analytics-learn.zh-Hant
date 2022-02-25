@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: c08c284f9e69cb2e16266e54c42ea15307e946b5
+source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
 workflow-type: tm+mt
 source-wordcount: '2268'
 ht-degree: 99%
@@ -217,6 +217,7 @@ ht-degree: 99%
    + 關鍵管理技能 {#key-admin-skills}
       + [建立增強權能的社區](administration/key-admin-skills/empowered-community.md)
       + [簡化並減少培訓用戶的時間](administration/key-admin-skills/simplify-training-users.md)
+      + [尋找合適的 Analytics 團隊人員](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
@@ -243,7 +244,6 @@ ht-degree: 99%
       + [在 Analytics 中設定機器人規則](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
    + 資料控管和 GDPR {#data-governance-and-gdpr}
       + [Adobe Analytics 中的資料控管和 GDPR](administration/data-governance-and-gdpr/data-governance-and-gdpr.md)
-      + [尋找合適的 Analytics 團隊人員](administration/data-governance-and-gdpr/getting-the-right-people-on-your-analytics-team.md)
    + 流量管理 {#traffic-management}
       + [伺服器呼叫使用量](administration/traffic-management/server-call-usage.md)
       + [管理即將到來的流量尖峰](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
