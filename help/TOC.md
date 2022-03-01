@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: c9984b0e1081f3ac19d8c49bc01626a69cd77b55
+source-git-commit: 55ab1f97bcc06c497c7f367a3d56bdd21763be45
 workflow-type: tm+mt
-source-wordcount: '2268'
+source-wordcount: '2271'
 ht-degree: 99%
 
 ---
@@ -215,7 +215,7 @@ ht-degree: 99%
    + [Reports and Analytics 中的即時報告](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
    + 關鍵管理技能 {#key-admin-skills}
-      + [建立增強權能的社區](administration/key-admin-skills/empowered-community.md)
+      + [打造賦權社群](administration/key-admin-skills/empowered-community.md)
       + [簡化並減少培訓用戶的時間](administration/key-admin-skills/simplify-training-users.md)
       + [尋找合適的 Analytics 團隊人員](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
    + 公司設定 {#company-settings}
@@ -234,6 +234,7 @@ ht-degree: 99%
       + [使用處理規則操控傳入的資料](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [設定流量變數 (Prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [設定流量分類](administration/manage-report-suites/configure-traffic-classifications.md)
+      + [配置層次結構變數](administration/manage-report-suites/configure-hierarchy-variables.md)
       + [在 Admin Console 中設定變數](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [設定轉換分類](administration/manage-report-suites/configure-conversion-classifications.md)
       + [設定清單變數](administration/manage-report-suites/configuring-list-variables.md)
