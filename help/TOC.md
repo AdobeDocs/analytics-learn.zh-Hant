@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 55ab1f97bcc06c497c7f367a3d56bdd21763be45
+source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
 workflow-type: tm+mt
-source-wordcount: '2271'
+source-wordcount: '2280'
 ht-degree: 99%
 
 ---
@@ -230,6 +230,8 @@ ht-degree: 99%
       + [如何設定一般帳戶設定](administration/manage-report-suites/configuring-general-account-settings.md)
       + [自訂行事曆設定](administration/manage-report-suites/customize-calendar-settings.md)
       + [設定付費搜尋偵測](administration/manage-report-suites/configure-paid-search-detection.md)
+      + [設定市場營銷渠道](administration/manage-report-suites/set-up-marketing-channels.md)
+      + [建立市場營銷渠道處理規則](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [自訂 Reports and Analytics 中的選單](administration/manage-report-suites/customize-menus.md)
       + [使用處理規則操控傳入的資料](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [設定流量變數 (Prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
