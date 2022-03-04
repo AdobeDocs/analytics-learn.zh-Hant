@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: fe6f05a290666634db50e0b5053cf0ea99bcf1d5
+source-git-commit: cbdee5b0a5968edfdc19cbcfaaebe63af270bd34
 workflow-type: tm+mt
-source-wordcount: '2280'
-ht-degree: 99%
+source-wordcount: '2288'
+ht-degree: 98%
 
 ---
 
@@ -25,6 +25,8 @@ ht-degree: 99%
       + [2019 年峰會超級展示 - 旅遊業及旅館業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [2019 年峰會超級展示 - 零售業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [2019 年峰會超級展示 - 高科技業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + 從其他平台過渡 {#transitioning-from-other-platforms}
+      + [從Google Analytics轉換](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 基本知識 {#analytics-basics}
       + [Reports and Analytics 中的「在工作區中嘗試」按鈕](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
       + [了解 Analytics 週期](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
