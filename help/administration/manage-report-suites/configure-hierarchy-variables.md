@@ -1,6 +1,6 @@
 ---
-title: 配置層次結構變數
-description: 瞭解何時以及如何設定和配置站點的層次結構變數，此功能可用於顯示站點上頁面的層次結構視圖以及每個節點的通信量。
+title: 設定階層變數
+description: 了解何時及如何為網站設定階層變數，此功能可用來顯示網站上頁面的階層檢視以及進入每個節點的流量有多少。
 feature: Variables
 topic: Administration
 role: Admin
@@ -8,18 +8,18 @@ level: Beginner
 doc-type: feature video
 thumbnail: 340680.jpg
 kt: 9793
-source-git-commit: 55ab1f97bcc06c497c7f367a3d56bdd21763be45
-workflow-type: tm+mt
+exl-id: 607c9ade-c060-4484-a45a-5f50172cee6a
+source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 設定階層變數
 
-# 配置層次結構變數
-
-瞭解何時以及如何設定和配置站點的層次結構變數，此功能可用於顯示站點上頁面的層次結構視圖以及每個節點的通信量。
+了解何時及如何為網站設定階層變數，此功能可用來顯示網站上頁面的階層檢視以及進入每個節點的流量有多少。
 
 >[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
 
-有關其他資訊，請訪問 [文檔](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html)。
+如需其他資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html)。
