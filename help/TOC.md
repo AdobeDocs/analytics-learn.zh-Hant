@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2286'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -78,7 +78,7 @@ ht-degree: 99%
       + [建立目錄](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [按一下滑鼠右鍵了解 Workspace 效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [鍵盤快速鍵](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
-      + [Analysis Workspace注釋](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
+      + [Analysis Workspace 中的註解](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [選單列](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [專案管理](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
       + [在 Analysis Workspace 中還原動作](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
@@ -184,7 +184,7 @@ ht-degree: 99%
       + [Analysis Workspace 中的「組織」與「共用」](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [專案的直接連結](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
       + [將 50,000 個項目下載為 CSV 檔](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [從Analysis Workspace導出到CSV和PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [從 Analysis Workspace 匯出 CSV 和 PDF 檔案](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [共用內嵌元件](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
       + [排程和可下載專案](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace 專案共用](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
