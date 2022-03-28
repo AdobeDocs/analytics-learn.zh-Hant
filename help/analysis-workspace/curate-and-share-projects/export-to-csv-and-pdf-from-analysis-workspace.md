@@ -1,6 +1,6 @@
 ---
-title: 從Analysis Workspace導出到CSV和PDF
-description: 瞭解如何將Workspace Analysis項目導出為CSV和PDF，以增強靈活性。
+title: 從 Analysis Workspace 匯出 CSV 和 PDF 檔案
+description: 了解如何將 Workspace Analysis 專案匯出至 CSV 和 PDF 檔案，以擴大此功能的靈活性。
 feature: Curate and Share
 topic: Collaboration
 role: User
@@ -8,16 +8,17 @@ level: Beginner
 doc-type: feature video
 thumbnail: 341276.jpg
 kt: 2297
-source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
-workflow-type: tm+mt
+exl-id: 862bdb87-d317-4f49-81bb-58a278569aca
+source-git-commit: d8feccaf8220b5ef4b3223020046ec01b464ac09
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
-# 從Analysis Workspace導出到CSV和PDF
+# 從 Analysis Workspace 匯出 CSV 和 PDF 檔案
 
-瞭解如何將Workspace Analysis項目導出為CSV和PDF，以增強靈活性。
+了解如何將 Workspace Analysis 專案匯出至 CSV 和 PDF 檔案，以擴大此功能的靈活性。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341276/?quality=12&learn=on)
 
