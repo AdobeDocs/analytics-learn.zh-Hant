@@ -9,9 +9,9 @@ thumbnail: 34749.jpg
 kt: 9830
 exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
 source-git-commit: de78868e07b0fa59a7babc092c463bbe4d8e2da7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3690'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -118,7 +118,7 @@ Adobe Analytics 不會擅自為所有登入的使用者預先建立報表以供�
 
 根據上圖，您會不想要依日期劃分資料嗎？只需將另一個維度或區段拖放到該處，就能以不同的方式查看資料… 例如，可能將區段用於「裝置類型」，然後為「行動裝置/平板電腦」使用者新增依作業系統的劃分：
 
-![影像3](assets/ga-to-aa_4.png)
+![image3](assets/ga-to-aa_4.png)
 
 工作區可讓您自由發揮創意，而不受限於「標準」劃分。您可以建立所需的視覺效果以深入探究您需要進行的比較。
 
@@ -130,7 +130,7 @@ Adobe Analytics 不會擅自為所有登入的使用者預先建立報表以供�
 
 本討論內容只是為了介紹這個工具，還有其他更完整的指南可幫助您入門，當您探索這些指南時，將能夠製作全方位的報表，例如：
 
-![影像3](assets/ga-to-aa_5.png)
+![image3](assets/ga-to-aa_5.png)
 
 也應該注意一件事：工作區不會自動儲存，所以進行一次性的臨時報告會比較容易，這樣就不會塞滿報表存放庫。
 
@@ -160,7 +160,7 @@ Google 和 Adobe 都有一些可導覽的報表，這些報表是根據維度的
 
 Adobe Analytics 也有「報表」區段，儘管這在很大程度上已處於淘汰階段，將由其 Analysis Workspace 所取代 (事實上，此介面已公佈生命週期即將結束，因為工作區[第 2.1.2.1 小節]是更強大的工具)，利用後者可以更輕鬆地建立及修改這些表格的大多數。Adobe 的區段更加細分，這可能令人生畏：
 
-![影像3](assets/ga-to-aa_6.png)
+![image3](assets/ga-to-aa_6.png)
 
 上述的大多數內容都可透過工作區存取，我將簡短概述這些區段以及它們與 Google Analytics 的關係，並強調在此依然相關的報表。
 
@@ -196,7 +196,7 @@ Adobe Analytics 也有「報表」區段，儘管這在很大程度上已處於�
 
 Google Analytics 將這些報表拆分成以下區段：即時、目標對象、攬客、行為和對話 (在 GA3 中)，並拆分成生命週期 (包含子區段：攬客、參與度、營利、回訪率) 和使用者 (包含子區段：人口統計和技術)。
 
-![影像3](assets/ga-to-aa_7.png)
+![image3](assets/ga-to-aa_7.png)
 
 您可以對這些視覺效果進行一些細微調整、新增次要維度劃分、變更視覺效果、建立資料篩選條件等。您可以將自訂內容儲存為「已儲存的報表」，
 
@@ -268,19 +268,19 @@ Adobe 的工作區 (第 2.1.2.1 小節) 實際上會使用此 API 來建立所�
 
 除了本指南以外，還有許多資源可幫助您改良策略：
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home)  — 包含教程、視頻、文檔和社區論壇
-* [Adobe用戶組](https://analytics-augs.adobe.com/)  — 社區運行事件中心，幫助用戶彼此連接並改進實施 — 因為這些事件基於特定時區，因此最好還要檢查其他區域正在運行什麼。
-* [Adobe Analytics用戶組YouTube頻道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA)  — 無法進行Adobe Analytics用戶組會話？ 重新查看全球的先前用戶組會話，以瞭解有關您的對等方如何使用該工具的更多資訊。
-* [度量聊天Slack通道](https://www.measure.chat/)  — 與全球Adobe Analytics用戶建立聯繫，分享行業知識，向同行提問，並加入以衡量為重點的利益集團。
-* 及更多內容!
+* [Adobe Experience League](https://experienceleague.adobe.com/#home) - 包含教學課程、影片、文件和社群論壇
+* [Adobe 使用者群組](https://analytics-augs.adobe.com/) - 這是社群開展活動的中樞，可幫助使用者互相交流並改善其實作 - 由於這些活動是根據特定時區，所以最好也查看一下其他地區正在開展的活動。
+* [Adobe Analytics 使用者群組 YouTube 頻道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - 無法加入 Adobe Analytics 使用者群組時段？重新觀看先前全球使用者群組時段內容，了解更多關於您的同業如何使用該工具。
+* [Measure Chat Slack 頻道](https://www.measure.chat/) - 與全球 Adobe Analytics 使用者交流，並分享業界學習經驗、向同業請教，並加入衡量主要利益群組。
+* 及更多內容！
 
 ## 作者
 
 本文件的作者為：
 
-![詹妮弗·鄧根](assets/Jennifer_Dungan_Headshot150.png)
+![Jennifer Dungan](assets/Jennifer_Dungan_Headshot150.png)
 
-Jennifer Dungan, Torstar優化經理分析
+Jennifer Dungan，Analytics 最佳化經理，Torstar
 
 Adobe Analytics 達人
 
