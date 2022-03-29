@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: e434c7f884bbc98ce1c296848abe0f7d2179bb1b
-workflow-type: ht
-source-wordcount: '2286'
-ht-degree: 100%
+source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
+workflow-type: tm+mt
+source-wordcount: '2294'
+ht-degree: 99%
 
 ---
 
@@ -343,6 +343,7 @@ ht-degree: 100%
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse 介紹](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [透過 SFTP 傳送 Data Warehouse 請求](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
+      + [在Tableau資料提取中發送Data Warehouse報表](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + 資料摘要 {#data-feeds}
       + [資料摘要管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [下載資料摘要驗證金鑰](exporting/data-feeds/download-the-data-feed-authentication-key.md)
