@@ -1,6 +1,6 @@
 ---
-title: 在Tableau資料提取中發送Data Warehouse報表
-description: 'Data Warehouse可以以Tableau Data Extract(TDE)檔案格式提供報告，使您能夠將來自Adobe Analytics以外的資料民主化和合併。 '
+title: 發送 Tableau 資料擷取格式的 Data Warehouse 報告
+description: 'Data Warehouse 可以傳送 Tableau 資料擷取 (TDE) 檔案格式的報告，供您廣泛使用並結合 Adobe Analytics 外部的資料。 '
 feature: Data Warehouse
 topic: Collaboration
 role: User
@@ -9,16 +9,16 @@ doc-type: feature video
 thumbnail: 341449.jpg
 kt: 9860
 source-git-commit: 61bbee615d9b65029a7f33fe50908276132f9820
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 12%
+ht-degree: 100%
 
 ---
 
-# 在Tableau資料提取中發送Data Warehouse報表
+# 發送 Tableau 資料擷取格式的 Data Warehouse 報告
 
-Data Warehouse可以以Tableau Data Extract(TDE)檔案格式提供報告，使您能夠將來自Adobe Analytics以外的資料民主化和合併。
+Data Warehouse 可以傳送 Tableau 資料擷取 (TDE) 檔案格式的報告，供您廣泛使用並結合 Adobe Analytics 外部的資料。
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/t-tableau.html?lang=en)。
+如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/export/data-warehouse/t-tableau.html?lang=zh-Hant)。
