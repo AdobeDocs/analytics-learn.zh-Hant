@@ -344,7 +344,7 @@ ht-degree: 99%
    + Data Warehouse {#data-warehouse}
       + [Data Warehouse 介紹](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [透過 SFTP 傳送 Data Warehouse 請求](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [在Tableau資料提取中發送Data Warehouse報表](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [發送 Tableau 資料擷取格式的 Data Warehouse 報告](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + 資料摘要 {#data-feeds}
       + [資料摘要管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [下載資料摘要驗證金鑰](exporting/data-feeds/download-the-data-feed-authentication-key.md)
