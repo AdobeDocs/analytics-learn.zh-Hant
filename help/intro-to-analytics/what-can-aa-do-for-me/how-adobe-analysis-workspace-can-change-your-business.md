@@ -1,6 +1,6 @@
 ---
 title: Adobe Analysis Workspace 如何改變您的業務
-landing-page-description: 利用 Analysis Workspace，您可以執行臨機分析、彈性分析、同類群組分析和流失分析。
+landing-page-description: 瞭解如何使用Analysis Workspace執行特定分析、靈活分析、隊列分析和沈降分析。
 description: Analysis Workspace 是 Adobe Analytics 中簡單易用的全新介面。在 Analysis Workspace 中，您可以執行臨機分析、彈性分析、同類群組分析和流失分析。您也可以與貴公司成員共用分析工作環境，其拖放功能可讓所有人輕鬆分析資料並快速獲得分析和見解。
 feature: Workspace Basics
 topics: null
@@ -11,10 +11,10 @@ kt: 4382
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 6e23fcf4-b4e2-4370-8904-801a13acf651
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '162'
-ht-degree: 100%
+source-git-commit: f08de1c175fc5d77d574b8abd9ad3e826661237d
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
