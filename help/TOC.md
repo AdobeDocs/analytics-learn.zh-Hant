@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 source-git-commit: 7caea7a0194180dd1d4489703adc0356d9564609
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2321'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -151,7 +151,7 @@ ht-degree: 98%
       + [面板層級區段](analysis-workspace/using-panels/panel-level-segments.md)
       + [在 Analysis Workspace 中將區段用作維度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [在 Analysis Workspace 中使用區段來限制資料](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
-      + [Analysis Workspace](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
+      + [Analysis Workspace 中的快速區段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + 量度 {#metrics}
       + [了解基本訪客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [在 Analysis Workspace 中新增維度和量度至您的專案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html)
@@ -222,10 +222,10 @@ ht-degree: 98%
       + [打造賦權社群](administration/key-admin-skills/empowered-community.md)
       + [簡化和減少使用者培訓時間](administration/key-admin-skills/simplify-training-users.md)
       + [尋找合適的 Analytics 團隊人員](administration/key-admin-skills/getting-the-right-people-on-your-analytics-team.md)
-      + [在桌上坐好](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
-      + [用資料講述影響力的故事](administration/key-admin-skills/telling-impactful-stories-with-data.md)
-      + [Adobe Analytics技術語言的非技術翻譯](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
-      + [跨功能工作](administration/key-admin-skills/working-cross-functionally.md)
+      + [獲得一席之位](administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+      + [使用資料訴說有影響力的故事](administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + [以非技術方式翻譯 Adobe Analytics 技術語言](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
+      + [跨職能工作](administration/key-admin-skills/working-cross-functionally.md)
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
