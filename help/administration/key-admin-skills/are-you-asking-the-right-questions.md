@@ -7,9 +7,9 @@ role: Admin
 level: Experienced
 thumbnail: 342361.jpg
 kt: 10272
-source-git-commit: 55c2a148ef766bc2b4d38c0d22490e9ae8c58d5c
+source-git-commit: b5cda911edf548886cc0aeb404a8289bcea4f454
 workflow-type: tm+mt
-source-wordcount: '1080'
+source-wordcount: '1082'
 ht-degree: 0%
 
 ---
@@ -50,7 +50,7 @@ _全部_。 這是對這個問題最常見的利益相關方答案之一： _您
 
 這些問題將因技術或分析能力、公司結構或資料收集主題的複雜性而異。 從高級別開始，就整個組織的問題進行討論，然後討論利益相關方在支援這些組織目標方面的作用，等等，這樣做通常會有所幫助，並且會增加詳細程度。 然後，您可以確保所討論的細粒度資料點將有效地支援組織的總體目標。 它還使您能夠創造性地思考，並為支援其目標的資料提出新的想法。
 
-[瀏覽此模板](assets/stakeholder-questionnaire.pdf) 包含幾個與利益相關者面談的樣本問題。 重新使用或調整它們以準備相關問題以供討論。
+[瀏覽此模板](assets/stakeholder-questionnaire.pdf){target=&quot;_blank&quot;}包含幾個與利益相關者面談的示例問題。 重新使用或調整它們以準備相關問題以供討論。
 
 ### 2.請求示例報告
 
