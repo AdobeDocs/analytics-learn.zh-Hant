@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: c127c940ee352cc4815c34551e74564b725c776d
+source-git-commit: 0c61d08819b6a6d2fa15f287b9f6d88b6f5ef246
 workflow-type: tm+mt
 source-wordcount: '2346'
 ht-degree: 98%
@@ -360,7 +360,7 @@ ht-degree: 98%
       + [Report Builder 中的異常偵測](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [編輯全部請求的量度](exporting/report-builder/edit-metrics-across-requests.md)
       + [使用 Report Builder 來了解 Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
-      + [開始使用Repport Builder](exporting/report-builder/get-started-with-report-builder.md)
+      + [開始使用Report Builder](exporting/report-builder/get-started-with-report-builder.md)
       + [計畫Report Builder請求](exporting/report-builder/schedule-a-report-builder-request.md)
       + [使用Report Builder高級交貨選項進行Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + 整合 {#integrations}
