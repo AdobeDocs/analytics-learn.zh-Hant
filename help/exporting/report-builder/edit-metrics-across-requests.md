@@ -1,23 +1,21 @@
 ---
-title: 在 Report Builder 中編輯全部請求的量度
+title: 在Report Builder中編輯請求間的度量
 description: 您現在可以使用新增、取代和移除選項，一次編輯多個 Report Builder 資料請求的量度。
 feature: Report Builder
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1769
 role: User
 level: Intermediate
+doc-type: feature video
+thumbnail: 23547.jpg
+kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: 4c6120752763383727ddec5e9bbc8e391bfec4d9
+workflow-type: tm+mt
 source-wordcount: '108'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# 在 [!UICONTROL Report Builder] 中編輯全部請求的[!UICONTROL 量度] {#edit-metrics-across-requests-in-report-builder}
+# 編輯 [!UICONTROL 度量] 跨請求 [!UICONTROL Report Builder] {#edit-metrics-across-requests-in-report-builder}
 
 您現在可以使用新增、取代和移除選項，一次編輯多個 [!UICONTROL Report Builder] 資料請求的[!UICONTROL 量度]。
 

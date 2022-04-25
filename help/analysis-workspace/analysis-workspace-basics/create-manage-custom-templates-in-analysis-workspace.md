@@ -1,25 +1,23 @@
 ---
-title: 在 Analysis Workspace 中建立和管理自訂範本
+title: 在Analysis Workspace建立和管理自定義模板
 description: 在本影片中，您將了解如何在Analysis Workspace 中建立自訂範本，以便您和您的團隊可以從一組特定報告展開作業。
 feature: Projects
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 1695
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 23231.jpg
+kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
-# 在 Analysis Workspace 中建立和管理自訂範本 {#create-and-manage-custom-templates-in-analysis-workspace}
+# 在Analysis Workspace建立和管理自定義模板 {#create-and-manage-custom-templates-in-analysis-workspace}
 
-在本影片中，您將了解如何在Analysis Workspace 中建立自訂範本，以便您和您的團隊可以從一組特定報告展開作業。
+在本影片中，您將了解如何在 Analysis Workspace 中建立自訂範本，以便您和您的團隊可以從一組特定報告展開作業。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
 

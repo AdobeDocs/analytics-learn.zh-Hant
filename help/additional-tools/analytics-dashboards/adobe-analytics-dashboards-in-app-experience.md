@@ -1,25 +1,23 @@
 ---
-title: Adobe Analytics 儀表板應用程式內體驗
-description: 在本影片中，了解如何使用 Adobe Analytics 儀表板 (行動應用程式)，以存取和檢視您所建立或與您分享的「計分卡」。
+title: Adobe Analytics儀表板應用程式內體驗
+description: 在此視頻中，瞭解如何使用Adobe Analytics儀表板（移動應用）訪問和查看由您建立或與您共用的「記分卡」。
 feature: Analytics Dashboards
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 5287
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 34545.jpg
+kt: 5287
 exl-id: ba29664f-da1a-49c7-8c73-ae5b65f11b4a
-source-git-commit: ef9ffb37e417621462d1f63c5cd39377dd94c800
-workflow-type: ht
+source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
+workflow-type: tm+mt
 source-wordcount: '72'
-ht-degree: 100%
+ht-degree: 22%
 
 ---
 
-# Adobe Analytics 儀表板應用程式內體驗
+# Adobe Analytics儀表板應用程式體驗
 
-在本影片中，了解如何使用 Adobe Analytics 儀表板 (行動應用程式)，以存取和檢視您所建立或與您分享的「計分卡」。
+在此視頻中，瞭解如何使用Adobe Analytics儀表板（移動應用）訪問和查看由您建立或與您共用的「記分卡」。
 
 >[!VIDEO](https://video.tv.adobe.com/v/34545/?quality=12)
 
