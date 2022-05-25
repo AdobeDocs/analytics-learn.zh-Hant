@@ -7,13 +7,13 @@ role: Admin
 level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
-source-git-commit: 5c1a78ea47373af78e3ad33e48f1401405e8bd88
-workflow-type: ht
+exl-id: d583579b-226d-43ff-8a6a-36aa2bfcf7a6
+source-git-commit: e00df8fba0101dff2a8a0a1640b107f0497fabb1
+workflow-type: tm+mt
 source-wordcount: '1263'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
-
 
 # 獲得一席之位
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ## 為什麼您需要出席
 
-首先，讓我們釐清一些事情。Analytics 管理員的角色已經改變。管理員不能再坐在電腦螢幕前，只關注 eVar、事件和 sProps 了。身為管理員的您，需負責確保貴公司做出正確的資料導向式決策。但要做到這一點，您需要出席做出決策的現場，而不是在辦公室裡處理數字。
+首先，讓我們釐清一些事情。資料分析師的角色已經演變。 分析師不能再坐在電腦螢幕後面，只關注eVars、事件和sProps。 身為管理員的您，需負責確保貴公司做出正確的資料導向式決策。但要做到這一點，您需要出席做出決策的現場，而不是在辦公室裡處理數字。
 
 以下是您需要出席的三個理由。
 
