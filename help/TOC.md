@@ -3,17 +3,17 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
+source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
 workflow-type: tm+mt
-source-wordcount: '2364'
-ht-degree: 98%
+source-wordcount: '2365'
+ht-degree: 99%
 
 ---
 
 
 # Analytics 教學課程 {#tutorials}
 
-+ [概觀](overview.md)
++ [分析教程](overview.md)
 + Analytics 介紹{#intro-to-analytics}
    + Adobe Analytics 對我有何用處？ {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace 如何改變您的業務](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
@@ -229,7 +229,7 @@ ht-degree: 98%
       + [使用資料訴說有影響力的故事](administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [以非技術方式翻譯 Adobe Analytics 技術語言](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [跨職能工作](administration/key-admin-skills/working-cross-functionally.md)
-      + [你問對了問題嗎？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+      + [您問對了問題嗎？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
@@ -363,9 +363,9 @@ ht-degree: 98%
       + [Report Builder 中的異常偵測](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [編輯全部請求的量度](exporting/report-builder/edit-metrics-across-requests.md)
       + [使用 Report Builder 來了解 Adobe Analytics API](exporting/report-builder/using-report-builder-to-learn-the-adobe-analytics-api.md)
-      + [開始使用Report Builder](exporting/report-builder/get-started-with-report-builder.md)
-      + [計畫Report Builder請求](exporting/report-builder/schedule-a-report-builder-request.md)
-      + [使用Report Builder高級交貨選項進行Power BI](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
+      + [開始使用 Report Builder](exporting/report-builder/get-started-with-report-builder.md)
+      + [排程 Report Builder 請求](exporting/report-builder/schedule-a-report-builder-request.md)
+      + [對 Power BI 使用 Report Builder 進階傳遞選項](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + 整合 {#integrations}
    + Experience Cloud {#experience-cloud}
       + [Experience Cloud 對象發佈功能改善](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
