@@ -1,6 +1,6 @@
 ---
-title: Adobe Analytics 中的用戶偏好設定
-description: 「元件 > 使用者偏好設定」頁面可讓您從使用者層級管理 Analysis Workspace 設定及其相關元件。例如，您可以選擇預設報告套裝和調色盤。「用戶偏好設定」會套用到所有新的專案和新的面板。
+title: Adobe Analytics 中的使用者偏好設定
+description: 「元件 - 使用者偏好設定」頁面可讓您從使用者層級管理 Analysis Workspace 及其相關元件的設定。 例如，您可以選擇預設報告套裝和調色盤。「使用者偏好設定」會套用到所有新的專案和新的面板。
 feature: Workspace Basics
 topic: Personalization
 role: User, Admin
@@ -16,10 +16,10 @@ ht-degree: 100%
 
 ---
 
-# Adobe Analytics 中的用戶偏好設定
+# Adobe Analytics 中的使用者偏好設定
 
-「[!UICONTROL 元件] - [!UICONTROL 使用者偏好設定]」頁面可讓您從使用者層級管理 Analysis Workspace 設定及其相關元件。例如，您可以選擇預設報告套裝和調色盤。「用戶偏好設定」會套用到所有新的專案和新的面板。
+「[!UICONTROL 元件] - [!UICONTROL 使用者偏好設定]」頁面可讓您從使用者層級管理 Analysis Workspace 設定及其相關元件。例如，您可以選擇預設報告套裝和調色盤。「使用者偏好設定」會套用到所有新的專案和新的面板。
 
 >[!VIDEO](https://video.tv.adobe.com/v/332600/?quality=12&learn=on)
 
-檢視[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html?lang=zh-Hant)中的所有可用偏好設定。
+檢視[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/user-preferences.html)中的所有可用偏好設定。
