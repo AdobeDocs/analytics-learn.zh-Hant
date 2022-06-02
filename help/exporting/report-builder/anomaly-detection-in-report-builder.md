@@ -1,6 +1,6 @@
 ---
-title: Report Builder異常檢測
-description: 了解如何將異常偵測量度新增到您的資料請求並以創意的方式繪圖資料。
+title: Report Builder 中的異常偵測
+description: 了解如何將異常偵測量度新增到您的資料請求，並以創意的方式將資料繪成圖表。
 feature: Report Builder
 role: User
 level: Intermediate
@@ -9,13 +9,13 @@ thumbnail: 25444.jpg
 kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
 source-git-commit: da748775fa43f27b1d31026bd80eb970cdb1da63
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '106'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
-# [!UICONTROL 異常檢測] 在 [!UICONTROL Report Builder] {#anomaly-detection-in-report-builder}
+# [!UICONTROL Report Builder] 中的[!UICONTROL 異常偵測] {#anomaly-detection-in-report-builder}
 
 了解如何將[!UICONTROL 異常偵測] [!UICONTROL 量度]新增到您的資料請求並以創意的方式繪圖資料。
 
@@ -25,4 +25,4 @@ ht-degree: 90%
 
 在 [!UICONTROL Report Builder] 中，您可以連同預期值和上下邊界，傳回[!UICONTROL 量度]實際值，以增加您正在分析和共用資料的深度。
 
-如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=zh-Hant)。
+如需有關此功能的詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=zh-Hant)。
