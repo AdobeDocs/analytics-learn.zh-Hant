@@ -1,24 +1,24 @@
 ---
-title: 計畫Report Builder請求
-description: 在此視頻中，您將學習如何設定Report Builder工作簿的基本計畫。
+title: 排程 Report Builder 請求
+description: 在這段影片中，您將了解如何設定 Report Builder 活頁簿的基本排程。
 feature: Report Builder
 role: User
 level: Beginner
 doc-type: feature video
 thumbnail: 342376.jpg
 kt: 9873
-source-git-commit: 73dfeab6c698d2637e54d9b7e0a280d51e155e7e
-workflow-type: tm+mt
+exl-id: 087565b7-6f73-4667-ae29-446e9a0a6fab
+source-git-commit: fd823be4eb59136ceec1f583bb7bbc405dd1f3ea
+workflow-type: ht
 source-wordcount: '58'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
+# 排程 [!DNL Report Builder] 請求
 
-# 計畫 [!DNL Report Builder] 請求
-
-在此視頻中，瞭解如何為 [!DNL Report Builder] 工作簿。
+在這段影片中，了解如何設定 [!DNL Report Builder] 活頁簿的基本排程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
 
-如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=en)。
+如需有關此功能的詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=zh-Hant)。
