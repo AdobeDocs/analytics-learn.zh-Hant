@@ -39,7 +39,7 @@ ht-degree: 99%
       + [轉換變數 (eVars) 介紹](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html)
       + [轉換事件介紹](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html)
    + 自訂 UI {#customizing-the-ui}
-      + [Adobe Analytics 中的用戶偏好設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [Adobe Analytics 中的使用者偏好設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [新增維度和量度說明](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [在 Analysis Workspace 中使用自訂調色盤](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
       + [定義自訂調色盤的色彩滴管擴充功能](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
@@ -56,13 +56,13 @@ ht-degree: 99%
    + Analysis Workspace 基本需知 {#analysis-workspace-basics}
       + [Analysis Workspace 簡介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 概觀](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [導航新登錄頁](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Analysis Workspace登錄頁更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
+      + [瀏覽新登陸頁面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Analysis Workspace 登陸頁面更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [建立全新 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [從頭開始建立 Workspace 專案](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
-      + [在 Analysis Workspace 中建立和管理自訂範本](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中建立及管理自訂範本](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [Analysis Workspace 中的標準範本](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
-      + [使用自訂範本來帶領 Analysis Workspace 新手用戶](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
+      + [使用自訂範本來帶領 Analysis Workspace 新手使用者](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [了解資料如何進入您的 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Adobe Analytics 的基礎量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace 的元件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
@@ -97,9 +97,9 @@ ht-degree: 99%
       + [使用面板來整理 Analysis Workspace 專案](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
       + [區段下拉區域改善](analysis-workspace/using-panels/segment-dropzone-improvements.md)
       + [Analysis Workspace 提供多個報表套裝](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
-      + [下一/上一和頁摘要工作區面板和報告](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
+      + [下一頁/上一頁以及頁面摘要工作區面板與報表](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + 建立自由格式表格 {#building-freeform-tables}
-      + [了解您的資料--自由表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
+      + [了解您的資料--自由格式表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [在 Analysis Workspace 中使用左側邊欄建立自由格式表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [在 Analysis Workspace 中自動建立自由格式表格](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
@@ -216,8 +216,8 @@ ht-degree: 99%
       + [了解啟用語音的裝置之間的差異](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
       + [尋找機會提高語音應用程式的參與度](analysis-workspace/voice-analytics/finding-opportunities-to-increase-engagement-for-voice-apps.md)
       + [減少語音應用程式中的錯誤率並提高成功率](analysis-workspace/voice-analytics/reducing-error-rates-and-improving-success-rates-in-your-voice-app.md)
-      + [了解語音助理的用戶行為](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
-      + [了解用戶語音歷程](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
+      + [了解語音助理的使用者行為](analysis-workspace/voice-analytics/understand-user-behavior-on-voice-assistants.md)
+      + [了解使用者語音歷程](analysis-workspace/voice-analytics/understanding-the-users-voice-journey.md)
 + Reports and Analytics {#reports-and-analytics}
    + [Reports and Analytics 中的即時報告](reports-and-analytics/realtime-reporting-in-reports-and-analytics.md)
 + 管理 {#administration}
@@ -229,14 +229,14 @@ ht-degree: 99%
       + [使用資料訴說有影響力的故事](administration/key-admin-skills/telling-impactful-stories-with-data.md)
       + [以非技術方式翻譯 Adobe Analytics 技術語言](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [跨職能工作](administration/key-admin-skills/working-cross-functionally.md)
-      + [您問對了問題嗎？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+      + [您有問對問題嗎？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
-   + 用戶管理 {#user-management}
+   + 使用者管理 {#user-management}
       + [新增管理員至 Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [在 Admin Console 限制報表套裝的存取權限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
-      + [將用戶資產轉移給其他用戶](administration/user-management/transfer-user-assets-to-a-different-user.md)
+      + [將使用者資產轉移給其他使用者](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [檢查綁定的 IMS ID 以防止登入問題](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + 管理報表套裝 {#manage-report-suites}
       + [如何設定一般帳戶設定](administration/manage-report-suites/configuring-general-account-settings.md)
@@ -350,7 +350,7 @@ ht-degree: 99%
    + 從 UI {#from-the-ui}
       + [從 Analysis Workspace 匯出 CSV 檔案](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
-      + [Data Warehouse 介紹](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Data Warehouse 簡介](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [透過 SFTP 傳送 Data Warehouse 請求](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
       + [發送 Tableau 資料擷取格式的 Data Warehouse 報告](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + 資料摘要 {#data-feeds}
@@ -405,7 +405,7 @@ ht-degree: 99%
    + 旅遊業及旅館業 {#travel-and-hospitality}
       + [2019 年峰會超級展示 - 旅遊業及旅館業](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.html)
    + 零售業 {#retail}
-      + [零售業變數和事件介紹](vertical-specific/retail/intro-to-retail-variables-and-events.md)
+      + [零售業變數和事件簡介](vertical-specific/retail/intro-to-retail-variables-and-events.md)
       + [新增基本零售業變數和事件至 Launch 規則](vertical-specific/retail/adding-basic-retail-variables-and-events-to-launch-rules.md)
       + [新增購買事件的 Launch 規則](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [2019 年峰會超級展示 - 零售業](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html)
@@ -425,7 +425,7 @@ ht-degree: 99%
    + 測量 Mobile Analytics {#measuring-mobile-analytics}
       + [Adobe Mobile Analytics 快速入門](mobile-app-analytics/measuring-mobile-analytics/getting-started-with-mobile-analytics.md)
       + [行動歷程中的接觸點影響](mobile-app-analytics/measuring-mobile-analytics/impact-of-touchpoints-across-mobile-journey.md)
-      + [分析所有頻道中的用戶行為](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
+      + [分析所有頻道中的使用者行為](mobile-app-analytics/measuring-mobile-analytics/analyzing-user-behavior-across-channels.md)
       + [如何提高參與度和駐留率](mobile-app-analytics/measuring-mobile-analytics/how-to-increase-engagement-and-retention-rates.md)
 + API {#apis}
    + [使用 Analysis Workspace 來建立 API 2.0 請求](apis/using-analysis-workspace-to-build-api-2-requests.md)
@@ -441,4 +441,4 @@ ht-degree: 99%
    + [設定市場內郵遞區號分析](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
 + [Analytics University 課程](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [適用於商業使用者的Analytics基礎知識已淘汰](retired-courses/retire-fundamentals-for-business-users-course.md)
++ [適用於商業使用者的 Analytics 基礎知識已淘汰](retired-courses/retire-fundamentals-for-business-users-course.md)
