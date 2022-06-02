@@ -1,21 +1,21 @@
 ---
-title: Analysis Workspace登錄頁更新
-description: 瞭解新登錄頁的一些重大改進和補充。 我們已獲取您的客戶反饋並嘗試合併最突出的……（說明應介於60到160個字元之間）
+title: Analysis Workspace 登陸頁面更新
+description: 了解新登陸頁面的一些重大改良和新增功能。 我們聽取了客戶意見回饋，並嘗試納入最突出的… (說明應該介於 60 到 160 個字元之間)
 feature: Analysis Workspace
 role: User
 level: Beginner
 kt: 10294
 thumbnail: 342476.jpg
-source-git-commit: 58969c2aaf8b8614a77f4f310444393958f24e04
-workflow-type: tm+mt
+exl-id: c7ff29b1-4a78-4b25-946a-0e065ffdd804
+source-git-commit: 9ee93461a944fc844bc314f2faafc0ffc6b77b8b
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# Analysis Workspace 登陸頁面更新
 
-# Analysis Workspace登錄頁更新
-
-瞭解新登錄頁的一些重大改進和補充。 我們已經收集了您的客戶反饋，並嘗試合併最突出的功能，如調整列大小、新列類型、指向即時和bot報告的連結以及許多其他功能。
+了解新登陸頁面的一些重大改良和新增功能。我們已經收集了您的客戶回饋，並嘗試合併最顯著的功能，如調整欄大小、新欄類型、即時和機器人報告的連結，以及許多其他功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/342476/?quality=12&learn=on)
