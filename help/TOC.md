@@ -3,17 +3,17 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 3b5c8dae86d714a2735a9e9516ae02f9843abd58
+source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
 workflow-type: tm+mt
-source-wordcount: '2365'
-ht-degree: 99%
+source-wordcount: '2392'
+ht-degree: 98%
 
 ---
 
 
 # Analytics 教學課程 {#tutorials}
 
-+ [分析教程](overview.md)
++ [Analytics 教學課程](overview.md)
 + Analytics 介紹{#intro-to-analytics}
    + Adobe Analytics 對我有何用處？ {#what-can-aa-do-for-me}
       + [Adobe Analysis Workspace 如何改變您的業務](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
@@ -25,6 +25,10 @@ ht-degree: 99%
       + [2019 年峰會超級展示 - 旅遊業及旅館業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [2019 年峰會超級展示 - 零售業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [2019 年峰會超級展示 - 高科技業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + 戰略與思想領導{#strategy}
+      + [第1部分 — 簡單程式，以提高效率](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [第2部分 — 簡單程式，以提高效率](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [利用虛擬分析師和部門智商掌握客戶智慧，在Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
    + 從其他平台轉換 {#transitioning-from-other-platforms}
       + [從 Google Analytics 轉換](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 基本知識 {#analytics-basics}
@@ -442,3 +446,4 @@ ht-degree: 99%
 + [Analytics University 課程](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [適用於商業使用者的 Analytics 基礎知識已淘汰](retired-courses/retire-fundamentals-for-business-users-course.md)
+
