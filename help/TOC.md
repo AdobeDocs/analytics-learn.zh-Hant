@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: f96f1412447c175b6e963176af11af2a82a706e6
+source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
 workflow-type: tm+mt
-source-wordcount: '2392'
-ht-degree: 98%
+source-wordcount: '2430'
+ht-degree: 97%
 
 ---
 
@@ -234,6 +234,14 @@ ht-degree: 98%
       + [以非技術方式翻譯 Adobe Analytics 技術語言](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [跨職能工作](administration/key-admin-skills/working-cross-functionally.md)
       + [您有問對問題嗎？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
+   + 管理提示和最佳實踐 {#admin-tips}
+      + [下載實施行動手冊](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [建立標準化命名約定](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [建立標準化代碼模板](administration/admin-tips/create-standardized-code-templates.md)
+      + [建立基本視頻和培訓](administration/admin-tips/create-basic-videos-and-training.md)
+      + [建立內部Adobe Analytics站點](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [使用全局報告套件](administration/admin-tips/use-a-global-report-suite.md)
+      + [建立新聞和公告項目](administration/admin-tips/create-a-news-and-announcements-project.md)
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
