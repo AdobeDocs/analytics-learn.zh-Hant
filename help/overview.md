@@ -1,6 +1,6 @@
 ---
 title: Analytics 影片和教學課程
-description: '從Adobe Analytics出發。  使用這些教程來掌握分析功能並為您的業務帶來好處。 此內容適用於管理員、資料分析員、營銷人員、開發人員和架構師。 '
+description: '充份運用 Adobe Analytics。  使用這些教學課程來掌握 Analytics 功能，讓您的商業收獲利益。 此內容適用於管理員、資料分析師、行銷人員、開發人員和架構師。 '
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -9,36 +9,36 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '345'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
 
 
-# 分析教程
+# Analytics 教學課程
 
-充分利用 [!DNL Adobe Analytics]。  使用這些教程來掌握分析功能並為您的業務帶來好處。 此內容適用於管理員、資料分析員、營銷人員、開發人員和架構師。
+充份運用 [!DNL Adobe Analytics]。  使用這些教學課程來掌握 Analytics 功能，讓您的商業收獲利益。 此內容適用於管理員、資料分析師、行銷人員、開發人員和架構師。
 
 若要開始執行，
-* 查看 **&quot;新增內容&quot;** 下面部分，瞭解最新更新和功能
+* 請參閱「**新增功能**」部份，了解最新更新和功能
 * **工作人員選擇**&#x200B;特別顯示我們最喜歡的一些內容
 * 探索&#x200B;**左側導覽**&#x200B;中的主題和副主題內容。
-* 使用 **搜索** 頁面頂部的欄位
+* 如果你知道要了解的內容，請使用頁面上方的「**搜尋**」欄位
 
-課程部分還提供按角色和技能水準分列的指導學習經驗。 只需與您的Adobe ID登錄並導航至 **學習>推薦課程** 的子菜單。
+在課程部分也提供依角色和技巧能力來策劃的學習經驗。 只要使用 Adobe ID 登入，並在上方導覽部份導覽至「**學習 > 建議課程**」。
 
-## 新功能
+## 新增功能
 
-* **[Adobe Analytics移動記分卡生成器（視頻）](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
-   *瞭解如何建立和共用在中建立的移動記分卡 [!DNL Analysis Workspace] 為您的Executive用戶。*
+* **[Adobe Analytics 行動計分卡產生器 (影片)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
+   *了解如何為您的高管使用者建立和分享在 [!DNL Analysis Workspace] 中建立的行動計分卡。*
 
-* **[Adobe Analytics移動記分卡應用](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *瞭解如何下載移動記分卡應用程式並查看在中建立的移動記分卡 [!DNL Analysis Workspace]。*
+* **[Adobe Analytics 行動計分卡應用程式](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
+   *了解如何下載行動計分卡應用程式，以及如何查看在 [!DNL Analysis Workspace] 中建立的行動計分卡。*
 
-* **[工作區中的注釋（視頻）](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *中的註解讓您能夠有效地將內容相關的資料細微差別和深入解析傳達給整個組織內的用戶。[!DNL Analysis Workspace]使用已知資料問題、公共假日、活動啟動等注釋日期或日期範圍，以便更好地告知用戶他們為什麼在折線圖、表格等中看到內容。*
+* **[工作區中的註解 (影片)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
+   *[!DNL Analysis Workspace] 中的註解讓您能夠有效地將內容相關的資料細微差別和深入解析傳達給整個組織內的用戶。 為日期或日期範圍標註已知資料問題、國定假日和行銷活動，以便更有效告知使用者他們在折線圖、表格看到特定內容的原因。*
 
 ## 工作人員選擇
 
