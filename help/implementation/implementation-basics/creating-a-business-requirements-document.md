@@ -1,28 +1,26 @@
 ---
 title: 建立業務需求文件
-description: '本影片將討論界定您要使用 Adobe Analytics 追蹤哪些事情的所有重要步驟。您想了解有關自己網站的哪些事情？請寫下這些事情，然後開始決定如何進行追蹤。 '
+description: '瞭解定義要在Adobe Analytics捕獲和分析的行為資料的最重要步驟。 您的企業需要瞭解訪問者如何使用您的數字屬性？ 首先記下這些要求，然後決定如何使用分析事件、維度和度量捕獲這些要求。 '
 feature: Implementation Basics
-topics: null
-activity: implement
-doc-type: feature video
 team: Technical Marketing
 kt: 3580
+thumbnail: 28758.jpg
 role: Developer, Data Engineer
 level: Beginner
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '128'
-ht-degree: 100%
+source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 6%
 
 ---
 
 # 建立業務需求文件
 
-本影片將討論界定您要使用 Adobe Analytics 追蹤哪些事情的所有重要步驟。您想了解有關自己網站的哪些事情？請寫下這些事情，然後開始決定如何進行追蹤。
+瞭解定義要在Adobe Analytics捕獲和分析的行為資料的最重要步驟。 您的企業需要瞭解訪問者如何使用您的數字屬性？ 首先記下這些要求，然後決定如何使用分析事件、維度和度量捕獲這些要求。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 
-[下載](https://analytics.enablementadobe.com/files/brd-sdr-sample-template.xlsx)可用來界定網站的 BRD/SDR 範例。
+[下載](assets/aa-implementation-playbook.xlsx) 一個示例Excel模板，用於記錄數字屬性的要求和資料收集設計。
 
-從本影片 (和 [BRD 視訊](creating-and-maintaining-an-sdr.md)) [下載](https://analytics.enablementadobe.com/files/geometrixx-clothiers-brd-sdr.xlsx) SDR/SDR。
+[下載](assets/geometrixx-clothiers-brd-sdr.xlsx) 此視頻中顯示的Excel文檔和/或觀看相關 [解決方案設計參考視頻](creating-and-maintaining-an-sdr.md)。
