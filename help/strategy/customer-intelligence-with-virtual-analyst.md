@@ -1,123 +1,126 @@
 ---
-title: 利用虛擬分析師和部門智商掌握客戶智慧
-description: '瞭解使用人工智慧和機器學習(AI/ML)的重要性。 使用虛擬分析師和細分智商來檢測異常、避免異常值並最大限度地提高投資回報，瞭解全球客戶在現實世界中的成功案例的好處和經驗。 '
+title: 使用虛擬分析人員和區段 IQ 掌握客戶情報
+description: 了解使用人工智慧和機器學習 (AI/ML) 的重要性。 了解全球客戶使用虛擬分析人員和區段 IQ 來偵測異常、避免離群值和最大化 ROI 的好處，並了解真實世界的成功案例。
 solution: Analytics
-source-git-commit: 3915782f800ad5e7c1ab8c1157919dec40cc3183
+exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
+source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
 workflow-type: tm+mt
-source-wordcount: '1086'
-ht-degree: 4%
+source-wordcount: '1104'
+ht-degree: 98%
 
 ---
 
-# 利用虛擬分析師和部門智商掌握客戶智慧，在Adobe Analytics
+# 在 Adobe Analytics 中使用虛擬分析人員和區段 IQ，掌握客戶情報
 
-在本文中，我們學習了使用人工智慧和機器學習(AI/ML)的重要性。 接下來，使用虛擬分析師和細分智商來檢測異常、避免異常值並最大限度地提高投資回報率，回顧全球客戶的優勢和真實成功案例。
+在本文中，您將了解使用人工智慧和機器學習 (AI/ML) 的重要性。 接下來，查看全球客戶使用虛擬分析人員和區段 IQ 來偵測異常、避免離群值和最大化 ROI 的好處，以及真實世界的成功案例。
 
 ## 人工智慧的價值
 
-或許你還記得國際象棋冠軍加里·卡斯帕羅夫被IBM®擊敗的時代 [!DNL Deep Blue]。 專家們相信，在象棋這樣複雜的遊戲中，機器不可能擊敗人類的決策和判斷。 然而，隨著人工智慧的力量被發掘出來，這是商業戰略和技術創新發生根本性轉變的關鍵。
+您或許記得西洋棋冠軍 Garry Kasparov 被 IBM® [!DNL Deep Blue] 打敗的時刻。 專家們原本以為，在西洋棋這樣複雜的遊戲中，機器不可能擊敗人類的決策和判斷。 然而，機器成功了，這是商業策略和技術創新產生根本性轉變的關鍵，人工智慧的力量被發掘出來了。
 
-Adobe Analytics是體驗業務的核心智慧系統，使企業中的任何人能夠即時和大規模地瞭解並優化與其品牌的所有聯繫點的客戶互動。
+Adobe Analytics 是體驗業務智慧的核心系統，能讓企業中的每個人即時、大規模地了解和最佳化所有接觸點上客戶與其品牌的互動。
 
-Adobe的AI工具不是來取代你的，而是讓你在工作上獲得最大投資回報。
+Adobe 的 AI 工具並不是要取代您，而是要讓您的工作產生最大的投資報酬率。
 
-## 轉換分析
+## 轉變您的分析
 
-要改進分析，我們必須重點考慮以下三個關鍵因素：
+為了改進分析，我們必須關注三個關鍵考量因素：
 
-1. 組織 — 如何建立客戶的整體視圖、排定洞察力驅動的決策的優先順序並實現資料民主化。
+1. 組織 - 如何建立客戶的整體視圖、優先考慮見解驅動的決策，並讓資料大眾化。
 
-1. 技術 — 如何確保資料和技術能夠大規模實現個性化。
+1. 技術 - 如何確保資料和技術可大規模提供個人化服務。
 
-1. 客戶 — 如何建立信任並適應變化。
+1. 客戶 - 如何建立信任並因應變化。
 
-分析具有挑戰性且耗時，但需要不斷加快洞察力。 組織面臨的關鍵問題包括：
+分析具有挑戰性也很花時間，但人們總是希望能加快獲得見解。 組織面臨的關鍵問題包括：
 
-* 有限的組織資源 — 各種業務目標可限制資源可用性
-* 有限的技術專業知識 — 可以共用知識和實現資料民主化
-* 客戶期望 — 您的團隊能否對客戶行為變化做出動態反應
+* 組織資源有限 - 各種業務目標會限制資源的可用性
+* 技術專業知識有限 - 知識可以共享？資料可以大眾化嗎？
+* 客戶期望 - 您的團隊能否對客戶行為改變做出機動反應
 
-## Virtual Assistant主客戶智慧，由Adobe Sensei提供支援
+## 採用由 Adobe Sensei 提供支援的虛擬助手，掌握客戶情報
 
 ![客戶情報](assets/customer-intelligence.png)
 
-### 3級客戶智慧
+### 客戶情報的 3 個層次
 
-當談到成功的客戶智慧戰略時，我們需要從以下三個層次（參見上圖1）中逐步瞭解：(a)資料收集、(b)資料處理、(c)分析和機器學習，然後我們才能最終採取行動並優化我們的內容和廣告。
+關於成功的客戶情報策略，我們需要穿過三個層次 (見上圖 1)：(a) 資料彙集，到 (b) 資料處理，再到 (c) 分析和機器學習，最後才能採取行動並最佳化內容和廣告。
 
-1. 資料收集取決於您的組織，可能包括各種渠道和介質。 這些包括OTT設備、視頻、企業、呼叫中心、店內、社交電子郵件、網路、廣告、移動應用、可穿戴設備、物聯網、語音助理、連接卡和地理/空間。
+1. 資料彙集取決於您的組織，可能包括各種頻道和媒介。 包括 OTT 裝置、影片、企業、客服中心、實體店面、社交電子郵件、網路、廣告、行動應用程式、可穿戴裝置、物聯網、語音助手、連接卡片和地理/空間。
 
-1. 資料處理包括即時資料收集、處理規則、受眾聯合、上下文感知會話、即時觸發器和視圖以及平台。
+1. 資料處理包括即時資料彙集、處理規則、對象整合、內容感知工作階段、即時觸發器和視圖，以及平台。
 
-1. 分析和機器學習包括段智商、虛擬分析師、分段、Analysis Workspace
+1. 分析和機器學習包括區段 IQ、虛擬分析人員、分段、Analysis Workspace
 
 ![虛擬分析](assets/virtual-analysis.png)
 
-### 利用您的虛擬分析師
+### 善用您的虛擬分析人員
 
-想想 [虛擬分析師](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=en) 搖滾明星分析師，
+可以把[虛擬分析人員](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=en)想成是一位超級分析人員：
 
-* 永遠不要離開辦公室，也不必
-* 告訴誰、什麼、何時、何地、原因以及您的業務
-* 對來自所有資料的全天候異常監視的智慧警報進行即時操作
-* 能夠重新掌握元件 [!UICONTROL Analysis Workspace]
+* 不用下班
+* 可以說明您的企業是誰、什麼、何時、何地、為什麼以及然後呢
+* 立即對來自所有資料的全天候異常監控的智慧警報採取行動
+* 能夠為 [!UICONTROL Analysis Workspace] 重新製作元件
 
 ### 發現隱藏的機會
 
-* 最新瞭解市場營銷KPI的狀態
-* 可靠和可預測地做好營銷投資
-* 跟上並滿足/超出客戶期望
+* 立即掌握最新的行銷 KPI 狀態
+* 可靠且可預測地提供良好的行銷投資
+* 跟上並滿足/超越客戶期望
 
-### 現實世界的成功
+### 在真實世界獲得的成功
 
-虛擬分析師發現了以下針對實際Adobe客戶的情形：
+虛擬分析人員為 Adobe 客戶開發以下情景：
 
-* Campaing Termination — 收入每日增加170萬美元，這主要是因為一場過早結束的運動。
-* 供應商錯誤 — 由於標籤管理器錯誤正在自動從購物車中刪除某些產品，購物車刪除量增加73%。
-* 瀏覽器問題 — 與Chrome瀏覽器相關的購物車棄置量增加8%。 這一修複方案使營收每日增加120萬美元。
-* 優惠券欺詐 — 發現兩個主要每日交易/優惠券網站推廣欺詐洗漱優惠券所提及的流量導致訂單激增81%。 這些訂單被取消了。
-* 企業間諜 — 由其主要競爭對手建立的bot/crawler導致的訪問量增加200%，以將內容從其網站上刪除以供重新使用。 這些IP被阻止。
+* 行銷活動終止 - 主要由提前結束的行銷活動推動的收入，每天增加 170 萬美元。
+* 供應商錯誤 - 由於標籤管理程式錯誤而從購物車自動移除某些產品，因此購物車移除量增加了 73%。
+* 瀏覽器問題 - Chrome 瀏覽器相關的購物車放棄率增加了 8%。此項修正導致每天增加 120 萬美元的收入。
+* 抵用券詐騙 - 發現由兩個主要日常交易/抵用券網站促銷的詐騙保養品抵用券，導致訂單激增 81%。因此取消了這些訂單。
+* 企業間諜活動 - 由主要競爭對手建立的機器人/編目程式導致造訪次數增加 200%，以便刮取網站內容以供重複使用。 因此封鎖了這些 IP。
 
-## Adobe Analytics能力
+## Adobe Analytics 功能
 
-[異常偵測](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=en):
+[異常偵測](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=zh-Hant)：
 
-* 使用內置預測算法幫助識別您不知道的資料中的尖峰和凹陷。
-* 利用28種獨特的算法來識別異常，包括季節性、增長和週期模型，以及假期調整。
+* 使用內建預測演算法來協助辨別您不知道的資料尖峰和谷值。
+* 利用 28 種獨特的演算法來辨別異常現象，包括季節性、增長和週期性模型，以及假日調整。
 * 減少對資料科學家的依賴，釋放公民資料科學家的能力。
 
-[貢獻分析](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=en):
+[貢獻分析](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/contribution-analysis/ca-tokens.html?lang=zh-Hant)：
 
-* 快速確定導致資料發生重大更改的因素。
-* 節省無數小時，以查找對指標更改的解釋。
-* 利用強大的機器學習技術，將分析師和營銷人員轉變為資料科學家。
+* 快速識別導致資料發生重大變化的因素。
+* 節省尋找量度改變解釋的大量時間。
+* 善用旨在將分析人員和行銷人員轉變為資料科學家的強大機器學習。
 
-[智慧型警報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=en):
+[智慧型警報](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=zh-Hant)：
 
-隨時瞭解資料中的異常情況 — 無論您是在辦公室還是在移動
+隨時了解資料中的異常情況 - 無論您是在辦公室還是差旅中
 
-* 直接從Analysis Workspace建立警報
-* 基於異常(90%、95%、99%)、變化百分比及以上/以下的規則
-* 使用 [!UICONTROL 警報預覽] 查看警報觸發的頻率
-* 利用SMS和電子郵件支援，並提供到自動生成的連結 [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=zh-TW) 項目
+* 直接從 Analysis Workspace 建立警報
+* 異常的基本規則 (90%、95%、99%)、百分比變更和高於/低於
+* 使用[!UICONTROL 警報預覽]來查看警報觸發的頻率
+* 善用簡訊和電子郵件支援，包含自動產生之 [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=zh-TW) 專案的連結
 
-[區段 IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=en):
+[區段 IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=en)：
 
-* 發現網段之間的差異和重疊，以通知您的分段策略
-* 發現驅動您的KPI的受眾群的關鍵特徵
-* 在數秒到數分鐘內獲取報告和可視化效果，以顯示維、度量和其他段的共性
-* 改善與高價值客戶的接觸
+* 發現區段之間的差異和重疊，為您的分段策略提供資訊
+* 發掘推動 KPI 的對象區段的關鍵特徵
+* 在數秒到數分鐘時間內即可獲得報告和視覺呈現，顯示跨維度、量度和其他區段的共同之處
+* 改進與高價值客戶的互動
 
-## Segment IQ在現實世界中的成功
+## 區段 IQ 在真實世界獲得的成功
 
-**移動與台式機：** 「我們比較了某個站點與另一個站點的點擊量，很快就發現了一堆標籤不一致的地方。」 →在產品發佈前避免資料問題
+**行動與桌面：**「我們把一個網站的點擊次數與另一個網站的點擊次數進行比較，很快就發現一堆標籤不一致的地方。」→ 在產品發行之前避免資料問題
 
-**功能用法：** 「使用我們產品比較功能的客戶轉換的可能性要高10%。 把它移到頁面的頂端，訂單就會增加。」 →轉換增加4%
+**功能使用：**「我們發現使用我們產品比較功能的客戶轉換率高出 10%。 將其移至頁面頂端可增加訂單。」 → 轉換率提高 4%
 
-**內容項目：** 「我們發現，我們新聞欄目的訪問者觀看視頻廣告的可能性是他們的兩倍，因此我們在新聞欄目中增加了更多視頻選項。」 →觀看視頻廣告增加7%
+**內容參與度：**「我們發現新區域的訪客觀看廣告影片的可能性是兩倍，因此在這個區域放入更多影片選項。」→ 觀看的廣告影片增加 7%
 
-**付費搜索：** 「來自搜索引擎的訪客追加銷售的可能性是前者的3倍。 因此，我們增加了在特定關鍵字上的開支。」 → 56%的追加銷售提升
+**付費搜尋：**「來自搜尋引擎的訪客，向上銷售的可能性增加 3 倍。 因此，我們增加了在特定關鍵字上的支出。」 → 向上銷售提升 56%
 
-**產品庫存：** 「購買Fitbit的人比其他人『缺貨』的可能性高6倍，因此我們很快訂購了更多Fitbit。」 →防止停貨，並完成更多節假日訂單
+**產品缺貨：**「購買 Fitbit 產品的人遇到『缺貨』的可能性是其他人的 6 倍，因此我們迅速訂購了更多 Fitbit 產品。」 → 防止缺貨，完成更多假日訂單
 
-有關詳細資訊，請觀看 [網路研討會](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)。
+如需詳細資訊，請觀看我們的[網路研討會](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)。
+
+瞭解有關策略和思想領導的更多資訊 [客戶成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 中。
