@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
-workflow-type: ht
-source-wordcount: '2430'
-ht-degree: 100%
+source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
+workflow-type: tm+mt
+source-wordcount: '2432'
+ht-degree: 99%
 
 ---
 
@@ -150,6 +150,17 @@ ht-degree: 100%
       + [100% 堆疊視覺效果](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [表格和視覺效果資料來源設定](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [建立時間分隔的熱度圖](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
+   + 分析客戶歷程{#analyzing-customer-journeys}
+      + [了解您的資料--流失和流量](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
+      + [歷程 IQ - 跨裝置分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
+      + [流失視覺效果](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
+      + [增強流失視覺效果](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
+      + [多維流失](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
+      + [比較流失中的區段](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
+      + [流量視覺效果](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
+      + [展開流量視覺效果](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
+      + [2022年流量改進](analysis-workspace/analyzing-customer-journeys/flow-improvements.md)
+      + [文繞圖和多維流量](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + 套用區段 {#applying-segments}
       + [套用區段至您的 Analysis Workspace 專案](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [在 Analysis Workspace 中使用區段](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
@@ -177,16 +188,6 @@ ht-degree: 100%
       + [建立自訂日期範圍](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
       + [Analysis Workspace 中的日期比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [新增前一個月和前一年的趨勢比較](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
-   + 分析客戶歷程{#analyzing-customer-journeys}
-      + [了解您的資料--流失和流量](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
-      + [歷程 IQ - 跨裝置分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
-      + [流失視覺效果](analysis-workspace/analyzing-customer-journeys/fallout-visualization.md)
-      + [增強流失視覺效果](analysis-workspace/analyzing-customer-journeys/enhancements-to-fallout-visualization.md)
-      + [多維流失](analysis-workspace/analyzing-customer-journeys/multi-dimensional-fallout.md)
-      + [比較流失中的區段](analysis-workspace/analyzing-customer-journeys/comparing-segments-in-fallout.md)
-      + [流量視覺效果](analysis-workspace/analyzing-customer-journeys/flow-visualization.md)
-      + [展開流量視覺效果](analysis-workspace/analyzing-customer-journeys/expanding-on-flow-visualization.md)
-      + [文繞圖和多維流量](analysis-workspace/analyzing-customer-journeys/text-wrapping-and-multi-dimensional-flow.md)
    + 策劃和共用專案 {#curate-and-share-projects}
       + [在 Analysis Workspace 中儲存、共用及協作專案](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace 中的「組織」與「共用」](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
