@@ -4,9 +4,9 @@ user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 source-git-commit: eb3c42b38a22bceb8e65690956066584205fe0c2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2430'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -25,10 +25,10 @@ ht-degree: 97%
       + [2019 年峰會超級展示 - 旅遊業及旅館業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
       + [2019 年峰會超級展示 - 零售業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
       + [2019 年峰會超級展示 - 高科技業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
-   + 戰略與思想領導{#strategy}
-      + [第1部分 — 簡單程式，以提高效率](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
-      + [第2部分 — 簡單程式，以提高效率](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
-      + [利用虛擬分析師和部門智商掌握客戶智慧，在Adobe Analytics](strategy/customer-intelligence-with-virtual-analyst.md)
+   + 策略與思想領導力{#strategy}
+      + [第 1 部分 - 提升效率的簡單技巧](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
+      + [第 2 部分 - 提升效率的簡單技巧](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
+      + [在 Adobe Analytics 中使用虛擬分析人員和區段 IQ，掌握客戶情報](strategy/customer-intelligence-with-virtual-analyst.md)
    + 從其他平台轉換 {#transitioning-from-other-platforms}
       + [從 Google Analytics 轉換](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 基本知識 {#analytics-basics}
@@ -234,14 +234,14 @@ ht-degree: 97%
       + [以非技術方式翻譯 Adobe Analytics 技術語言](administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
       + [跨職能工作](administration/key-admin-skills/working-cross-functionally.md)
       + [您有問對問題嗎？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
-   + 管理提示和最佳實踐 {#admin-tips}
+   + 管理員祕訣和最佳實務 {#admin-tips}
       + [下載實施行動手冊](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
-      + [建立標準化命名約定](administration/admin-tips/create-standardized-naming-conventions.md)
-      + [建立標準化代碼模板](administration/admin-tips/create-standardized-code-templates.md)
-      + [建立基本視頻和培訓](administration/admin-tips/create-basic-videos-and-training.md)
-      + [建立內部Adobe Analytics站點](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
-      + [使用全局報告套件](administration/admin-tips/use-a-global-report-suite.md)
-      + [建立新聞和公告項目](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [建立標準化的命名慣例](administration/admin-tips/create-standardized-naming-conventions.md)
+      + [建立標準化的程式碼範本](administration/admin-tips/create-standardized-code-templates.md)
+      + [建立基本影片和培訓](administration/admin-tips/create-basic-videos-and-training.md)
+      + [建立內部 Adobe Analytics 網站](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
+      + [使用全域報告套裝](administration/admin-tips/use-a-global-report-suite.md)
+      + [建立新聞與公告專案](administration/admin-tips/create-a-news-and-announcements-project.md)
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
@@ -305,7 +305,7 @@ ht-degree: 97%
       + [在 Experience Platform Launch 中驗證您的全域頁面載入規則](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
       + [建立特別頁面的 Experience Platform Launch 規則](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
       + [建立成功事件的 Experience Platform Launch 規則](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
-      + [發布 Experience Platform Launch 資料庫至階段和生產環境](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+      + [發佈 Experience Platform Launch 資料庫至階段和生產環境](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + 使用 JavaScript {#using-javascript}
       + [無 Tag Manager 的自訂連結追蹤](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [不使用 Experience Platform Launch 時進行 AppMeasurement 更新](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
