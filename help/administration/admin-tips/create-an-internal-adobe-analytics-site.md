@@ -1,6 +1,6 @@
 ---
-title: 建立內部Adobe Analytics站點（匯合或其他）
-description: 建立一個中心位置，讓所有用戶都可以共用和咨詢培訓文檔。
+title: 建立內部 Adobe Analytics 網站 (Confluence 或其他)
+description: 建立一個中心位置，讓所有使用者可以在其中分享和查閱培訓文件。
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -8,39 +8,40 @@ level: Beginner
 doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
-source-git-commit: 160df6c23acb67f1b07f2fcd25f1eca96eb6dee7
-workflow-type: tm+mt
+exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
+source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+workflow-type: ht
 source-wordcount: '300'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
+# 建立內部 Adobe Analytics 網站 (Confluence 或其他)
 
-# 建立內部Adobe Analytics站點（匯合或其他）
+**主題：**&#x200B;如果您聽從了[這篇技巧](create-basic-videos-and-training.md){target=&quot;_blank&quot;}的建議而建立了培訓文件，很明顯您不能把這些文件存在硬碟上。 建立一個中心位置，讓所有使用者可以在其中分享和查閱培訓文件 - 一個內部 Adobe Analytics 網站 (Confluence 或其他)，您可以在其中發佈這些文件並維護不同的版本。
 
-**什麼：** 如果您在 [這個提示](create-basic-videos-and-training.md){target=&quot;_blank&quot;}建立培訓文檔，顯然無法將其保留在硬碟上。 建立一個中心位置，所有用戶都可以在該位置共用和咨詢這些內容 — 一個內部Adobe Analytics站點（匯合點或其他），您可以在該站點上發佈所有這些文檔並維護不同的版本。
+**理由：**&#x200B;設定單一共用存放庫可提供一個位置來導向所有新使用者，並提供所有文件最新版本的單一信任來源。 也可以最佳化版本管理和共同作業。
 
-**原因：** 設定單個共用儲存庫將為您提供一個引導所有新用戶的位置，並針對所有文檔的最新版本提供單一真相來源。 它允許最佳版本管理和協作。
+**做法：**&#x200B;以下是內部網站區段的一些建議：
 
-**方式：** 以下是此內部站點各部分的一些建議：
+* _簡介：_&#x200B;如何取得存取權、聯絡、如何登入、如何建立 JIRA 票證、從哪裡取得協助等。
+* _標記文件_：屬性文件、標記文件、程式碼範本等。
+* _知識文件_：您可以在此處發佈命名慣例，以及與培訓影片具有相同用途的知識文件。 例如：如何追蹤下載，如何追蹤抵用券等。
+* _培訓文件_：基礎和進階培訓課程，5-10 分鐘的短影片。 您也可以提供 Adobe 資源的連結：Experience League、YouTube 頻道等。
+* _管理檔案_：SAINT 檔案、JS 檔案、管理內容相關 (如資料摘要) 的知識檔案等。
 
-* _簡介_:如何獲取訪問、聯繫人、如何登錄、如何建立JIRA票證、從何處獲取幫助等。
-* _標籤文檔_:屬性文檔、標籤文檔、代碼模板等
-* _知識文檔_:您可以在此處發佈命名約定，也可以發佈與培訓視頻具有相同用途的知識文檔。 例如：如何跟蹤下載、如何跟蹤優惠券等。
-* _培訓文檔_:基本和高級培訓課程，短短5-10分鐘視頻。 您還可以提供指向Adobe資源的連結：Experience League,YouTube頻道等
-* _管理文檔_:SAINT檔案、JS檔案、有關資料源等管理內容的知識文檔。
-
-我還建議您在建立新帳戶時，在「歡迎使用Adobe Analytics」電子郵件中共用指向此網站的連結（並突出顯示培訓部分）。
+我也建議當您建立新帳戶時，在「歡迎使用 Adobe Analytics」電子郵件中分享此網站的連結 (並反白顯示培訓區段)。
 
 
 ## 作者
 
-本文由以下人士共同撰寫：
+本文的共同作者為：
 
-![克里斯特爾·吉東](assets/Christel-Headshot-150.png)
+![Christel Guidon](assets/Christel-Headshot-150.png)
 
-Christel Guidon , NortonLifeLockAdobe Analytics冠軍的數字分析平台經理
+NortonLifeLock 數位分析平台經理 Christel Guidon
+Adobe Analytics 達人
 
-![瑞秋·芬威克](assets/Rachel-Fenwick-150.png)
+![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
-Rachel Fenwick,Adobe高級顧問
+Adobe 資深顧問 Rachel Fenwick
