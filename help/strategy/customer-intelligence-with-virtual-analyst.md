@@ -56,7 +56,7 @@ Adobe 的 AI 工具並不是要取代您，而是要讓您的工作產生最大�
 
 ### 善用您的虛擬分析人員
 
-可以把[虛擬分析人員](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=en)想成是一位超級分析人員：
+可以把[虛擬分析人員](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/overview.html?lang=tw)想成是一位超級分析人員：
 
 * 不用下班
 * 可以說明您的企業是誰、什麼、何時、何地、為什麼以及然後呢
@@ -102,7 +102,7 @@ Adobe 的 AI 工具並不是要取代您，而是要讓您的工作產生最大�
 * 使用[!UICONTROL 警報預覽]來查看警報觸發的頻率
 * 善用簡訊和電子郵件支援，包含自動產生之 [Analysis Workspace](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/home.html?lang=zh-TW) 專案的連結
 
-[區段 IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=en)：
+[區段 IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=tw)：
 
 * 發現區段之間的差異和重疊，為您的分段策略提供資訊
 * 發掘推動 KPI 的對象區段的關鍵特徵

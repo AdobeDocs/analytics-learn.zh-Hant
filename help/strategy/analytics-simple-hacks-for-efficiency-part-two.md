@@ -64,7 +64,7 @@ ht-degree: 97%
 
 ## [!UICONTROL 快速深入分析]面板
 
-「[[!UICONTROL 快速深入分析]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=en)」為 Analysis Workspace 的非分析人員和新使用者提供指引，了解如何快速輕鬆回答業務問題。 對於想要快速解答簡單的問題而無須自行建立表格的進階使用者，這也是絕佳的工具。
+「[[!UICONTROL 快速深入分析]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/quickinsight.html?lang=tw)」為 Analysis Workspace 的非分析人員和新使用者提供指引，了解如何快速輕鬆回答業務問題。 對於想要快速解答簡單的問題而無須自行建立表格的進階使用者，這也是絕佳的工具。
 
 ## 善用變數的[!UICONTROL 說明]
 
