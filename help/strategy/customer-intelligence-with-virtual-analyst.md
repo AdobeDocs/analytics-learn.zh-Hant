@@ -4,9 +4,9 @@ description: 了解使用人工智慧和機器學習 (AI/ML) 的重要性。 了
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
 source-git-commit: 8a02dcd42fef857e53b3f3403f3a52cc90f7ec72
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1104'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -123,4 +123,4 @@ Adobe 的 AI 工具並不是要取代您，而是要讓您的工作產生最大�
 
 如需詳細資訊，請觀看我們的[網路研討會](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)。
 
-瞭解有關策略和思想領導的更多資訊 [客戶成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html) 中。
+在[客戶成功](https://experienceleague.corp.adobe.com/docs/customer-success/customer-success/overview.html)中心了解更多策略和構想領導力。
