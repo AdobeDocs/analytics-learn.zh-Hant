@@ -1,22 +1,22 @@
 ---
-title: 2022年流量改進
-description: 瞭解流動可視化的一些重大改進。 改進包括：允許您配置您感興趣的路徑的開始或結束，篩選列以包括或排除特定項，以及預配置的高級設定。
+title: 2022 流量改善
+description: 了解流量視覺效果的一些重要改善。改善包括可設定您感興趣的開始路徑或結束路徑，可篩選欄以包含或排除特定項目，以及可預先設定的進階設定。
 feature: Visualizations
 role: User
 level: Beginner
 kt: 10622
 thumbnail: 344222.jpeg
 source-git-commit: 0500ffe75644f03a016ef673276b9f417a93284f
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '102'
-ht-degree: 15%
+ht-degree: 100%
 
 ---
 
 
-# 2022年流量改進
+# 2022 流量改善
 
-瞭解流動可視化的一些重大改進。 改進包括：允許您配置您感興趣的路徑的開始或結束，篩選列以包括或排除特定項，以及預配置的高級設定。
+了解流量視覺效果的一些重要改善。改善包括可設定您感興趣的開始路徑或結束路徑，可篩選欄以包含或排除特定項目，以及可預先設定的進階設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/344222/?quality=12&learn=on)
 
