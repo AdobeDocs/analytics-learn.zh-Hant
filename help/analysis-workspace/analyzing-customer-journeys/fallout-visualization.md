@@ -1,27 +1,24 @@
 ---
-title: Analysis Workspace 中的流失視覺效果
-description: 本影片逐步解說在 Adobe Analytics 中可在 Analysis Workspace 中使用的流失視覺效果。使用流失視覺效果建立漏斗或在關鍵應用程式/網站工作流程上顯示使用者流程。
+title: 建立沈降可視化報告
+description: 瞭解放射性塵埃報告使用案例以及如何在Analysis Workspace配置此報告。 瞭解如何添加幾種類型的觸點，以及如何在此元件中建立和使用段。
 feature: Visualizations
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 24042.jpg
-kt: 2275
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 345883.jpg
+kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '83'
-ht-degree: 100%
+source-git-commit: 1b141ab4e15a6db80a6de3cc80bef22dc3499302
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 21%
 
 ---
 
-# Analysis Workspace 的 [!DNL Fallout Visualization] {#fallout-visualization-in-analysis-workspace}
+# 建立沈降可視化報告
 
-本影片逐步解說在 Adobe Analytics 中可在 Analysis Workspace 中使用的[!DNL Fallout visualization]。使用[!DNL Fallout]建立漏斗或在關鍵應用程式/網站工作流程上顯示使用者流程。
+瞭解沈降報告使用案例以及如何在中配置此報告 [!DNL Analysis Workspace]。 瞭解如何添加幾種類型的觸點，以及如何在此元件中建立和使用段。
 
->[!VIDEO](https://video.tv.adobe.com/v/24042/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
-如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hant)。
+如需有關此功能的詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hant)。
