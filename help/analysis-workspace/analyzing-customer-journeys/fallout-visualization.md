@@ -1,6 +1,6 @@
 ---
-title: 建立沈降物可視化
-description: Analysis Workspace的沈降物可視化技術用於探索客戶在您的數字財產上遇到或從關鍵流中脫身的地方。 瞭解如何添加幾種類型的觸點，以及如何在此元件中建立和使用段。
+title: 建立流失視覺效果
+description: Analysis Workspace 中的流失視覺效果用於探索客戶在您的數位資產關鍵流程中，於何處中斷或退出。了解如何新增多種類型的接觸點，以及如何在此元件中建立和使用區段。
 feature: Visualizations
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ thumbnail: 345883.jpg
 kt: 2275
 exl-id: 25e6b3bf-c809-4c71-8c5f-e0e5ef6c0054
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 18%
+ht-degree: 100%
 
 ---
 
-# 建立沈降物可視化
+# 建立流失視覺效果
 
-沈降物可視化 [!DNL Analysis Workspace] 用於探索客戶在您的數字屬性上遇到或從關鍵流中脫離的位置。 瞭解如何添加幾種類型的觸點，以及如何在此元件中建立和使用段。
+[!DNL Analysis Workspace] 中的流失視覺效果用於探索客戶在您的數位資產關鍵流程中，於何處中斷或退出。了解如何新增多種類型的接觸點，以及如何在此元件中建立和使用區段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/345883/?quality=12)
 
