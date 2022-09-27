@@ -10,10 +10,10 @@ kt: 4103
 role: User
 level: Beginner
 exl-id: 38b360d2-ce4a-4442-8a19-366c090eb717,a273d1a8-3b58-4bf2-b683-638d26a1cc4e
-source-git-commit: 34f24fac13dfaef0c1c8f03bd365d432324ae4d1
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+workflow-type: tm+mt
+source-wordcount: '131'
+ht-degree: 86%
 
 ---
 
@@ -24,3 +24,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12)
 
 如需詳細資訊，請瀏覽[面板](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html)和[視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)的文件。
+
+>[!INFO]
+>
+> 此影片是課程的一部分： [開始使用Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)，免費提供Experience League!
