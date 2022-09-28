@@ -7,10 +7,10 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
+source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 85%
+source-wordcount: '149'
+ht-degree: 84%
 
 ---
 
@@ -26,4 +26,9 @@ ht-degree: 85%
 
 >[!INFO]
 >
-> 此影片是課程的一部分： [自由表格：分析的基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，免費提供Experience League!
+> 此影片包含在下列兩個課程中：
+>
+> * [自由格式表格：分析的基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
+> * [使用自訂細分和日期篩選資料](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
+>
+> 兩者均免費Experience League!
