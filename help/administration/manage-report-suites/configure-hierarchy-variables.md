@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 340680.jpg
 kt: 9793
 exl-id: 607c9ade-c060-4484-a45a-5f50172cee6a
-source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
-workflow-type: ht
-source-wordcount: '101'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 82%
 
 ---
 
@@ -23,3 +23,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/340680/?quality=12&learn=on)
 
 如需其他資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/hier.html)。
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [Adobe Analytics中報表套裝的設定與管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，免費提供Experience League!

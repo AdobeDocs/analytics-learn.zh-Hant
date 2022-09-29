@@ -8,10 +8,10 @@ thumbnail: 28754.jpg
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 6ef8fd0853c8926a6237081383772046675aad02
-workflow-type: ht
-source-wordcount: '125'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '145'
+ht-degree: 88%
 
 ---
 
@@ -24,3 +24,7 @@ ht-degree: 100%
 [下載](assets/aa-implementation-playbook.xlsx)範例 Excel 範本以記錄您數位資產的要求和資料彙集設計。
 
 [下載](assets/geometrixx-clothiers-brd-sdr.xlsx)此影片中顯示的 Excel 文件和/或觀看相關的[業務需求文件影片](creating-a-business-requirements-document.md)。
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [Analytics實作指南](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)，免費提供Experience League!

@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 27306.jpg
 kt: 2916
 exl-id: 917fa84a-256f-4feb-9ab4-10a5905e2456
-source-git-commit: 036646c3343a7025f394d74f344b0f8780ebc7df
-workflow-type: ht
-source-wordcount: '112'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '136'
+ht-degree: 82%
 
 ---
 
@@ -20,3 +20,7 @@ ht-degree: 100%
 Adobe Analytics 中的 [!UICONTROL Data Warehouse] 請求工具可讓您查詢原始資料。 對於已個別排程和下載的報表，[!UICONTROL Data Warehouse] 可在單一請求中處理數量不受限的資料列。 這段影片將介紹此工具，包括建立 [!UICONTROL Data Warehouse] 報表的逐步解說。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27306/?quality=12)
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [匯出Adobe Analytics資料並將其大眾化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)，免費提供Experience League!

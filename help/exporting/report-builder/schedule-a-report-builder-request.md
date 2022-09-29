@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 342376.jpg
 kt: 9873
 exl-id: 087565b7-6f73-4667-ae29-446e9a0a6fab
-source-git-commit: fd823be4eb59136ceec1f583bb7bbc405dd1f3ea
-workflow-type: ht
-source-wordcount: '58'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 70%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/342376/?quality=12&learn=on)
 
 如需有關此功能的詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/t-schedule-a-data-request.html?lang=zh-Hant)。
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [匯出Adobe Analytics資料並將其大眾化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)，免費提供Experience League!

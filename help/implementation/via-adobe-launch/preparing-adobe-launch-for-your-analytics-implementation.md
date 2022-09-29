@@ -10,10 +10,10 @@ kt: 3584
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 057b7a82-882d-4cee-beb0-2dfc1e6c94b4
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '95'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '115'
+ht-degree: 86%
 
 ---
 
@@ -22,3 +22,7 @@ ht-degree: 100%
 在 Experience Platform Launch 中實施 [!DNL Analytics] 前，您需要備妥一些文件，而且您會想要在 [!DNL Analytics] 和 [!DNL Launch] 系統中做一些設定。本影片說明這些設定。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12)
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [Analytics實作指南](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)，免費提供Experience League!

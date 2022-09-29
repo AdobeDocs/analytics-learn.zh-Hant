@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '133'
-ht-degree: 100%
+source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
+workflow-type: tm+mt
+source-wordcount: '172'
+ht-degree: 80%
 
 ---
 
@@ -26,3 +26,7 @@ ht-degree: 100%
 如需從 Web SDK 自動對應至 Adobe Analytics 的變數清單，請參閱此[文件](https://experienceleague.adobe.com/docs/experience-platform/edge/data-collection/adobe-analytics/automatically-mapped-vars.html?lang=zh-Hant)
 
 **注意：**&#x200B;設定處理規則時，您可能會發現「a.x.[您的結構描述]」變數不會自動在下拉式視窗中。如果不在那邊，請勿驚慌。只要根據格式輸入，將它作為 contextData 變數新增。新增一兩個後，您可能會發現其他變數已惰性載入。
+
+>[!INFO]
+>
+> 這段視頻是多門課程的一部分， [Adobe Analytics中報表套裝的設定與管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) 和 [實作與測量內部網站搜尋](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search)，免費提供Experience League!

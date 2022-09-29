@@ -2,7 +2,6 @@
 title: 在 Analysis Workspace 中使用交叉表分析來探索基本的行銷歸因
 description: 有許多方式可透過 Adobe Analytics 將您的歸因方法提升到全新的境界。 這部影片的重點，在於介紹如何使用工作區中的交叉表分析，從行銷管道報表獲取更深入的見解。
 feature: Marketing Channels
-topics: null
 activity: use
 doc-type: feature video
 team: Technical Marketing
@@ -11,10 +10,10 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '288'
-ht-degree: 100%
+source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
+workflow-type: tm+mt
+source-wordcount: '314'
+ht-degree: 92%
 
 ---
 
@@ -38,5 +37,8 @@ ht-degree: 100%
 * 3:20 - 交叉表維度會在捨棄時自動適時變動，表示其值會隨著時間變更。 若是此分析，最好引入靜態欄。在影片的 6:33 了解更多關於動態欄的資訊：[自由格式表格中的列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 - 欄設定現在可以大量更新，而不用逐一更新。在影片的 8:45 了解更多資訊：[自由格式表格中的列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
-
 如需有關本主題的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hant)。
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [將值歸因於Customer Journey中的數位接觸點](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)，免費提供Experience League!

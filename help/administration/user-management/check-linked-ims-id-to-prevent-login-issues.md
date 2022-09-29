@@ -8,10 +8,10 @@ level: Beginner
 thumbnail: 335749.jpg
 kt: 8466
 exl-id: ce096b45-a7bf-4ebd-96e9-b2e10c2c175b
-source-git-commit: f53d322ca18abdd0c7f0f46de7a0146c5af14e6f
-workflow-type: ht
-source-wordcount: '98'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '125'
+ht-degree: 82%
 
 ---
 
@@ -19,5 +19,8 @@ ht-degree: 100%
 
 Adobe Analytics 中綁定的 IMS ID 不正確或遺失可能導致使用者發生登入問題。 使用者可以自行檢查綁定的 IMS ID，並在發生任何問題時聯絡客戶支援，以省去執行常見疑難排解步驟的麻煩。
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/335749/?quality=12&learn=on)
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [Adobe Analytics中報表套裝的設定與管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，免費提供Experience League!

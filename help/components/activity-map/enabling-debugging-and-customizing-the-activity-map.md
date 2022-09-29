@@ -8,10 +8,10 @@ kt: 1995
 role: User
 level: Beginner
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
-source-git-commit: d087d830c6ddf03eb5c620fa0a9484ff6c817e7f
-workflow-type: ht
-source-wordcount: '54'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '81'
+ht-degree: 72%
 
 ---
 
@@ -20,3 +20,7 @@ ht-degree: 100%
 了解如何啟用、偵錯並自訂 [!UICONTROL Activity Map] 在 Adobe Analytics 擴充功能中部署的方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12)
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [Adobe Analytics中報表套裝的設定與管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，免費提供Experience League!

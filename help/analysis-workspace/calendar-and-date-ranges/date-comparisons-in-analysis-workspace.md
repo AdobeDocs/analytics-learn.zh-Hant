@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace 中的日期比較
-description: 在本影片中，我們將說明如何在自由格式表格中善用兩種日期比較功能 -「新增時段欄」和「比較時段」。
+description: 在本影片中，我們將說明如何在任意形狀表格中善用兩種日期比較功能 -「新增時段欄」和「比較時段」。
 feature: Calendar
 thumbnail: 23985.jpg
 kt: 2011
@@ -16,7 +16,7 @@ ht-degree: 84%
 
 # Analysis Workspace 中的日期比較 {#date-comparisons-in-analysis-workspace}
 
-在本影片中，我們將說明如何在[!UICONTROL 自由格式表格]中善用兩種日期比較功能 -「[!UICONTROL 新增時段欄]」和「[!UICONTROL 比較時段]」。
+在本影片中，我們將說明如何在[!UICONTROL 任意形狀表格]中善用兩種日期比較功能 -「[!UICONTROL 新增時段欄]」和「[!UICONTROL 比較時段]」。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12)
 

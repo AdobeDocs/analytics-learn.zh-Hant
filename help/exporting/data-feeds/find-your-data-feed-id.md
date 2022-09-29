@@ -9,10 +9,10 @@ doc-type: feature video
 thumbnail: 335747.jpg
 kt: KT-8464
 exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
-workflow-type: ht
-source-wordcount: '104'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '128'
+ht-degree: 81%
 
 ---
 
@@ -20,5 +20,8 @@ ht-degree: 100%
 
 有時如果資料摘要傳遞失敗或是有重新傳送資料摘要檔案的要求，您就可能需要聯絡 Adobe。 如果客戶有提供資料摘要 ID，客戶支援團隊就可以方便地處理這類要求。
 
-
 >[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [匯出Adobe Analytics資料並將其大眾化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)，免費提供Experience League!

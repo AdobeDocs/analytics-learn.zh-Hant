@@ -10,10 +10,10 @@ kt: 1942
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: ht
-source-wordcount: '91'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 85%
 
 ---
 
@@ -25,3 +25,6 @@ ht-degree: 100%
 
 您將會了解如何查看會在不同的頁面上引發哪些項目、載入變數的易記名稱，並匯出進階使用案例的結果。
 
+>[!INFO]
+>
+> 本影片是課程的一部分 [Analytics實作指南](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)，免費提供Experience League!

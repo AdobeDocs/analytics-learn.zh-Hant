@@ -1,6 +1,6 @@
 ---
 title: 在 Experience Platform Launch 中啟用伺服器端傳輸規則
-description: '了解如何使用 Adobe Experience Platform Launch，讓您的 Adobe Analytics 點擊透過伺服器端自動傳送至 Adobe Audience Manager。 '
+description: 了解如何使用 Adobe Experience Platform Launch，讓您的 Adobe Analytics 點擊透過伺服器端自動傳送至 Adobe Audience Manager。
 feature: Experience Cloud Integration
 topics: null
 activity: use
@@ -12,10 +12,10 @@ topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '55'
-ht-degree: 100%
+source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+workflow-type: tm+mt
+source-wordcount: '82'
+ht-degree: 73%
 
 ---
 
@@ -24,3 +24,7 @@ ht-degree: 100%
 了解如何使用 Adobe [!DNL Experience Platform Launch]，讓您的 Adobe Analytics 點擊透過伺服器端自動傳送至 Adobe Audience Manager。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12)
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [Adobe Analytics中報表套裝的設定與管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，免費提供Experience League!

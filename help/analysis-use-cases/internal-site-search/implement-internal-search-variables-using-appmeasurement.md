@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 333604.jpg
 kt: 7996
 exl-id: 379c1a3d-2fd0-40d9-8736-05bd0f0c29c8
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '70'
-ht-degree: 100%
+source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
+workflow-type: tm+mt
+source-wordcount: '94'
+ht-degree: 74%
 
 ---
 
@@ -20,3 +20,7 @@ ht-degree: 100%
 在本影片中，我們會進行如何使用 Experience Platform Launch，為 Adobe Analytics 實施內部網站搜尋變數的步驟，包括搜尋詞、結果數量等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333604/?quality=12&learn=on)
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [實作與測量內部網站搜尋](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search)，免費提供Experience League!

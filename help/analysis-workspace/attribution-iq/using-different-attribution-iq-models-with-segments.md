@@ -2,20 +2,15 @@
 title: 對 Analysis Workspace 中的區段使用不同的 Attribution IQ 模型
 description: 在本影片中，您將了解如何在您的網站上結合 Adobe Analytics 區段使用 Attribution IQ 模型。
 feature: Attribution
-topics: null
-activity: use
-doc-type: feature video
-author: Doug Moore
-team: Technical Marketing
 thumbnail: 23743.jpg
 kt: 1707
 role: User
 level: Intermediate
 exl-id: 948fcfc7-7a43-43a0-987c-587b0fd56599
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '108'
-ht-degree: 100%
+source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 84%
 
 ---
 
@@ -26,3 +21,8 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/23743/?quality=12)
 
 在您的網站上進行分析時，您常會使用區段瞄準特定族群的訪客、造訪或點擊。您這樣做時，您現在應加入考量哪些歸因模式最適合區段、量度和整體報告的步驟。
+
+>[!INFO]
+>
+> 本影片是課程的一部分 [使用自訂細分和日期篩選資料](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)，免費提供Experience League!
+
