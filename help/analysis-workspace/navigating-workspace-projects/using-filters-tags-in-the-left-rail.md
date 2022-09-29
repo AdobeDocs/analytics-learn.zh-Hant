@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: ae892414-fcd0-4900-8302-542d4f9bfca8
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '128'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 85%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12)
 
-如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html?lang=zh-Hant)
+如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/analysis-workspace-features.html)
 
 >[!INFO]
 >
-> 此影片是課程的一部分： [自由表格：分析的基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，免費提供Experience League!
+> 本影片是課程的一部分：[任意形狀表格、分析基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在 Experience League 上免費取得！
