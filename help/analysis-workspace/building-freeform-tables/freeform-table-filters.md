@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace 中的自由格式表格篩選器
-description: 篩選器可讓您更能掌控哪些資料列要在自由格式表格中分享。
+title: Analysis Workspace 中的任意形狀表格篩選器
+description: 篩選器可讓您更能掌控哪些資料列要在任意形狀表格中分享。
 feature: Freeform Tables
 thumbnail: 23232.jpg
 kt: 1699
@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
 source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '108'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -22,10 +22,10 @@ ht-degree: 82%
 
 在 Analysis Workspace 中，我們現在提供更多篩選控制，包含 11 項篩選條件與 AND/OR 運算子。
 
-如需可用篩選器的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html?lang=zh-Hant#cja-workspace?lang=en)。
+如需可用篩選器的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en)。
 
 **注意：** 進階特殊字元無法在 Analysis Workspace 中使用。
 
 >[!INFO]
 >
-> 此影片是課程的一部分： [自由表格：分析的基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，免費提供Experience League!
+> 本影片是課程的一部分：[任意形狀表格、分析基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在 Experience League 上免費取得！
