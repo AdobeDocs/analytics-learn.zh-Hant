@@ -13,9 +13,9 @@ role: Admin
 level: Beginner
 exl-id: 2d8692e0-a2f9-4edc-9a26-421aeac4a85a
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 72%
+ht-degree: 100%
 
 ---
 
@@ -25,8 +25,8 @@ ht-degree: 72%
 
 >[!VIDEO](https://video.tv.adobe.com/v/37648/?quality=12&learn=on)
 
-瀏覽[文件](https://helpx.adobe.com/enterprise/using/admin-console.html)，以了解更多。
+瀏覽[文件](https://helpx.adobe.com/tw/enterprise/using/admin-console.html)，以了解更多。
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [Adobe Analytics中報表套裝的設定與管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，免費提供Experience League!
+> 本影片是[在 Adobe Analytics 中設定和管理報表套裝](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)課程的一部分，可在 Experience League 上免費取得！
