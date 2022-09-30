@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
 source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '149'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
@@ -22,13 +22,13 @@ ht-degree: 84%
 
 日期比較是新增目前 Analysis Workspace 表格深度的簡單方法，並協助您輕鬆將目前的資料與歷史績效比較。
 
-如需有關本功能的詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=zh-Hant)。
+如需有關此功能的詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/time-comparison.html?lang=zh-Hant)。
 
 >[!INFO]
 >
-> 此影片包含在下列兩個課程中：
+> 本影片是兩項課程的一部分：
 >
 > * [自由格式表格：分析的基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-> * [使用自訂細分和日期篩選資料](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
+> * [使用自訂分段和日期篩選資料](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)
 >
-> 兩者均免費Experience League!
+> 兩者皆可在 Experience League 上免費取得！
