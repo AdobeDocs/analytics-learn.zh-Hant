@@ -10,9 +10,9 @@ thumbnail: 335740.jpg
 kt: KT-8455
 exl-id: 7cc87784-cbbe-4dc8-b9bd-549850dfe22e
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 82%
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [Adobe Analytics中報表套裝的設定與管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，免費提供Experience League!
+> 本影片是[在 Adobe Analytics 中設定和管理報表套裝](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)課程的一部分，可在 Experience League 上免費取得！
