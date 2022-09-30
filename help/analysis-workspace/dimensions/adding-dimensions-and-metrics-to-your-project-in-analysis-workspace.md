@@ -7,9 +7,9 @@ role: User
 level: Beginner
 exl-id: 748ba7ff-a75d-4ecb-a5d8-5451d1922725,01466500-25ef-40d5-9ae1-ce1e0e92b0b5
 source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -19,8 +19,8 @@ ht-degree: 85%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30606/?quality=12)
 
-如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/analysis-workspace-components.html?lang=zh-Hant)。
 
 >[!INFO]
 >
-> 此影片是課程的一部分： [開始使用Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)，免費提供Experience League!
+> 本影片是課程的一部分：[Analysis Workspace 快速入門](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)，可在 Experience League 上免費取得！
