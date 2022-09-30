@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: a24a9c3d-9bb2-4d72-8b36-d33fda777e4d
 source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '100'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -20,8 +20,8 @@ ht-degree: 80%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23725/?quality=12)
 
-如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=zh-Hant)。
+如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=zh-Hant)。
 
 >[!INFO]
 >
-> 此影片是課程的一部分： [使用視覺效果來講述您的資料故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)，免費提供Experience League!
+> 本影片是[使用視覺效果訴說您的資料故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)課程的一部分，可在 Experience League 上免費取得！
