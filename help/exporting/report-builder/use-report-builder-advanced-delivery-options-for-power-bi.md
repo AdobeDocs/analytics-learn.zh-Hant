@@ -9,9 +9,9 @@ thumbnail: 342377.jpg
 kt: 9874
 exl-id: b1b8d519-c035-498b-ac40-a939a019a616
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '101'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 76%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342377/?quality=12&learn=on)
 
-如需有關此功能的詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=zh-Hant)。
+如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/publish-powerbi/power-bi.html?lang=zh-Hant)。
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [匯出Adobe Analytics資料並將其大眾化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)，免費提供Experience League!
+> 本影片是[匯出和民主化 Adobe Analytics 資料](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)課程的一部分，可在 Experience League 上免費取得！
