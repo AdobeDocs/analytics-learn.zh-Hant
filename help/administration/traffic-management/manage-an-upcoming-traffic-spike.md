@@ -10,9 +10,9 @@ thumbnail: 335744.jpg
 kt: KT-8462
 exl-id: fd28c2dc-4f4e-430a-a88b-42e44e3e6dda
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '131'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Adobe 會嘗試與客戶合作，以確保高流量的活動能夠順利完成�
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [Adobe Analytics中報表套裝的設定與管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，免費提供Experience League!
+> 本影片是[在 Adobe Analytics 中設定和管理報表套裝](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)課程的一部分，可在 Experience League 上免費取得！
