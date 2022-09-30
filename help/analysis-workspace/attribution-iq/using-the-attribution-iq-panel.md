@@ -12,9 +12,9 @@ role: User
 level: Intermediate
 exl-id: 2c265c0b-5d5e-435f-9fdd-086f7faa0bd9,14492c26-4ce5-4f5a-b3e0-2605f59cfca9
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '129'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Analysis Workspace 中的[!DNL Attribution IQ] [!UICONTROL 面板] 是以視覺�
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [將值歸因於Customer Journey中的數位接觸點](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)，免費提供Experience League!
+> 本影片是[將值歸因於 Customer Journey 中的數位接觸點](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)課程的一部分，可在 Experience League 上免費取得！
