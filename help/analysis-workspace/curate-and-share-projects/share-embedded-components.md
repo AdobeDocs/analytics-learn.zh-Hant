@@ -10,9 +10,9 @@ thumbnail: 341273.jpg
 kt: 2295
 exl-id: 14af33e2-659e-4d78-923f-20752e26067b
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '160'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -22,8 +22,8 @@ ht-degree: 85%
 
 >[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
 
-如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=zh-Hant)。
+如需有關此功能的詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=zh-Hant)。
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [匯出Adobe Analytics資料並將其大眾化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)，免費提供Experience League!
+> 本影片是[匯出和民主化 Adobe Analytics 資料](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)課程的一部分，可在 Experience League 上免費取得！
