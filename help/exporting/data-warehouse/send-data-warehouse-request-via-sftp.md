@@ -10,9 +10,9 @@ thumbnail: 335751.jpg
 kt: KT-8467
 exl-id: 76ae8c9f-def3-4da5-ad39-49bd74e5bd8a
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '178'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ Data Warehouse 指的是儲存和自訂報表所使用的 Analytics 資料複本
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [匯出Adobe Analytics資料並將其大眾化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)，免費提供Experience League!
+> 本影片是[匯出和民主化 Adobe Analytics 資料](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)課程的一部分，可在 Experience League 上免費取得！
