@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 80%
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [使用自訂細分和日期篩選資料](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)，免費提供Experience League!
+> 本影片是[使用自訂分段和日期篩選資料](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)課程的一部分，可在 Experience League 上免費取得！
