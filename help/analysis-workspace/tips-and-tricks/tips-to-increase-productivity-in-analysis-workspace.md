@@ -7,9 +7,9 @@ role: User
 level: Beginner
 exl-id: 8f8f597f-bc43-4baf-8c5c-f1dd869bef82
 source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 74%
 
 >[!INFO]
 >
-> 此影片是課程的一部分： [開始使用Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)，免費提供Experience League!
+> 本影片是課程的一部分：[Analysis Workspace 快速入門](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)，可在 Experience League 上免費取得！
