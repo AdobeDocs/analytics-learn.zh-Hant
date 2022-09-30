@@ -10,9 +10,9 @@ thumbnail: 335739.jpg
 kt: KT-8436
 exl-id: d5f7e2a7-ef6e-415e-a59f-1315edba4d8e
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '162'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ ht-degree: 85%
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [匯出Adobe Analytics資料並將其大眾化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)，免費提供Experience League!
+> 本影片是[匯出和民主化 Adobe Analytics 資料](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)課程的一部分，可在 Experience League 上免費取得！
