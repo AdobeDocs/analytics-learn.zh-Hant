@@ -11,9 +11,9 @@ role: Admin, Architect
 level: Beginner
 exl-id: 6bbca02c-e788-431b-bcdc-57cda794a76e
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '150'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 82%
 
 >[!INFO]
 >
-> 此影片包含多個課程 [Analytics實作指南](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1) 和 [Adobe Analytics中報表套裝的設定與管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)，免費提供Experience League!
+> 本影片是[引導式 Analytics 實施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)以及[在 Adobe Analytics 中設定和管理報表套裝](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)等多項課程的一部分，可在 Experience League 上免費取得！
