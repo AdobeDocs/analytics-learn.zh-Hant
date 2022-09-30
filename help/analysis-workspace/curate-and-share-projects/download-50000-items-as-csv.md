@@ -12,9 +12,9 @@ role: User
 level: Beginner
 exl-id: fe7d41f1-a6ec-4601-9266-b4c3aa6a6963
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ ht-degree: 83%
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [匯出Adobe Analytics資料並將其大眾化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)，免費提供Experience League!
+> 本影片是[匯出和民主化 Adobe Analytics 資料](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)課程的一部分，可在 Experience League 上免費取得！
