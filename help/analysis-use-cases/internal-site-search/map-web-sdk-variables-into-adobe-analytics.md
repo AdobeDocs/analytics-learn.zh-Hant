@@ -9,9 +9,9 @@ thumbnail: 333606.jpg
 kt: 7998
 exl-id: 7b6fcaa9-9283-4c84-a975-651a36b51d95
 source-git-commit: 8275dc8a85b2a46b349e12e44c7a001d52b372f8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '172'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ ht-degree: 80%
 
 >[!INFO]
 >
-> 這段視頻是多門課程的一部分， [Adobe Analytics中報表套裝的設定與管理](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration) 和 [實作與測量內部網站搜尋](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search)，免費提供Experience League!
+> 本影片是[在 Adobe Analytics 中設定和管理報表套裝](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)以及[實施和測量內部網站搜尋](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.search)等多項課程的一部分，可在 Experience League 上免費取得！
