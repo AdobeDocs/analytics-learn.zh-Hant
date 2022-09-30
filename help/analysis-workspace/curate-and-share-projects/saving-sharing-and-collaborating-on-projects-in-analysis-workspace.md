@@ -8,9 +8,9 @@ role: User
 level: Beginner
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
 source-git-commit: a890d4d9883ee17dfe4a89ab64d9dad8340eacb0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '117'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 74%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12)
 
-如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html)。
 
 >[!INFO]
 >
-> 此影片包含多個課程 [開始使用Analysis Workspace](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) 和 [匯出Adobe Analytics資料並將其大眾化](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing) 免費Experience League!
+> 本影片是[Analysis Workspace 快速入門](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)以及[匯出和民主化 Adobe Analytics 資料](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)等多項課程的一部分，可在 Experience League 上免費取得！
 
