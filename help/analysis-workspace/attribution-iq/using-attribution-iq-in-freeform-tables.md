@@ -8,9 +8,9 @@ role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
 source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -35,4 +35,4 @@ ht-degree: 83%
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [將值歸因於Customer Journey中的數位接觸點](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)，免費提供Experience League!
+> 本影片是[將值歸因於 Customer Journey 中的數位接觸點](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)課程的一部分，可在 Experience League 上免費取得！
