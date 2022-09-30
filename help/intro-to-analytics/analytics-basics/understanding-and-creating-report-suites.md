@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: 7c7fc1f3-63b3-42cd-a9b8-bd300d8d1921
 source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -25,4 +25,4 @@ ht-degree: 83%
 
 >[!INFO]
 >
-> 本影片是課程的一部分 [Analytics實作指南](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)，免費提供Experience League!
+> 本影片是[引導式 Analytics 實施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)課程的一部分，可在 Experience League 上免費取得！
