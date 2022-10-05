@@ -1,6 +1,6 @@
 ---
 title: Analytics 影片和教學課程
-description: '充份運用 Adobe Analytics。  使用這些教學課程來掌握 Analytics 功能，讓您的商業收獲利益。 此內容適用於管理員、資料分析師、行銷人員、開發人員和架構師。 '
+description: 充份運用 Adobe Analytics。  這些教學課程可協助您了解Analytics的功能，並為您的企業帶來好處。 此內容適用於管理員、資料分析師、行銷人員、開發人員和架構師。
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: e66ac6397db58e403cb2bc10cb6a2af2eb7b1081
-workflow-type: ht
-source-wordcount: '345'
-ht-degree: 100%
+source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
+workflow-type: tm+mt
+source-wordcount: '320'
+ht-degree: 80%
 
 ---
 
@@ -19,9 +19,10 @@ ht-degree: 100%
 
 # Analytics 教學課程
 
-充份運用 [!DNL Adobe Analytics]。  使用這些教學課程來掌握 Analytics 功能，讓您的商業收獲利益。 此內容適用於管理員、資料分析師、行銷人員、開發人員和架構師。
+充份運用 [!DNL Adobe Analytics]。  這些教學課程可協助您了解Analytics的功能，並為您的企業帶來好處。 此內容適用於管理員、資料分析師、行銷人員、開發人員和架構師。
 
 若要開始執行，
+
 * 請參閱「**新增功能**」部份，了解最新更新和功能
 * **工作人員選擇**&#x200B;特別顯示我們最喜歡的一些內容
 * 探索&#x200B;**左側導覽**&#x200B;中的主題和副主題內容。
@@ -31,14 +32,11 @@ ht-degree: 100%
 
 ## 新增功能
 
-* **[Adobe Analytics 行動計分卡產生器 (影片)](additional-tools/analytics-dashboards/adobe-analytics-dashboards-scorecard-builder.md)**
-   *了解如何為您的高管使用者建立和分享在 [!DNL Analysis Workspace] 中建立的行動計分卡。*
-
 * **[Adobe Analytics 行動計分卡應用程式](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
    *了解如何下載行動計分卡應用程式，以及如何查看在 [!DNL Analysis Workspace] 中建立的行動計分卡。*
 
 * **[工作區中的註解 (影片)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *[!DNL Analysis Workspace] 中的註解讓您能夠有效地將內容相關的資料細微差別和深入解析傳達給整個組織內的用戶。 為日期或日期範圍標註已知資料問題、國定假日和行銷活動，以便更有效告知使用者他們在折線圖、表格看到特定內容的原因。*
+   *[!DNL Analysis Workspace] 中的註解讓您能夠有效地將內容相關的資料細微差別和深入解析傳達給整個組織內的用戶。 以已知資料問題、公開假日、促銷活動啟動等，為日期或日期範圍加上注釋。 這會通知使用者為何在折線圖、表格等項目中看到不正確之處。*
 
 ## 工作人員選擇
 

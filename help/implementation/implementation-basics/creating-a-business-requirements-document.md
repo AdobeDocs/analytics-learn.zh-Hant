@@ -1,23 +1,22 @@
 ---
-title: 建立業務需求文件
-description: 了解定義要在 Adobe Analytics 中擷取和分析的行為資料的重要步驟。您的企業需要了解訪客如何使用您的數位資產？先寫下這些要求，然後決定如何使用 Analytics 事件、維度和指標來擷取它們。
+title: 建立業務需求文檔
+description: 了解定義您要在Adobe Analytics中擷取和分析的行為資料的重要步驟。
 feature: Implementation Basics
-team: Technical Marketing
-kt: 3580
-thumbnail: 28758.jpg
 role: Developer, Data Engineer
 level: Beginner
+kt: 3580
+thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '165'
-ht-degree: 100%
+source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
+workflow-type: tm+mt
+source-wordcount: '135'
+ht-degree: 49%
 
 ---
 
-# 建立業務需求文件
+# 建立業務需求文檔{#create-a-business-requirements-document}
 
-了解定義要在 Adobe Analytics 中擷取和分析的行為資料的重要步驟。您的企業需要了解訪客如何使用您的數位資產？先寫下這些要求，然後決定如何使用 Analytics 事件、維度和指標來擷取它們。
+了解定義您要在Adobe Analytics中擷取和分析的行為資料的重要步驟。 您的企業需要了解訪客如何使用您的數位資產？請先記下這些需求，然後決定如何使用Analytics事件、維度和量度來擷取這些需求。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
 

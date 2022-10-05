@@ -1,21 +1,20 @@
 ---
-title: 建立和管理 SDR
+title: 建立和維護解決方案設計參考(SDR)檔案
 description: 解決方案設計參考 (SDR) 文件是針對數位資產分析的業務需求和資料彙集設計的藍圖。了解如何建立和維護此文件作為分析解決方案的真實來源。
 feature: Implementation Basics
-team: Technical Marketing
-kt: 3581
-thumbnail: 28754.jpg
 role: Developer, Data Engineer
 level: Beginner
+kt: 3581
+thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '145'
-ht-degree: 100%
+source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
+workflow-type: tm+mt
+source-wordcount: '149'
+ht-degree: 87%
 
 ---
 
-# 建立和管理解決方案設計參考 (SDR) 文件
+# 建立和維護解決方案設計參考(SDR)文檔{#create-and-maintain-a-solution-design-reference-document}
 
 解決方案設計參考 (SDR) 文件是針對數位資產分析的業務需求和資料彙集設計的藍圖。了解如何建立和維護此文件作為分析解決方案的真實來源。
 
