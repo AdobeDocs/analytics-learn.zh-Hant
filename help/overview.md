@@ -8,7 +8,7 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 2e20de678e255981b8fc8f230ddf420793e3b4a5
+source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 80%
@@ -30,6 +30,8 @@ ht-degree: 80%
 
 在課程部分也提供依角色和技巧能力來策劃的學習經驗。 只要使用 Adobe ID 登入，並在上方導覽部份導覽至「**學習 > 建議課程**」。
 
+<div id="whats-new-section">
+
 ## 新增功能
 
 * **[Adobe Analytics 行動計分卡應用程式](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
@@ -37,6 +39,10 @@ ht-degree: 80%
 
 * **[工作區中的註解 (影片)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
    *[!DNL Analysis Workspace] 中的註解讓您能夠有效地將內容相關的資料細微差別和深入解析傳達給整個組織內的用戶。 以已知資料問題、公開假日、促銷活動啟動等，為日期或日期範圍加上注釋。 這會通知使用者為何在折線圖、表格等項目中看到不正確之處。*
+
+</div>
+
+<div id="staff-picks-section">
 
 ## 工作人員選擇
 
@@ -83,6 +89,8 @@ ht-degree: 80%
   </td>
 </tr>
 </table>
+
+</div>
 
 ## 其他資源
 
