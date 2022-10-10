@@ -1,6 +1,6 @@
 ---
-title: 使用資料層透過「標籤」設定Analytics變數
-description: 了解如何使用資料層來搜尋Analytics資料和其他Experience Cloud解決方案。
+title: 使用資料層透過 Tags 設定 Analytics 變數
+description: 了解如何將資料層用於獲取 Analytics 資料和其他 Experience Cloud 解決方案。
 feature: Launch Implementation
 role: Developer, Data Engineer
 level: Beginner
@@ -8,31 +8,31 @@ kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
 source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '324'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
-# 使用資料層，透過 [!DNL Tags] {#use-a-data-layer-to-set-analytics-variables-in-adobe-analytics-via-tags}
+# 使用資料層透過 [!DNL Tags] 設定 Analytics 變數 {#use-a-data-layer-to-set-analytics-variables-in-adobe-analytics-via-tags}
 
-將資料層用於 [!DNL Analytics] 而其他Experience Cloud解決方案則是最佳作法。 此影片可讓您了解如何從資料層提取值，並在 [!DNL Experience Platform Tags] 填入Adobe Analytics中的變數。
+最佳做法就是將資料層用於 [!DNL Analytics] 和其他 Experience Cloud 解決方案。在本影片中，您將會了解如何從資料層提取值，並用於在 [!DNL Experience Platform Tags] 填入 Adobe Analytics 中的變數。
 
 ## 資料層 {#data-layers}
 
-A _資料層_ 是JavaScript物件的架構，由開發人員將其新增至數位網頁。 Analytics解決方案最終會使用資料層來填入報表。 標籤管理系統，包括 [!DNL Experience Platform Tags])是讀取資料層、將值對應至變數，並將該資料傳送至數位體驗解決方案的中介。
+_資料層_&#x200B;是 JavaScript 物件的架構，由開發人員將其新增至數位網頁。Analytics 解決方案最終會利用資料層填入報告。標記管理系統 (包括[!DNL Experience Platform Tags]) 是讀取資料層、將值對應至變數並將該資料傳送到數位體驗解決方案的中間媒介。
 
-檢閱 [Experience Cloud檔案](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=zh-Hant) 和部落格 [資料層：從流行語到最佳實踐](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice).
+查看有關 [Experience Cloud](https://experienceleague.adobe.com/docs/analytics/implementation/prepare/data-layer.html?lang=zh-Hant) 和部落格[資料層的其他資訊：從流行語到最佳做法](https://blog.adobe.com/en/2014/03/13/data-layers-buzzword-best-practice)。
 
-## 資料層、 [!DNL Experience Platform Tags]，和Adobe Analytics{#data-layers-launch-and-adobe-analytics}
+## 資料層、[!DNL Experience Platform Tags] 和 Adobe Analytics{#data-layers-launch-and-adobe-analytics}
 
-1. 定義或識別要在網站上使用的資料層標準。
+1. 定義或確認要在您的網站上使用的資料層標準。
 
-   1. 將資料層盡可能放在頁面的標題區段和呼叫之前 [!DNL Experience Platform Tags]. 這可確保值被立即存取 [!DNL Tags] 以及需要高在上的Adobe解決方案，例如Adobe Target。
+   1. 將資料層放置在頁面的頂端區段中盡可能高的位置，並在對 [!DNL Experience Platform Tags] 呼叫之前。這確保可透過 [!DNL Tags] 以及需要保持在頁面上較高位置的 Adobe 解決方案 (例如 Adobe Target) 存取該值。
 
-1. 請將資料填入資料圖層。
-1. 在 [!DNL Experience Platform Tags]，建立&quot;[!UICONTROL 資料元素]」，以對應資料層中的資料點。 這些資料元素會貫穿於 [!DNL Experience Platform Tags] in [!UICONTROL 規則] 和 [!UICONTROL 擴充功能].
-1. 在 [!DNL Analytics] 擴充功能的全域變數區段或 [!DNL Tags rule]，請在 [!UICONTROL 資料元素] to [!UICONTROL prop], [!UICONTROL eVar], [!UICONTROL pageName]，和其他 [!DNL Analytics] 變數。
+1. 請將資料填入資料層中。
+1. 在 [!DNL Experience Platform Tags] 中，建立在資料層中可對應資料點的「[!UICONTROL 資料元素]」。這些資料元素在整個 [!DNL Experience Platform Tags] (在[!UICONTROL 規則]和[!UICONTROL 擴充功能]中) 都可使用。
+1. 在 [!DNL Analytics] 擴充功能的全域變數區段或 [!DNL Tags rule] 中，將[!UICONTROL 資料元素]中的值分配給[!UICONTROL 屬性]、[!UICONTROL eVars]、[!UICONTROL pageName] 和其他[!DNL Analytics]變數。
 1. 觸發傳送資料到 [!DNL Analytics] 的指標。
 
 下列影片會為您逐步解說此程序。
@@ -41,4 +41,4 @@ A _資料層_ 是JavaScript物件的架構，由開發人員將其新增至數�
 
 >[!NOTE]
 >
->此影片中使用的特定資料層可能不被視為貴組織的「最佳實務」。 使用資料層向您的數位行銷解決方案呈現重要資料的概念，是最佳作法。
+>本影片中使用的特定資料層可能不被視為您組織的「最佳做法」。使用資料層為您的數位行銷解決方案提供重要資料的概念是最佳做法。
