@@ -1,6 +1,6 @@
 ---
 title: Analytics 影片和教學課程
-description: 充份運用 Adobe Analytics。  這些教學課程可協助您了解Analytics的功能，並為您的企業帶來好處。 此內容適用於管理員、資料分析師、行銷人員、開發人員和架構師。
+description: 充份運用 Adobe Analytics。  使用這些教學課程來了解 Analytics 功能，並為您的企業獲取利益。 此內容適用於管理員、資料分析師、行銷人員、開發人員和架構師。
 feature: Analytics Basics
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
@@ -9,9 +9,9 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
-workflow-type: tm+mt
-source-wordcount: '320'
-ht-degree: 80%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 80%
 
 # Analytics 教學課程
 
-充份運用 [!DNL Adobe Analytics]。  這些教學課程可協助您了解Analytics的功能，並為您的企業帶來好處。 此內容適用於管理員、資料分析師、行銷人員、開發人員和架構師。
+充份運用 [!DNL Adobe Analytics]。  使用這些教學課程來了解 Analytics 功能，並為您的企業獲取利益。 此內容適用於管理員、資料分析師、行銷人員、開發人員和架構師。
 
 若要開始執行，
 
@@ -38,7 +38,7 @@ ht-degree: 80%
    *了解如何下載行動計分卡應用程式，以及如何查看在 [!DNL Analysis Workspace] 中建立的行動計分卡。*
 
 * **[工作區中的註解 (影片)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *[!DNL Analysis Workspace] 中的註解讓您能夠有效地將內容相關的資料細微差別和深入解析傳達給整個組織內的用戶。 以已知資料問題、公開假日、促銷活動啟動等，為日期或日期範圍加上注釋。 這會通知使用者為何在折線圖、表格等項目中看到不正確之處。*
+   *[!DNL Analysis Workspace] 中的註解讓您能夠有效地將內容相關的資料細微差別和深入解析傳達給整個組織內的用戶。 在某一個日期或日期範圍標註已知的資料問題、國定假日、行銷活動等。這會告知使用者他們為何會在折線圖、表格等中看到不合常規的情況。*
 
 </div>
 
