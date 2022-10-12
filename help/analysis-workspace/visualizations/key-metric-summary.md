@@ -8,8 +8,8 @@ kt: 11270
 thumbnail: 3410003.jpeg
 source-git-commit: 7785ccc22eb4f22f14928f62ac8cae4cb27a4d71
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 100%
 
 ---
 
