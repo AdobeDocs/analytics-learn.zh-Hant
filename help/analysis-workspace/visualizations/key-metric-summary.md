@@ -1,5 +1,5 @@
 ---
-title: 關鍵量度摘要視覺化
+title: 關鍵量度摘要視覺效果
 description: 了解 Analysis Workspace 中的組合圖表視覺效果。The 關鍵量度摘要視覺效果可讓您查看一項重要的量度在單一時間範圍內的趨勢分析。也能讓您比較兩個時間範圍內的量度成效。(應該介於 60 到 160 個字元之間，但實際為 244 個字元)
 feature: Visualizations
 role: User
@@ -14,10 +14,10 @@ ht-degree: 100%
 ---
 
 
-# 關鍵量度摘要視覺化
+# 關鍵量度摘要視覺效果
 
 了解 Analysis Workspace 中的組合圖表視覺效果。The 關鍵量度摘要視覺效果可讓您查看一項重要的量度在單一時間範圍內的趨勢分析。也能讓您比較兩個時間範圍內的量度成效。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410003/?quality=12&learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=en)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/key-metric.html?lang=zh-Hant)。
