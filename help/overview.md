@@ -8,10 +8,10 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: 983b5b828a1c189dff0da90f3e0f1b3747576766
+source-git-commit: 3cf17558385944871209a801463e013663d58b3a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '320'
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,12 @@ ht-degree: 0%
    *[!DNL Analysis Workspace] 中的註解讓您能夠有效地將內容相關的資料細微差別和深入解析傳達給整個組織內的用戶。 在某一個日期或日期範圍標註已知的資料問題、國定假日、行銷活動等。這會告知使用者他們為何會在折線圖、表格等中看到不合常規的情況。*
 
 </div>
-
+<div id="recs-overview-body-1"></div>
+<div id="recs-overview-body-2"></div>
+<div id="recs-overview-body-3"></div>
+<div id="recs-overview-body-4"></div>
+<div id="recs-overview-body-5"></div>
+<div id="recs-overview-body-6"></div>
 <div id="staff-picks-section">
 
 ## 工作人員選擇
