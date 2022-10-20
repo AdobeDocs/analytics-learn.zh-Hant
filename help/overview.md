@@ -9,9 +9,9 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '320'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -51,7 +51,7 @@ ht-degree: 99%
 
 <div id="staff-picks-section">
 
-## 員工精選
+## 工作人員選擇
 
 <table>
 <tr>
