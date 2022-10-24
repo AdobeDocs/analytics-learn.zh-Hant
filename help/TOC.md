@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: Adobe Analytics 的影片和教學課程系列。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: f2f6d27d2bc79ae6a859cd84d6e1b28cf8b31ee5
-workflow-type: ht
+source-git-commit: 7453357526b3b144cdc93215be51cc758678c4f3
+workflow-type: tm+mt
 source-wordcount: '2429'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -15,17 +15,17 @@ ht-degree: 100%
 
 + [Analytics 教學課程](overview.md)
 + Analytics 介紹{#intro-to-analytics}
-   + Adobe Analytics 對我有何用處？ {#what-can-aa-do-for-me}
    + [什麼是分析](intro-to-analytics/what-can-aa-do-for-me/what-is-analytics.md)
-   + [Adobe Analysis Workspace 如何改變您的業務](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
-   + [不只是提供資料。更可提供客戶情報](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
-   + [Adobe Sensei 和 Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
-   + [客戶使用案例 - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
-   + [客戶使用案例 - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
-   + [客戶使用案例 - The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
-   + [2019 年峰會超級展示 - 旅遊業及旅館業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
-   + [2019 年峰會超級展示 - 零售業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
-   + [2019 年峰會超級展示 - 高科技業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
+   + Adobe Analytics 對我有何用處？ {#what-can-aa-do-for-me}
+      + [Adobe Analysis Workspace 如何改變您的業務](intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.md)
+      + [不只是提供資料。更可提供客戶情報](intro-to-analytics/what-can-aa-do-for-me/adobe-analytics-customer-intelligence.md)
+      + [Adobe Sensei 和 Adobe Analytics](intro-to-analytics/what-can-aa-do-for-me/adobe-sensei-and-adobe-analytics.md)
+      + [客戶使用案例 - ServiceNow](intro-to-analytics/what-can-aa-do-for-me/servicenow-gets-the-right-insights-to-connect-with-prospects.md)
+      + [客戶使用案例 - Accent Group](intro-to-analytics/what-can-aa-do-for-me/accent-group-invests-in-customer-experience-to-drive-sales.md)
+      + [客戶使用案例 - The Home Depot](intro-to-analytics/what-can-aa-do-for-me/the-home-depot-innovates-with-customer-experience-management.md)
+      + [2019 年峰會超級展示 - 旅遊業及旅館業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-travel.md)
+      + [2019 年峰會超級展示 - 零售業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.md)
+      + [2019 年峰會超級展示 - 高科技業](intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-high-tech.md)
    + 策略與思想領導力{#strategy}
       + [第 1 部分 - 提升效率的簡單技巧](strategy/analytics-simple-hacks-for-efficiency-part-one.md)
       + [第 2 部分 - 提升效率的簡單技巧](strategy/analytics-simple-hacks-for-efficiency-part-two.md)
