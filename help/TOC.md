@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看Adobe Analytics的教學課程影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 6915876d8d4fa4497a968cf913bf6e9fac3b6c6e
+source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
 workflow-type: tm+mt
-source-wordcount: '2437'
-ht-degree: 99%
+source-wordcount: '2388'
+ht-degree: 97%
 
 ---
 
@@ -44,15 +44,11 @@ ht-degree: 99%
       + [轉換變數 (eVars) 介紹](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=zh-Hant)
       + [轉換事件介紹](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=zh-Hant)
    + 自訂 UI {#customizing-the-ui}
-      + [Adobe Analytics 中的使用者偏好設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [自訂Analysis Workspace使用者偏好設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [新增維度和量度說明](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [在 Analysis Workspace 中使用自訂調色盤](intro-to-analytics/customizing-the-ui/using-custom-color-palettes-in-analysis-workspace.md)
-      + [定義自訂調色盤的色彩滴管擴充功能](intro-to-analytics/customizing-the-ui/color-eyedropper-extension-for-defining-custom-palettes.md)
-      + [在 Reports and Analytics 中自訂選單](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [在 Adobe Analytics 加強安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [將 Analysis Workspace 設為您的登陸頁面](intro-to-analytics/customizing-the-ui/set-analysis-workspace-as-your-landing-page.md)
-      + [將 Analysis Workspace 專案設為您的登陸頁面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-      + [Analysis Workspace 深色模式擴充功能](intro-to-analytics/customizing-the-ui/dark-mode-extension-for-analysis-workspace.md)
+      + [自訂Reports and Analytics中的功能表](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [加強Adobe Analytics安全](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [將Analysis Workspace專案設為登錄頁面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + 取得協助 {#getting-help}
       + [Analysis Workspace 產品內提示](intro-to-analytics/getting-help/in-product-tips.md)
       + [產品內支援服務單提交](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
@@ -63,15 +59,11 @@ ht-degree: 99%
       + [Analysis Workspace 概觀](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [瀏覽新登陸頁面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace 登陸頁面更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
-      + [建立全新 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/creating-new-analysis-workspace-projects.md)
       + [從頭開始建立 Workspace 專案](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中建立及管理自訂範本](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [Analysis Workspace 中的標準範本](analysis-workspace/analysis-workspace-basics/standard-templates-in-analysis-workspace.md)
-      + [使用自訂範本來帶領 Analysis Workspace 新手使用者](analysis-workspace/analysis-workspace-basics/using-custom-templates-to-enable-novice-users.md)
       + [了解資料如何進入您的 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
       + [Adobe Analytics 的基礎量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
       + [Analysis Workspace 的元件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [使用元件管理員](analysis-workspace/analysis-workspace-basics/using-component-managers.md)
       + [在 Analysis Workspace 中選取報表套裝](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [檢視 Analysis Workspace 效能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 秘訣與技巧 {#tips-and-tricks}

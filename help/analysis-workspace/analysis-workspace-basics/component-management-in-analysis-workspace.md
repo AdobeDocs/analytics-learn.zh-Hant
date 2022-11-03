@@ -10,15 +10,15 @@ kt: 1988
 role: User
 level: Beginner
 exl-id: 6778e714-3fe9-479f-aacd-d1e702e2c584
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '66'
-ht-degree: 100%
+source-git-commit: de2adda096458119c3de42e85de4d49898576113
+workflow-type: tm+mt
+source-wordcount: '53'
+ht-degree: 71%
 
 ---
 
 # Analysis Workspace 的元件管理 {#component-management-in-analysis-workspace}
 
-您可以直接在 Analysis Workspace 中管理[!UICONTROL 維度]、[!UICONTROL 區段]、[!UICONTROL 量度]和[!UICONTROL 日期範圍]。當您找到要共用的區段時，無需離開專案。
+了解如何在Analysis Workspace中共用和管理元件（例如維度、量度、區段等）。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24095/?quality=12)

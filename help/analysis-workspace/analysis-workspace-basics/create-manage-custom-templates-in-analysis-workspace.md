@@ -8,22 +8,22 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
-source-wordcount: '165'
-ht-degree: 100%
+source-git-commit: de2adda096458119c3de42e85de4d49898576113
+workflow-type: tm+mt
+source-wordcount: '170'
+ht-degree: 44%
 
 ---
 
 # 在 Analysis Workspace 中建立及管理自訂範本 {#create-and-manage-custom-templates-in-analysis-workspace}
 
-在這段影片中，您將了解如何在 Analysis Workspace 中建立自訂範本，以便您和您的團隊可以從一組特定報表展開作業。
+了解如何使用現成可用的範本，以及在Analysis Workspace中建立自訂範本，讓您和您的團隊能從一組預先定義的報表開始。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
 
-雖然 [!UICONTROL Adobe 標準範本] 已很好用，但有時還是希望擁有自己專屬的範本。現在，您可以將任何專案建立為專屬的自訂範本。這可輕鬆幫助新使用者快速入門、尋找您喜歡的控制面板/專案，或在團隊之間共用您的控制面板。
+Analysis Workspace提供數個預先定義的範本，可協助您快速啟動分析。 話雖如此，有時候您也只想要自己的範本。 了解如何在您自己的自訂範本中建立任何專案。 您可以協助新使用者快速上手、尋找您最喜愛的控制面板/專案，或跨團隊共用控制面板。
 
-如需有關標準和自訂範本的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=zh-Hant)。
+如需標準和自訂範本的詳細資訊，請造訪 [檔案](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html).
 
 >[!INFO]
 >

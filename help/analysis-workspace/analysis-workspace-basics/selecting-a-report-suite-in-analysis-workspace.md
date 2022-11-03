@@ -1,27 +1,21 @@
 ---
-title: 在 Analysis Workspace 中選取報表套裝
-seo-title: Selecting a Report Suite in Analysis Workspace - Adobe Analytics
-description: 本影片將帶您瀏覽報表套裝選擇器。
-seo-description: This video takes you through the report suite selector. - Adobe Analytics
+title: 在Analysis Workspace中選取報表套裝
+description: 取得在Analysis Workspace中選取報表套裝的一些秘訣。
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-author: Doug Moore
-team: Technical Marketing
 kt: 2026
+thumbnail: 24095.jpg
 role: User
 level: Beginner
 exl-id: a46c4392-739f-4366-b5ea-504519ce1a0f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '32'
-ht-degree: 100%
+source-git-commit: de2adda096458119c3de42e85de4d49898576113
+workflow-type: tm+mt
+source-wordcount: '38'
+ht-degree: 0%
 
 ---
 
-# 在 Adobe Analytics 中選取[!UICONTROL 報表套裝] {#selecting-a-report-suite-in-adobe-analytics}
+# 在Analysis Workspace中選取報表套裝 {#selecting-a-report-suite-in-adobe-analytics}
 
-本影片將帶您瀏覽[!UICONTROL 報表套裝]選擇器。
+取得在Analysis Workspace中選取報表套裝的一些秘訣。
 
->[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)
