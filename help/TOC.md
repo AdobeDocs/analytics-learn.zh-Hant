@@ -1,12 +1,12 @@
 ---
 user-guide-title: Adobe Analytics 教學課程
-user-guide-description: Adobe Analytics 的影片和教學課程系列。
+user-guide-description: 觀看Adobe Analytics的教學課程影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 7453357526b3b144cdc93215be51cc758678c4f3
-workflow-type: ht
-source-wordcount: '2429'
-ht-degree: 100%
+source-git-commit: 6915876d8d4fa4497a968cf913bf6e9fac3b6c6e
+workflow-type: tm+mt
+source-wordcount: '2437'
+ht-degree: 99%
 
 ---
 
