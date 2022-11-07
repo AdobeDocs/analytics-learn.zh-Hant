@@ -4,9 +4,9 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 source-git-commit: d817981dd65fc53bbf04b96087d264bf2116eaca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2388'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -40,15 +40,15 @@ ht-degree: 98%
       + [Analytics UI 介紹](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
       + [了解和建立報表套裝](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [了解基本訪客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=zh-Hant)
-      + [流量變數 (Props) ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=zh-Hant)
-      + [轉換變數 (eVars) 介紹](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=zh-Hant)
+      + [流量變數 (Prop) ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=zh-Hant)
+      + [轉換變數 (eVar) 介紹](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=zh-Hant)
       + [轉換事件介紹](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=zh-Hant)
    + 自訂 UI {#customizing-the-ui}
-      + [自訂Analysis Workspace使用者偏好設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
+      + [自訂 Analysis Workspace 使用者偏好設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [新增維度和量度說明](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [自訂Reports and Analytics中的功能表](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
-      + [加強Adobe Analytics安全](intro-to-analytics/customizing-the-ui/enhancing-security.md)
-      + [將Analysis Workspace專案設為登錄頁面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
+      + [在 Reports and Analytics 中自訂選單](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
+      + [在 Adobe Analytics 中加強安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
+      + [將 Analysis Workspace 專案設為您的登陸頁面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + 取得協助 {#getting-help}
       + [Analysis Workspace 產品內提示](intro-to-analytics/getting-help/in-product-tips.md)
       + [產品內支援服務單提交](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
@@ -86,7 +86,7 @@ ht-degree: 98%
       + [使用左側欄中的篩選器 (標記)](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + 使用面板 {#using-panels}
       + [在 Analysis Workspace 中使用表格、視覺效果和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
-      + [Analysis Workspace 中的 Quick Insights 面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
+      + [Analysis Workspace 中的「快速深入分析」面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [使用 Attribution IQ 面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=zh-Hant)
       + [Analysis Workspace 中的「媒體同時檢閱者」面板](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [媒體播放時間面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=zh-Hant)
@@ -254,7 +254,7 @@ ht-degree: 98%
       + [在 Admin Console 中設定變數](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [設定轉換分類](administration/manage-report-suites/configure-conversion-classifications.md)
       + [設定清單變數](administration/manage-report-suites/configuring-list-variables.md)
-      + [設定「尋找方法」](administration/manage-report-suites/configure-finding-methods.md)
+      + [設定尋找方法](administration/manage-report-suites/configure-finding-methods.md)
       + [設定內部 URL 篩選器](administration/manage-report-suites/set-internal-url-filters.md)
       + [正進行郵遞區號和郵政編號的設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [啟用時間戳記選用設定](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
