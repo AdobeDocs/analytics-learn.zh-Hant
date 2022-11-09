@@ -2,13 +2,13 @@
 title: 在 Analysis Workspace 中儲存、共用及協作專案
 description: 在這段影片中，了解如何儲存和匯出自己的專案、傳送專案至其他收件者，以及邀請他人在您的專案上協作。
 feature: Curate and Share
-thumbnail: 33634.jpg
-kt: 4108
 role: User
 level: Beginner
+thumbnail: 33634.jpg
+kt: 4108
 exl-id: 6086f4b7-e8a7-4b04-90c7-1721ee31646e
-source-git-commit: a890d4d9883ee17dfe4a89ab64d9dad8340eacb0
-workflow-type: ht
+source-git-commit: 953ba61db6f3fb50ab4caa57c402ec6f75b7831f
+workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 100%
 
