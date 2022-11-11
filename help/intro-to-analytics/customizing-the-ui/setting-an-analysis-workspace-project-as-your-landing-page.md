@@ -1,24 +1,23 @@
 ---
-title: 將 Analysis Workspace 專案設為您的登陸頁面
-description: 本影片會帶您將專案設為登陸頁面。
+title: 將Analysis Workspace專案設為登陸頁面
+description: 了解如何以有效的方式輕鬆將新手使用者納入工作區分析專案資料
 feature: Workspace Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2364
 role: User
 level: Beginner
+activity: use
+doc-type: feature video
+thumbnail: 25459.jpg
+kt: 2364
 exl-id: 1222621b-52db-41b6-8a74-8ab8a8ddd51a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '46'
-ht-degree: 100%
+source-git-commit: 9253a35bcb67c9e69b042e47475d915d7e45ef3e
+workflow-type: tm+mt
+source-wordcount: '48'
+ht-degree: 0%
 
 ---
 
-# 將 Analysis Workspace 專案設為您的登陸頁面 {#setting-an-analysis-workspace-project-as-your-landing-page}
+# 將Analysis Workspace專案設為登陸頁面 {#set-an-analysis-workspace-project-as-your-landing-page}
 
-本影片會帶您將專案設為登陸頁面。
+了解如何以有效的方式輕鬆將新手使用者納入工作區分析專案資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/25460/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25459/?quality=12)
