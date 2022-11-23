@@ -1,24 +1,23 @@
 ---
-title: 在 Adobe Analytics 加強安全性
-description: Adobe Analytics 遵循最新的安全性標準。如果您的組織想要使用如增強式密碼和 IP 登入限制的功能擴大安全性，本影片將說明如何做到。
+title: 增強安全性
+description: 了解「公司設定」中的安全管理員設定，以控制對Adobe Analytics的存取。
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-kt: 2366
 role: User
 level: Beginner
+doc-type: feature video
+thumbnail: 25458.jpg
+team: Technical Marketing
+kt: 2366
 exl-id: b50f383f-2eb2-4671-a841-0b5b98a7e3db
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: 846450b63ef18cb275a8a08ec3324223044fdaac
+workflow-type: tm+mt
+source-wordcount: '47'
+ht-degree: 0%
 
 ---
 
-# 在 Adobe Analytics 加強安全性 {#enhancing-security-in-adobe-analytics}
+# 增強安全性 {#enhance-security}
 
-Adobe Analytics 遵循最新的安全性標準。如果您的組織想要使用如增強式密碼和 IP 登入限制的功能擴大安全性，本影片將說明如何做到。
+了解「公司設定」中的安全管理員設定，以控制對Adobe Analytics的存取。 這包括增強式密碼、密碼過期和恢復功能，以及電子郵件網域限制。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12)
