@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
+source-git-commit: efa60f017c4dcea7949e00a5a11ce2630ca66dad
 workflow-type: tm+mt
-source-wordcount: '2382'
-ht-degree: 99%
+source-wordcount: '2383'
+ht-degree: 98%
 
 ---
 
@@ -55,15 +55,15 @@ ht-degree: 99%
       + [在 Adobe Analytics 中取得協助](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace 基本需知 {#analysis-workspace-basics}
-      + [Analysis Workspace 簡介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
-      + [Analysis Workspace 概觀](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [瀏覽新登陸頁面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [Analysis Workspace簡介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Analysis Workspace 總覽](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
+      + [導覽新登錄頁面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace 登陸頁面更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [從頭開始建立 Workspace 專案](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中建立及管理自訂範本](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [了解資料如何進入您的 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
-      + [Adobe Analytics 的基礎量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
-      + [Analysis Workspace 的元件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
+      + [了解資料如何進入您的Analysis Workspace專案](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Adobe Analytics的基礎量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
+      + [Analysis Workspace中的元件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [在 Analysis Workspace 中選取報表套裝](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [檢視 Analysis Workspace 效能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 秘訣與技巧 {#tips-and-tricks}
