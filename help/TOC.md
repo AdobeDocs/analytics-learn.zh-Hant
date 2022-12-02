@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: f0569db5990d9766f57fcedb6a84ce3f7c03487d
+source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
 workflow-type: tm+mt
-source-wordcount: '2394'
-ht-degree: 97%
+source-wordcount: '2377'
+ht-degree: 96%
 
 ---
 
@@ -72,18 +72,18 @@ ht-degree: 97%
       + [繼續 Adobe Analytics 學習歷程的客戶秘訣](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + 瀏覽 Workspace 專案{#navigating-workspace-projects}
       + [使用範本建立專案](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
-      + [Analysis Workspace 中的訓練教學課程範本](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [Analysis Workspace 中的複製並插入](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
+      + [培訓教學課程範本](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [複製並插入面板和視覺效果](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [建立目錄](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [按一下滑鼠右鍵了解 Workspace 效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [以滑鼠右鍵提高工作區效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [鍵盤快速鍵](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
-      + [Analysis Workspace 中的註解](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
-      + [選單列](analysis-workspace/navigating-workspace-projects/menu-bar.md)
+      + [附註](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
+      + [功能表列](analysis-workspace/navigating-workspace-projects/menu-bar.md)
       + [專案管理](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [在 Analysis Workspace 中還原動作](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
-      + [在 Analysis Workspace 中檢視密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
+      + [撤消操作](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
+      + [檢視密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [零狀態改進](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
-      + [使用左側欄中的篩選器 (標記)](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [使用篩選](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + 使用面板 {#using-panels}
       + [在 Analysis Workspace 中使用表格、視覺效果和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace 中的「快速深入分析」面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
