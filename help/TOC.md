@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 9dfd262512ea4c36e5fad6c335b176b269c20652
+source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
 workflow-type: tm+mt
-source-wordcount: '2377'
-ht-degree: 96%
+source-wordcount: '2372'
+ht-degree: 95%
 
 ---
 
@@ -151,13 +151,12 @@ ht-degree: 96%
       + [流失和流量搭配使用](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ - 跨裝置分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + 套用區段 {#applying-segments}
-      + [套用區段至您的 Analysis Workspace 專案](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
-      + [在 Analysis Workspace 中使用區段](analysis-workspace/applying-segments/using-segments-in-analysis-workspace.md)
-      + [臨機 (臨時) 區段](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [對區段使用不同的 Attribution IQ 模型](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=zh-Hant)
+      + [將區段套用至您的Analysis Workspace專案](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
+      + [套用臨機區段](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+      + [使用不同的Attribution IQ模型搭配區段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=zh-Hant)
       + [為面板選擇區段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
-      + [在 Analysis Workspace 中將區段用作維度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
-      + [在 Analysis Workspace 中使用區段來限制資料](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [在Analysis Workspace中使用區段作為Dimension](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [在Analysis Workspace中使用區段來限制資料](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace 中的快速區段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + 量度 {#metrics}
       + [了解基本訪客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
