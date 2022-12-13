@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: c0c05641658d5ad5b1901ff1b95f44d17353ec25
+source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
 workflow-type: tm+mt
-source-wordcount: '2372'
+source-wordcount: '2363'
 ht-degree: 95%
 
 ---
@@ -78,11 +78,7 @@ ht-degree: 95%
       + [以滑鼠右鍵提高工作區效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [鍵盤快速鍵](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [附註](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
-      + [功能表列](analysis-workspace/navigating-workspace-projects/menu-bar.md)
-      + [專案管理](analysis-workspace/navigating-workspace-projects/project-management-in-analysis-workspace.md)
-      + [撤消操作](analysis-workspace/navigating-workspace-projects/undoing-actions-in-analysis-workspace.md)
       + [檢視密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [零狀態改進](analysis-workspace/navigating-workspace-projects/zero-state-improvements.md)
       + [使用篩選](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + 使用面板 {#using-panels}
       + [在 Analysis Workspace 中使用表格、視覺效果和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
