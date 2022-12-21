@@ -1,6 +1,6 @@
 ---
-title: 使用篩選器（標籤）
-description: 了解如何在Analysis Workspace中使用篩選器（標籤）
+title: 使用篩選器 (標記)
+description: 了解如何使用 Analysis Workspace 中的篩選器 (標記)
 feature: Workspace Basics
 role: User
 level: Beginner
@@ -8,15 +8,15 @@ kt: 4845
 thumbnail: 32959.jpg
 exl-id: ae892414-fcd0-4900-8302-542d4f9bfca8
 source-git-commit: 618deaa6e64f66b48d8acebe1610a19603504923
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '59'
-ht-degree: 38%
+ht-degree: 100%
 
 ---
 
-# 使用篩選器（標籤）
+# 使用篩選器 (標記)
 
-了解如何在Analysis Workspace中使用篩選器（稱為標籤）。 這些是可節省時間的技巧，可協助您有效率地建立專案。
+了解如何使用 Analysis Workspace 中的篩選器 (稱為標記)。這些是有助於您有效率地建置您專案的省時技巧。
 
 >[!VIDEO](https://video.tv.adobe.com/v/32959/?quality=12&learn=on)
 
