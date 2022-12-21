@@ -4,9 +4,9 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2363'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 95%
       + [如何搜集 Analytics 資料](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [登入 Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
       + [Analytics UI 介紹](intro-to-analytics/analytics-basics/intro-to-the-analytics-ui.md)
-      + [了解和建立報表套裝](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [了解和建立報告套裝](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
       + [了解基本訪客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=zh-Hant)
       + [流量變數 (Prop) ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=zh-Hant)
       + [轉換變數 (eVar) 介紹](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=zh-Hant)
@@ -55,16 +55,16 @@ ht-degree: 95%
       + [在 Adobe Analytics 中取得協助](intro-to-analytics/getting-help/getting-help.md)
 + Analysis Workspace {#analysis-workspace}
    + Analysis Workspace 基本需知 {#analysis-workspace-basics}
-      + [Analysis Workspace簡介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
+      + [Analysis Workspace 快速簡介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 總覽](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
-      + [導覽新登錄頁面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
+      + [瀏覽新登陸頁面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
       + [Analysis Workspace 登陸頁面更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [從頭開始建立 Workspace 專案](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中建立及管理自訂範本](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
-      + [了解資料如何進入您的Analysis Workspace專案](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
-      + [Adobe Analytics的基礎量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
-      + [Analysis Workspace中的元件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
-      + [在 Analysis Workspace 中選取報表套裝](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
+      + [了解資料如何進入您的 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
+      + [Adobe Analytics 的基礎量度](analysis-workspace/analysis-workspace-basics/foundational-metrics-in-adobe-analytics.md)
+      + [Analysis Workspace 的元件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中選取報告套裝](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [檢視 Analysis Workspace 效能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 秘訣與技巧 {#tips-and-tricks}
       + [Analysis Workspace 7 個秘訣與技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
@@ -73,13 +73,13 @@ ht-degree: 95%
    + 瀏覽 Workspace 專案{#navigating-workspace-projects}
       + [使用範本建立專案](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [培訓教學課程範本](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
-      + [複製並插入面板和視覺效果](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
+      + [複製和插入面板和視覺效果](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [建立目錄](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
-      + [以滑鼠右鍵提高工作區效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
+      + [按一下滑鼠右鍵了解 Workspace 效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
       + [鍵盤快速鍵](analysis-workspace/navigating-workspace-projects/keyboard-shortcuts.md)
       + [附註](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [檢視密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
-      + [使用篩選](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [使用篩選器](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
    + 使用面板 {#using-panels}
       + [在 Analysis Workspace 中使用表格、視覺效果和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace 中的「快速深入分析」面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
@@ -88,7 +88,7 @@ ht-degree: 95%
       + [媒體播放時間面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=zh-Hant)
       + [使用下拉式篩選器](analysis-workspace/using-panels/using-drop-down-filters.md)
       + [使用面板來整理 Analysis Workspace 專案](analysis-workspace/using-panels/using-panels-to-organize-your-analysis-workspace-projects.md)
-      + [為面板選擇區段](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
+      + [選擇面板的區段](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Analysis Workspace 提供多個報告套裝](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [下一頁/上一頁以及頁面摘要工作區面板與報表](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + 建立自由格式表格 {#building-freeform-tables}
@@ -147,12 +147,12 @@ ht-degree: 95%
       + [流失和流量搭配使用](analysis-workspace/analyzing-customer-journeys/understand-your-data-fallout-flow.md)
       + [Journey IQ - 跨裝置分析](analysis-workspace/analyzing-customer-journeys/understanding-and-using-journey-iq-cross-device-analytics.md)
    + 套用區段 {#applying-segments}
-      + [將區段套用至您的Analysis Workspace專案](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
-      + [套用臨機區段](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
-      + [使用不同的Attribution IQ模型搭配區段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=zh-Hant)
-      + [為面板選擇區段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
-      + [在Analysis Workspace中使用區段作為Dimension](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
-      + [在Analysis Workspace中使用區段來限制資料](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
+      + [套用區段至您的 Analysis Workspace 專案](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
+      + [套用臨時區段](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
+      + [對區段使用不同的 Attribution IQ 模型](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=zh-Hant)
+      + [選擇面板的區段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
+      + [在 Analysis Workspace 中將區段用作維度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中使用區段來限制資料](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace 中的快速區段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
    + 量度 {#metrics}
       + [了解基本訪客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
@@ -232,10 +232,10 @@ ht-degree: 95%
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
    + 使用者管理 {#user-management}
       + [新增管理員至 Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
-      + [在 Admin Console 限制報表套裝的存取權限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [在 Admin Console 限制報告套裝的存取權限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [將使用者資產轉移給其他使用者](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [檢查綁定的 IMS ID 以防止登入問題](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
-   + 管理報表套裝 {#manage-report-suites}
+   + 管理報告套裝 {#manage-report-suites}
       + [如何設定一般帳戶設定](administration/manage-report-suites/configuring-general-account-settings.md)
       + [自訂行事曆設定](administration/manage-report-suites/customize-calendar-settings.md)
       + [設定付費搜尋偵測](administration/manage-report-suites/configure-paid-search-detection.md)
@@ -265,9 +265,9 @@ ht-degree: 95%
 + 實作{#implementation}
    + 實作基本需知 {#implementation-basics}
       + [首次實作](implementation/implementation-basics/first-time-implementation.md)
-      + [了解和建立報表套裝](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=zh-Hant)
+      + [了解和建立報告套裝](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=zh-Hant)
       + [使用處理規則將 contextData 變數對應至 Prop 和 eVar](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [如何識別您的 Analytics Tracking Server 和報表套裝](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [如何識別您的 Analytics Tracking Server 和報告套裝](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [建立業務需求文件](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [建立和管理 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
       + [在網站上使用資料圖層](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
@@ -328,11 +328,11 @@ ht-degree: 95%
    + 分類 {#classifications}
       + [分類概觀](components/classifications/overview-of-classifications.md)
       + [使用規則分類建立器](components/classifications/using-the-classification-rule-builder.md)
-   + 虛擬報表套裝 {#virtual-report-suites}
-      + [虛擬報表套裝](components/virtual-report-suites/virtual-report-suites.md)
-      + [虛擬報表套裝中的元件組織](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
-      + [虛擬報表套裝中的內容感知工作階段](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [在虛擬報表套裝中展開任何事件的新造訪](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+   + 虛擬報告套裝 {#virtual-report-suites}
+      + [虛擬報告套裝](components/virtual-report-suites/virtual-report-suites.md)
+      + [虛擬報告套裝中的元件組織](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
+      + [虛擬報告套裝中的內容感知工作階段](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+      + [在虛擬報告套裝中展開任何事件的新造訪](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Activity Map 概觀](components/activity-map/activity-map-overview.md)
       + [啟動、偵錯並自訂 Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
