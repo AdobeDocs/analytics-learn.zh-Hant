@@ -1,6 +1,6 @@
 ---
-title: 在 Analysis Workspace 中選取報表套裝
-description: 獲取一些在 Analysis Workspace 中選取報表套裝的技巧。
+title: 在 Analysis Workspace 中選取報告套裝
+description: 獲取一些在 Analysis Workspace 中選取報告套裝的技巧。
 feature: Workspace Basics
 kt: 2026
 thumbnail: 24095.jpg
@@ -14,8 +14,8 @@ ht-degree: 100%
 
 ---
 
-# 在 Analysis Workspace 中選取報表套裝 {#selecting-a-report-suite-in-adobe-analytics}
+# 在 Analysis Workspace 中選取報告套裝 {#selecting-a-report-suite-in-adobe-analytics}
 
-獲取一些在 Analysis Workspace 中選取報表套裝的技巧。
+獲取一些在 Analysis Workspace 中選取報告套裝的技巧。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)
