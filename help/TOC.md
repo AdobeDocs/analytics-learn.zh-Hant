@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 143e78ce630df75af574e5547c7941c31a2e75b5
-workflow-type: ht
+source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
+workflow-type: tm+mt
 source-wordcount: '2363'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -58,7 +58,6 @@ ht-degree: 100%
       + [Analysis Workspace 快速簡介](analysis-workspace/analysis-workspace-basics/analysis-workspace-introduction.md)
       + [Analysis Workspace 總覽](analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.md)
       + [瀏覽新登陸頁面](analysis-workspace/analysis-workspace-basics/navigating-the-new-landing-page.md)
-      + [Analysis Workspace 登陸頁面更新](analysis-workspace/analysis-workspace-basics/analysis-workspace-landing-page-updates.md)
       + [從頭開始建立 Workspace 專案](analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.md)
       + [在 Analysis Workspace 中建立及管理自訂範本](analysis-workspace/analysis-workspace-basics/create-manage-custom-templates-in-analysis-workspace.md)
       + [了解資料如何進入您的 Analysis Workspace 專案](analysis-workspace/analysis-workspace-basics/understanding-how-data-gets-into-your-analysis-workspace-project.md)
@@ -73,6 +72,7 @@ ht-degree: 100%
    + 瀏覽 Workspace 專案{#navigating-workspace-projects}
       + [使用範本建立專案](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [培訓教學課程範本](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
+      + [在Analysis Workspace中使用資料夾](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [複製和插入面板和視覺效果](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
       + [建立目錄](analysis-workspace/navigating-workspace-projects/create-a-toc-in-analysis-workspace.md)
       + [按一下滑鼠右鍵了解 Workspace 效率](analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.md)
