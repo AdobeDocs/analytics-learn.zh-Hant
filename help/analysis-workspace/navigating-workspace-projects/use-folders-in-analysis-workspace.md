@@ -1,6 +1,6 @@
 ---
-title: 在Analysis Workspace中使用資料夾
-description: 了解如何在Analysis Workspace的資料夾和子資料夾中組織專案。
+title: 在 Analysis Workspace 中使用資料夾
+description: 了解如何在 Analysis Workspace 的資料夾和子資料夾中整理您的專案。
 feature: Projects
 role: User
 level: Beginner
@@ -9,16 +9,16 @@ last-substantial-update: 2023-01-12T00:00:00Z
 kt: 11723
 thumbnail: 3413167.jpg
 source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '52'
-ht-degree: 13%
+ht-degree: 100%
 
 ---
 
 
-# 在Analysis Workspace中使用資料夾
+# 在 Analysis Workspace 中使用資料夾
 
-了解如何在Analysis Workspace的資料夾和子資料夾中組織專案。
+了解如何在 Analysis Workspace 的資料夾和子資料夾中整理您的專案。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413167/?quality=12&learn=on)
 
