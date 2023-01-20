@@ -1,7 +1,7 @@
 ---
 title: 在 Adobe Analytics 中設定 Advertising Analytics
-description: '本影片將逐步解說如何設定您的報告套裝的高階檢閱，以便使用 Advertising Analytics、如何設定付費搜尋帳戶和 Advertising Analytics 的報告詳細資訊。 '
-feature: Advertising Cloud Integration
+description: 本影片將逐步解說如何設定您的報告套裝的高階檢閱，以便使用 Advertising Analytics、如何設定付費搜尋帳戶和 Advertising Analytics 的報告詳細資訊。
+feature: Advertising Integration
 topics: null
 activity: setup
 doc-type: feature video
@@ -11,7 +11,7 @@ topic: Integrations
 role: Admin
 level: Intermediate
 exl-id: 884e8232-edca-4224-a0b9-467a0136e12f
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
+source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
 workflow-type: ht
 source-wordcount: '88'
 ht-degree: 100%
