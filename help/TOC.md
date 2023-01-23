@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: e2933c4aa1a56609719f38f131888c95dfe2f741
-workflow-type: ht
+source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
+workflow-type: tm+mt
 source-wordcount: '2363'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -93,16 +93,15 @@ ht-degree: 100%
       + [下一頁/上一頁以及頁面摘要工作區面板與報表](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + 建立自由格式表格 {#building-freeform-tables}
       + [了解您的資料--自由格式表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
-      + [在 Analysis Workspace 中使用左側邊欄建立自由格式表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [在 Analysis Workspace 中自動建立自由格式表格](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中使用左側邊欄建立任意形狀表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [輕鬆拖放至空白專案](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [在自由格式表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [自由格式表格中的列和欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [使用自由格式表格建立器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+      + [按一下滑鼠右鍵了解 Workspace 效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [在 Analysis Workspace 中重新排序靜態資料列](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [在自由格式表格中使用 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=zh-Hant)
-      + [在 Analysis Workspace 中使用右鍵選單](analysis-workspace/building-freeform-tables/using-the-right-click-menu.md)
-      + [Analysis Workspace 中的繼續右鍵選單](analysis-workspace/building-freeform-tables/continued-right-click-menu-in-analysis-workspace.md)
       + [Analysis Workspace 中的交叉銷售分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [自由格式表格篩選器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [Analysis Workspace 中的時間分隔維度](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
