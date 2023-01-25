@@ -13,9 +13,9 @@ role: User
 level: Intermediate
 exl-id: c021f6b9-f242-4576-8f3a-cb2ef31f32fc
 source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '49'
+ht-degree: 100%
 
 ---
 
