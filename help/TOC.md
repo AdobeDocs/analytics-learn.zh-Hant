@@ -3,7 +3,7 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
 workflow-type: tm+mt
 source-wordcount: '2347'
 ht-degree: 96%
@@ -98,6 +98,7 @@ ht-degree: 96%
       + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [在自由表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [自由表格中的列和欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [自由表格總計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [使用自由表格產生器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
       + [以滑鼠右鍵提高工作區效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [重新排序靜態資料列](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
@@ -105,7 +106,6 @@ ht-degree: 96%
       + [交叉銷售分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
       + [自由表格篩選器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [時間分隔維度](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-      + [自由表格總計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + 視覺效果 {#visualizations}
       + [Analysis Workspace 中的資料視覺效果](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [視覺效果類型](analysis-workspace/visualizations/visualization-types.md)
