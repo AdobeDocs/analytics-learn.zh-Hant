@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
 workflow-type: tm+mt
-source-wordcount: '2363'
-ht-degree: 99%
+source-wordcount: '2347'
+ht-degree: 96%
 
 ---
 
@@ -92,20 +92,20 @@ ht-degree: 99%
       + [Analysis Workspace 提供多個報告套裝](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [下一頁/上一頁以及頁面摘要工作區面板與報表](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + 建立自由格式表格 {#building-freeform-tables}
-      + [了解您的資料--自由格式表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
-      + [在 Analysis Workspace 中使用左側邊欄建立任意形狀表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [了解您的資料 — 自由表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
+      + [使用左側邊欄建立自由表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [輕鬆拖放至空白專案](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [在自由格式表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [自由格式表格中的列和欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-      + [使用自由格式表格建立器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [按一下滑鼠右鍵了解 Workspace 效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
-      + [在 Analysis Workspace 中重新排序靜態資料列](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [在自由格式表格中使用 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=zh-Hant)
-      + [Analysis Workspace 中的交叉銷售分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
-      + [自由格式表格篩選器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
-      + [Analysis Workspace 中的時間分隔維度](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
-      + [Analysis Workspace 中的自由格式表格總計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
+      + [在自由表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [自由表格中的列和欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [使用自由表格產生器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+      + [以滑鼠右鍵提高工作區效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
+      + [重新排序靜態資料列](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
+      + [在自由表格中使用Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=zh-Hant)
+      + [交叉銷售分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
+      + [自由表格篩選器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
+      + [時間分隔維度](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
+      + [自由表格總計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
    + 視覺效果 {#visualizations}
       + [Analysis Workspace 中的資料視覺效果](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [視覺效果類型](analysis-workspace/visualizations/visualization-types.md)

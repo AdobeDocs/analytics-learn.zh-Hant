@@ -1,5 +1,5 @@
 ---
-title: 在任意形狀表格中使用維度
+title: 在自由表格中使用Dimension
 description: 了解如何使用自行格式表格中的維度，包括新增為度、排序、篩選、依其他維度等細分。
 feature: Dimensions
 thumbnail: 40179.jpg
@@ -7,14 +7,14 @@ kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 561a36a8e3dc62b99c0efef2d62480b5a2e2f206
-workflow-type: ht
+source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
-# 在任意形狀表格中使用維度
+# 在自由表格中使用Dimension
 
 了解如何使用自行格式表格中的維度，包括新增為度、排序、篩選、依其他維度等細分。
 
