@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
 workflow-type: tm+mt
 source-wordcount: '2347'
-ht-degree: 96%
+ht-degree: 97%
 
 ---
 
@@ -94,7 +94,7 @@ ht-degree: 96%
    + 建立自由格式表格 {#building-freeform-tables}
       + [了解您的資料 — 自由表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [使用左側邊欄建立自由表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
-      + [輕鬆拖放至空白專案](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
+      + [輕鬆拖放到空白專案](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
       + [在自由表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
       + [自由表格中的列和欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
