@@ -1,5 +1,5 @@
 ---
-title: 輕鬆拖放至空白專案
+title: 輕鬆拖放到空白專案
 description: 將元件直接拖放至空白專案、面板或任意形狀表格中，系統就會自動以建議的格式為您建立表格。
 feature: Freeform Tables
 thumbnail: 40855.jpg
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 576fc9f8-1418-4ffa-83fa-010cc11f2ace
 source-git-commit: d9e56f9659192cced888a18f76a9214824bfa370
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '85'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
-# 輕鬆拖放至空白專案
+# 輕鬆拖放到空白專案
 
 將元件直接拖放至空白專案、面板或任意形狀表格中，系統就會自動以建議的格式為您建立表格。
 
