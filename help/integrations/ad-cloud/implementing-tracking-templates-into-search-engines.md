@@ -1,29 +1,22 @@
 ---
-title: 從 Advertising Analytics 實施追蹤範本至搜尋引擎
-description: 本影片將協助您逐步從 Advertising Analytics 實施追蹤範本至支援的搜尋引擎。實施追蹤範本是收集並傳遞您的資料到 Adobe Analytics 的關鍵步驟。
+title: 將追蹤範本從Advertising Analytics實作至搜尋引擎
+description: 了解從Advertising Analytics將追蹤範本實作到支援搜尋引擎的步驟。
 feature: Advertising Integration
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
-kt: 1651
 topic: Integrations
 role: Admin
 level: Intermediate
+thumbnail: 23120.jpg
+kt: 1651
 exl-id: a6b3371f-eaf0-483b-8580-f3bb8d287573
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
+source-git-commit: ecfce7b894986903f28ecaaa3252c903420f5aa8
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '59'
 ht-degree: 0%
 
 ---
 
-# 從 [!DNL Advertising Analytics] 實施追蹤範本至搜尋引擎 {#implementing-tracking-templates-from-advertising-analytics-into-search-engines}
+# 從實作追蹤範本 [!DNL Advertising Analytics] 進入搜尋引擎 {#implement-tracking-templates-from-advertising-analytics-into-search-engines}
 
-本影片將協助您逐步從 [!DNL Advertising Analytics] 實施追蹤範本至支援的搜尋引擎。實施追蹤範本是收集並傳遞您的資料到 Adobe Analytics 的關鍵步驟。
+透過 [!DNL Advertising Analytics] 輸入支援的搜尋引擎。 這是收集資料並傳遞至Adobe Analytics所需的重要步驟。
 
->[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12)
-
-## 其他資源 {#additional-resources}
-
-* [在 Adobe Analytics 中設定  [!DNL Advertising Analytics] ](https://helpx.adobe.com/tw/analytics/kt/using/advertising-analytics-feature-video-configure.html)
+>[!VIDEO](https://video.tv.adobe.com/v/23120/?quality=12&learn=on)

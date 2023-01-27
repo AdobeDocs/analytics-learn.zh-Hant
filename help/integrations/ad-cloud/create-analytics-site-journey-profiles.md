@@ -1,26 +1,22 @@
 ---
-title: 建立 Analytics 網站歷程描述檔
-description: 如何使用 Adobe Analytics 為 Advertising Cloud 再行銷工作，建立強大的網站重新鎖定群組。
+title: 建立Analytics網站歷程設定檔
+description: 了解如何使用Adobe Analytics為Advertising Cloud再行銷建立強大的網站重新鎖定群組。
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35116.jpg
-kt: 5473
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35116.jpg
+kt: 5473
 exl-id: c0c7c77e-ba24-48b3-a793-a519fbd45e12
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
-workflow-type: ht
-source-wordcount: '39'
-ht-degree: 100%
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
+workflow-type: tm+mt
+source-wordcount: '41'
+ht-degree: 0%
 
 ---
 
-# 建立 Analytics 網站歷程描述檔
+# 建立Analytics網站歷程設定檔
 
-如何使用 Adobe Analytics 為 Advertising 再行銷工作，建立強大的網站重新鎖定群組。
+了解如何使用Adobe Analytics，為Advertising再行銷建立強大的網站重新目標定位池。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35116/?quality=12&learn=on)

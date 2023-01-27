@@ -1,26 +1,22 @@
 ---
-title: 建立 Analytics 區段以利執行啟動和報表彙整作業
-description: 使用 Advertising 維度建立區段，以簡化報表和分析作業。
+title: 建立Analytics區段以進行啟用和報告
+description: 使用Advertising Cloud維度建立報表和分析的區段。
 feature: Advertising Integration
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
-thumbnail: 35117.jpg
-kt: 5474
 topic: Integrations
 role: User
 level: Intermediate
+thumbnail: 35117.jpg
+kt: 5474
 exl-id: 0df46be9-bae9-4792-912a-7c95a7fce4ee
-source-git-commit: ff6d8f1d0605b88e1e8d441f28e815c499ddd0d9
-workflow-type: ht
+source-git-commit: eabf80121425753fb3f6ab00d188a29669f94908
+workflow-type: tm+mt
 source-wordcount: '36'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
-# 建立 Analytics 區段以利執行啟動和報表彙整作業
+# 建立Analytics區段以進行啟用和報告
 
-使用 Advertising 維度建立區段，以簡化報表和分析作業。
+使用Advertising Cloud維度建立報表和分析的區段。
 
 >[!VIDEO](https://video.tv.adobe.com/v/35117/?quality=12&learn=on)
