@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
 workflow-type: tm+mt
 source-wordcount: '2347'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -92,19 +92,19 @@ ht-degree: 97%
       + [Analysis Workspace 提供多個報告套裝](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [下一頁/上一頁以及頁面摘要工作區面板與報表](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
    + 建立自由格式表格 {#building-freeform-tables}
-      + [了解您的資料 — 自由表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
-      + [使用左側邊欄建立自由表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
+      + [了解您的資料 -- 自由格式表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
+      + [使用左側邊欄建置自由格式表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
       + [輕鬆拖放到空白專案](analysis-workspace/building-freeform-tables/auto-build-freeform-tables-in-analysis-workspace.md)
       + [在自由格式表格中使用維度](analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.md)
-      + [在自由表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
-      + [自由表格中的列和欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-      + [自由表格總計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
-      + [使用自由表格產生器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [以滑鼠右鍵提高工作區效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
+      + [在自由格式表格中使用量度](analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.md)
+      + [自由格式表格中的資料列和資料欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+      + [自由格式表格總計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
+      + [使用自由格式表格產生器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
+      + [按一下滑鼠右鍵了解工作區效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [重新排序靜態資料列](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
-      + [在自由表格中使用Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=zh-Hant)
+      + [在自由表格中使用 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=zh-Hant)
       + [交叉銷售分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
-      + [自由表格篩選器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
+      + [自由格式表格篩選器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [時間分隔維度](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + 視覺效果 {#visualizations}
       + [Analysis Workspace 中的資料視覺效果](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
