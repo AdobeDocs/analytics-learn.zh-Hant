@@ -1,6 +1,6 @@
 ---
-title: 在自由表格中使用Dimension
-description: 了解如何使用自行格式表格中的維度，包括新增為度、排序、篩選、依其他維度等細分。
+title: 在自由格式表格中使用維度
+description: 了解如何使用自行格式表格中的維度，包括新增維度、排序、篩選、依其他維度等細分。
 feature: Dimensions
 thumbnail: 40179.jpg
 kt: 6176
@@ -8,15 +8,15 @@ role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
 source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '112'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
-# 在自由表格中使用Dimension
+# 在自由格式表格中使用維度
 
-了解如何使用自行格式表格中的維度，包括新增為度、排序、篩選、依其他維度等細分。
+了解如何使用自行格式表格中的維度，包括新增維度、排序、篩選、依其他維度等細分。
 
 >[!VIDEO](https://video.tv.adobe.com/v/40179/?quality=12&learn=on)
 
@@ -35,4 +35,4 @@ ht-degree: 87%
 
 >[!INFO]
 >
-> 本影片是課程的一部分：[任意形狀表格、分析基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在 Experience League 上免費取得！
+> 本影片是課程的一部分：[自由格式表格、分析基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在 Experience League 上免費取得！
