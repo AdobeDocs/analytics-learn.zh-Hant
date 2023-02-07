@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 6581a3a6bdcc471f786adca7f4a5334fa90a2a57
+source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
 workflow-type: tm+mt
-source-wordcount: '2347'
-ht-degree: 100%
+source-wordcount: '2344'
+ht-degree: 96%
 
 ---
 
@@ -107,37 +107,36 @@ ht-degree: 100%
       + [自由格式表格篩選器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [時間分隔維度](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + 視覺效果 {#visualizations}
-      + [Analysis Workspace 中的資料視覺效果](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
+      + [Analysis Workspace中的資料視覺效果](analysis-workspace/visualizations/data-visualization-in-analysis-workspace.md)
       + [視覺效果類型](analysis-workspace/visualizations/visualization-types.md)
       + [視覺效果使用案例](analysis-workspace/visualizations/visualization-use-cases.md)
-      + [選取資料以產生視覺效果](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [選取要視覺化的資料](analysis-workspace/visualizations/selecting-data-to-visualize.md)
       + [將資料帶入視覺效果中](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [使用 Workspace 中的元件下拉選單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
-      + [區域圖和堆疊區域圖 視覺效果](analysis-workspace/visualizations/area-and-area-stacked.md)
-      + [橫條圖和堆疊橫條圖視覺效果](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
+      + [在工作區中使用元件下拉式清單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [區域圖和堆疊區域圖的視覺效果](analysis-workspace/visualizations/area-and-area-stacked.md)
+      + [長條圖和堆疊長條圖的視覺效果](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [環形圖視覺效果](analysis-workspace/visualizations/using-the-donut-visualization.md)
-      + [長條圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
-      + [線條圖視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
-      + [組合圖表](analysis-workspace/visualizations/combo-charts.md)
-      + [新增趨勢線到線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
+      + [色階分佈圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
+      + [折線圖視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
+      + [組合圖](analysis-workspace/visualizations/combo-charts.md)
+      + [新增趨勢線至線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
       + [地圖視覺效果](analysis-workspace/visualizations/map-visualization.md)
-      + [摘要數目和摘要變動視覺效果](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
+      + [摘要數字和摘要變更視覺效果](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [關鍵量度摘要視覺效果](analysis-workspace/visualizations/key-metric-summary.md)
       + [文字視覺效果](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
       + [散佈圖視覺效果](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [樹狀圖視覺效果](analysis-workspace/visualizations/treemap-visualization.md)
-      + [文氏圖表視覺效果](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [使用累積平均函數以套用度量平滑處理](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
-      + [彈性版面配置](analysis-workspace/visualizations/flexible-layouts.md)
+      + [文氏圖視覺效果](analysis-workspace/visualizations/venn-diagram-visualization.md)
+      + [使用累積平均函式來套用量度平滑](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [靈活的佈局](analysis-workspace/visualizations/flexible-layouts.md)
       + [變更視覺效果的比例/軸](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
-      + [維度-圖表即時連結](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [詳細程度切換](analysis-workspace/visualizations/granularity-toggle.md)
+      + [Dimension圖表即時連結](analysis-workspace/visualizations/dimension-graph-live-linking.md)
+      + [粒度切換](analysis-workspace/visualizations/granularity-toggle.md)
       + [Analysis Workspace 中的內部連結](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
-      + [正面-負面地圖主題](analysis-workspace/visualizations/positive-negative-map-theme.md)
-      + [重新排列視覺效果和調整大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
+      + [重新排列視覺效果並調整其大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [自訂視覺效果圖例](analysis-workspace/visualizations/customize-visualization-legends.md)
-      + [100% 堆疊視覺效果](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
+      + [100%堆疊的視覺效果](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
       + [表格和視覺效果資料來源設定](analysis-workspace/visualizations/table-and-visualization-data-source-settings.md)
       + [建立時間分隔的熱度圖](analysis-workspace/visualizations/build-a-time-parting-heatmap.md)
    + 分析客戶歷程{#analyzing-customer-journeys}
