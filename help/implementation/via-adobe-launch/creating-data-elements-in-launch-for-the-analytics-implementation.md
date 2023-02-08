@@ -10,8 +10,8 @@ kt: 3587
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 本影片說明如何根據在 [!DNL Solution Design Reference] (SDR) 文件中決定和記載的變數和事件，為您在 [!DNL Experience Platform Launch] 中的 [!DNL Analytics] 實作建立[!UICONTROL 資料元素]。
 
->[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)
 
 >[!INFO]
 >

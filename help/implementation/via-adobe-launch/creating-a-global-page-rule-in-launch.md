@@ -2,16 +2,12 @@
 title: 在 Launch 中建立全域頁面規則
 description: 您會想要將某些資料點傳送到每個頁面上的 Adobe Analytics。本影片說明如何設定全域頁面規則，以傳送這些資料點。
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
 kt: 3588
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 7c72ec72-3de8-4472-a1de-c47f54d61d61
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -21,7 +17,7 @@ ht-degree: 100%
 
 您會想要將某些資料點傳送到每個頁面上的 Adobe Analytics。本影片說明如何設定全域頁面規則，以傳送這些資料點。
 
->[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)
 
 >[!INFO]
 >

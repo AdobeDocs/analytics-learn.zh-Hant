@@ -7,8 +7,8 @@ level: Beginner
 kt: 3580
 thumbnail: 28758.jpg
 exl-id: b86869d2-7c43-485d-98b3-4f7bebc4f420
-source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '135'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 了解定義要在 Adobe Analytics 中擷取和分析的行為資料的重要步驟。 對於訪客如何使用您的數位財產，您的企業需要了解什麼？先寫下這些需求，然後決定如何使用 Analytics 事件、維度和量度來擷取所需資訊。
 
->[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28758/?quality=12&learn=on)
 
 [下載](assets/aa-implementation-playbook.xlsx)範例 Excel 範本以記錄您數位資產的要求和資料彙集設計。
 

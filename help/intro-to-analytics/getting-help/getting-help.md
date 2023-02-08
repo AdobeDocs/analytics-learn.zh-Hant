@@ -2,16 +2,12 @@
 title: 在 Adobe Analytics 中取得協助
 description: 我們在某些時候會需要 Adobe Analytics 的協助。本影片說明在您遇到困難並需要協助時，可供您使用的一些實用資源。
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 3568
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 8ea4295b-c374-4f89-b0aa-2fd09376c689
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '102'
 ht-degree: 100%
 
@@ -21,7 +17,7 @@ ht-degree: 100%
 
 我們在某些時候會需要 Adobe Analytics 的協助。本影片說明在您遇到困難並需要協助時，可供您使用的一些實用資源。
 
->[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28753/?quality=12&learn=on)
 
 >[!INFO]
 >

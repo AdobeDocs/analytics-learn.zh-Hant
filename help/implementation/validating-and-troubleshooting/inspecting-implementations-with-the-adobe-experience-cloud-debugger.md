@@ -10,8 +10,8 @@ kt: 1942
 role: Developer, Data Engineer
 level: Beginner
 exl-id: c13a5973-3c7a-4980-95c5-447b50b962c7
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!DNL Experience Cloud debugger] 是可讓使用者檢查並偵錯 Experience Cloud 標記。本影片涵蓋如何使用 [!DNL Experience Cloud Debugger] 檢查 [!DNL Analytics] 實作。
 
->[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23878/?quality=12&learn=on)
 
 您將會了解如何查看會在不同的頁面上引發哪些項目、載入變數的易記名稱，並匯出進階使用案例的結果。
 

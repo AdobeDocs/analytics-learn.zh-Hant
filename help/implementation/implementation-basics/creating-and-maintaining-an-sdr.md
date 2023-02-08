@@ -7,8 +7,8 @@ level: Beginner
 kt: 3581
 thumbnail: 28754.jpg
 exl-id: c942e819-0763-4907-adcc-747ec753c407
-source-git-commit: bd4ac9bba3d240f571991d32dbe3b225a4452c1a
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '149'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 解決方案設計參考 (SDR) 文件是針對數位資產分析的業務需求和資料彙集設計的藍圖。了解如何建立和維護此文件作為分析解決方案的真實來源。
 
->[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28754/?quality=12&learn=on)
 
 [下載](assets/aa-implementation-playbook.xlsx)範例 Excel 範本以記錄您數位資產的要求和資料彙集設計。
 

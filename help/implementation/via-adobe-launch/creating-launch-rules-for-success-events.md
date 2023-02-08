@@ -2,16 +2,12 @@
 title: 建立成功事件的 Launch 規則
 description: 本影片說明如何使用 Launch 追蹤您網站上的轉換事件 (AKA 成功事件)。它會在追蹤範例網站上應用程式程序的使用案例中顯示。
 feature: Launch Implementation
-topics: null
-activity: implement
-doc-type: feature video
-team: Technical Marketing
 kt: 3591
 role: Developer, Data Engineer
 level: Beginner
 exl-id: ae600143-87cc-435d-bba2-0bce929070ac
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: ht
+source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 100%
 
@@ -21,7 +17,7 @@ ht-degree: 100%
 
 本影片說明如何使用 [!DNL Experience Platform Launch] 追蹤您網站上的轉換事件 (AKA 成功事件)。它會在追蹤範例網站上應用程式程序的使用案例中顯示。
 
->[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
 
 >[!INFO]
 >
