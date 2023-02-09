@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace中的自由表格篩選器
-description: 篩選器可讓您更能掌控哪些資料列要在任意形狀表格中分享。
+title: Analysis Workspace 中的自由格式表格篩選器
+description: 篩選器可讓您更能掌控哪些資料列要在自由格式表格中分享。
 feature: Freeform Tables
 thumbnail: 23232.jpg
 kt: 1699
@@ -8,13 +8,13 @@ role: User
 level: Beginner
 exl-id: 17423156-1e0c-4698-9af2-b59f0753176f
 source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '110'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
-# Analysis Workspace中的自由表格篩選器
+# Analysis Workspace 中的自由格式表格篩選器
 
 篩選器可讓您更能掌控哪些資料列要在[!DNL freeform table]中分享。
 
@@ -28,4 +28,4 @@ ht-degree: 89%
 
 >[!INFO]
 >
-> 本影片是課程的一部分：[任意形狀表格、分析基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在 Experience League 上免費取得！
+> 本影片是課程的一部分：[自由格式表格、分析基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在 Experience League 上免費取得！
