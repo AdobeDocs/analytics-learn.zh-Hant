@@ -1,24 +1,24 @@
 ---
-title: Analysis Workspace 中的 RTF 編輯器
-description: 逐步說明部分新功能，這些新功能可讓分析師和行銷人員在 Analysis Workspace 中套用編輯到文字視覺效果 (或說明) - 粗體、斜體、標題、超連結等等。
+title: Analysis Workspace的RTF編輯器
+description: 了解哪些功能可讓分析師和行銷人員將編輯套用至Analysis Workspace中的文字視覺效果（或說明），包括粗體、斜體、標題、連結等。
 feature: Visualizations
 thumbnail: 23726.jpg
 kt: 1907
 role: User
 level: Beginner
 exl-id: c208b21b-857b-4b01-aae5-b1be9f8105ea
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: ht
-source-wordcount: '93'
-ht-degree: 100%
+source-git-commit: fc1de005c13705a41a229403bfc0444f1538ec51
+workflow-type: tm+mt
+source-wordcount: '89'
+ht-degree: 28%
 
 ---
 
-# Analysis Workspace 中的 RTF 編輯器 {#rich-text-editor-in-analysis-workspace}
+# Analysis Workspace的RTF編輯器
 
-逐步說明部分新功能，這些新功能可讓分析師和行銷人員在 Analysis Workspace 中套用編輯到[!UICONTROL 文字] [!UICONTROL 視覺效果]：粗體、斜體、標題、超連結等等。
+了解可讓分析師和行銷人員將編輯套用至Analysis Workspace中文字視覺效果（或說明）的功能：粗體、斜體、標題、連結等。
 
->[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
 
 >[!INFO]
 >
