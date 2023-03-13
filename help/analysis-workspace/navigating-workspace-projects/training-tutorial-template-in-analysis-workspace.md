@@ -1,6 +1,6 @@
 ---
 title: Analysis Workspace 中的訓練教學課程範本
-description: 'Analysis Workspace 培訓教學課程會逐步引導您了解在工作區中建立第一個分析的常用術語和步驟。 '
+description: Analysis Workspace 培訓教學課程會逐步引導您了解在工作區中建立第一個分析的常用術語和步驟。
 feature: Panels
 topics: null
 activity: use
@@ -11,7 +11,7 @@ role: User
 level: Beginner
 exl-id: 52f800b6-f184-4a82-8729-e6edd478331c
 source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '86'
 ht-degree: 100%
 

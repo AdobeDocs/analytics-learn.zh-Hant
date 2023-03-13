@@ -4,7 +4,7 @@ description: 了解使用人工智慧和機器學習 (AI/ML) 的重要性。 了
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
 source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1104'
 ht-degree: 100%
 

@@ -9,9 +9,9 @@ thumbnail: 342361.jpg
 kt: 10272
 exl-id: dadfd482-8fc6-40a7-85e3-d22a185096d4
 source-git-commit: 4dfe75cb35b8beb92f947884a92aa4bfd579e4b8
-workflow-type: ht
-source-wordcount: '1082'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '1080'
+ht-degree: 99%
 
 ---
 
@@ -50,7 +50,7 @@ _包羅萬象_。 這是利害關係人面對問題最常見的一種回答：_�
 
 問題將因技術或分析能力、公司結構或資料彙總主題的複雜度而有所不同。 從一個較高層次開始，提出關於整個組織的問題，然後討論您利害關係人在支持這些組織目標方面的角色，以此類推不斷增加細節層次，這樣做通常會有幫助。 然後，您可以確保所討論的精細資料點可有效地支援組織的整體目標。 這樣還能讓您做到創造性思考，並針對支持他們目標的資料提出新的想法。
 
-[探索此範本](assets/stakeholder-questionnaire.pdf){target=&quot;_blank&quot;} 包含多個針對利害關係人訪談的樣本問題。 重複使用或整這些問題，為你們的討論準備相關的問題。
+[探索此範本](assets/stakeholder-questionnaire.pdf){target="_blank"} 包含利害關係人訪談的幾個範例問題。 重複使用或整這些問題，為你們的討論準備相關的問題。
 
 ### 2. 要求取得樣本報告
 

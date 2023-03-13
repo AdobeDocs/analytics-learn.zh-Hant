@@ -10,15 +10,15 @@ thumbnail: 10534.jpg
 kt: 10534
 exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '300'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '298'
+ht-degree: 92%
 
 ---
 
 # 建立內部 Adobe Analytics 網站 (Confluence 或其他)
 
-**主題：**&#x200B;如果您聽從了[這篇技巧](create-basic-videos-and-training.md){target=&quot;_blank&quot;}的建議而建立了培訓文件，很明顯您不能把這些文件存在硬碟上。 建立一個中心位置，讓所有使用者可以在其中分享和查閱培訓文件 - 一個內部 Adobe Analytics 網站 (Confluence 或其他)，您可以在其中發佈這些文件並維護不同的版本。
+**內容：** 若您已在 [這個小竅門](create-basic-videos-and-training.md){target="_blank"} 要建立培訓文檔，顯然不能將其保存在硬碟上。 建立一個中心位置，讓所有使用者可以在其中分享和查閱培訓文件 - 一個內部 Adobe Analytics 網站 (Confluence 或其他)，您可以在其中發佈這些文件並維護不同的版本。
 
 **理由：**&#x200B;設定單一共用存放庫可提供一個位置來導向所有新使用者，並提供所有文件最新版本的單一信任來源。 也可以最佳化版本管理和共同作業。
 

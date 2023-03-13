@@ -10,9 +10,9 @@ thumbnail: 10533.jpg
 kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
 source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
-workflow-type: ht
-source-wordcount: '345'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '330'
+ht-degree: 88%
 
 ---
 
@@ -31,9 +31,9 @@ ht-degree: 100%
 * Adobe Analytics 的 5 大技巧 (例如：如何建立下拉清單)
 * 如何使用 Attribution IQ
 
-然後，您就可以輕鬆地將使用者指向這些內容，不用撰寫冗長的電子郵件或又要開會。 如需培訓使用者的更多提示和技巧，請查看 [Adobe 達人 Thomas Edward Buckley 的文章](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=zh-Hant){target=&quot;_blank&quot;}：說明如何簡化和減少培訓使用者的時間。
+然後，您就可以輕鬆地將使用者指向這些內容，不用撰寫冗長的電子郵件或又要開會。 如需訓練使用者的更多秘訣和技巧，請參閱 [Adobe冠軍托馬斯·愛德華·巴克利的文章](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=zh-Hant){target="_blank"} 全都是為了簡化和減少培訓用戶的時間。
 
-此外，Adobe Experience League 上也有大量[影片教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hant){target=&quot;_blank&quot;}，以及[免費課程](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target=&quot;_blank&quot;}。 如果您需要貴公司專屬的資料和業務 KPI 影片，那麼請務必自行錄製影片。 但是，如果您需要的只是一般的教學影片，那就不需要多此一舉。
+此外，還有太多（是的，太多） [影片教學課程](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"} on Adobe Experience League, as well as [free courses](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}. 如果您需要貴公司專屬的資料和業務 KPI 影片，那麼請務必自行錄製影片。 但是，如果您需要的只是一般的教學影片，那就不需要多此一舉。
 
 ## 作者
 
