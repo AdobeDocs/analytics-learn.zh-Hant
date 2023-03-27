@@ -12,8 +12,8 @@ topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 5db98e46-c91e-4e24-9745-82e54d19152a
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 [!UICONTROL Audience Analytics] 是全新的整合，可讓您即時將 Audience Manager (AAM) 的區段分享到 [!DNL Analytics]，以告知對象探索、細分和最佳化。
 
->[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25450/?quality=12&learn=on)
 
 可以分享的範例[!UICONTROL 區段]資料包括：協力廠商資料提供者的人口統計資訊、廣告伺服器的行銷活動資料 (例如站外印象) 和上線的 CRM 資料。這是市場上 DMP 與分析引擎之間的第一次產品化整合。
 
