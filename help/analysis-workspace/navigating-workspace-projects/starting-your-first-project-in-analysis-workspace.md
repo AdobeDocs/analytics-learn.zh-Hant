@@ -9,8 +9,8 @@ thumbnail: 30368.jpg
 team: Technical Marketing
 kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: f3a000ac21b937f3d8f95997a588dc38af529c79
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '71'
 ht-degree: 100%
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 了解如何使用範本建立 Analysis Workspace 專案。這是手動建置專案的省時技巧，有助於新的使用者盡快進入狀況。
 
->[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)
 
 >[!INFO]
 >
