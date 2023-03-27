@@ -11,8 +11,8 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: e58f7e86-dc61-44eb-a44e-fe5e984d8248
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '164'
 ht-degree: 100%
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 頁面狀態是指應用程式中的畫面或檢視。您的應用程式每次顯示新頁面狀態時 (例如，當用戶從首頁導航到動態消息時)，系統會呼叫 `trackState`來發送頁面狀態名稱 ([!DNL Analytics] 中的「頁面名稱」) 以及其他資料。本影片將引導您逐步進行操作。
 
->[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26260/?quality=12&learn=on)
 
 如需 trackState 的詳細資訊，請參閱本[文件](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/configuration-reference/mobile-core-api-reference)。
