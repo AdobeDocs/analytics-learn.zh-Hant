@@ -10,8 +10,8 @@ kt: 2481
 role: User
 level: Intermediate
 exl-id: 3439b31c-dd4a-4a21-857a-1884463003cf
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '108'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL 同類群組表格]內的滾動計算設定可以用於分析[!UICONTROL 同類群組]比較期間，以了解如何隨著時間內保留 ([!UICONTROL 流失]) 相同的使用者。
 
->[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25962/?quality=12&learn=on)
 
 如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hant)。
 
