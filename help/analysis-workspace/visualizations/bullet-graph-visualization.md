@@ -7,8 +7,8 @@ role: User
 level: Beginner
 exl-id: 369904c2-5de9-495c-abd2-0c3900f6c49f
 thumbnail: 23989.jpg
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!UICONTROL 項目符號]圖表示在您的分析中顯示目標進度 (或超過目標) 的實用方式。它們提供了另一種呈現您的組織成果的方法。
 
->[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23989/?quality=12&learn=on)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/bullet-graph.html?lang=zh-Hant)。
 
