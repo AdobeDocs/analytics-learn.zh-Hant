@@ -10,8 +10,8 @@ kt: 1845
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '271'
 ht-degree: 100%
 
@@ -32,7 +32,7 @@ ht-degree: 100%
 >
 >在本影片中，我們將說明如何在未使用 Tag Manager (如 Adobe [!DNL Experience Platform Launch]) 時編碼自訂連結點擊。我們建議您使用 [!DNL Experience Platform Launch] 我們對於實作的最佳實務建議。然而，如果您需要在 `s.tl()` 中編碼，以下說明該怎麼做。
 
->[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 
 ## 程式碼範例 {#sample-code}
 
