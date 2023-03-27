@@ -10,8 +10,8 @@ kt: 2133
 role: User
 level: Beginner
 exl-id: c76d8252-d6b7-48d7-b75e-3f8bedc50815
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '86'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 本影片說明您如何在 Analysis Workspace 中變更[!UICONTROL 線]圖 Y 軸的比例 (或軸限制)，以讓您和他人更不容易錯誤解讀資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24708/?quality=12&learn=on)
