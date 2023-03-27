@@ -10,8 +10,8 @@ kt: 4384
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 9aeb8371-3fac-41db-bea3-35c7ca3deeef
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 若要成為提供優質體驗的企業，資料導向行銷是重要關鍵。將您的分析成熟度提高到一個全新水準 - 從資料得到分析見解、再採取行動。
 
->[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31502/?quality=12&learn=on)
 
 了解 Adobe 如何從不同角度幫助您了解客戶：[https://adobe.ly/2CabND4](https://adobe.ly/2CabND4)
