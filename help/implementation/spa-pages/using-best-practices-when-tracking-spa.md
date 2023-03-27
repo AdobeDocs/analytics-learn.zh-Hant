@@ -11,8 +11,8 @@ topic: SPA
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 8fe63dd1-9629-437f-ae07-fe1c5a05fa42
-source-git-commit: d78c3351d2a98704396ceb8f84d123dd463befe5
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '1313'
 ht-degree: 100%
 
@@ -88,7 +88,7 @@ ht-degree: 100%
 
 如需如何及何時引發事件的詳細資訊，請參閱頁面和文件。您不需要在實作中使用相同的事件名稱。所用方法的功能使用案例對於理解為每種方法的建議最佳做法至關重要。以下影片示範了在 [!DNL Experience Platform Tags] 中接聽自訂事件的 SPA 頁面範例和程式碼範例。
 
->[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23024/?quality=12&learn=on)
 
 ## 在 [!DNL Experience Platform Tags] 中執行 st() 或 s.tl() {#running-s-t-or-s-tl-in-the-launch-rule}
 
@@ -102,7 +102,7 @@ ht-degree: 100%
 
 以下影片會說明要在哪裡以及如何觸發 Tags 中的 `s.t()` 或 `s.tl()`。
 
->[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23048/?quality=12&learn=on)
 
 ## 清除變數 {#clear-variables}
 
@@ -114,7 +114,7 @@ ht-degree: 100%
 
 以下影片會說明要在哪裡以及如何清除 [!DNL Tags] 中的變數。
 
->[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23049/?quality=12&learn=on)
 
 ## 其他考量事項 {#additional-considerations}
 
