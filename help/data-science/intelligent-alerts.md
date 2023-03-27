@@ -10,8 +10,8 @@ kt: 2338
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 04af0dc3-3cf3-446d-924c-82f21ee6974c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '92'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL Intelligent Alerts]讓您的收件匣或手機享有[!UICONTROL 異常偵測]優勢。立即知道關鍵量度和區段中的重大變更，因此不會錯過商機。
 
->[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25446/?quality=12&learn=on)
 
 如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/intelligent-alerts/intellligent-alerts.html?lang=zh-Hant)。
