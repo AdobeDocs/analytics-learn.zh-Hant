@@ -14,8 +14,8 @@ topic: Administration
 role: Admin, Architect
 level: Beginner
 exl-id: 39adbd25-da7f-4b7a-ae43-6681d675b46d
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '87'
 ht-degree: 100%
 
@@ -25,6 +25,6 @@ ht-degree: 100%
 
 在本影片中，您將會學習如何進行[!UICONTROL 郵遞區號]和郵政編號，以便於根據此區域資料進行分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27051/?quality=12&learn=on)
 
 如需[!UICONTROL 郵遞區號]設定的詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics/components/dimensions/zip-code.html?lang=zh-Hant)。
