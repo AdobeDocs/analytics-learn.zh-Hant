@@ -7,8 +7,8 @@ kt: 2011
 role: User
 level: Beginner
 exl-id: 2f2ef013-1118-4c78-8877-c294654865e0
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '149'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 在本影片中，我們將說明如何在[!UICONTROL 任意形狀表格]中善用兩種日期比較功能 -「[!UICONTROL 新增時段欄]」和「[!UICONTROL 比較時段]」。
 
->[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23985/?quality=12&learn=on)
 
 日期比較是新增目前 Analysis Workspace 表格深度的簡單方法，並協助您輕鬆將目前的資料與歷史績效比較。
 
