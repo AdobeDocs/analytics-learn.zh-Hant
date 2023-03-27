@@ -7,8 +7,8 @@ kt: 4107
 role: User
 level: Beginner
 exl-id: d8bd4226-a3f0-4faa-8b78-4b47b5a008ce
-source-git-commit: e021df988079334ecd81b8c320f9e3d9a43da2e4
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '106'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 在本影片中，了解如何套用區段至資料，以限制表格和視覺效果中的資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30994/?quality=12&learn=on)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/t-seg-apply.html?lang=zh-Hant)。
 
