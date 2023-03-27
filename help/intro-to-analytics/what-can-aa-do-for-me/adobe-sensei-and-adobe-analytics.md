@@ -10,8 +10,8 @@ kt: 4383
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 4dda7501-43ae-4cc7-8b7e-c1f2bcd2950a
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '99'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!DNL Adobe Sensei] 會賦予 Adobe Analytics 更具智慧，並會幫助行銷人員發現有關其客戶的有意義的分析和見解。本影片還會針對 [!DNL Adobe Sensei] 支持的 Adobe Analytics 提供主要功能附加說明，包括[!UICONTROL 異常檢測]、[!UICONTROL 貢獻分析]、[!UICONTROL 情報警示]、集群[!UICONTROL ，區段 IQ] 和傾向性模型。
 
->[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31500/?quality=12&learn=on)
 
 了解更多關於 [!DNL Adobe Sensei] (由[此處](https://www.adobe.com/tw/sensei.html))。
