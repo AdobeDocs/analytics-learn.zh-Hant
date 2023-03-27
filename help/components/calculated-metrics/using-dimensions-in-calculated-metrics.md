@@ -10,8 +10,8 @@ kt: 1904
 role: User
 level: Beginner
 exl-id: f2f1a820-63fe-4c80-8fba-0f9c9687f56d
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '93'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL 維度]現在可以在[!UICONTROL 計算量度產生器]中使用。它們可以代入任何[!UICONTROL 計算量度][!UICONTROL 公式]，以立即建立內部區段。
 
->[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 
 此功能精簡建立和使用[!UICONTROL 計算量度]內[!UICONTROL 區段]的工作流程。
 
