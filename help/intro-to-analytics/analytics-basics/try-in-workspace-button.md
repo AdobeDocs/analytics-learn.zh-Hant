@@ -10,8 +10,8 @@ kt: 1965
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: d5aab59f-ff73-4ef5-82d6-fd4ada90a7cd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '64'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 [!UICONTROL 「報表和分析」]中的大部分報告都含有「**[!UICONTROL 在工作區中嘗試]**」按鈕，可讓您在 [!UICONTROL Analysis Workspace] 中重新產生目前的檢視，以供您進一步自訂。
 
->[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23959/?quality=12&learn=on)
