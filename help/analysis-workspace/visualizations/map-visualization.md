@@ -7,8 +7,8 @@ kt: 1771
 role: User
 level: Beginner
 exl-id: ffae778a-63a1-4587-94fe-a2ad16931b3a
-source-git-commit: 8976c66d3e26dcb0988891e5f4d15a1a8e037e47
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '153'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 本影片說明您如何在 Analysis Workspace 中使用地圖視覺效果。地圖視覺效果可讓您對照動態地圖檢視[!UICONTROL 行動 (緯度/經度)] 或網頁 (IP 位址) 資料，可讓您了解客戶在其位置下的使用情況。
 
->[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23559/?quality=12&learn=on)
 
 如需有關此視覺效果的詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/map-visualization.html?lang=zh-Hant)。
 
