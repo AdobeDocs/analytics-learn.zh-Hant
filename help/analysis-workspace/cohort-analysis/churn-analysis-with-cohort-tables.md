@@ -10,8 +10,8 @@ kt: 2479
 role: User
 level: Intermediate
 exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '114'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL 同類群組表]提供兩種分析類型 - [!UICONTROL 留存率]和[!UICONTROL 流失率]。[!UICONTROL 留存率]指出多少位使用者隨著時間仍留存，而[!UICONTROL 流失率]選項則說明失去多少使用者 (1 - 留存率)。
 
->[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
 
 如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hant)。
 
