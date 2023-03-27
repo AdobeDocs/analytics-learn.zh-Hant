@@ -10,8 +10,8 @@ kt: 1848
 role: Developer, Data Engineer
 level: Intermediate
 exl-id: 27a8ce2f-afea-4505-9525-49720432f40f
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '138'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 本影片會說明在未使用 Adobe [!DNL Experience Platform Launch] 時如何更新 appMeasurement 程式碼。這包括到哪裡取得程式碼及更新程式碼。
 
->[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25913/?quality=12&learn=on)
 
 >[!NOTE]
 >
