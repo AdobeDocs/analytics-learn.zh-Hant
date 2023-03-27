@@ -11,8 +11,8 @@ topic: Mobile
 role: Developer, Data Engineer
 level: Experienced
 exl-id: 541c51b8-638e-43b4-90ac-0ce94290a141
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '174'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 動作是指行動應用程式中發生的事件。在本影片中，了解如何使用 trackAction API 來追蹤和衡量一項動作。
 
->[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26268/?quality=12&learn=on)
 
 您應該使用此 API 來追蹤網站上的所有非螢幕載入動作。如果螢幕即將顯示，請使用 trackState (這將觸發頁面檢視點閱)。否則，請使用 trackAction 發送與正在執行的動作有關聯的變數。
 
