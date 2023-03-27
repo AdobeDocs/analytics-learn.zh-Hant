@@ -10,8 +10,8 @@ kt: 2114
 role: User
 level: Beginner
 exl-id: f6881db0-68c8-4b17-aaf3-232a6886c925
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '70'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 本課程與 Analysis Workspace 內的[!UICONTROL 視覺效果]有關。您會學習有助於以最相容的格式提供組織強大見解的技巧和動作。
 
->[!VIDEO](https://video.tv.adobe.com/v/25036/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25036/?quality=12&learn=on)
