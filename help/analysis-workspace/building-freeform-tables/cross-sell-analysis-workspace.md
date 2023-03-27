@@ -7,8 +7,8 @@ kt: 2367
 role: User
 level: Beginner
 exl-id: b9c01772-8c48-4baf-a85d-faabf5bdb846
-source-git-commit: a3aef96c996343d0d90de8e1462f6dcbf362c403
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '85'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 在本影片中，您將了解如何在 Analysis Workspace 中建立交叉銷售報告，甚至進一步延伸至任何多值維度或分類。
 
->[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25864/?quality=12&learn=on)
 
 >[!INFO]
 >
