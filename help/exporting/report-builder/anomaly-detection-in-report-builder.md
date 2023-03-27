@@ -8,8 +8,8 @@ doc-type: feature video
 thumbnail: 25444.jpg
 kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 了解如何將[!UICONTROL 異常偵測] [!UICONTROL 量度]新增到您的資料請求並以創意的方式繪圖資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23543/?quality=12&learn=on)
 
 [!UICONTROL 異常偵測使用統計模型來自動尋找資料中的意外趨勢。]
 
