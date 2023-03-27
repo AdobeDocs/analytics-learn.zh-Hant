@@ -7,8 +7,8 @@ kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '130'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 [!DNL Attribution IQ] 可讓您在[!UICONTROL 任意形狀]欄立即將[!UICONTROL 歸因]模式變更為十種以規則為基礎的歸因模型。
 
->[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23136/?quality=12&learn=on)
 
 每個歸因[!UICONTROL 模式]完全支援分段和細分，並可讓您對任何維度進行無限次的比較 (即使 [!DNL props]！)。
 
