@@ -10,8 +10,8 @@ kt: 4386
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 86298461-5ced-4ef3-a820-4be0275fd7fe
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 澳洲最大鞋類零售業 [!DNL Accent Group] 透過實體和數位接觸點，提供最佳客戶體驗以促進銷售和轉換率。觀看 [!DNL Accent Group] 如可使用 Adobe Experience Cloud 建立完美無縫的數位體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12&learn=on)
