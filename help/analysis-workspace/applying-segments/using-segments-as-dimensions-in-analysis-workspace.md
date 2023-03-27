@@ -7,8 +7,8 @@ kt: 2009
 role: User
 level: Beginner
 exl-id: 36b564bd-30ae-4474-8b05-9607397e02b8,69901e9c-42e6-423e-bb89-8b8b0763bac7
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '78'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 本影片說明如何透過在 Analysis Workspace 中將區段用作維度來比較和視覺化區段。
 
->[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23974/?quality=12&learn=on)
 
 >[!INFO]
 >
