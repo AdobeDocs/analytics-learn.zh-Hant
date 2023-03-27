@@ -13,8 +13,8 @@ kt: 2846
 role: User
 level: Beginner
 exl-id: 0650a07f-5b93-40e0-a4f0-04fa83342a1c
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '148'
 ht-degree: 100%
 
@@ -24,7 +24,7 @@ ht-degree: 100%
 
 在本使用案例中，我們將設定系統帶入郵遞區號、將郵遞區號分類為市場內或市場外，然後在 Analysis Workspace 中使用此資料，因此我們得以看到地理地位行銷活動的有效性。
 
->[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/27052/?quality=12&learn=on)
 
 如需本使用案例各層面的相關其他資訊，請參閱以下文件主題：
 
