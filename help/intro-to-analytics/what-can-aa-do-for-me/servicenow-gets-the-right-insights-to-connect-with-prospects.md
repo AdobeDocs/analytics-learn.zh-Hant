@@ -10,8 +10,8 @@ kt: 4385
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: f25a9539-4596-4f22-8c6b-224273e185e4
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '95'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 了解 [!DNL ServiceNow] 如何透過 Adobe Advertising Cloud 和 Adobe Analytics 從行銷頻道取得寶貴資料並據以行動，提高付費搜尋廣告的 ROI。
 
->[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12&learn=on)
 
 Adobe Experience Cloud 可為您提供超越市場對手的一切整合工具，範圍涵蓋頻道行銷、數位廣告、對象和資料最佳化等方面。
