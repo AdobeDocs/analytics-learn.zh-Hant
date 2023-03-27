@@ -10,8 +10,8 @@ kt: 2138
 role: User
 level: Beginner
 exl-id: bdda9534-cae8-457a-a9c2-8167b8d0d09d
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 本影片說明如何在 Analysis Workspace 中調整大小、重新排列和重新組織[!UICONTROL 視覺效果]和表格。
 
->[!VIDEO](https://video.tv.adobe.com/v/24707/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24707/?quality=12&learn=on)
