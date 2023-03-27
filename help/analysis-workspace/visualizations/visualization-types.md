@@ -10,8 +10,8 @@ kt: 2132
 role: User
 level: Beginner
 exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '50'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Analysis Workspace 包含區域圖表、[!UICONTROL 環形]圖、橫[!UICONTROL 條]圖和許多協助您分析的其他[!UICONTROL 視覺效果]。
 
->[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23994/?quality=12&learn=on)
