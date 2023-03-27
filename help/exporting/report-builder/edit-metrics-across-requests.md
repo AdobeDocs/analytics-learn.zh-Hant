@@ -8,8 +8,8 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '132'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 您現在可以使用新增、取代和移除選項，一次編輯多個 [!UICONTROL Report Builder] 資料請求的[!UICONTROL 量度]。
 
->[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
 除了現有功能之外，此功能用於編輯全部請求的[!UICONTROL 報告套裝]、[!UICONTROL 日期範圍]、[!UICONTROL 詳細程度]和[!UICONTROL 區段]。您可以從右鍵功能表或「管理」視窗中的「[!UICONTROL 編輯多個]」大量編輯請求。
 
