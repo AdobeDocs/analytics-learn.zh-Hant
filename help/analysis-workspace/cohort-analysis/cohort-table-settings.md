@@ -10,8 +10,8 @@ kt: 3972
 role: User
 level: Intermediate
 exl-id: b237a965-9fe6-4c9a-923e-31af1c019790
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '145'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 有數種同類群組表格設定可讓您自訂[!UICONTROL 留存率]或[!UICONTROL 流失率]的檢視。請參閱在本影片中強調的設定。
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
 
 [!UICONTROL 同類群組表格]的自訂包括以下功能
 
