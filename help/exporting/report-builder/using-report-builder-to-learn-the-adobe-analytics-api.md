@@ -10,8 +10,8 @@ kt: 2345
 role: User
 level: Intermediate
 exl-id: 8b8e0dac-2498-4fba-ba4b-585b309ae1fd
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '274'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 [!UICONTROL Report Builder] 是我們知道與喜愛的工具。因此如果我告訴您您可以使用對於 [!UICONTROL Report Builder] 的了解，更進一步提升 Adobe Analytics 技能組？在本影片中，我們將逐步解說如何接受除錯 [!UICONTROL Report Builder] 請求並用來了解如何製作自己的 [!DNL Analytics] API 查詢。
 
->[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25442/?quality=12&learn=on)
 
 **更新**：[!UICONTROL Report Builder] 已更新如何稍微請求資料。您仍可以使用本影片的方法，但資訊將會在除錯工具中稍微不同。
 
