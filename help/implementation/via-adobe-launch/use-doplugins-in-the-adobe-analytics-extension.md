@@ -10,8 +10,8 @@ kt: 1994
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 2c6b5d24-9a7f-47ea-a239-d0f8784029df
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '55'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何使用 Adobe [!DNL Experience Platform Launch]，以運用 `doPlugins` 功能更能掌控 Adobe Analytics 點擊。
 
->[!VIDEO](https://video.tv.adobe.com/v/25171?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25171?quality=12&learn=on)
