@@ -7,8 +7,8 @@ kt: 2361
 role: Admin, Architect
 level: Intermediate
 exl-id: b78c2b02-a4cb-413d-83c1-ec6a6ef61630
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '111'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 本影片逐步說明資料控管及資料標記如何融入 GDPR 整備。影片提供透過資料控管進行資料標記的實作範例。
 
->[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25455/?quality=12&learn=on)
 
 如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/admin/data-governance/an-gdpr-overview.html?lang=zh-Hant)。
 
