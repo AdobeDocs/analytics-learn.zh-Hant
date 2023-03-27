@@ -10,8 +10,8 @@ kt: 1655
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 5e6bb1fe-1677-479e-b953-6b42356450e1
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '83'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 在本影片中，我們將透過建立和載入請求、變更資料格式、建立[!UICONTROL 視覺效果]，並將內容發佈到線上服務，為您逐步展示 Adobe Analytics Connector。
 
->[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23130/?quality=12&learn=on)
 
 ## 其他資源 {#additional-resources}
 
