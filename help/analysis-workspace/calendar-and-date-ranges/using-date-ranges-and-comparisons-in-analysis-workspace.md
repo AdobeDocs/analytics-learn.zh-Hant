@@ -8,8 +8,8 @@ kt: 4105
 role: User
 level: Beginner
 exl-id: 0962f332-acc7-4ebe-9841-4d3fdf1d77b3
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 在本影片中，您將會了解如何使用日期、[!UICONTROL 日期範圍]和日期比較，來根據正確的時間段自訂您的表格和視覺效果。
 
->[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/30753/?quality=12&learn=on)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/calendar.html)。
 
