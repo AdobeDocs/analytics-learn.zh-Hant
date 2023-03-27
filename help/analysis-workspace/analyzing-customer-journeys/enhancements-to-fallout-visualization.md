@@ -11,8 +11,8 @@ kt: 2276
 role: User
 level: Beginner
 exl-id: d5c95e0c-48c7-48e6-a4e9-d8cda06b4ca1
-source-git-commit: 77b97a2593301bfa4d2c72de3f3b19c095e70600
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '122'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 本影片說明客戶期盼許久的[!DNL Fallout Visualization]更新，包括直接與最終步驟、其餘接觸點、比較無限的區段，以及隨著時間的趨勢分析接觸點轉換百分比。
 
->[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/24047/?quality=12&learn=on)
 
 >[!INFO]
 >
