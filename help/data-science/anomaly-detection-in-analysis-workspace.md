@@ -10,8 +10,8 @@ kt: 2336
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
-source-git-commit: fe861dfd541c1b9cb3b233fa3f56d55054305fd9
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '82'
 ht-degree: 100%
 
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Analysis Workspace 會自動針對任何時間序列[!UICONTROL 視覺效果]或資料表格偵測資料中的異常。您無須費力，就能找到「未知的未知事物」。
 
->[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/25444/?quality=12&learn=on)
 
 如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/anomaly-detection.html?lang=zh-Hant)。
