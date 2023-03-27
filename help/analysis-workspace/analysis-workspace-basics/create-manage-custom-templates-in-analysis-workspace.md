@@ -8,8 +8,8 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: de2adda096458119c3de42e85de4d49898576113
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '170'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 了解如何在 Analysis Workspace 中使用現成可用的範本以及建立自訂範本，讓您和您的團隊能夠從一組預先定義的報表展開作業。
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 Analysis Workspace 附帶幾個預先定義的範本，可以幫助快速開始您的分析。話雖如此，您有時也只想有專屬的範本。了解如何將任何專案建立為您專屬的自訂範本。您可以幫助新使用者快速入門、尋找您喜歡的控制面板/專案，或在團隊之間共用您的控制面板。
 
