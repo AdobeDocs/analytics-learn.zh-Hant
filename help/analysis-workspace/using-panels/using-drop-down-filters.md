@@ -7,8 +7,8 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
-workflow-type: tm+mt
+source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+workflow-type: ht
 source-wordcount: '203'
 ht-degree: 100%
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 在此影片中，您將會了解如何在 Analysis Workspace 中使用下拉式篩選器，以動態地變更面板內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23877/?quality=12&learn=on)
 
 面板拖放區域現在擁有下拉式篩選功能。下拉式篩選器可讓分析師和用戶透過有控制的篩選器和資料互動。您可以建立任何元件類型的下拉式篩選器，然後在下拉式篩選器中切換項目，以篩選面板內容。您也可以將多個下拉式篩選器新增到單一面板，以新增控制項。
 
