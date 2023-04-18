@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: d9688dbc8d4958e76aa5fd6d976a8fd28bfe63ba
 workflow-type: tm+mt
 source-wordcount: '2361'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -67,7 +67,7 @@ ht-degree: 99%
       + [檢視 Analysis Workspace 效能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
    + 秘訣與技巧 {#tips-and-tricks}
       + [Analysis Workspace 7 個秘訣與技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
-      + [以滑鼠右鍵提示與秘訣，提供更有效率的工作流程](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+      + [提高工作流程效率的按右鍵秘訣和技巧](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [在 Analysis Workspace 中提升生產力的秘訣](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [繼續 Adobe Analytics 學習歷程的客戶秘訣](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
    + 瀏覽 Workspace 專案{#navigating-workspace-projects}
@@ -409,7 +409,7 @@ ht-degree: 99%
       + [新增購買事件的 Launch 規則](vertical-specific/retail/adding-a-launch-rule-for-the-purchase-event.md)
       + [2019 年峰會超級展示 - 零售業](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/adobe-summit-2019-super-session-retail.html?lang=zh-Hant)
 + Media Analytics {#media-analytics}
-   + 衡量媒體分析{#measuring-media-analytics}
+   + 衡量 Media Analytics {#measuring-media-analytics}
       + [媒體播放時間面板](media-analytics/measuring-media-analytics/media-playback-time-spent-panel.md)
       + [在 Analysis Workspace 中使用音效使用情況範本](media-analytics/measuring-media-analytics/using-the-audio-consumption-template-in-analysis-workspace.md)
 + 行動應用程式分析 {#mobile-app-analytics}
