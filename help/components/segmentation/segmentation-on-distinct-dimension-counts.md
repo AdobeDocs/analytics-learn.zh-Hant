@@ -7,7 +7,7 @@ kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: f59fdf873fc6aaee8aaa5bd244a31de931034c44
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '148'
 ht-degree: 100%
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 在[!UICONTROL 區段產生器]中新的[!UICONTROL 相異計數]運算子可讓您根據任一[!UICONTROL 維度]內不重複項目的數量進行分段。篩選檢視 5 個以上頁面的造訪，或購買 5 個以上產品的點擊，亦即，在單一訂單內。
 
->[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
 
 此功能還能更酷嗎？:)
 
