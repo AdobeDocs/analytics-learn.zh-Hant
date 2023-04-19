@@ -10,7 +10,7 @@ kt: 2906
 role: User
 level: Intermediate
 exl-id: bcd89ea1-fa1b-41d1-816e-cdd9d49ae172
-source-git-commit: 32424f3f2b05952fe4df9ea91dcbe51684cee905
+source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 了解如何運用如使用頻率、[!UICONTROL 同類群組]、造訪/使用者和工作階段時間長度等功能，深入了解您的語音應用程式的參與度品質。
 
->[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27223/?quality=12&learn=on)
