@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: bb9b02a58b9c39e57021433869388b652627e550
-workflow-type: ht
-source-wordcount: '2369'
-ht-degree: 100%
+source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
+workflow-type: tm+mt
+source-wordcount: '2391'
+ht-degree: 99%
 
 ---
 
@@ -86,6 +86,7 @@ ht-degree: 100%
       + [在 Analysis Workspace 中使用表格、視覺效果和面板](analysis-workspace/using-panels/using-tables-visualizations-and-panels.md)
       + [Analysis Workspace 中的「快速深入分析」面板](analysis-workspace/using-panels/quick-insights-panel-in-analysis-workspace.md)
       + [使用 Attribution IQ 面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-the-attribution-iq-panel.html?lang=zh-Hant)
+      + [了解Adobe Analytics歸因面板與回顧期間](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
       + [Analysis Workspace 中的「媒體同時檢閱者」面板](analysis-workspace/using-panels/media-concurrent-viewers-panel-in-analysis-workspace.md)
       + [媒體播放時間面板](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/media-analytics/measuring-media-analytics/media-playback-time-spent-panel.html?lang=zh-Hant)
       + [使用下拉式篩選器](analysis-workspace/using-panels/using-drop-down-filters.md)
@@ -154,12 +155,14 @@ ht-degree: 100%
       + [在 Analysis Workspace 中將區段用作維度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [在 Analysis Workspace 中使用區段來限制資料](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace 中的快速區段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
+      + [建立客戶歷程區段](analysis-workspace/applying-segments/building-customer-journey-segments.md)
    + 量度 {#metrics}
       + [了解基本訪客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [在 Analysis Workspace 中新增維度和量度至您的專案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=zh-Hant)
       + [轉換事件介紹](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由格式表格中使用量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=zh-Hant)
       + [在 Analysis Workspace 中使用參與率量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [再見Excel，您好計算量度](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 維度 {#dimensions}
       + [在 Analysis Workspace 中新增維度和量度至您的專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量變數 (Prop) 簡介](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -182,6 +185,7 @@ ht-degree: 100%
       + [排程和可下載專案](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace 專案共用](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
       + [Analysis Workspace 中僅限檢視的專案](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [釋放僅供查看的共用功能](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [使用交叉表分析來探索基本的行銷歸因](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [新增 Attribution IQ 模型的並排比較](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
