@@ -8,9 +8,9 @@ doc-type: Article
 last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: 5d20da6a06c9395f56bccbc97ba1d7fb8bb49ff8
+source-git-commit: 48dbac6921a69dbdba1e98bf412ff55ceb27baf5
 workflow-type: tm+mt
-source-wordcount: '1883'
+source-wordcount: '1881'
 ht-degree: 1%
 
 ---
@@ -82,7 +82,7 @@ ht-degree: 1%
 
 Adobe定義 **回顧期間** 作為「轉換應回顧以包含接觸點的時間量」。 會將更多評分給予第一次互動的歸因模型，會在檢視不同回顧期間時發現較大的差異。」
 
-* **造訪回顧期間**:回顧至轉換發生時的造訪開始時間
+* **造訪回顧期間**:回顧至轉換發生時的造訪開始。
 * **訪客回顧期間**:回顧目前日期範圍當月1日以來的所有造訪。
 * **自訂回顧期間**:可讓您將「歸因視窗」擴展至報表日期範圍以外，最多可達 **90天**.
 
