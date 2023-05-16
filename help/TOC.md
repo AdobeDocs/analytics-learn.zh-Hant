@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: a62da18115dc8d6c23eb95b9a1345312c8ac92ef
+source-git-commit: b11a8a838efbf7321eb73105c114122e3aeb294a
 workflow-type: tm+mt
-source-wordcount: '2391'
-ht-degree: 99%
+source-wordcount: '2397'
+ht-degree: 98%
 
 ---
 
@@ -231,6 +231,7 @@ ht-degree: 99%
       + [建立內部 Adobe Analytics 網站](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [使用全域報告套裝](administration/admin-tips/use-a-global-report-suite.md)
       + [建立新聞與公告專案](administration/admin-tips/create-a-news-and-announcements-project.md)
+      + [使用執行摘要控制面板推動成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
