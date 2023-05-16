@@ -8,7 +8,7 @@ doc-type: Article
 last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
-source-git-commit: 5988e9d68f0c2200168da56373259bdf9f4f901b
+source-git-commit: 1b82bc495f72b099c44a1118145a63c255dcc62a
 workflow-type: tm+mt
 source-wordcount: '1110'
 ht-degree: 17%
@@ -34,7 +34,7 @@ ht-degree: 17%
 1. 首次造訪的轉換率稍高於回訪的轉換率，兩者分別為11.6%和11.4%。
 1. 與2021年相比，兩個區段的轉換率均有所下降。
 
-![造訪表](assets/visits-table.png)
+![造訪表](assets/cohort1.png)
 
 ## 第2部分：同類群組分析 — 造訪可食用安排全域生產
 
@@ -70,14 +70,14 @@ ht-degree: 17%
 1) 數量最多的月份包括2月和5月
 1) 每月約有1,000位訪客回訪網站
 
-![2022年保留率表](assets/2022-retention-table.png)
+![2022年保留率表](assets/cohort2.png)
 
 **2021年：**
 
 1) 保留率最高的月份+1個月包括4月、1月和3月
 1) 數量最多的月份包括2月和5月
 
-![2021年保留率表](assets/2021-retention-table.png)
+![2021年保留率表](assets/cohort3.png)
 
 **動作項目：**
 
@@ -128,7 +128,7 @@ ht-degree: 17%
 
 調查網站使用者體驗，讓使用者在結帳期間建立帳戶
 
-![同類群組表格4](assets/cohort-table-4.png)
+![同類群組表格4](assets/cohort4.png)
 
 ## 第4部分：自訂Dimension同類群組
 
@@ -156,7 +156,7 @@ ht-degree: 17%
 1) Product2
 1) Product3  — 與平均保留率相比，保留率經常表現優異。
 
-![同類群組表5](assets/cohort-table-5.png)
+![同類群組表5](assets/cohort5.png)
 
 ## 結論
 
