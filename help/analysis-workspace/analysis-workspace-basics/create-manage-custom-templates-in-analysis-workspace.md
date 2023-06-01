@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 23231.jpg
 kt: 1695
 exl-id: 8bd32aea-5015-4cae-979f-b2100f329c8a
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '146'
 ht-degree: 100%
 
 ---
@@ -23,8 +23,5 @@ ht-degree: 100%
 
 Analysis Workspace 附帶幾個預先定義的範本，可以幫助快速開始您的分析。話雖如此，您有時也只想有專屬的範本。了解如何將任何專案建立為您專屬的自訂範本。您可以幫助新使用者快速入門、尋找您喜歡的控制面板/專案，或在團隊之間共用您的控制面板。
 
-如需有關標準和自訂範本的詳細資訊，請瀏覽這份[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html)。
+如需有關標準和自訂範本的詳細資訊，請瀏覽這份[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html?lang=zh-Hant)。
 
->[!INFO]
->
-> 本影片是[匯出和開放 Adobe Analytics 資料](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)課程的一部分，可在 Experience League 上免費取得！

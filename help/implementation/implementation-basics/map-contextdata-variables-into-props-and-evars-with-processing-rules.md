@@ -7,9 +7,9 @@ role: User
 level: Intermediate
 thumbnail: 26124.jpg
 exl-id: 37729e4a-f33f-4564-a49e-95ee371c1687
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '143'
+source-wordcount: '116'
 ht-degree: 100%
 
 ---
@@ -20,8 +20,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/26124/?quality=12&learn=on)
 
-如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=zh-Hant)。
-
->[!INFO]
->
-> 本影片是[在 Adobe Analytics 中設定和管理報表套裝](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)課程的一部分，可在 Experience League 上免費取得！
+如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=en)。

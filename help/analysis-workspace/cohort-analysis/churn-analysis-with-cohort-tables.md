@@ -10,9 +10,9 @@ kt: 2479
 role: User
 level: Intermediate
 exl-id: 4abb937f-24be-4a91-bcab-489a093e96b6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,3 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
 
 如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hant)。
-
->[!INFO]
->
-> 本影片是[將值歸因於 Customer Journey 中的數位接觸點](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)課程的一部分，可在 Experience League 上免費取得！

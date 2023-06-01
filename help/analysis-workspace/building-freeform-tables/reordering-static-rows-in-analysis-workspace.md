@@ -7,9 +7,9 @@ kt: 4218
 role: User
 level: Beginner
 exl-id: 1a4e82fe-12ac-4c44-afec-60010f1214f6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '78'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 您可以在自由格式表格產生器中手動重新排序靜態資料列。這可讓您依照您所需的確切順序排列靜態資料列 - 例如，造訪次數、然後是訂單，再來是轉換率。
 
 >[!VIDEO](https://video.tv.adobe.com/v/31319/?quality=12&learn=on)
-
->[!INFO]
->
-> 本影片是課程的一部分：[自由格式表格、分析基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在 Experience League 上免費取得！

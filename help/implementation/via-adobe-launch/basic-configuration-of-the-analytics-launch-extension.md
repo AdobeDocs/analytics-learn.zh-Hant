@@ -10,9 +10,9 @@ kt: 3586
 role: Developer, Data Engineer
 level: Beginner
 exl-id: 07fe5327-c8b8-48cb-a357-a0426ab8494c
-source-git-commit: ecc86de650d87aa7f3d8d1cb6275f38b7cdca7e0
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '66'
+source-wordcount: '46'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ ht-degree: 100%
 本影片說明快速在 [!DNL Experience Platform Launch] 中設定基本網站 [!DNL Analytics] 擴充功能的方法。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28751/?quality=12&learn=on)
-
->[!INFO]
->
-> 本影片是[引導式 Analytics 實施](https://experienceleague.adobe.com/?recommended=Analytics-D-1-2019.1)課程的一部分，可在 Experience League 上免費取得！

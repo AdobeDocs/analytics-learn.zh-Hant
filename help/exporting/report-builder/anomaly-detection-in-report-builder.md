@@ -8,9 +8,9 @@ doc-type: feature video
 thumbnail: 25444.jpg
 kt: 1768
 exl-id: 80d85955-022f-4d79-aee8-c440592645f3
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '106'
 ht-degree: 100%
 
 ---
@@ -25,8 +25,4 @@ ht-degree: 100%
 
 在 [!UICONTROL Report Builder] 中，您可以連同預期值和上下邊界，傳回[!UICONTROL 量度]實際值，以增加您正在分析和共用資料的深度。
 
-如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=zh-Hant)。
-
->[!INFO]
->
-> 本影片是[匯出和民主化 Adobe Analytics 資料](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)課程的一部分，可在 Experience League 上免費取得！
+如需有關此功能的詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/virtual-analyst/anomaly-detection/statistics-anomaly-detection.html?lang=zh-Hant)。

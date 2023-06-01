@@ -10,9 +10,9 @@ kt: 2014
 role: User
 level: Beginner
 exl-id: 5b738273-867e-4eb9-bab2-3f16d18608b6
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '79'
 ht-degree: 100%
 
 ---
@@ -22,7 +22,3 @@ ht-degree: 100%
 此影片說明在[!DNL Freeform]分析中使用日期的三種不同方式：行事曆、[!UICONTROL 日期範圍]元素和詳細程度元素。不顯示，有點尷尬：如何使用日期啟用折線圖。
 
 >[!VIDEO](https://video.tv.adobe.com/v/24136/?quality=12&learn=on)
-
->[!INFO]
->
-> 本影片是[使用自訂分段和日期篩選資料](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)課程的一部分，可在 Experience League 上免費取得！

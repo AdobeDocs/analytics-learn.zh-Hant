@@ -8,10 +8,10 @@ doc-type: feature video
 thumbnail: 23547.jpg
 kt: 1769
 exl-id: f0ce5bc2-ca6f-44d2-a42b-9351ff37a083
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 100%
+source-wordcount: '108'
+ht-degree: 83%
 
 ---
 
@@ -21,10 +21,6 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
-除了現有功能之外，此功能用於編輯全部請求的[!UICONTROL 報告套裝]、[!UICONTROL 日期範圍]、[!UICONTROL 詳細程度]和[!UICONTROL 區段]。您可以從右鍵功能表或「管理」視窗中的「[!UICONTROL 編輯多個]」大量編輯請求。
+除了現有功能之外，此功能用於編輯全部請求的[!UICONTROL 報告套裝]、[!UICONTROL 日期範圍]、[!UICONTROL 詳細程度]和[!UICONTROL 區段]。您可以從右鍵功能表或「 」大量編輯請求[!UICONTROL 編輯多個]&quot;（在「管理」視窗中）。
 
 如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=zh-Hant)。
-
->[!INFO]
->
-> 本影片是[匯出和民主化 Adobe Analytics 資料](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)課程的一部分，可在 Experience League 上免費取得！

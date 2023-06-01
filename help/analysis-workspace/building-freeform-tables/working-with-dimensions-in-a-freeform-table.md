@@ -7,9 +7,9 @@ kt: 6176
 role: User
 level: Beginner
 exl-id: 73791a22-a4f1-4fc9-a192-b7aa1d8b9142,ac127eac-2752-424b-aa1b-18a9688d42db
-source-git-commit: 3cddbed3646c8e6c003088d58d84be6db9257574
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '112'
+source-wordcount: '89'
 ht-degree: 100%
 
 ---
@@ -32,7 +32,3 @@ ht-degree: 100%
 * 做為篩選器的維度 (8:30)
 * 劃分 (9:48)
 * 排名、隨著時間和趨勢報告 (13:11)
-
->[!INFO]
->
-> 本影片是課程的一部分：[自由格式表格、分析基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在 Experience League 上免費取得！

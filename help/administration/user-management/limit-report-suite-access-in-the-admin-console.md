@@ -12,9 +12,9 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 71050e4f-a6e3-4fe2-88dd-866d207f6c7c
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '149'
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,3 @@ ht-degree: 100%
 Adobe Analytics 使用者需要存取合適的資料。了解如何使用 [!UICONTROL Admin Console] 確保使用者只能存取其角色所需的報表套裝。請依照 [Adobe Admin Console](https://adminconsole.adobe.com/) 中的快速步驟，以在您的組織中建立報告套裝特定的產品描述檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)
-
->[!INFO]
->
-> 本影片是[在 Adobe Analytics 中設定和管理報表套裝](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)課程的一部分，可在 Experience League 上免費取得！

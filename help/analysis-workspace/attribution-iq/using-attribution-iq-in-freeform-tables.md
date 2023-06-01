@@ -1,5 +1,5 @@
 ---
-title: 在任意形狀表格中使用 Attribution IQ
+title: 在自由格式表格中使用 Attribution IQ
 description: Attribution IQ 可讓您在任意形狀欄立即將歸因模式變更為十種以規則為基礎的歸因模型。
 feature: Attribution
 thumbnail: 23136.jpg
@@ -7,9 +7,9 @@ kt: 1661
 role: User
 level: Intermediate
 exl-id: adf48696-d495-43a3-9421-993434f35962,28b1dbc4-315b-47d5-82f7-4b394ed31ad8
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '130'
+source-wordcount: '81'
 ht-degree: 100%
 
 ---
@@ -29,10 +29,3 @@ ht-degree: 100%
 * [!DNL Adobe Analytics Prime]
 * [!DNL Adobe Analytics Ultimate]
 
->[!INFO]
->
-> 本影片是課程的一部分：[任意形狀表格、分析基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)，可在 Experience League 上免費取得！
-
->[!INFO]
->
-> 本影片是[將值歸因於 Customer Journey 中的數位接觸點](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)課程的一部分，可在 Experience League 上免費取得！

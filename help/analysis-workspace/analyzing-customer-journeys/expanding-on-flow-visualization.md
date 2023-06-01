@@ -11,9 +11,9 @@ kt: 2280
 role: User
 level: Beginner
 exl-id: 080edb20-1005-4a9e-8067-167a2dd575be
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '85'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,5 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/24044/?quality=12&learn=on)
 
-如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=zh-Hant#analysis-workspace)。
+如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/flow/flow.html?lang=zh-Hant#analysis-workspace)。
 
->[!INFO]
->
-> 本影片是[將值歸因於 Customer Journey 中的數位接觸點](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)課程的一部分，可在 Experience League 上免費取得！

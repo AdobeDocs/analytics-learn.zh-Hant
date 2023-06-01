@@ -7,9 +7,9 @@ kt: 6833
 role: User
 level: Beginner
 exl-id: cef228e1-945f-44e2-80cd-d22842fd05a4
-source-git-commit: c9f3316fe30d6cfc505dd2c3238b1b6f0661a709
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '144'
 ht-degree: 100%
 
 ---
@@ -23,7 +23,3 @@ ht-degree: 100%
 如需詳細資訊，請參閱[說明文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/line.html?lang=zh-Hant#analysis-workspace)。
 
 如果您想要匯出移動平均或想要一次將許多平均值新增到表格，您可以建立計算量度。請在[本影片](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.html?lang=zh-Hant#analysis-workspace)中了解更多。
-
->[!INFO]
->
-> 本影片是[使用視覺效果訴說您的資料故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)課程的一部分，可在 Experience League 上免費取得！

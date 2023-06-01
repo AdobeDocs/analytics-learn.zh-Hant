@@ -7,9 +7,9 @@ kt: 2854
 role: User
 level: Beginner
 exl-id: c5d6ec8d-3d45-45bc-b690-97185d74bd18
-source-git-commit: 812184643b5c4a5c01dea2b2f49b57049c1805da
-workflow-type: ht
-source-wordcount: '129'
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+workflow-type: tm+mt
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 呈現[!UICONTROL 量度]的趨勢時段越長，就越難以指出該[!UICONTROL 量度]的方向趨勢。若要解決此問題，[!UICONTROL 計算量度]中的[!UICONTROL 累計平均] [!UICONTROL 函數]可以用於將平滑度套用至 Analysis Workspace 中的[!UICONTROL 量度]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27068/?quality=12&learn=on)
-
->[!INFO]
->
-> 本影片是[使用視覺效果訴說您的資料故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)課程的一部分，可在 Experience League 上免費取得！

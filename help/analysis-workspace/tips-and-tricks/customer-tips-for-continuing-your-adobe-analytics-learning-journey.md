@@ -7,9 +7,9 @@ kt: 4111
 role: User
 level: Beginner
 exl-id: af24fd66-a4a9-439a-b722-226f4def861a
-source-git-commit: 1741a12e3c4b51c355f8ab3b8973be2a78c08301
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '355'
+source-wordcount: '332'
 ht-degree: 100%
 
 ---
@@ -33,7 +33,3 @@ ht-degree: 100%
 | 客戶：<br>Sam Liss | Equinox 的分析工程師 |
 |------------|------------|
 | ![Sam Liss](assets/samliss.jpg) | **從另一個分析產品轉換成 Adobe Analytics 的秘訣** <br>「如果您來自於另一個分析平台，那麼您即將邁入一個更多可自訂的治理、更高的安全性，以及眾多行銷和平台整合的世界….我們將逐步解說[!UICONTROL 自由格式表格]和[!UICONTROL 流量]視覺效果如何不同於您在其他分析平台所體驗到的功能。」<br><br>[閱讀 Sam 的秘訣](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/An-Analyst-s-Quick-Start-Guide-Switching-to-Adobe/td-p/354312) |
-
->[!INFO]
->
-> 本影片是課程的一部分：[Analysis Workspace 快速入門](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)，可在 Experience League 上免費取得！

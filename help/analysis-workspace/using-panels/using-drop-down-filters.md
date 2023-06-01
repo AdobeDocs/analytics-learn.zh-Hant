@@ -7,9 +7,9 @@ kt: 1944
 role: User
 level: Beginner
 exl-id: 8abd1788-6c65-400a-94d9-42e71f0dfbbe
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '203'
+source-wordcount: '177'
 ht-degree: 100%
 
 ---
@@ -24,8 +24,4 @@ ht-degree: 100%
 
 下拉式篩選器為合併專案和面板的實用方式。例如，如果您的一個專案有多個版本，提供特定國家/地區的報告，您現在可以將這些專案摺疊至單一專案，並加入用戶可以切換的國家/地區下拉式篩選器。
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=zh-Hant)。
-
->[!INFO]
->
-> 本影片是[使用自訂分段和日期篩選資料](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)課程的一部分，可在 Experience League 上免費取得！
+如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)。

@@ -7,9 +7,9 @@ kt: 4844
 role: User
 level: Beginner
 exl-id: ed4eccc6-a56e-4767-aeea-046bbbb7ee9c
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '164'
+source-wordcount: '138'
 ht-degree: 100%
 
 ---
@@ -20,8 +20,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/32960/?quality=12&learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=zh-Hant)
-
->[!INFO]
->
-> 本影片是[使用自訂分段和日期篩選資料](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.filterdata)課程的一部分，可在 Experience League 上免費取得！
+如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=zh-Hant)

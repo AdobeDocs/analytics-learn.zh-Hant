@@ -12,9 +12,9 @@ topic: Integrations
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Intermediate
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '82'
+source-wordcount: '55'
 ht-degree: 100%
 
 ---
@@ -24,7 +24,3 @@ ht-degree: 100%
 了解如何使用 Adobe [!DNL Experience Platform Launch]，讓您的 Adobe Analytics 點擊透過伺服器端自動傳送至 Adobe Audience Manager。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)
-
->[!INFO]
->
-> 本影片是[在 Adobe Analytics 中設定和管理報表套裝](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2021.1.administration)課程的一部分，可在 Experience League 上免費取得！

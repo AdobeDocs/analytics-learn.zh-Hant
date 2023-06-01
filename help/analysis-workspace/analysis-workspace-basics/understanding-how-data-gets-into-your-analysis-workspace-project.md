@@ -7,9 +7,9 @@ level: Beginner
 kt: 4109
 thumbnail: 31072.jpg
 exl-id: eb6eada2-74b1-423c-a80d-2bcc2148e167
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '122'
+source-wordcount: '99'
 ht-degree: 100%
 
 ---
@@ -20,8 +20,5 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31072/?quality=12&learn=on)
 
-如需 Adobe Experience Platform Debugger 的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=zh-Hant)。
+如需 Adobe Experience Platform Debugger 的詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/debugger/using-v2/experience-cloud-debugger.html?lang=zh-Hant)。
 
->[!INFO]
->
-> 本影片是課程的一部分：[Analysis Workspace 快速入門](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)，可在 Experience League 上免費取得！

@@ -9,9 +9,9 @@ doc-type: feature video
 thumbnail: 332454.jpg
 kt: 7440
 exl-id: feb04719-8d70-403d-9546-f42a32442113
-source-git-commit: 5c11ee3222e5e3f81a13ed8fbf2cd22fc32b1740
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '136'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -22,8 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/332454/?quality=12&learn=on)
 
-如需詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html)。
-
->[!INFO]
->
-> 本影片是[匯出和民主化 Adobe Analytics 資料](https://experienceleague.adobe.com/?recommended=Analytics-A-1-2022.1.democratizing)課程的一部分，可在 Experience League 上免費取得！
+如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/mobapp/curator.html?lang=zh-Hant)。

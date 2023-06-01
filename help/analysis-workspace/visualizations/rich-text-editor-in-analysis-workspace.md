@@ -7,9 +7,9 @@ kt: 1907
 role: User
 level: Beginner
 exl-id: c208b21b-857b-4b01-aae5-b1be9f8105ea
-source-git-commit: fc1de005c13705a41a229403bfc0444f1538ec51
+source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
-source-wordcount: '89'
+source-wordcount: '64'
 ht-degree: 100%
 
 ---
@@ -19,7 +19,3 @@ ht-degree: 100%
 了解可讓分析師和行銷人員在 Analysis Workspace 中套用編輯到文字視覺效果 (或說明) 的功能：粗體、斜體、標題、超連結等等。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23726/?quality=12&learn=on)
-
->[!INFO]
->
-> 本影片是[使用視覺效果訴說您的資料故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)課程的一部分，可在 Experience League 上免費取得！
