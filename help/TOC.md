@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: db4cbbb061f4d0d4d1bc75463e7018ee55a8655e
+source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
 workflow-type: tm+mt
-source-wordcount: '2435'
-ht-degree: 97%
+source-wordcount: '2444'
+ht-degree: 96%
 
 ---
 
@@ -115,6 +115,7 @@ ht-degree: 97%
       + [視覺效果類型](analysis-workspace/visualizations/visualization-types.md)
       + [視覺效果使用案例](analysis-workspace/visualizations/visualization-use-cases.md)
       + [選取資料以產生視覺效果](analysis-workspace/visualizations/selecting-data-to-visualize.md)
+      + [資料視覺效果教戰手冊](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [將資料帶入視覺效果中](analysis-workspace/visualizations/getting-data-into-visualizations.md)
       + [使用 Workspace 中的元件下拉選單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [區域圖和堆疊區域圖視覺效果](analysis-workspace/visualizations/area-and-area-stacked.md)
@@ -181,6 +182,7 @@ ht-degree: 97%
       + [在 Analysis Workspace 中儲存、共用及協作專案](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace 中的「組織」與「共用」](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [專案的直接連結](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
+      + [與Analysis Workspace中的任何人共用](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [將 50,000 個項目下載為 CSV 檔](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [從 Analysis Workspace 匯出 CSV 和 PDF 檔案](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [共用內嵌元件](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
