@@ -3,9 +3,9 @@ title: 提升效率和自助服務的簡單技巧 - 第 2 部分
 description: 了解 Analytics 團隊現今面臨的主要挑戰，以及我們對於使用工具內策略來克服這些挑戰的建議。
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
 workflow-type: tm+mt
-source-wordcount: '802'
+source-wordcount: '730'
 ht-degree: 100%
 
 ---
@@ -15,8 +15,6 @@ ht-degree: 100%
 **第 2 部分：工具內策略**
 
 本文介紹分析團隊現今面臨的主要挑戰，以及我們對於使用工具內策略來克服這些挑戰的的建議。 如需第 1 部分，請前往[這裡](/help/strategy/analytics-simple-hacks-for-efficiency-part-one.md)。
-
-如需 Adobe Analytics 平台外部的有效解決方案的詳細資訊，請按一下[這裡](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)。
 
 ## 效率的關鍵：工具內策略
 
@@ -93,7 +91,5 @@ ht-degree: 100%
 ## Adobe 2.0 報告 API
 
 善用報告 API，可將標準報告從[!UICONTROL 工作區]移到排程報告和儀表板。 此外，也能運用 [!UICONTROL Analysis Workspace] 建置 API 要求。
-
-希望您覺得這篇工具內策略文章很有幫助。 如需在 Adobe Analytics 平台外部提高效率的有效解決方案的詳細資訊，請按一下[這裡](https://docs.google.com/document/d/1fSrC/_yHW04K61K0Phe4dtg1nCU4jDsqrHWc8KVvsJWk/edit?usp=sharing)。
 
 在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心了解更多策略和構想領導力。
