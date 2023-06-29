@@ -1,26 +1,22 @@
 ---
-title: 計算量度中近似的相異計數函數
-description: 近似的相異計數函數已新增到計算量度產生器。此令人引頸期盼的函數會針對選取的維度傳回維度項目近似的相異計數。
+title: 計算量度中近似的相異計數函式
+description: 瞭解如何使用「近似相異計數」函式建立計算量度，該函式會針對選取的維度傳回維度專案的近似相異計數。
 feature: Calculated Metrics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1910
 role: User
 level: Beginner
 exl-id: d3594ed7-b90e-4f97-89c7-3e6c75534136
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: f9e39eb73cb73ef4993a12270137d2405cf4a978
 workflow-type: tm+mt
-source-wordcount: '109'
-ht-degree: 100%
+source-wordcount: '125'
+ht-degree: 0%
 
 ---
 
-# [!UICONTROL [!UICONTROL 計算量度]中近似的相異計數] [!UICONTROL 函數]{#approximate-count-distinct-function-in-calculated-metrics}
+# 計算量度中近似的相異計數函式 {#approximate-count-distinct-function-in-calculated-metrics}
 
-[!UICONTROL 近似的相異計數] [!UICONTROL 函數]已新增到[!UICONTROL 計算量度產生器]。此令人引頸期盼的[!UICONTROL 函數]會針對選取的[!UICONTROL 維度]傳回[!UICONTROL 維度][!UICONTROL 近似的相異計數]。
+瞭解如何使用「近似相異計數」函式建立計算量度，該函式會針對選取的維度傳回維度專案的近似相異計數。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23722/?quality=12&learn=on)
 
-您可以在任一報告中使用[!UICONTROL 量度]，以對照其他數值了解一項[!UICONTROL 維度]的計數。例如行銷頻道不重複客戶的計數。
+您可以在任何報表中使用本影片中顯示的量度，來瞭解一個維度相對於另一個維度的值的計數。 一個非常常見的使用案例是使用此函式來建立客戶ID量度，然後您可以在任何報表中使用它來檢視有多少客戶套用至不同的維度值。
