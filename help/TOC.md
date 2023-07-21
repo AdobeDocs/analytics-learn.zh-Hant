@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 87bd18f19597e910195db6b23ba2d6ab0fe4bdcc
+source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
 workflow-type: tm+mt
-source-wordcount: '2446'
+source-wordcount: '2451'
 ht-degree: 96%
 
 ---
@@ -162,6 +162,7 @@ ht-degree: 96%
       + [在 Analysis Workspace 中使用區段來限制資料](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace 中的快速區段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
       + [建立Customer Journey區段](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [建立客戶歷程區段 — 第2部分](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + 量度 {#metrics}
       + [了解基本訪客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [在 Analysis Workspace 中新增維度和量度至您的專案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=zh-Hant)
@@ -185,7 +186,7 @@ ht-degree: 96%
       + [在 Analysis Workspace 中儲存、共用及協作專案](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
       + [Analysis Workspace 中的「組織」與「共用」](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [專案的直接連結](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [與Analysis Workspace中的任何人共用](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [在 Analysis Workspace 中與任何人共用](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [將 50,000 個項目下載為 CSV 檔](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [從 Analysis Workspace 匯出 CSV 和 PDF 檔案](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [共用內嵌元件](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
