@@ -1,9 +1,12 @@
 ---
 title: 使用虛擬分析人員和區段 IQ 掌握客戶情報
 description: 了解使用人工智慧和機器學習 (AI/ML) 的重要性。 了解全球客戶使用虛擬分析人員和區段 IQ 來偵測異常、避免離群值和最大化 ROI 的好處，並了解真實世界的成功案例。
+feature: AI Tools
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: 6793fbe2-cdab-435a-b213-17cff814fc9b
-source-git-commit: 2d0da239646660a7fb0895fa55a468131193bf0b
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '1104'
 ht-degree: 100%

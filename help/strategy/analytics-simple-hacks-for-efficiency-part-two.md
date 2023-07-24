@@ -1,9 +1,12 @@
 ---
 title: 提升效率和自助服務的簡單技巧 - 第 2 部分
 description: 了解 Analytics 團隊現今面臨的主要挑戰，以及我們對於使用工具內策略來克服這些挑戰的建議。
+feature: Analytics Basics
+role: Admin, Leader
+level: Intermediate
 solution: Analytics
 exl-id: e3ad6c3c-7a95-424b-8757-42fef48bc22c
-source-git-commit: 7224af1bd798d447f1b14c61e836f8e5c8af7ea4
+source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '730'
 ht-degree: 100%
