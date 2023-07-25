@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: fa1b982c09cfeb427fa7ad8fdbdc4b9c995aa400
+source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
-source-wordcount: '2451'
-ht-degree: 96%
+source-wordcount: '2448'
+ht-degree: 95%
 
 ---
 
@@ -71,7 +71,7 @@ ht-degree: 96%
       + [提高工作流程效率的按右鍵秘訣和技巧](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [在 Analysis Workspace 中提升生產力的秘訣](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
       + [繼續 Adobe Analytics 學習歷程的客戶秘訣](analysis-workspace/tips-and-tricks/customer-tips-for-continuing-your-adobe-analytics-learning-journey.md)
-      + [建立動態下拉式篩選器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
+      + [建立動態下拉篩選器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + 瀏覽 Workspace 專案{#navigating-workspace-projects}
       + [Analysis Workspace 中的資料字典](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
       + [使用範本建立專案](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
@@ -164,11 +164,11 @@ ht-degree: 96%
       + [建立Customer Journey區段](analysis-workspace/applying-segments/building-customer-journey-segments.md)
       + [建立客戶歷程區段 — 第2部分](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + 量度 {#metrics}
-      + [了解基本訪客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
-      + [在 Analysis Workspace 中新增維度和量度至您的專案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=zh-Hant)
-      + [轉換事件介紹](analysis-workspace/metrics/introduction-to-conversion-events.md)
+      + [瞭解基本訪客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
+      + [將維度和量度新增至專案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=zh-Hant)
+      + [轉換事件簡介](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由格式表格中使用量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=zh-Hant)
-      + [在 Analysis Workspace 中使用參與率量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
+      + [在Analysis Workspace中使用參與率量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
       + [再見Excel，您好，計算量度](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 維度 {#dimensions}
       + [在 Analysis Workspace 中新增維度和量度至您的專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
