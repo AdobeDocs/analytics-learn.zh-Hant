@@ -6,7 +6,7 @@ solution: Analytics
 source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
 workflow-type: tm+mt
 source-wordcount: '2448'
-ht-degree: 95%
+ht-degree: 98%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 95%
       + [Analysis Workspace 的元件管理](analysis-workspace/analysis-workspace-basics/component-management-in-analysis-workspace.md)
       + [在 Analysis Workspace 中選取報告套裝](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [檢視 Analysis Workspace 效能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
-      + [建立機器人報表](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
+      + [建立機器人報告](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + 秘訣與技巧 {#tips-and-tricks}
       + [Analysis Workspace 7 個秘訣與技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [提高工作流程效率的按右鍵秘訣和技巧](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
@@ -97,7 +97,7 @@ ht-degree: 95%
       + [選擇面板的區段](analysis-workspace/using-panels/choose-segments-for-a-panel.md)
       + [Analysis Workspace 提供多個報告套裝](analysis-workspace/using-panels/multiple-report-suites-in-analysis-workspace.md)
       + [下一頁/上一頁以及頁面摘要工作區面板與報表](analysis-workspace/using-panels/next-previous-and-page-summary-workspace-panels-reports.md)
-      + [瞭解歸因面板和回顧期間](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
+      + [了解歸因面板和回顧期間](analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
    + 建立自由格式表格 {#building-freeform-tables}
       + [了解您的資料 -- 自由格式表格](analysis-workspace/building-freeform-tables/understand-your-data-freeform-tables.md)
       + [使用左側邊欄建置自由格式表格](analysis-workspace/building-freeform-tables/using-the-left-rail-to-build-freeform-tables-in-analysis-workspace.md)
@@ -133,7 +133,7 @@ ht-degree: 95%
       + [摘要編號和摘要變更視覺效果](analysis-workspace/visualizations/summary-number-and-summary-change-visualizations-2021.md)
       + [關鍵量度摘要視覺效果](analysis-workspace/visualizations/key-metric-summary.md)
       + [文字視覺效果](analysis-workspace/visualizations/rich-text-editor-in-analysis-workspace.md)
-      + [超過單字 — 使用文字視覺效果和說明](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+      + [不僅僅是文字 - 使用文字視覺效果和描述](analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
       + [散佈圖視覺效果](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [樹狀圖視覺效果](analysis-workspace/visualizations/treemap-visualization.md)
       + [文氏圖表視覺效果](analysis-workspace/visualizations/venn-diagram-visualization.md)
@@ -161,15 +161,15 @@ ht-degree: 95%
       + [在 Analysis Workspace 中將區段用作維度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [在 Analysis Workspace 中使用區段來限制資料](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace 中的快速區段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
-      + [建立Customer Journey區段](analysis-workspace/applying-segments/building-customer-journey-segments.md)
-      + [建立客戶歷程區段 — 第2部分](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
+      + [建置客戶歷程區段](analysis-workspace/applying-segments/building-customer-journey-segments.md)
+      + [建置客戶歷程區段 - 第 2 部分](analysis-workspace/applying-segments/building-customer-journey-segments-part-two.md)
    + 量度 {#metrics}
       + [瞭解基本訪客量度](analysis-workspace/metrics/understanding-basic-visitor-metrics.md)
       + [將維度和量度新增至專案](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.html?lang=zh-Hant)
       + [轉換事件簡介](analysis-workspace/metrics/introduction-to-conversion-events.md)
       + [在自由格式表格中使用量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-metrics-in-a-freeform-table.html?lang=zh-Hant)
       + [在Analysis Workspace中使用參與率量度](analysis-workspace/metrics/using-participation-metrics-in-analysis-workspace.md)
-      + [再見Excel，您好，計算量度](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+      + [拋開您的 Excel，換用計算量度](analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
    + 維度 {#dimensions}
       + [在 Analysis Workspace 中新增維度和量度至您的專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量變數 (Prop) 簡介](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
@@ -193,7 +193,7 @@ ht-degree: 95%
       + [排程和可下載專案](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
       + [Analysis Workspace 專案共用](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
       + [Analysis Workspace 中僅限檢視的專案](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [釋放僅供檢視共用的功能](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [釋放僅限檢視共享的效能](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [使用交叉表分析來探索基本的行銷歸因](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [新增 Attribution IQ 模型的並排比較](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
@@ -212,7 +212,7 @@ ht-degree: 95%
       + [使用任何維度進行同類群組分析](analysis-workspace/cohort-analysis/cohort-analysis-using-any-dimension.md)
       + [使用同類群組表格進行延遲分析](analysis-workspace/cohort-analysis/latency-analysis-with-cohort-tables.md)
       + [在同類群組中計算滾動留駐率](analysis-workspace/cohort-analysis/calculate-rolling-retention-in-cohort-tables.md)
-      + [使用同類群組分析來瞭解客戶行為](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
+      + [使用同類群組分析來了解客戶行為](analysis-workspace/cohort-analysis/use-cohort-analysis-to-understand-customer-behavior.md)
    + 語音分析 {#voice-analytics}
       + [如何管理和追蹤您的語音助理應用程式資料](analysis-workspace/voice-analytics/how-to-manage-and-track-your-voice-assistant-app-data.md)
       + [了解啟用語音的裝置之間的差異](analysis-workspace/voice-analytics/understand-differences-across-voice-enabled-devices.md)
@@ -238,7 +238,7 @@ ht-degree: 95%
       + [建立內部 Adobe Analytics 網站](administration/admin-tips/create-an-internal-adobe-analytics-site.md)
       + [使用全域報告套裝](administration/admin-tips/use-a-global-report-suite.md)
       + [建立新聞與公告專案](administration/admin-tips/create-a-news-and-announcements-project.md)
-      + [使用執行摘要儀表板推動成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [透過執行摘要儀表板取得成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
@@ -328,7 +328,7 @@ ht-degree: 95%
       + [分段中的維度模型](components/segmentation/dimension-models-in-segmentation.md)
       + [分段中等於任何的運算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider 網路研討會 - 客戶區隔策略](components/segmentation/customer-segmentation-strategies.md)
-      + [現在只需等待區段……使用分段來探索新的深入分析](components/segmentation/segmentation-to-discover-new-insights.md)
+      + [現在只需等待區隔...使用細分來發現新的深入見解](components/segmentation/segmentation-to-discover-new-insights.md)
    + 計算量度 {#calculated-metrics}
       + [計算量度產生器概觀](components/calculated-metrics/calculated-metrics-metric-builder.md)
       + [計算量度 - 實作-較少量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
