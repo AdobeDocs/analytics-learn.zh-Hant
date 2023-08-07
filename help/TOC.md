@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 69e3927128d643c58932c0c21a376e52d76a0880
+source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
 workflow-type: tm+mt
 source-wordcount: '2448'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -331,15 +331,15 @@ ht-degree: 100%
       + [現在只需等待區隔...使用細分來發現新的深入見解](components/segmentation/segmentation-to-discover-new-insights.md)
    + 計算量度 {#calculated-metrics}
       + [計算量度產生器概觀](components/calculated-metrics/calculated-metrics-metric-builder.md)
-      + [計算量度 - 實作-較少量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
-      + [計算量度 - 分段量度](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
-      + [計算量度 - 函數](components/calculated-metrics/calculated-metrics-functions.md)
-      + [計算量度中近似的相異計數函數](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
-      + [Analysis Workspace 中的快捷計算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
+      + [計算量度 — 實作 — 較少量度](components/calculated-metrics/calculated-metrics-implementationless-metrics.md)
+      + [計算量度 — 分段量度](components/calculated-metrics/calculated-metrics-segmented-metrics.md)
+      + [計算量度 — 函式](components/calculated-metrics/calculated-metrics-functions.md)
+      + [計算量度中近似計數的不同函式](components/calculated-metrics/approximate-count-distinct-function-in-calculated-metrics.md)
+      + [Analysis Workspace中的快速計算量度](components/calculated-metrics/quick-calculated-metrics-in-analysis-workspace.md)
       + [管理您的計算量度](components/calculated-metrics/manage-your-calculated-metrics.md)
       + [計算量度中的 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/attribution-iq-in-calculated-metrics.html?lang=zh-Hant)
       + [在計算量度中使用維度](components/calculated-metrics/using-dimensions-in-calculated-metrics.md)
-      + [使用計算量度，讓您的資料分析提升到全新層次](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+      + [使用計算量度將您的資料分析提升到新的境界](components/calculated-metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
    + 分類 {#classifications}
       + [分類概觀](components/classifications/overview-of-classifications.md)
       + [使用規則分類建立器](components/classifications/using-the-classification-rule-builder.md)
