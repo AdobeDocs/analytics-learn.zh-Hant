@@ -3,10 +3,10 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 25435f340b525b80c68094caf800cae5b4859c52
-workflow-type: ht
-source-wordcount: '2448'
-ht-degree: 100%
+source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+workflow-type: tm+mt
+source-wordcount: '2458'
+ht-degree: 99%
 
 ---
 
@@ -126,6 +126,7 @@ ht-degree: 100%
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [環形圖視覺效果](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [長條圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
+      + [使用長條圖解除鎖定深入分析](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [折線圖視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [組合圖](analysis-workspace/visualizations/combo-charts.md)
       + [新增趨勢線到線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -137,11 +138,11 @@ ht-degree: 100%
       + [散佈圖視覺效果](analysis-workspace/visualizations/scatterplot-visualization.md)
       + [樹狀圖視覺效果](analysis-workspace/visualizations/treemap-visualization.md)
       + [文氏圖表視覺效果](analysis-workspace/visualizations/venn-diagram-visualization.md)
-      + [使用累積平均函數以套用度量平滑處理](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
+      + [使用累積平均函數以套用量度平滑處理](analysis-workspace/visualizations/using-the-cumulative-average-function-to-apply-metric-smoothing.md)
       + [彈性版面配置](analysis-workspace/visualizations/flexible-layouts.md)
       + [變更視覺效果的比例/軸](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [維度-圖表即時連結](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [詳細程度切換](analysis-workspace/visualizations/granularity-toggle.md)
+      + [設定視覺效果的粒度](analysis-workspace/visualizations/granularity-toggle.md)
       + [Analysis Workspace 中的內部連結](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
       + [重新排列視覺效果和調整大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [自訂視覺效果圖例](analysis-workspace/visualizations/customize-visualization-legends.md)
@@ -239,6 +240,7 @@ ht-degree: 100%
       + [使用全域報告套裝](administration/admin-tips/use-a-global-report-suite.md)
       + [建立新聞與公告專案](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [透過執行摘要儀表板取得成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+      + [建立運作儀表板](administration/admin-tips/create-operational-dashboards.md)
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
