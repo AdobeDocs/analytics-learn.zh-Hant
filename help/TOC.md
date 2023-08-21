@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+source-git-commit: a59a2e6f6a08e9dab5c519488e84d916d289c869
 workflow-type: tm+mt
-source-wordcount: '2458'
+source-wordcount: '2465'
 ht-degree: 99%
 
 ---
@@ -144,6 +144,7 @@ ht-degree: 99%
       + [維度-圖表即時連結](analysis-workspace/visualizations/dimension-graph-live-linking.md)
       + [設定視覺效果的粒度](analysis-workspace/visualizations/granularity-toggle.md)
       + [Analysis Workspace 中的內部連結](analysis-workspace/visualizations/intra-linking-in-analysis-workspace.md)
+      + [專案內部或外部的連結](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
       + [重新排列視覺效果和調整大小](analysis-workspace/visualizations/rearranging-and-resizing-visualizations.md)
       + [自訂視覺效果圖例](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% 堆疊視覺效果](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
