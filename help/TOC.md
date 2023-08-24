@@ -4,9 +4,9 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2457'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -126,7 +126,7 @@ ht-degree: 99%
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [環形圖視覺效果](analysis-workspace/visualizations/using-the-donut-visualization.md)
       + [長條圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
-      + [使用長條圖解除鎖定深入分析](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+      + [使用長條圖解鎖深入分析](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [折線圖視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [組合圖](analysis-workspace/visualizations/combo-charts.md)
       + [新增趨勢線到線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -142,7 +142,7 @@ ht-degree: 99%
       + [彈性版面配置](analysis-workspace/visualizations/flexible-layouts.md)
       + [變更視覺效果的比例/軸](analysis-workspace/visualizations/changing-the-scale-axis-on-visualizations.md)
       + [維度-圖表即時連結](analysis-workspace/visualizations/dimension-graph-live-linking.md)
-      + [設定視覺效果的粒度](analysis-workspace/visualizations/granularity-toggle.md)
+      + [設定視覺效果的詳細程度](analysis-workspace/visualizations/granularity-toggle.md)
       + [專案內部或外部的連結](analysis-workspace/visualizations/linking-inside-or-outside-of-your-project.md)
       + [自訂視覺效果圖例](analysis-workspace/visualizations/customize-visualization-legends.md)
       + [100% 堆疊視覺效果](analysis-workspace/visualizations/hundred-percent-stacked-visualizations.md)
@@ -239,7 +239,7 @@ ht-degree: 99%
       + [使用全域報告套裝](administration/admin-tips/use-a-global-report-suite.md)
       + [建立新聞與公告專案](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [透過執行摘要儀表板取得成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-      + [建立運作儀表板](administration/admin-tips/create-operational-dashboards.md)
+      + [建立操作儀表板](administration/admin-tips/create-operational-dashboards.md)
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
