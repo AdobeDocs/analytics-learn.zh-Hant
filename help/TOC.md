@@ -4,9 +4,9 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 source-git-commit: b9f08a980d1adfb8fb08fb6348e83394228582ea
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '2457'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
