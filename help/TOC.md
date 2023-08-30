@@ -4,9 +4,9 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2450'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -114,11 +114,11 @@ ht-degree: 99%
       + [自由格式表格篩選器](analysis-workspace/building-freeform-tables/freeform-table-filters.md)
       + [時間分隔維度](analysis-workspace/building-freeform-tables/time-parting-dimensions-in-analysis-workspace.md)
    + 視覺效果 {#visualizations}
-      + [視覺效果型別和概觀](analysis-workspace/visualizations/visualization-types.md)
+      + [視覺效果類型與概觀](analysis-workspace/visualizations/visualization-types.md)
       + [視覺效果使用案例](analysis-workspace/visualizations/visualization-use-cases.md)
       + [資料視覺效果教戰手冊](analysis-workspace/visualizations/data-visualization-playbook.md)
       + [將資料帶入視覺效果中](analysis-workspace/visualizations/getting-data-into-visualizations.md)
-      + [使用Workspace中的元件下拉清單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
+      + [使用 Workspace 中的元件下拉選單](analysis-workspace/visualizations/using-component-dropdowns-in-workspace.md)
       + [區域圖和堆疊區域圖視覺效果](analysis-workspace/visualizations/area-and-area-stacked.md)
       + [橫條圖和堆疊橫條圖視覺效果](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
