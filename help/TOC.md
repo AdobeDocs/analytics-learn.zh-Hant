@@ -3,9 +3,9 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-source-git-commit: 215c0c84936c2fc415180b5bdaf6b70633203cca
+source-git-commit: 09f89bcfed09ad63803c899f6995e25e5d8980b4
 workflow-type: ht
-source-wordcount: '2450'
+source-wordcount: '2441'
 ht-degree: 100%
 
 ---
@@ -275,13 +275,11 @@ ht-degree: 100%
       + [Analytics 管理員記錄總覽](administration/logs/overview-of-analytics-admin-logs.md)
 + 實作{#implementation}
    + 實作基本需知 {#implementation-basics}
-      + [首次實作](implementation/implementation-basics/first-time-implementation.md)
       + [了解和建立報告套裝](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=zh-Hant)
       + [使用處理規則將 contextData 變數對應至 Prop 和 eVar](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
       + [如何識別您的 Analytics Tracking Server 和報告套裝](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [建立業務需求文件](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [建立和管理 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-      + [在網站上使用資料圖層](implementation/implementation-basics/using-a-data-layer-on-your-site.md)
    + 透過 Experience Platform Launch 進行{#via-adobe-launch}
       + [透過 Experience Platform Launch 在網站中實作 Experience Cloud](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=zh-Hant)
       + [Analytics Launch 擴充功能的基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
