@@ -1,25 +1,21 @@
 ---
 title: 相異維度計數的分段
-description: 在區段產生器中新的相異計數運算子可讓您根據任一維度內不重複項目的數量進行分段。篩選檢視 5 個以上頁面的造訪，或購買 5 個以上產品的點擊，亦即，在單一訂單內。
+description: 區段產生器中的相異計數運運算元可讓您根據任何維度內不重複專案的數量進行分段。 篩選檢視5個以上頁面的造訪，或單一訂單中購買多個產品的點選等。
 feature: Segmentation
 thumbnail: 27257.jpg
 kt: 2918
 role: User
 level: Beginner
 exl-id: 47bd517d-d315-46bd-a17e-c01574a7bb7d
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 8ab9f8cb1ebef6a0f281a63a2a2946475cb9f3b4
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 100%
+source-wordcount: '112'
+ht-degree: 16%
 
 ---
 
 # 相異維度計數的分段 {#segmentation-on-distinct-dimension-counts}
 
-在[!UICONTROL 區段產生器]中新的[!UICONTROL 相異計數]運算子可讓您根據任一[!UICONTROL 維度]內不重複項目的數量進行分段。篩選檢視 5 個以上頁面的造訪，或購買 5 個以上產品的點擊，亦即，在單一訂單內。
+區段產生器中的相異計數運運算元可讓您根據任何維度內不重複專案的數量進行分段。 篩選檢視5個以上頁面的造訪，或單一訂單中購買多個產品的點選等。 如需詳細檔案，請造訪 [區段的比較運運算元](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=zh-Hant).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27257/?quality=12&learn=on)
-
-此功能還能更酷嗎？:)
-
-如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segment-reference/seg-operators.html?lang=zh-Hant)。
