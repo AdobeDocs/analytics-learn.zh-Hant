@@ -4,10 +4,10 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
-workflow-type: ht
+source-git-commit: d6b91c8e32304e0a141da35d37163fbe8dd59327
+workflow-type: tm+mt
 source-wordcount: '2435'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -324,7 +324,7 @@ ht-degree: 100%
       + [在順序分段中的前/後順序](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
       + [相異維度計數的分段](components/segmentation/segmentation-on-distinct-dimension-counts.md)
       + [分段中的維度模型](components/segmentation/dimension-models-in-segmentation.md)
-      + [分段中「等於任何」的運算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [在分段中使用「等於任何」](components/segmentation/equals-any-of-operator-in-segmentation.md)
       + [Analytics Insider 網路研討會 - 客戶分段策略](components/segmentation/customer-segmentation-strategies.md)
       + [現在只需等待區隔...使用細分來發現新的深入見解](components/segmentation/segmentation-to-discover-new-insights.md)
    + 計算量度 {#calculated-metrics}
