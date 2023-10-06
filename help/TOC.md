@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 00d89f74344be15eb4e8583cfd9c91e921b797a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2435'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -313,19 +313,19 @@ ht-degree: 97%
       + [區段產生器概觀](components/segmentation/segment-builder-overview.md)
       + [尋找和建立區段](components/segmentation/finding-and-creating-segments.md)
       + [區段中的滾動式日期範圍](components/segmentation/rolling-date-ranges-in-segments.md)
-      + [Analysis Workspace中的區段比較](components/segmentation/segment-comparison-in-analysis-workspace.md)
+      + [Analysis Workspace 中的區段比較](components/segmentation/segment-comparison-in-analysis-workspace.md)
       + [區段容器](components/segmentation/segment-containers.md)
       + [區段管理和共用](components/segmentation/segment-management-and-sharing.md)
-      + [在Analysis Workspace中套用區段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=zh-Hant)
+      + [在 Analysis Workspace 中套用區段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-in-analysis-workspace.html?lang=zh-Hant)
       + [使用區段作為維度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.html?lang=zh-Hant)
       + [使用區段來限制資料](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.html?lang=zh-Hant)
       + [區段產生器和快速區段之間的區別](components/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
-      + [循序分段](components/segmentation/sequential-segmentation.md)
+      + [順序分段](components/segmentation/sequential-segmentation.md)
       + [在順序分段中的前/後順序](components/segmentation/before-after-sequences-in-sequential-segmentation.md)
-      + [不同維度數的分段](components/segmentation/segmentation-on-distinct-dimension-counts.md)
-      + [分段中的Dimension模型](components/segmentation/dimension-models-in-segmentation.md)
-      + [分段中的「等於任何」運運算元](components/segmentation/equals-any-of-operator-in-segmentation.md)
-      + [Analytics Insider 網路研討會 - 客戶區隔策略](components/segmentation/customer-segmentation-strategies.md)
+      + [相異維度計數的分段](components/segmentation/segmentation-on-distinct-dimension-counts.md)
+      + [分段中的維度模型](components/segmentation/dimension-models-in-segmentation.md)
+      + [分段中「等於任何」的運算子](components/segmentation/equals-any-of-operator-in-segmentation.md)
+      + [Analytics Insider 網路研討會 - 客戶分段策略](components/segmentation/customer-segmentation-strategies.md)
       + [現在只需等待區隔...使用細分來發現新的深入見解](components/segmentation/segmentation-to-discover-new-insights.md)
    + 計算量度 {#calculated-metrics}
       + [計算量度產生器概觀](components/calculated-metrics/calculated-metrics-metric-builder.md)
