@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 42bf16df9585d1f41206b81bf509a72c10f1d7f2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2436'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -277,10 +277,10 @@ ht-degree: 98%
 + 實作{#implementation}
    + 實作基本需知 {#implementation-basics}
       + [了解和建立報告套裝](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=zh-Hant)
-      + [使用處理規則將contextData變數對應至prop和eVar](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
-      + [如何識別您的Analytics追蹤伺服器和報表套裝ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
+      + [使用處理規則將 contextData 變數對應至 Prop 和 eVar](implementation/implementation-basics/map-contextdata-variables-into-props-and-evars-with-processing-rules.md)
+      + [如何識別您的分析追蹤伺服器和報告套裝 ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [建立業務需求文件](implementation/implementation-basics/creating-a-business-requirements-document.md)
-      + [建立和管理SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
+      + [建立和管理 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + 透過 Experience Platform Launch 進行{#via-adobe-launch}
       + [透過 Experience Platform Launch 在網站中實作 Experience Cloud](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=zh-Hant)
       + [Analytics Launch 擴充功能的基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
