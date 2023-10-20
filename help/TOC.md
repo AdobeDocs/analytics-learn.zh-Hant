@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 0959983ce935880b9e42fb2118cb0f71890db0a2
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2429'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -341,11 +341,11 @@ ht-degree: 99%
    + 分類 {#classifications}
       + [分類概觀](components/classifications/overview-of-classifications.md)
       + [使用規則分類建立器](components/classifications/using-the-classification-rule-builder.md)
-   + 虛擬報程套裝 {#virtual-report-suites}
-      + [虛擬報程套裝總覽](components/virtual-report-suites/virtual-report-suites.md)
-      + [元件組織](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
-      + [在虛擬報表套裝中自訂造訪](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
-      + [開始任何事件的新造訪](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
+   + 虛擬報告套裝 {#virtual-report-suites}
+      + [虛擬報告套裝總覽](components/virtual-report-suites/virtual-report-suites.md)
+      + [元件策劃](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
+      + [在虛擬報告套裝中自訂造訪](components/virtual-report-suites/context-aware-sessions-in-virtual-report-suites.md)
+      + [開始對任何事件的新造訪](components/virtual-report-suites/start-a-new-visit-on-any-event-in-virtual-report-suites.md)
    + Activity Map {#activity-map}
       + [Activity Map 概觀](components/activity-map/activity-map-overview.md)
       + [啟動、偵錯並自訂 Adobe Analytics Activity Map](components/activity-map/enabling-debugging-and-customizing-the-activity-map.md)
