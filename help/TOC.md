@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 94edd5018fede719f4d5c8f07479da15469e4859
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2428'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -362,9 +362,9 @@ ht-degree: 99%
    + 從 UI {#from-the-ui}
       + [從 Analysis Workspace 匯出 CSV 檔案](exporting/from-the-ui/export-to-csv-from-analysis-workspace.md)
    + Data Warehouse {#data-warehouse}
-      + [Data Warehouse匯出](exporting/data-warehouse/introduction-to-data-warehouse.md)
+      + [Data Warehouse 匯出](exporting/data-warehouse/introduction-to-data-warehouse.md)
       + [透過 SFTP 傳送 Data Warehouse 請求](exporting/data-warehouse/send-data-warehouse-request-via-sftp.md)
-      + [以Tableau資料擷取傳送Data Warehouse報表](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
+      + [以 Tableau 資料擷取格式傳送 Data Warehouse 報告](exporting/data-warehouse/send-data-warehouse-reports-in-tableau-data-extract.md)
    + 資料摘要 {#data-feeds}
       + [資料摘要管理 UI](exporting/data-feeds/data-feeds-management-ui.md)
       + [下載資料摘要驗證金鑰](exporting/data-feeds/download-the-data-feed-authentication-key.md)
