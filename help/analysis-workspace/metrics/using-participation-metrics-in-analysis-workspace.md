@@ -1,23 +1,23 @@
 ---
-title: 在 Analysis Workspace 中使用參與率量度
-description: 在 Analysis Workspace 中隨時使用這個簡單的秘訣取得任何參與率量度。
+title: 建立參與率量度
+description: 瞭解如何建立參與率量度並用於以下專案 [!DNL Analysis Workspace].
 feature: Metrics
 thumbnail: 41266.jpg
-kt: 6355
 role: User
 level: Beginner
+kt: 6355
 exl-id: 336853ad-c273-4627-919b-3c86f97b60e3
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 967f28c033267520d041b3fb5c9b432a3d6afdb7
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 100%
+source-wordcount: '41'
+ht-degree: 36%
 
 ---
 
-# 在 Analysis Workspace 中使用參與率量度
+# 建立參與率量度
 
-在 Analysis Workspace 中隨時使用這個簡單的秘訣取得任何參與率量度。
+瞭解如何建立參與率量度並用於以下專案 [!DNL Analysis Workspace].
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
-如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html?lang=zh-Hant)。
+如需詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html)。
