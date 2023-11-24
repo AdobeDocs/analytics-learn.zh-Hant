@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 572efe8df10b7ba82ca7717f232dfc0fbf134561
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2425'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -172,7 +172,7 @@ ht-degree: 99%
    + 維度 {#dimensions}
       + [新增維度和量度至您的專案](analysis-workspace/dimensions/adding-dimensions-and-metrics-to-your-project-in-analysis-workspace.md)
       + [流量變數 (prop) 簡介](analysis-workspace/dimensions/introduction-to-traffic-variables-props.md)
-      + [轉換變數(eVar)簡介](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
+      + [轉換變數 (eVar) 簡介](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [在自由格式表格中使用維度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=zh-Hant)
    + 行事曆和日期範圍 {#calendar-and-date-ranges}
       + [在 Analysis Workspace 中使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
