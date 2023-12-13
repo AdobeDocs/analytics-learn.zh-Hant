@@ -4,10 +4,10 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
+source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
 workflow-type: tm+mt
 source-wordcount: '2264'
-ht-degree: 99%
+ht-degree: 98%
 
 ---
 
@@ -287,7 +287,7 @@ ht-degree: 99%
       + [Analytics擴充功能的基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [為 Analytics 擴充功能設定資料庫管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
       + [設定Analytics擴充功能的一般設定](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [在 Analytics Launch 擴充功能中設定全域變數](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [設定Analytics擴充功能的全域變數設定](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [在 Analytics Launch 擴充功能中進行 Cookie 設定](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [設定 Analytics Launch 擴充功能時使用自訂編碼](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
       + [透過 Launch 使用資料圖層來設定頁面名稱和其他變數](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
