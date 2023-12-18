@@ -1,6 +1,6 @@
 ---
-title: 稽核資料字典的實用檢查清單
-description: 透過我們的Adobe Analytics和Customer Journey Analytics資料字典稽核核對清單，提升資料效率和可靠性。
+title: 可協助稽核資料字典的檢查清單
+description: 使用我們的 Adobe Analytics 和 Customer Journey Analytics 資料字典稽核清單來提高資料效率和可靠性。
 feature: Data Dictionary
 topic: Administration
 role: User
@@ -10,26 +10,27 @@ duration: 36000
 last-substantial-update: 2023-12-06T00:00:00Z
 jira: KT-14613
 thumbnail: KT-14613.jpeg
-source-git-commit: 3dd6fd5f97f2fac3651891e35113e72e89e2261f
-workflow-type: tm+mt
+exl-id: 24c1420d-72f5-4aad-ab8c-3fd1dcd67b47
+source-git-commit: 4dcec34a9ed5d600c4d18601ae2d9e1ef250df7f
+workflow-type: ht
 source-wordcount: '130'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
+# 可協助稽核資料字典的檢查清單
 
-# 稽核資料字典的實用檢查清單
+使用我們的 Adobe Analytics 和 Customer Journey Analytics 資料字典稽核清單來提高資料效率和可靠性。
 
-透過我們的Adobe Analytics和Customer Journey Analytics資料字典稽核核對清單，提升資料效率和可靠性。
+作為管理員，明智的做法是定期仔細檢查 Adobe Analytics 和 Adobe Customer Journey Analytics 中旳資料字典並完成稽核。本指南藉由刪除多餘、過時或不必要的元件來協助簡化資料字典。如此您可高枕無憂，對您強大且值得信賴的資料字典充滿信心
 
-作為管理員，建議您定期在Adobe Analytics和Adobe Customer Journey Analytics中進一步瞭解您的資料字典並完成稽核。 本指南可移除冗餘、過時或不必要的元件，有助於簡化您的資料字典。 悠閒自在，放心使用強大且值得信賴的資料字典資源。
-
-[下載資料字典檢查清單](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Adobe_Analytics_Data_Dictionary_Checklist.pdf) 並開始最佳化您的資料管理。
+[下載資料字典檢查清單](https://www.adobe.com/content/dam/www/us/en/digital-experience/in-product/images/Adobe_Analytics_Data_Dictionary_Checklist.pdf)並開始最佳化您的資料管理。
 
 ## 作者
 
 本文件的作者為：
 
-![赫里斯托斯·武察基斯](assets/christos-headshot.png)
+![Christos Voutsakis](assets/christos-headshot.png)
 
-Adobe的Christos Voutsakis主要客戶成功架構師
+Christos Voutsakis
+Adobe 首席客戶成功架構師
