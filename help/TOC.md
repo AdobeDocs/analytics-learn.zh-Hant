@@ -7,7 +7,7 @@ auto-video-transcripts: true
 source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
 workflow-type: tm+mt
 source-wordcount: '2264'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -284,9 +284,9 @@ ht-degree: 98%
       + [建立和管理 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
    + 使用 Experience Platform 標記 {#via-adobe-launch}
       + [透過 Experience Platform Launch 在網站中實作 Experience Cloud](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=zh-Hant)
-      + [Analytics擴充功能的基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
+      + [Analytics 擴充功能的基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
       + [為 Analytics 擴充功能設定資料庫管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [設定Analytics擴充功能的一般設定](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [設定 Analytics 擴充功能的一般設定](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
       + [設定Analytics擴充功能的全域變數設定](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
       + [在 Analytics Launch 擴充功能中進行 Cookie 設定](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
       + [設定 Analytics Launch 擴充功能時使用自訂編碼](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
