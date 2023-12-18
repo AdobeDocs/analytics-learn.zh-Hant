@@ -4,10 +4,10 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a3eaa0feedb826c176e233e8d243ae617b816cab
+source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
 workflow-type: tm+mt
-source-wordcount: '2264'
-ht-degree: 99%
+source-wordcount: '2249'
+ht-degree: 98%
 
 ---
 
@@ -34,19 +34,17 @@ ht-degree: 99%
    + 從其他平台轉換 {#transitioning-from-other-platforms}
       + [從 Google Analytics 轉換](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 基本知識 {#analytics-basics}
-      + [Reports and Analytics 中的「在工作區中嘗試」按鈕](intro-to-analytics/analytics-basics/try-in-workspace-button.md)
-      + [了解 Analytics 週期](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
-      + [如何搜集 Analytics 資料](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
+      + [瞭解Analytics週期](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
+      + [如何蒐集Analytics資料](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [登入 Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [了解和建立報告套裝](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [了解基本訪客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=zh-Hant)
-      + [流量變數 (Prop) ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=zh-Hant)
-      + [轉換變數 (eVar) 介紹](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=zh-Hant)
-      + [轉換事件介紹](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=zh-Hant)
+      + [瞭解和建立報表套裝](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [瞭解基本訪客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=zh-Hant)
+      + [流量變數(prop)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=zh-Hant)
+      + [轉換變數(eVar)簡介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=zh-Hant)
+      + [轉換事件簡介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=zh-Hant)
    + 自訂 UI {#customizing-the-ui}
       + [自訂 Analysis Workspace 使用者偏好設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
       + [新增維度和量度說明](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
-      + [在 Reports and Analytics 中自訂選單](intro-to-analytics/customizing-the-ui/customizing-the-menu-in-reports-and-analytics.md)
       + [增強安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [將 Analysis Workspace 專案設為您的登陸頁面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
    + 取得協助 {#getting-help}
