@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2249'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -34,13 +34,13 @@ ht-degree: 98%
    + 從其他平台轉換 {#transitioning-from-other-platforms}
       + [從 Google Analytics 轉換](intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analytics 基本知識 {#analytics-basics}
-      + [瞭解Analytics週期](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
-      + [如何蒐集Analytics資料](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
+      + [了解 Analytics 週期](intro-to-analytics/analytics-basics/understanding-the-analytics-cycle.md)
+      + [如何搜集 Analytics 資料](intro-to-analytics/analytics-basics/how-analytics-data-is-collected.md)
       + [登入 Adobe Analytics](intro-to-analytics/analytics-basics/logging-in-to-adobe-analytics.md)
-      + [瞭解和建立報表套裝](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
-      + [瞭解基本訪客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=zh-Hant)
-      + [流量變數(prop)](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=zh-Hant)
-      + [轉換變數(eVar)簡介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=zh-Hant)
+      + [了解並建立報告套裝](intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.md)
+      + [了解基本訪客量度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/understanding-basic-visitor-metrics.html?lang=zh-Hant)
+      + [流量變數 (Prop) 簡介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-traffic-variables-props.html?lang=zh-Hant)
+      + [轉換變數 (eVar) 簡介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/dimensions/introduction-to-conversion-variables-evars.html?lang=zh-Hant)
       + [轉換事件簡介](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/metrics/introduction-to-conversion-events.html?lang=zh-Hant)
    + 自訂 UI {#customizing-the-ui}
       + [自訂 Analysis Workspace 使用者偏好設定](intro-to-analytics/customizing-the-ui/user-preferences.md)
