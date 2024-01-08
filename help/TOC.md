@@ -4,10 +4,10 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: a280621d6b9656a1dc6c33dfec7bf8226bfb5be5
-workflow-type: ht
-source-wordcount: '2249'
-ht-degree: 100%
+source-git-commit: 8f5adbc0627b30256529c9de36ae43f18ddcad84
+workflow-type: tm+mt
+source-wordcount: '2227'
+ht-degree: 98%
 
 ---
 
@@ -180,17 +180,15 @@ ht-degree: 100%
       + [Analysis Workspace 中的日期比較](analysis-workspace/calendar-and-date-ranges/date-comparisons-in-analysis-workspace.md)
       + [新增前一個月和前一年的趨勢比較](analysis-workspace/calendar-and-date-ranges/adding-prior-month-and-year-comparisons-to-trends.md)
    + 策劃和共用專案 {#curate-and-share-projects}
-      + [在 Analysis Workspace 中儲存、共用及協作專案](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
-      + [Analysis Workspace 中的「組織」與「共用」](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
+      + [儲存、共用及共同作業專案](analysis-workspace/curate-and-share-projects/saving-sharing-and-collaborating-on-projects-in-analysis-workspace.md)
+      + [組織與共用專案](analysis-workspace/curate-and-share-projects/curation-and-sharing-in-analysis-workspace.md)
       + [專案的直接連結](analysis-workspace/curate-and-share-projects/direct-link-to-a-project.md)
-      + [在 Analysis Workspace 中與任何人共用](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
+      + [與任何人共用](analysis-workspace/curate-and-share-projects/share-with-anyone-in-analysis-workspace.md)
       + [將 50,000 個項目下載為 CSV 檔](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
-      + [從 Analysis Workspace 匯出 CSV 和 PDF 檔案](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
+      + [匯出至CSV和PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [共用內嵌元件](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [排程和可下載專案](analysis-workspace/curate-and-share-projects/scheduled-downloadable-projects-analysis-workspace.md)
-      + [Analysis Workspace 專案共用](analysis-workspace/curate-and-share-projects/project-sharing-in-analysis-workspace.md)
-      + [Analysis Workspace 中僅限檢視的專案](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
-      + [釋放僅限檢視共享的效能](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+      + [建立僅供檢視的專案](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [解鎖僅供檢視的共用功能](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [使用交叉表分析來探索基本的行銷歸因](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
       + [新增 Attribution IQ 模型的並排比較](analysis-workspace/attribution-iq/adding-side-by-side-comparisons-of-attribution-iq-models.md)
