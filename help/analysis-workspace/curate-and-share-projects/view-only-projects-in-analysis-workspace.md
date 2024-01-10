@@ -1,6 +1,6 @@
 ---
-title: Analysis Workspace 中僅限檢視的專案
-description: 工作區專案能僅以「可供檢視」狀態與使用者共用。 當「檢視」收件者開啟共用專案時，獲得的專案體驗限制較嚴格，除了沒有左邊欄，互動也會受限。
+title: 在Analysis Workspace中共用唯讀專案
+description: 瞭解如何與使用者共用唯讀的Workspace Analysis專案，並瞭解此許可權層級的可用功能。
 feature: Curate and Share
 topics: null
 activity: use
@@ -11,16 +11,16 @@ kt: 5556
 role: User
 level: Beginner
 exl-id: c6884dcd-4e0c-4a7a-aa6e-670db4111145
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
 workflow-type: tm+mt
-source-wordcount: '90'
-ht-degree: 75%
+source-wordcount: '59'
+ht-degree: 11%
 
 ---
 
-# Analysis Workspace 中僅限檢視的專案
+# 在Analysis Workspace中共用唯讀專案
 
-工作區專案能僅以「可供檢視」狀態與使用者共用。 當「檢視」收件者開啟共用專案時，獲得的專案體驗限制較嚴格，除了沒有左邊欄，互動也會受限。
+瞭解如何與使用者共用唯讀的Workspace Analysis專案，並瞭解此許可權層級的可用功能。
 
 >[!VIDEO](https://video.tv.adobe.com/v/36206/?quality=12&learn=on)
 
