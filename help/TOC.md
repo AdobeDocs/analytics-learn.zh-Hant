@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2227'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -187,7 +187,7 @@ ht-degree: 99%
       + [將 50,000 個項目下載為 CSV 檔](analysis-workspace/curate-and-share-projects/download-50000-items-as-csv.md)
       + [匯出為 CSV 和 PDF](analysis-workspace/curate-and-share-projects/export-to-csv-and-pdf-from-analysis-workspace.md)
       + [共用內嵌元件](analysis-workspace/curate-and-share-projects/share-embedded-components.md)
-      + [共用唯讀專案](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
+      + [共用唯讀項目](analysis-workspace/curate-and-share-projects/view-only-projects-in-analysis-workspace.md)
       + [釋放僅供檢視共用的效能](analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
    + Attribution IQ {#attribution-iq}
       + [使用交叉表分析來探索基本的行銷歸因](analysis-workspace/attribution-iq/using-cross-tab-analysis-to-explore-basic-marketing-attribution-in-analysis-workspace.md)
