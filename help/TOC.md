@@ -4,10 +4,10 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: b80d4af99da80f76efe3a37b5112d8c49cd0aabd
-workflow-type: ht
-source-wordcount: '2227'
-ht-degree: 100%
+source-git-commit: e53d68389ae1b9ccd38dc368812c5edbd9ba1550
+workflow-type: tm+mt
+source-wordcount: '2192'
+ht-degree: 94%
 
 ---
 
@@ -278,26 +278,26 @@ ht-degree: 100%
       + [如何識別您的分析追蹤伺服器和報告套裝 ID](implementation/implementation-basics/how-to-identify-your-analytics-tracking-server-and-report-suites.md)
       + [建立業務需求文件](implementation/implementation-basics/creating-a-business-requirements-document.md)
       + [建立和管理 SDR](implementation/implementation-basics/creating-and-maintaining-an-sdr.md)
-   + 使用 Experience Platform 標記 {#via-adobe-launch}
-      + [透過 Experience Platform Launch 在網站中實作 Experience Cloud](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=zh-Hant)
+   + Experience Platform標籤 {#experience-platform-tags}
+      + [使用標籤在網站中實作Experience Cloud解決方案](https://experienceleague.adobe.com/docs/launch-learn/implementing-in-websites-with-launch/index.html?lang=zh-Hant)
       + [Analytics 擴充功能的基本設定](implementation/via-adobe-launch/basic-configuration-of-the-analytics-launch-extension.md)
-      + [為 Analytics 擴充功能設定資料庫管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
-      + [設定 Analytics 擴充功能的一般設定](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
-      + [設定 Analytics 擴充功能的全域變數設定](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
-      + [在 Analytics Launch 擴充功能中進行 Cookie 設定](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
-      + [設定 Analytics Launch 擴充功能時使用自訂編碼](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
-      + [透過 Launch 使用資料圖層來設定頁面名稱和其他變數](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
-      + [在 Launch 中新增實作外掛程式](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
-      + [在 Adobe Analytics 擴充功能中使用 doPlugins](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
+      + [在Analytics擴充功能中設定程式庫管理](implementation/via-adobe-launch/configuring-library-management-in-the-launch-analytics-extension.md)
+      + [在Analytics擴充功能中設定一般設定](implementation/via-adobe-launch/configuring-general-settings-in-the-launch-analytics-extension.md)
+      + [在Analytics擴充功能中設定全域變數設定](implementation/via-adobe-launch/configuring-global-variables-in-the-launch-analytics-extension.md)
+      + [在Analytics擴充功能中進行Cookie設定](implementation/via-adobe-launch/configuring-cookie-settings-in-the-launch-analytics-extension.md)
+      + [在Analytics擴充功能中使用自訂程式碼](implementation/via-adobe-launch/using-custom-code-while-configuring-the-launch-analytics-extension.md)
+      + [使用資料層來設定變數](implementation/via-adobe-launch/using-a-data-layer-to-set-page-name-and-other-variables-via-launch.md)
+      + [新增實作外掛程式](implementation/via-adobe-launch/adding-implementation-plug-ins-in-launch.md)
+      + [在Adobe Analytics擴充功能中使用doPlugins](implementation/via-adobe-launch/use-doplugins-in-the-adobe-analytics-extension.md)
       + [設定輕鬆下載的連結追蹤](implementation/via-adobe-launch/configuring-easy-download-link-tracking.md)
       + [設定輕鬆退出的連結追蹤](implementation/via-adobe-launch/configuring-easy-exit-link-tracking.md)
-      + [為您的 Analytics 實作準備 Experience Platform Launch](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
-      + [為您的 Analytics 實作在 Experience Platform Launch 中建立資料元件](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
-      + [在 Experience Platform Launch 中建立全域頁面規則](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
-      + [在 Experience Platform Launch 中驗證您的全域頁面載入規則](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
-      + [建立特別頁面的 Experience Platform Launch 規則](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
-      + [建立成功事件的 Experience Platform Launch 規則](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
-      + [發佈 Experience Platform Launch 資料庫至階段和生產環境](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
+      + [為您的Analytics實作準備標籤](implementation/via-adobe-launch/preparing-adobe-launch-for-your-analytics-implementation.md)
+      + [為Analytics實作建立資料元素](implementation/via-adobe-launch/creating-data-elements-in-launch-for-the-analytics-implementation.md)
+      + [建立全域頁面載入規則](implementation/via-adobe-launch/creating-a-global-page-rule-in-launch.md)
+      + [驗證全域頁面載入規則](implementation/via-adobe-launch/validating-your-global-page-load-rule-in-launch.md)
+      + [建立特別頁面的規則](implementation/via-adobe-launch/creating-launch-rules-for-special-pages.md)
+      + [建立成功事件的規則](implementation/via-adobe-launch/creating-launch-rules-for-success-events.md)
+      + [將標籤資料庫發佈到中繼和生產環境](implementation/via-adobe-launch/publishing-launch-libraries-to-stage-and-production.md)
    + 使用 JavaScript {#using-javascript}
       + [無 Tag Manager 的自訂連結追蹤](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [不使用 Experience Platform Launch 時進行 AppMeasurement 更新](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
