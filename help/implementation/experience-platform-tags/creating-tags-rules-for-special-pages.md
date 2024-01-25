@@ -1,6 +1,6 @@
 ---
-title: 建立Experience Platform [!DNL tags] 特別頁面的規則
-description: 除了在每個頁面上收集的資料外，您還有必須在特定頁面上收集的其他資料。 本影片說明如何將該資料與通用資料合併，然後傳送至Adobe Analytics。
+title: 為特殊頁面建立 Experience Platform [!DNL tags] 規則
+description: 除了在每個頁面上收集的資料之外，您還必須在特定頁面上收集其他資料。本影片說明如何將該資料與常見資料合併，然後傳送至 Adobe Analytics。
 feature: Tags
 topics: Development
 kt: 3590
@@ -8,18 +8,18 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 7cc9ea3e-1c31-4dac-9f7e-89f7a6ef315b
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '93'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 建立Experience Platform [!DNL tags] 特別頁面的規則
+# 為特殊頁面建立 Experience Platform [!DNL tags] 規則
 
-除了在每個頁面上收集的資料外，您還有必須在特定頁面上收集的其他資料。 本影片說明如何將該資料與通用資料合併，然後傳送至Adobe Analytics。
+除了在每個頁面上收集的資料之外，您還必須在特定頁面上收集其他資料。本影片說明如何將該資料與常見資料合併，然後傳送至 Adobe Analytics。
 
 >[!NOTE]
 >
-> Launch現在為 **[!DNL tags]**
+> Launch 現已&#x200B;**[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12&learn=on)
