@@ -1,6 +1,6 @@
 ---
-title: 在的Adobe Analytics擴充功能中使用自訂程式碼 [!DNL tags]
-description: 瞭解在中設定Adobe Analytics擴充功能時，使用自訂程式碼編輯器的使用案例和技術考量事項 [!DNL tags].
+title: 在 [!DNL tags]的 Adobe Analytics 擴充功能中使用自訂程式碼
+description: 了解在 [!DNL tags]中設定 Adobe Analytics 擴充功能時使用自訂程式碼編輯器的使用案例和技術考量。
 feature: Tags
 topics: Development
 doc-type: technical video
@@ -10,16 +10,16 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: f44bc723-0a05-4f88-8f49-04ca00dd1057
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在的Adobe Analytics擴充功能中使用自訂程式碼 [!DNL tags]
+# 在 [!DNL tags] 的 Adobe Analytics 擴充功能中使用自訂程式碼
 
-瞭解在中設定Adobe Analytics擴充功能時，使用自訂程式碼編輯器的使用案例和技術考量事項 [!DNL tags].
+了解在 [!DNL tags] 中設定 Adobe Analytics 擴充功能時使用自訂程式碼編輯器的使用案例和技術考量。
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
-檢閱 [檔案](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html) 以取得有關 <i>doPlugins函式</i> 在此影片中參照。
+請參閱[本文件](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html)，以了解有關本影片中參照的 <i>doPlugins 函數</i>的更多資訊。
