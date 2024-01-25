@@ -1,6 +1,6 @@
 ---
-title: 在Experience Platform中建立資料元素 [!DNL tags] 適用於Analytics實作
-description: 本影片說明如何在中建立Analytics實作的資料元素 [!DNL tags] 根據解決方案設計參考(SDR)檔案中記錄的變數和事件。
+title: 為 Analytics 實施在 Experience Platform [!DNL tags] 中建立資料元素
+description: 本影片說明如何根據在 Solution Design Reference (SDR) 文件中決定和記載的變數和事件，為您在 [!DNL tags] 中的 Analytics 實施建立資料元素。
 feature: Tags
 topics: Development
 activity: implement
@@ -11,18 +11,18 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: ee3a808a-f972-46e4-9213-2bc5bba6e0fd
 source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '75'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在Experience Platform中建立資料元素 [!DNL tags] 適用於Analytics實作
+# 為 Analytics 實施在 Experience Platform [!DNL tags] 中建立資料元素
 
 >[!NOTE]
 >
-> Launch現在為 **[!DNL tags]**
+> Launch 現已&#x200B;**[!DNL tags]**
 
-本影片說明如何在中建立Analytics實作的資料元素 [!DNL tags] 根據解決方案設計參考(SDR)檔案中記錄的變數和事件。
+本影片說明如何根據在 Solution Design Reference (SDR) 文件中決定和記載的變數和事件，為您在 [!DNL tags] 中的 Analytics 實施建立資料元素。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28760/?quality=12&learn=on)
