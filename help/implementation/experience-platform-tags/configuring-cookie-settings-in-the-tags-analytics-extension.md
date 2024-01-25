@@ -1,6 +1,6 @@
 ---
-title: 在中配置Cookie設定 [!DNL tags] Analytics擴充功能
-description: 如果您正開始使用 [!DNL tags] 以及Adobe Analytics擴充功能，本影片有助於您瞭解何時以及如何在Analytics擴充功能中設定Cookie設定。
+title: 在 [!DNL tags] Analytics 擴充功能中設定 Cookie 設定
+description: 如果您正開始使用 [!DNL tags] 和 Adobe Analytics 擴充功能，本影片有助於您了解何時和如何在 Analytics 擴充功能中設定 Cookie 設定。
 feature: Tags
 topics: Development
 activity: implement
@@ -11,18 +11,18 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 72013b6e-672e-4e8a-b6a2-27b35d5be5d5
 source-git-commit: f671c6edfde800ebc6d3dd0aebfeab57299814e9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# 在中配置Cookie設定 [!DNL tags] Analytics擴充功能
+# 在 [!DNL tags] Analytics 擴充功能中設定 Cookie 設定
 
-如果您正開始使用 [!DNL tags] 以及Adobe Analytics擴充功能，本影片有助於您瞭解何時以及如何在Analytics擴充功能中設定Cookie設定。
+如果您正開始使用 [!DNL tags] 和 Adobe Analytics 擴充功能，本影片有助於您了解何時和如何在 Analytics 擴充功能中設定 Cookie 設定。
 
 >[!NOTE]
 >
-> Launch現在為 **[!DNL tags]**
+> Launch 現已&#x200B;**[!DNL tags]**
 
 >[!VIDEO](https://video.tv.adobe.com/v/27212/?quality=12&learn=on)
