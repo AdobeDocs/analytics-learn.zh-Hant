@@ -1,6 +1,6 @@
 ---
-title: 在Experience Platform標籤中設定輕鬆下載的連結追蹤
-description: 只要在Experience Platform標籤中的Adobe Analytics擴充功能中按幾下，您就可以開始追蹤網站上的下載連結（將非瀏覽器檔案下載至電腦的連結）。
+title: 在 Experience Platform 標記中設定簡單的下載連結追蹤
+description: 只要在 Experience Platform 標記中的 Adobe Analytics 擴充功能中按幾下，您就可以開始追蹤網站上的下載連結 (將非瀏覽器檔案下載到您機器的連結)。
 feature: Tags
 topics: Development
 activity: implement
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 28822d90-6bbb-43dc-bf98-892e21e71a1d
 source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '136'
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
