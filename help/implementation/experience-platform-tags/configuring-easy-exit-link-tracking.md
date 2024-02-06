@@ -1,6 +1,6 @@
 ---
-title: 在Experience Platform標籤中設定輕鬆退出的連結追蹤
-description: 只要在Experience Platform標籤中的Adobe Analytics擴充功能中按幾下，您就可以開始追蹤網站上的退出連結（前往另一個網站的連結）。 本影片說明該如何設定。
+title: 在 Experience Platform 標記中設定簡單的退出連結追蹤
+description: 只要在 Experience Platform 標記中的 Adobe Analytics 擴充功能中按幾下，您就可以開始追蹤網站上的退出連結 (前往另一個網站的連結)。本影片說明該如何設定。
 feature: Tags
 topics: Development
 activity: implement
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
 source-git-commit: 5a462f1990e12089eb738432a568bbfffbaa4d68
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '154'
-ht-degree: 75%
+ht-degree: 100%
 
 ---
 
