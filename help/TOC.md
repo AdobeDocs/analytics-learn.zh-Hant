@@ -5,9 +5,9 @@ breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
 source-git-commit: 2d758e03110f8a9f4fdccfd2174af1fd256bbdb4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '2187'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -226,7 +226,7 @@ ht-degree: 99%
       + [跨職能工作](administration/key-admin-skills/working-cross-functionally.md)
       + [您有問對問題嗎？](administration/key-admin-skills/are-you-asking-the-right-questions.md)
    + 管理員祕訣和最佳實務 {#admin-tips}
-      + [下載實施行動手冊](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + [下載實作行動手冊](administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
       + [稽核您的資料字典](administration/admin-tips/audit-your-data-dictionary.md)
       + [建立標準化的命名慣例](administration/admin-tips/create-standardized-naming-conventions.md)
       + [建立標準化的程式碼範本](administration/admin-tips/create-standardized-code-templates.md)
@@ -287,9 +287,9 @@ ht-degree: 99%
       + [在 Analytics 擴充功能中設定 Cookie 設定](implementation/experience-platform-tags/configuring-cookie-settings-in-the-tags-analytics-extension.md)
       + [在 Analytics 擴充功能中使用自訂程式碼](implementation/experience-platform-tags/using-custom-code-while-configuring-the-tags-analytics-extension.md)
       + [使用資料層設定變數](implementation/experience-platform-tags/using-a-data-layer-to-set-page-name-and-other-variables-via-tags.md)
-      + [使用doPlugins和實施外掛程式](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
-      + [設定輕鬆下載的連結追蹤](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
-      + [設定輕鬆退出的連結追蹤](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
+      + [使用 doPlugins 和實作外掛程式](implementation/experience-platform-tags/use-doplugins-and-implementation-plugins.md)
+      + [設定簡單的下載連結追蹤](implementation/experience-platform-tags/configuring-easy-download-link-tracking.md)
+      + [設定簡單的退出連結追蹤](implementation/experience-platform-tags/configuring-easy-exit-link-tracking.md)
       + [為 Analytics 實作準備標記](implementation/experience-platform-tags/preparing-adobe-tags-for-your-analytics-implementation.md)
       + [為 Analytics 實作建立資料元素](implementation/experience-platform-tags/creating-data-elements-in-tags-for-the-analytics-implementation.md)
       + [建立全域頁面載入規則](implementation/experience-platform-tags/creating-a-global-page-rule-in-tags.md)
@@ -385,7 +385,7 @@ ht-degree: 99%
       + [使用 A4T 面板來分析自動鎖定目標活動](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
    + Ad Cloud {#ad-cloud}
       + [設定 Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
-      + [實施追蹤範本至搜尋引擎](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
+      + [實作追蹤範本至搜尋引擎](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
       + [Advertising Cloud DSP 整合適用的 Analytics 介紹](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
       + [建立啟動前的行銷活動分析](integrations/ad-cloud/create-a-pre-launch-campaign-analysis-with-adobe-analytics.md)
       + [使用 Advertising Cloud 行銷頻道製作報表](integrations/ad-cloud/reporting-with-advertising-cloud-marketing-channels.md)
