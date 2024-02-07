@@ -8,13 +8,13 @@ doc-type: Article
 last-substantial-update: 2023-06-20T00:00:00Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
-source-git-commit: f38a35067bf95fe02200d1409e3e70c1ef28abb3
+exl-id: 1da9334b-0edb-4237-b7ca-57640865208c
+source-git-commit: f1bb981a83eb698f4185a22c367346a9ddd0c755
 workflow-type: tm+mt
-source-wordcount: '1681'
-ht-degree: 2%
+source-wordcount: '1664'
+ht-degree: 1%
 
 ---
-
 
 # 瞭解Adobe Analytics歸因面板和回顧期間
 
@@ -26,11 +26,11 @@ ht-degree: 2%
 
 因此，我們為什麼要讓一些像是恐懼的東西，擋住這些令人驚歎、精密且強大的工具，讓我們看得見目光 *後退* 時間，每一天？
 
-畢竟這是時間旅行，夥計們!!  我們都是關於這類事情。  正確???!!
+畢竟這是時間旅行，夥計們!!  我們都是關於這類事情。  右???!!
 
 那麼，我們還在等什麼 — 一輛閃亮的金屬汽車、一個警用盒子，或是老式的電話亭，用舊雨傘的接線作為天線，出現在我們的門階上？
 
-否!  我們有更棒的東西，所以讓我們繫上安全帶，堅持住！
+不要！  我們有更棒的東西，所以讓我們繫上安全帶，堅持住！
 
 嗯……你明白了。
 
@@ -39,7 +39,7 @@ ht-degree: 2%
 
 ![歸因](assets/attribution.png)
 
-*圖1 — 數字與下方文字一起顯示*
+*圖1 — 顯示的數字與下方文字內嵌*
 
 在 **歸因**，只需考慮隨著時間推移個人、數個個人或任意數量的不同事件之一可能會造成的事件/動作即可。
 
@@ -48,7 +48,7 @@ ht-degree: 2%
 
 >[!WARNING]
 >
->只需快速備註即可指出該訊息 **歸因模型** 經常與 **行銷管道** 我故意的 *已略過* 上圖中的❷CHANNEL以說明可以執行 **歸因** 針對大多數其他專案進行分析 ***維度***.
+>**歸因模型** 經常與 **行銷管道** 我故意的 *已略過* 上圖中的❷CHANNEL以說明可以執行 **歸因** 針對大多數其他專案進行分析 ***維度***.
 
 
 事實上，很少有任何特定客戶歷程真正線性，而且更不常可預測。  此外，每位客戶都會以自己的步調進行；通常，他們可能會再次返回、延遲、退出或參與其他非線性行為。 這些非機械性的行為使得我們很難或幾乎不可能瞭解行銷活動在整個客戶歷程中的影響， 也會阻礙我們將多個資料管道聯繫在一起的努力。
@@ -85,7 +85,7 @@ ht-degree: 2%
 
 - **自訂**：您挑選要獲得評分的人。  這是您的行銷活動！
 
-如需這些和其他歸因模型的相關詳細資訊， [按一下這裡](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hant)
+如需這些和其他歸因模型的相關詳細資訊， [按一下這裡](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 為了更吸引人，讓我們來談談倒轉時鐘！
 
