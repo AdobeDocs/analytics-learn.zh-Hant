@@ -1,6 +1,6 @@
 ---
 title: 在 Experience Platform 標記中設定簡單的退出連結追蹤
-description: 瞭解如何在Experience Platform標籤的Adobe Analytics擴充功能中按幾下，即可追蹤您網站上的退出連結（前往另一個網站的連結）。
+description: 瞭解如何在 Experience Platform 標記的 Adobe Analytics 擴充功能中，只需要數次點選即可追蹤網站上的退出連結 (前往另一個網站的連結)。
 feature: Tags
 topics: Development
 activity: implement
@@ -11,9 +11,9 @@ role: Developer, Data Engineer
 level: Beginner
 exl-id: 80a6a83e-9315-4339-bdfe-2b1f11129403
 source-git-commit: 6dd1575364f3bb3cf81c3f5ffb642f3c1043eb8b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '145'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
