@@ -8,9 +8,9 @@ doc-type: overview
 thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
-source-git-commit: d05f59507a766881250090547b177ffdd0fdf5e0
-workflow-type: tm+mt
-source-wordcount: '320'
+source-git-commit: d4d87789018acdd5c587b5f78e3249e0fd694bfb
+workflow-type: ht
+source-wordcount: '244'
 ht-degree: 100%
 
 ---
@@ -30,17 +30,6 @@ ht-degree: 100%
 
 在課程部分也提供依角色和技巧能力來策劃的學習經驗。 只要使用 Adobe ID 登入，並在上方導覽部份導覽至「**學習 > 建議課程**」。
 
-<div id="whats-new-section">
-
-## 新增功能
-
-* **[Adobe Analytics 行動計分卡應用程式](additional-tools/analytics-dashboards/adobe-analytics-dashboards-in-app-experience.md)**
-   *了解如何下載行動計分卡應用程式，以及如何查看在 [!DNL Analysis Workspace] 中建立的行動計分卡。*
-
-* **[工作區中的註解 (影片)](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)**
-   *[!DNL Analysis Workspace] 中的註解讓您能夠有效地將內容相關的資料細微差別和深入解析傳達給整個組織內的用戶。 在某一個日期或日期範圍標註已知的資料問題、國定假日、行銷活動等。這會告知使用者他們為何會在折線圖、表格等中看到不合常規的情況。*
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
