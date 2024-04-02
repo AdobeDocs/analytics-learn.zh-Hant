@@ -1,24 +1,20 @@
 ---
 title: 產品內支援服務單提交
-description: 您現在可以在 UI 中直接提交客戶服務支援服務單，精簡解決方法的流程。
+description: 瞭解如何在Adobe直接在產品中提交支援票證給客戶服務，精簡解決方法的流程。
 feature: Analytics Basics
-topics: null
-activity: use
-doc-type: feature video
-team: Technical Marketing
 kt: 1664
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User
 level: Beginner
 exl-id: af75cd36-75ff-4892-b8ec-dd5704dabfe3
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 5860c0948e61fde32bf6d814f701410df330a9e4
 workflow-type: tm+mt
-source-wordcount: '42'
-ht-degree: 100%
+source-wordcount: '50'
+ht-degree: 8%
 
 ---
 
 # 產品內支援服務單提交 {#in-product-support-ticket-submission}
 
-您現在可以在 UI 中直接提交[!DNL Customer Care]支援服務單，精簡解決方法的流程。
+瞭解如何將支援票證提交至 [!DNL Customer Care] 從產品中直接Adobe，簡化解決方法的流程。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
