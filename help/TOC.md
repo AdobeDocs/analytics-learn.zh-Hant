@@ -4,10 +4,10 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: d8f5a896b89273eb073d12ddc8c39db186e43794
-workflow-type: ht
+source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
+workflow-type: tm+mt
 source-wordcount: '2176'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -72,7 +72,7 @@ ht-degree: 100%
       + [建立動態下拉篩選器](analysis-workspace/tips-and-tricks/dynamic-drop-downs.md)
    + 瀏覽 Workspace 專案{#navigating-workspace-projects}
       + [Analysis Workspace 中的資料字典](analysis-workspace/navigating-workspace-projects/data-dictionary-in-analysis-workspace.md)
-      + [使用範本建立專案](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
+      + [開始您的第一個專案](analysis-workspace/navigating-workspace-projects/starting-your-first-project-in-analysis-workspace.md)
       + [培訓教學課程範本](analysis-workspace/navigating-workspace-projects/training-tutorial-template-in-analysis-workspace.md)
       + [在 Analysis Workspace 中使用資料夾](analysis-workspace/navigating-workspace-projects/use-folders-in-analysis-workspace.md)
       + [複製和插入面板和視覺效果](analysis-workspace/navigating-workspace-projects/copy-insert-analysis-workspace.md)
@@ -448,4 +448,3 @@ ht-degree: 100%
 + [Analytics University 課程](analytics-university/curriculum.md)
 + [Experience League LIVE](exl-live/exl-live-overview.md)
 + [適用於商業使用者的 Analytics 基礎知識已淘汰](retired-courses/retire-fundamentals-for-business-users-course.md)
-
