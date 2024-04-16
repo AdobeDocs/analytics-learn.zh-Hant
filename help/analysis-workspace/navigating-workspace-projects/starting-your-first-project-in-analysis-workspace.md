@@ -1,23 +1,21 @@
 ---
-title: 使用範本建立專案
-description: 了解如何使用範本建立 Analysis Workspace 專案
+title: 在Analysis Workspace中開始您的第一個專案
+description: 瞭解如何從頭開始或運用範本建立新的Analysis Workspace專案。
 feature: Projects
 role: User
 level: Beginner
-doc-type: feature video
 thumbnail: 30368.jpg
-team: Technical Marketing
 kt: 4102
 exl-id: f13b349a-3f36-4b48-ae5a-5c045c58b069
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: f45cefa5a42a37a067322dd9be8d5b2ef6d4bd58
 workflow-type: tm+mt
-source-wordcount: '48'
-ht-degree: 100%
+source-wordcount: '72'
+ht-degree: 0%
 
 ---
 
-# 使用範本建立專案
+# 在Analysis Workspace中開始您的第一個專案
 
-了解如何使用範本建立 Analysis Workspace 專案。這是手動建置專案的省時技巧，有助於新的使用者盡快進入狀況。
+瞭解如何從頭開始或運用範本建立新的Analysis Workspace專案。 範本可協助您開始分析，並可透過公司建立的專案使用現成可用的範本。 如需詳細檔案，請參閱 [在Analysis Workspace中建立專案](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects).
 
 >[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)
