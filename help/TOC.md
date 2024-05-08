@@ -4,9 +4,9 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 03db9b1a91ff127020a5a0bc0542f04942a64770
-workflow-type: ht
-source-wordcount: '2176'
+source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+workflow-type: tm+mt
+source-wordcount: '2179'
 ht-degree: 100%
 
 ---
@@ -240,6 +240,7 @@ ht-degree: 100%
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
    + 使用者管理 {#user-management}
       + [新增管理員至 Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [建立產品設定檔](administration/user-management/create-product-profiles.md)
       + [在 Admin Console 限制報告套裝的存取權限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [將使用者資產轉移給其他使用者](administration/user-management/transfer-user-assets-to-a-different-user.md)
       + [檢查綁定的 IMS ID 以防止登入問題](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
