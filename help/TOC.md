@@ -4,9 +4,9 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 9d90cc880dc13d55cc44f915b40c43450db48197
+source-git-commit: fa8562f400c93b70d7b83613b90eca21b49dc115
 workflow-type: ht
-source-wordcount: '2179'
+source-wordcount: '2160'
 ht-degree: 100%
 
 ---
@@ -299,10 +299,6 @@ ht-degree: 100%
    + 使用 JavaScript {#using-javascript}
       + [無 Tag Manager 的自訂連結追蹤](implementation/using-javascript/custom-link-tracking-without-a-tag-manager.md)
       + [不使用 Experience Platform Launch 時進行 AppMeasurement 更新](implementation/using-javascript/updating-appmeasurement-when-not-using-adobe-launch.md)
-   + 驗證和疑難排解 {#validating-and-troubleshooting}
-      + [透過 Adobe Experience Cloud Debugger 檢查實作](implementation/validating-and-troubleshooting/inspecting-implementations-with-the-adobe-experience-cloud-debugger.md)
-   + SPA 頁面 {#spa-pages}
-      + [追蹤 SPA 時使用最佳實務](implementation/spa-pages/using-best-practices-when-tracking-spa.md)
 + 元件 {#components}
    + 區段 {#segmentation}
       + [區段產生器概觀](components/segmentation/segment-builder-overview.md)
