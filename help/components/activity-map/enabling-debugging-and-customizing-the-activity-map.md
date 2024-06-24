@@ -1,22 +1,25 @@
 ---
-title: 啟用、偵錯並自訂 Adobe Analytics Activity Map
-description: 了解如何啟用、偵錯並自訂 Activity Map 在 Adobe Analytics 擴充功能中部署的方式。
+title: 啟用、偵錯並自訂Adobe AnalyticsActivity Map
+description: 瞭解如何啟用、偵錯並自訂Activity Map在Adobe Experience Platform標籤的Analytics擴充功能中部署的方式。
 feature: Activity Map
 team: Technical Marketing
 thumbnail: 25878.jpg
 kt: 1995
 role: User
 level: Beginner
+last-substantial-update: 2024-06-21T00:00:00Z
 exl-id: 4160b974-fbdb-42e7-b77d-e1322db433b3
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
 workflow-type: tm+mt
-source-wordcount: '54'
-ht-degree: 100%
+source-wordcount: '75'
+ht-degree: 0%
 
 ---
 
-# 啟用、偵錯並自訂 Adobe Analytics [!UICONTROL Activity Map] {#enabling-debugging-and-customizing-the-adobe-analytics-activity-map}
+# 啟用、偵錯並自訂Adobe Analytics [!UICONTROL Activity Map]
 
-了解如何啟用、偵錯並自訂 [!UICONTROL Activity Map] 在 Adobe Analytics 擴充功能中部署的方式。
+瞭解如何啟用、偵錯並自訂以下方式 [!UICONTROL Activity Map] 部署在Adobe Experience Platform標籤的Analytics擴充功能中。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
+
+如需如何部署的詳細資訊 [!UICONTROL Activity Map]，造訪 [檔案](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
