@@ -4,9 +4,9 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2b7d260a10a73f017f65146e1e7e64822983f5b6
+source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
 workflow-type: tm+mt
-source-wordcount: '2157'
+source-wordcount: '2166'
 ht-degree: 99%
 
 ---
@@ -65,6 +65,7 @@ ht-degree: 99%
       + [檢視 Analysis Workspace 效能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [建立機器人報告](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
    + 秘訣與技巧 {#tips-and-tricks}
+      + [在自由表格中建立超連結](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [Analysis Workspace 7 個秘訣與技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [提高工作流程效率的按右鍵秘訣和技巧](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
       + [在 Analysis Workspace 中提升生產力的秘訣](analysis-workspace/tips-and-tricks/tips-to-increase-productivity-in-analysis-workspace.md)
@@ -82,6 +83,7 @@ ht-degree: 99%
       + [附註](analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace.md)
       + [檢視密度](analysis-workspace/navigating-workspace-projects/view-density-in-analysis-workspace.md)
       + [使用篩選器](analysis-workspace/navigating-workspace-projects/using-filters-tags-in-the-left-rail.md)
+      + [使用多選下拉式篩選器](analysis-workspace/navigating-workspace-projects/use-multi-select-drop-down-filters.md)
    + 即時報表 {#real-time-reports}
       + [即時報告](analysis-workspace/real-time-reports/realtime-reporting.md)
    + 使用面板 {#using-panels}
