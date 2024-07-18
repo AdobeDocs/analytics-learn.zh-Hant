@@ -17,12 +17,12 @@ ht-degree: 1%
 
 ---
 
-# 整合 [!DNL Adobe Analytics] 替換為 [!DNL Adobe Audience Manager] 使用伺服器端轉送
+# 使用伺服器端轉送整合[!DNL Adobe Analytics]與[!DNL Adobe Audience Manager]
 
-瞭解如何傳送 [!DNL Adobe Analytics] 資料目標 [!DNL Adobe Audience Manager] 使用伺服器端轉送。
+瞭解如何使用伺服器端轉送將[!DNL Adobe Analytics]資料傳送至[!DNL Adobe Audience Manager]。
 
 >[!NOTE]
 >
->&quot;[!UICONTROL Launch]「 」已重新命名為「[!UICONTROL 標籤]」在Experience Cloud介面中。 選取 [!UICONTROL 資料彙集] 從 [!UICONTROL 應用程式切換器] 以開啟標籤並執行本影片中所述的步驟。
+>已在Experience Cloud介面中將[!UICONTROL Launch]重新命名為[!UICONTROL 標籤]。 從[!UICONTROL 應用程式切換器]選取[!UICONTROL 資料彙集]以開啟標籤，並執行此影片中介紹的步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

@@ -12,7 +12,7 @@ kt: 9780
 exl-id: a5e69595-a9e6-48f4-9e85-6c15640dfaab
 source-git-commit: ae1b87ec6d8d43af51ad6f40e7446e350b2ab1bc
 workflow-type: tm+mt
-source-wordcount: '1556'
+source-wordcount: '1522'
 ht-degree: 100%
 
 ---
@@ -29,25 +29,25 @@ ht-degree: 100%
 
 * 建立使用者上線流程：
 
-   與您企業的 Adobe Analytics 存取相關的需求和流程有哪些？ 如果您還沒有制定新使用者上線的需求和流程，則建立該基礎結構可支援擴充性。
+  與您企業的 Adobe Analytics 存取相關的需求和流程有哪些？ 如果您還沒有制定新使用者上線的需求和流程，則建立該基礎結構可支援擴充性。
 
 * 實作適當的使用者管理和存取權：
 
-   使用者對報表套裝、量度、維度、工具、報表和元件的存取權是 Adobe Analytics 的基礎，也是[使用者群組管理流程](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=zh-Hant)的關鍵部分。 適當的工具存取權讓使用者能夠在 Analysis Workspace 和 Reports &amp; Analytics 中使用自助服務。
+  使用者對報表套裝、量度、維度、工具、報表和元件的存取權是 Adobe Analytics 的基礎，也是[使用者群組管理流程](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=zh-Hant)的關鍵部分。 適當的工具存取權讓使用者能夠在 Analysis Workspace 和 Reports &amp; Analytics 中使用自助服務。
 
 * 了解實作：
 
-   最佳做法如下：使用者必須對其實作支援的業務需求有基本的了解，這些需求通常是透過[業務需求文件](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hant) (BRD) 和[解決方案設計參考文件](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=zh-Hant) (SDR) 所擷取。 這些需求應包括已實作的項目，並依照類別定義業務需求、報表、eVar、事件等。
+  最佳做法如下：使用者必須對其實作支援的業務需求有基本的了解，這些需求通常是透過[業務需求文件](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hant) (BRD) 和[解決方案設計參考文件](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=zh-Hant) (SDR) 所擷取。 這些需求應包括已實作的項目，並依照類別定義業務需求、報表、eVar、事件等。
 
 * 使用報表範本：
 
-   Adobe Analytics 報表範本和專案是讓工具使用者能夠了解您的企業實作、報告使用案例和最佳做法的關鍵資源。 這些資源應該說明如何解決常見業務問題，以及這些問題如何在工具內獲得最好的解答。
+  Adobe Analytics 報表範本和專案是讓工具使用者能夠了解您的企業實作、報告使用案例和最佳做法的關鍵資源。 這些資源應該說明如何解決常見業務問題，以及這些問題如何在工具內獲得最好的解答。
 
 ## 2. 為執行及應該參與的人制定計劃
 
 * 決定哪些人將要經營社群：
 
-   賦權社群開始於管理及實作業務需求所根據的基礎結構。 因此，管理企業的 Adobe Analytics 管理和賦權的團隊通常是管理使用者群組或內部社群的關鍵。
+  賦權社群開始於管理及實作業務需求所根據的基礎結構。 因此，管理企業的 Adobe Analytics 管理和賦權的團隊通常是管理使用者群組或內部社群的關鍵。
 
 * 定義參與者、其角色和職責：
 
@@ -65,7 +65,7 @@ ht-degree: 100%
 
 * [建立專案章程](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (下載範本)：
 
-   專案章程通常是讓您的企業圍繞著機會進行調整以打造內部賦權社群的絕佳方式。 您可以藉由回答以下問題來獲得草擬章程所需的內容：
+  專案章程通常是讓您的企業圍繞著機會進行調整以打造內部賦權社群的絕佳方式。 您可以藉由回答以下問題來獲得草擬章程所需的內容：
 
    * 您想要解決的問題陳述為何？ 您的社群目標為何以及您認為涵蓋範圍內外的項目是什麼？
    * 「這對我有什麼好處？」 潛在的收益或成本為何、如何衡量成功，以及風險有哪些？

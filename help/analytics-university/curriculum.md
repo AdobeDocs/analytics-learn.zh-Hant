@@ -9,7 +9,7 @@ hidefromtoc: true
 exl-id: 1202b1f6-fa41-465d-8e76-b7feae217cce
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 79%
 
 ---
@@ -24,7 +24,7 @@ Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您
 
 ### 幫助您做好準備的新課程
 
-為了幫助您學習及教授Analytics課程，我們在Adobe Education Exchange上推出了全新的課程，您可以在該課程中學習如何教授以下概述的所有核心概念。 我們建議您從本課程開始，以確保您已準備好在4個核心模組及其他方面對學生進行教育。
+為了幫助您學習及教授Analytics課程，我們在Adobe Education Exchange上推出了全新課程，您可以在該課程中學習如何教授以下概述的所有核心概念。 我們建議您從此課程開始，以確保您已準備好可以在4個核心單元及其他單元中對學生進行教育。
 
 請在這裡報名此課程：[https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning](https://edex.adobe.com/pd/course/adobe-analytics-for-teaching-and-learning)
 

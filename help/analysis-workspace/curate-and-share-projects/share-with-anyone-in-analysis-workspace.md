@@ -1,6 +1,6 @@
 ---
-title: 與Analysis Workspace中的任何人共用
-description: 瞭解Workspace可與任何人共用哪些功能。 您可以使用此功能將工作區專案的唯讀存取權授與無權存取Adobe Analytics或CJA的使用者，包括組織外部的收件者。
+title: 在 Analysis Workspace 中與任何人共用
+description: 瞭解Workspace可與任何人共用哪些功能。 您可以使用此功能將Workspace專案的唯讀存取權授與無權存取Adobe Analytics或CJA的使用者，包括組織外的收件者。
 feature: Curate and Share
 role: User
 level: Beginner
@@ -8,17 +8,17 @@ doc-type: Feature Video
 last-substantial-update: 2023-06-01T00:00:00Z
 jira: KT-13381
 thumbnail: 3420093.jpeg
-source-git-commit: 4d4e29d3dbc3cedf1847b7fa9cb79ea85fc36296
+exl-id: 88285a1c-c1fb-4705-8eaa-347f5ea76bb8
+source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 16%
+source-wordcount: '98'
+ht-degree: 20%
 
 ---
 
+# 在 Analysis Workspace 中與任何人共用
 
-# 與Analysis Workspace中的任何人共用
-
-瞭解Workspace的「與任何人共用」功能。 您可以使用此功能，將Workspace專案的唯讀存取權授與無權存取Adobe Analytics或Customer Journey Analytics的使用者，包括組織外部的收件者。
+瞭解Workspace中的「與任何人共用」功能。 您可以使用此功能，將Workspace專案的唯讀存取權授與無法存取Adobe Analytics或Customer Journey Analytics的使用者，包括組織外部的收件者。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3420093/?learn=on)
 

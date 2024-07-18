@@ -1,5 +1,5 @@
 ---
-title: 視覺效果型別和概觀
+title: 視覺效果類型與概觀
 description: 瞭解您可以放入Analysis Workspace專案的各種或型別的視覺效果，以協助您訴說您的資料故事。
 feature: Visualizations
 last-substantial-update: 2023-08-25T00:00:00Z
@@ -9,12 +9,12 @@ level: Beginner
 exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 25%
+source-wordcount: '209'
+ht-degree: 22%
 
 ---
 
-# 視覺效果型別和概觀 {#visualization-types-in-analysis-workspace}
+# 視覺效果類型與概觀 {#visualization-types-in-analysis-workspace}
 
 瞭解您可以放入Analysis Workspace專案的各種或型別的視覺效果，以協助您訴說您的資料故事。
 

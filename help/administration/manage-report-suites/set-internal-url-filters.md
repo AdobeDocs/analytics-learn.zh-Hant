@@ -18,7 +18,7 @@ ht-degree: 30%
 
 # 設定內部 URL 篩選器
 
-在本影片中，瞭解關於反向連結的設定，將其設定為內部反向連結（以支援路徑報告）或外部反向連結（以支援反向連結/反向連結網域報告）。 如需詳細檔案，請造訪 [內部URL](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=zh-Hant){target="_blank"}.
+在本影片中，瞭解關於反向連結的設定，將其設定為內部反向連結（以支援路徑報告）或外部反向連結（以支援反向連結/反向連結網域報告）。 如需詳細檔案，請造訪[內部URL篩選器](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/internal-url-filter-admin.html?lang=zh-Hant){target="_blank"}。
 
 >[!VIDEO](https://video.tv.adobe.com/v/333043/?quality=12&learn=on)
 

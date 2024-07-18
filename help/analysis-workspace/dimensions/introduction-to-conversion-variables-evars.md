@@ -16,7 +16,7 @@ ht-degree: 19%
 
 # 轉換變數簡介([!DNL eVars])
 
-了解轉換變數(也稱為 [!DNL eVars]、用於Adobe Analytics，包括其與轉換事件及流量變數的不同之處。
+了解轉換變數（也稱為[!DNL eVars]）在Adobe Analytics中的使用方式，包括其與轉換事件及流量變數的不同之處。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
 

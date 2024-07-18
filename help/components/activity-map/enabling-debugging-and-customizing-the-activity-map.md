@@ -18,8 +18,8 @@ ht-degree: 0%
 
 # 啟用、偵錯並自訂Adobe Analytics [!UICONTROL Activity Map]
 
-瞭解如何啟用、偵錯並自訂以下方式 [!UICONTROL Activity Map] 部署在Adobe Experience Platform標籤的Analytics擴充功能中。
+瞭解如何啟用、偵錯並自訂[!UICONTROL Activity Map]在Adobe Experience Platform標籤的Analytics擴充功能中部署的方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25878?quality=12&learn=on)
 
-如需如何部署的詳細資訊 [!UICONTROL Activity Map]，造訪 [檔案](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable).
+如需如何部署[!UICONTROL Activity Map]的詳細資訊，請瀏覽[檔案](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-enable)。

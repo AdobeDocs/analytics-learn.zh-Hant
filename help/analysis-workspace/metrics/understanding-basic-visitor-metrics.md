@@ -15,12 +15,12 @@ ht-degree: 11%
 
 # 了解基本訪客量度
 
-瞭解 [[!UICONTROL 頁面檢視]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en)， [[!UICONTROL 造訪]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=zh-Hant)、和 [[!UICONTROL 訪客]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=zh-Hant) 在Adobe Analytics中。
+瞭解Adobe Analytics中的[[!UICONTROL 頁面檢視]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en)、[[!UICONTROL 造訪]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=zh-Hant)和[[!UICONTROL 訪客]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=zh-Hant)。
 
 * 取得這些基本造訪量度的定義，並瞭解其異同。
 
 * 瞭解與訪客量度和網站流量相關聯的各種詞語（同義字或關鍵字）。
 
-* 檢視範例 [!UICONTROL 工作區] 此專案會顯示這些量度在介面中的顯示方式。
+* 檢視範例[!UICONTROL Workspace]專案，顯示這些量度在介面中的顯示方式。
 
 >[!VIDEO](https://video.tv.adobe.com/v/28774/?quality=12&learn=on)

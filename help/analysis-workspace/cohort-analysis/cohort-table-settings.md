@@ -29,6 +29,6 @@ ht-degree: 46%
 1. 將百分比四捨五入至最近的整數
 1. 在表格頂部顯示/隱藏平均百分比列。
 
-平均資料列最適合檢視 [!UICONTROL 保留] 或 [!UICONTROL 流失率] 整體，而非個別 [!UICONTROL 同類群組] 列。
+平均資料列最適合整體檢視[!UICONTROL 保留率]或[!UICONTROL 流失率]，而非依個別[!UICONTROL 同類群組]資料列。
 
 如需[!UICONTROL 同類群組]分析的相關詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/t-cohort.html?lang=zh-Hant)。
