@@ -53,7 +53,7 @@ Adobe Analytics 是一個強大的資料分析平台，它從支援客戶歷程�
 
 ![分析-業務-要求](../what-can-aa-do-for-me/assets/analytics_business_requirements.png)
 
-一旦將資料基礎收集到 Adobe Analytics 中，行銷人員和業務分析師就會使用產品中提供的各種報告和資料視覺化工具來執行分析並講述有關資料的有意義故事。此外，Adobe Analytics 提供各種形式的輸出。可以是傳送到最佳化工具 (如 Adobe Target) 以執行 A/B 測試的區段或對象。可以是一個預測分數，用於表示個人行為的可能性，此可能性供另一個系統用於建立模型。
+一旦將資料基礎收集到 Adobe Analytics 中，行銷人員和業務分析師就會使用產品中提供的各種報告和資料視覺化工具來執行分析並講述有關資料的有意義故事。此外，Adobe Analytics 提供各種形式的輸出。可以是傳送到最佳化工具 (如 Adobe Target) 以執行 A/B 測試的細分群體或客群。可以是一個預測分數，用於表示個人行為的可能性，此可能性供另一個系統用於建立模型。
 
 ![分析-工作區-專案](../what-can-aa-do-for-me/assets/analytics_workspace_project.png)
 
