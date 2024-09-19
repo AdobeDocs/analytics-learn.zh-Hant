@@ -4,9 +4,9 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 7817c73a3a11297212eeaf83478b2b803e6f7d8d
+source-git-commit: 234be3d7c4357baec59233039cb6f87170f85880
 workflow-type: tm+mt
-source-wordcount: '2166'
+source-wordcount: '2161'
 ht-degree: 99%
 
 ---
@@ -252,7 +252,6 @@ ht-degree: 99%
       + [設定付費搜尋偵測](administration/manage-report-suites/configure-paid-search-detection.md)
       + [設定行銷管道](administration/manage-report-suites/set-up-marketing-channels.md)
       + [建立行銷管道處理規則](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
-      + [自訂 Reports and Analytics 中的選單](administration/manage-report-suites/customize-menus.md)
       + [使用處理規則操控傳入的資料](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
       + [設定流量變數 (Prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [設定流量分類](administration/manage-report-suites/configure-traffic-classifications.md)
@@ -373,7 +372,7 @@ ht-degree: 99%
       + [對 Power BI 使用 Report Builder 進階傳遞選項](exporting/report-builder/use-report-builder-advanced-delivery-options-for-power-bi.md)
 + 整合 {#integrations}
    + Experience Cloud {#experience-cloud}
-      + [Experience Cloud 對象發佈功能改善](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
+      + [Experience Cloud 客群發佈功能改善](integrations/experience-cloud/improved-experience-cloud-audience-publishing.md)
    + Audience Manager {#audience-manager}
       + [在 Experience Platform Launch 中啟用伺服器端傳輸規則](integrations/audience-manager/enable-server-side-forwarding-in-adobe-launch.md)
       + [Audience Analytics - 整合 AAM 區段至 Analytics](integrations/audience-manager/audience-analytics-integrate-aam-segments-into-analytics.md)
