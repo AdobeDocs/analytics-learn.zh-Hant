@@ -4,9 +4,9 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 1687ffc8267fac3ab4a842d9004667486ff52fb7
+source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
 workflow-type: tm+mt
-source-wordcount: '2160'
+source-wordcount: '2164'
 ht-degree: 96%
 
 ---
@@ -363,6 +363,7 @@ ht-degree: 96%
       + [尋找您的資料摘要 ID](exporting/data-feeds/find-your-data-feed-id.md)
       + [重新執行資料摘要工作](exporting/data-feeds/rerun-a-data-feed-job.md)
    + Report Builder {#report-builder}
+      + [升級並重新排程活頁簿](exporting/report-builder/upgrade-and-reschedule-workbooks.md)
       + [在 Report Builder 中一次新增區段至多個請求](exporting/report-builder/add-segments-to-multiple-requests-at-once-in-report-builder.md)
       + [Report Builder 中的異常偵測](exporting/report-builder/anomaly-detection-in-report-builder.md)
       + [編輯全部請求的量度](exporting/report-builder/edit-metrics-across-requests.md)
