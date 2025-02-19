@@ -4,7 +4,7 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: c6e015f257fd27f27e60a4ce2a30c5369611d123
+source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
 workflow-type: tm+mt
 source-wordcount: '2164'
 ht-degree: 96%
@@ -123,8 +123,8 @@ ht-degree: 96%
       + [橫條圖和堆疊橫條圖視覺效果](analysis-workspace/visualizations/bar-and-bar-stacked-visualizations.md)
       + [項目符號圖表視覺效果](analysis-workspace/visualizations/bullet-graph-visualization.md)
       + [環形圖視覺效果](analysis-workspace/visualizations/using-the-donut-visualization.md)
-      + [長條圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
-      + [使用長條圖解鎖深入分析](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+      + [直方圖視覺效果](analysis-workspace/visualizations/histogram-visualization.md)
+      + [使用直方圖解鎖深入分析](analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
       + [折線圖視覺效果](analysis-workspace/visualizations/line-visualization-in-analysis-workspace.md)
       + [組合圖](analysis-workspace/visualizations/combo-charts.md)
       + [新增趨勢線到線條視覺效果](analysis-workspace/visualizations/adding-trendlines-to-line-visualizations.md)
@@ -174,7 +174,7 @@ ht-degree: 96%
       + [轉換變數 (eVar) 簡介](analysis-workspace/dimensions/introduction-to-conversion-variables-evars.md)
       + [在自由格式表格中使用維度](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/building-freeform-tables/working-with-dimensions-in-a-freeform-table.html?lang=zh-Hant)
    + 行事曆和日期範圍 {#calendar-and-date-ranges}
-      + [在 Analysis Workspace 中使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
+      + [在Analysis Workspace中使用日期](analysis-workspace/calendar-and-date-ranges/using-dates-in-analysis-workspace.md)
       + [在您的專案中套用可重複使用的日期範圍](analysis-workspace/calendar-and-date-ranges/applying-reusable-date-ranges-in-your-project.md)
       + [在 Analysis Workspace 中使用日期範圍和比較](analysis-workspace/calendar-and-date-ranges/using-date-ranges-and-comparisons-in-analysis-workspace.md)
       + [建立自訂日期範圍](analysis-workspace/calendar-and-date-ranges/creating-custom-date-ranges-in-analysis-workspace.md)
@@ -380,7 +380,7 @@ ht-degree: 96%
    + 目標 {#target}
       + [Analysis Workspace 中的 Analytics for Target (A4T) 面板](integrations/target/analytics-for-target-a4t-panel-in-analysis-workspace.md)
       + [使用 A4T 面板來分析自動鎖定目標活動](integrations/target/analyze-an-auto-target-activity-using-the-a4t-panel.md)
-   + Adobe Advertising DSP{#adobe-advertising-dsp}
+   + Adobe Advertising DSP {#adobe-advertising-dsp}
       + [設定 Advertising Analytics](integrations/ad-cloud/configuring-advertising-analytics.md)
       + [實施追蹤範本至搜尋引擎](integrations/ad-cloud/implementing-tracking-templates-into-search-engines.md)
       + [Adobe Advertising DSP整合簡介](integrations/ad-cloud/introduction-to-the-analytics-for-advertising-cloud-dsp-integration.md)
