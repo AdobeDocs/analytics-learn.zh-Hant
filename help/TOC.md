@@ -4,10 +4,10 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: abfda19fcda0b4469c27886ef4b80e2fe9bf25a6
+source-git-commit: 14bbe0be3c5bc45e58ff54c82c4a9024374de848
 workflow-type: tm+mt
-source-wordcount: '2164'
-ht-degree: 96%
+source-wordcount: '2160'
+ht-degree: 92%
 
 ---
 
@@ -236,31 +236,31 @@ ht-degree: 96%
       + [使用全域報告套裝](administration/admin-tips/use-a-global-report-suite.md)
       + [建立新聞與公告專案](administration/admin-tips/create-a-news-and-announcements-project.md)
       + [透過執行摘要儀表板取得成功](administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-      + [建立操作儀表板](administration/admin-tips/create-operational-dashboards.md)
+      + [建立運作儀表板](administration/admin-tips/create-operational-dashboards.md)
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
    + 使用者管理 {#user-management}
-      + [新增管理員至 Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
+      + [新增管理員至Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [建立產品設定檔](administration/user-management/create-product-profiles.md)
-      + [在 Admin Console 限制報告套裝的存取權限](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
+      + [在Admin Console限制報表套裝的存取許可權](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
       + [將使用者資產轉移給其他使用者](administration/user-management/transfer-user-assets-to-a-different-user.md)
-      + [檢查綁定的 IMS ID 以防止登入問題](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
+      + [檢查繫結的IMS ID以防止登入問題](administration/user-management/check-linked-ims-id-to-prevent-login-issues.md)
    + 管理報告套裝 {#manage-report-suites}
-      + [如何設定一般帳戶設定](administration/manage-report-suites/configuring-general-account-settings.md)
+      + [設定一般帳戶設定](administration/manage-report-suites/configuring-general-account-settings.md)
       + [自訂行事曆設定](administration/manage-report-suites/customize-calendar-settings.md)
       + [設定付費搜尋偵測](administration/manage-report-suites/configure-paid-search-detection.md)
       + [設定行銷管道](administration/manage-report-suites/set-up-marketing-channels.md)
       + [建立行銷管道處理規則](administration/manage-report-suites/create-marketing-channel-processing-rules.md)
       + [使用處理規則操控傳入的資料](administration/manage-report-suites/manipulating-incoming-data-with-processing-rules.md)
-      + [設定流量變數 (Prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
+      + [設定流量變數(Prop)](administration/manage-report-suites/configuring-traffic-variables-props.md)
       + [設定流量分類](administration/manage-report-suites/configure-traffic-classifications.md)
       + [設定階層變數](administration/manage-report-suites/configure-hierarchy-variables.md)
-      + [在 Admin Console 中設定變數](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
+      + [設定事件和變數](administration/manage-report-suites/configuring-variables-in-the-admin-console.md)
       + [設定轉換分類](administration/manage-report-suites/configure-conversion-classifications.md)
       + [設定清單變數](administration/manage-report-suites/configuring-list-variables.md)
       + [設定尋找方法](administration/manage-report-suites/configure-finding-methods.md)
-      + [設定內部 URL 篩選器](administration/manage-report-suites/set-internal-url-filters.md)
+      + [設定內部URL](administration/manage-report-suites/set-internal-url-filters.md)
       + [正進行郵遞區號和郵政編號的設定](administration/manage-report-suites/configuring-zip-and-postal-code-settings.md)
       + [啟用時間戳記選用設定](administration/manage-report-suites/enable-the-timestamp-optional-setting.md)
       + [在 Analytics 中設定機器人規則](administration/manage-report-suites/configure-bot-rules-in-analytics.md)
@@ -270,7 +270,7 @@ ht-degree: 96%
       + [伺服器呼叫使用量](administration/traffic-management/server-call-usage.md)
       + [管理即將到來的流量尖峰](administration/traffic-management/manage-an-upcoming-traffic-spike.md)
    + 記錄檔{#logs}
-      + [Analysis Workspace 的「使用情況記錄追蹤」](administration/logs/usage-log-tracking-for-analysis-workspace.md)
+      + [Analysis Workspace的「使用情況記錄追蹤」](administration/logs/usage-log-tracking-for-analysis-workspace.md)
       + [Analytics 管理員記錄總覽](administration/logs/overview-of-analytics-admin-logs.md)
 + 實作{#implementation}
    + 實作基本需知 {#implementation-basics}
