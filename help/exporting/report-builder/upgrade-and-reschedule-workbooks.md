@@ -17,6 +17,6 @@ ht-degree: 16%
 
 瞭解如何將舊版[!DNL Report Builder]活頁簿升級並重新排程至最新版本的Adobe AnalyticsReport Builder。
 
->[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446193/?quality=12&learn=on&captions=chi_hant)
 
 如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/report-builder/home)。

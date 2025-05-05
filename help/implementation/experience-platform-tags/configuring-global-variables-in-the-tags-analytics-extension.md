@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何在 Analytics [!DNL tags] 擴充功能中設定全域變數設定。有關詳細文件，請參閱 [Adobe Analytics 擴充功能概觀](https://experienceleague.adobe.com/docs/experience-platform/tags/extensions/client/analytics/overview.html?lang=zh-Hant){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/27181/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3427931/?quality=12&learn=on&captions=chi_hant)

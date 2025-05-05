@@ -18,4 +18,4 @@ ht-degree: 40%
 
 虛擬報告套裝可以包含或排除Analysis Workspace中的[!UICONTROL 維度]、[!UICONTROL 量度]和[!UICONTROL 區段]，因此如果您正與只需要特定資料段或使用其他資料名稱的其他團隊共用，此做法相當實用。 如需詳細檔案，請造訪[虛擬報表套裝元件組織](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-components.html?lang=zh-Hant){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426920/?quality=12&learn=on&captions=chi_hant)

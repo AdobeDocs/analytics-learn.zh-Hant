@@ -20,6 +20,6 @@ ht-degree: 100%
 
 有時您會想要共用 Analysis Workspace 專案，但卻忘了與同事共用包含在內的區段和量度。本影片說明您如何在共用專案的程序中共用區段和量度，讓您的同事每次都能看到您打算提供的資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/341273/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3438799/?quality=12&learn=on&captions=chi_hant)
 
 如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/curate.html?lang=zh-Hant)。

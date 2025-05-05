@@ -18,6 +18,6 @@ ht-degree: 100%
 
 建置區段時，點擊、造訪和訪客容器都會控制您的區段將包含多少資料。在本影片中，了解如何使用容器並聆聽每種容器的部分範例。
 
->[!VIDEO](https://video.tv.adobe.com/v/25401/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429098/?quality=12&learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hant)。

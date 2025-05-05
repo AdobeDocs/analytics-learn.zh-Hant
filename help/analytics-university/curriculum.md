@@ -16,7 +16,7 @@ ht-degree: 79%
 
 # Adobe Analytics 教育課程
 
->[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443872/?quality=12&learn=on&captions=chi_hant)
 
 ## Analytics 課程內容
 

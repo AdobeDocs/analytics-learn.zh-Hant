@@ -20,4 +20,4 @@ ht-degree: 100%
 
 了解如何自訂詳細資料檢視，包括 Adobe Analytics 儀表板的文字，以調整想要透過行動計分卡專案向利害關係人講述的故事。
 
->[!VIDEO](https://video.tv.adobe.com/v/3410002/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422732/?quality=12&learn=on&captions=chi_hant)

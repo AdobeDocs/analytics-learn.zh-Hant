@@ -20,4 +20,4 @@ ht-degree: 0%
 
 瞭解Analysis Workspace中在下拉式篩選器中多選欄位的選項，該選項可讓使用者顯示任何選定欄位的資料。 如需詳細檔案，請造訪[面板概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439948/?learn=on&captions=chi_hant)
