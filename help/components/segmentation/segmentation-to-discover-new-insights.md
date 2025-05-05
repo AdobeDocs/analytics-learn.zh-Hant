@@ -78,7 +78,7 @@ ht-degree: 1%
 
 ![區段12](assets/s12.png)
 
-使用區段來尋找新見解的可能性是無限的！ 這只是起點。 請自己嘗試幾個專案，讓社群知道您發現的內容：Experience League上的[Adobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或[Slack#Measure3}社群。](https://www.measure.chat/)
+使用區段來尋找新見解的可能性是無限的！ 這只是起點。 請自己嘗試幾個專案，讓社群知道您發現的內容：Experience League上的[Adobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或[Slack#Measure3&rbrace;社群。](https://www.measure.chat/)
 
 分段快樂！
 

@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Analytics的協作教學課程和啟用資料
 
-[foo](bar)
+[foo] (bar)
