@@ -21,4 +21,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/336483/?quality=12&learn=on)
 
-如需文件的詳細資訊，請參閱[頁面瀏覽數](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html)、[造訪數](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html)和[不重複訪客](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html)。
+如需文件的詳細資訊，請參閱[頁面瀏覽數](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=zh-Hant)、[造訪數](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=zh-Hant)和[不重複訪客](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=zh-Hant)。

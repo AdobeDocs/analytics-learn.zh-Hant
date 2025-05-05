@@ -94,7 +94,7 @@ Adobe Analytics 會收集大量資料。[!DNL Virtual Report Suites]中的元件
 >
 >**期盼許久的功能：**&#x200B;數位客戶要求我們提供盡可能將專案另存為自訂範本的功能。現在此功能已成為他們最愛的功能之一。
 
-[按一下此處以尋找 Experience League 的更多秘訣和技巧](https://experienceleague.adobe.com/?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
+[按一下此處以尋找 Experience League 的更多秘訣和技巧](https://experienceleague.adobe.com/zh-hant?search=tips&amp;tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | 關於作者 |            |
 |------------|------------|

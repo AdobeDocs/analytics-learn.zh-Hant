@@ -267,7 +267,7 @@ Adobe 的工作區 (第 2.1.2.1 節) 實際上會使用此 API 來建立報表�
 
 除了本指南以外，還有許多資源可幫助您改良策略：
 
-* [Adobe Experience League](https://experienceleague.adobe.com/#home) - 包含教學課程、影片、文件和社群論壇
+* [Adobe Experience League](https://experienceleague.adobe.com/zh-hant#home) - 包含教學課程、影片、文件和社群論壇
 * [Adobe 使用群組](https://analytics-augs.adobe.com/) - 這是社群開展活動的中樞，可幫助使用者互相交流並改善其實作。
 * [Adobe Analytics 使用者群組 YouTube 頻道](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - 無法加入 Adobe Analytics 使用者群組時段？重新觀看先前全球使用者群組時段內容，了解更多關於您的同業如何使用該工具。
 * [Measure Chat Slack 頻道](https://www.measure.chat/) - 與全球 Adobe Analytics 使用者交流，並分享業界學習經驗、向同業請教，並加入衡量主要利益群組。

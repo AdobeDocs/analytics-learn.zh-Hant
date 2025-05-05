@@ -20,4 +20,4 @@ ht-degree: 23%
 
 >[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
 
-如需詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html)。
+如需詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html?lang=zh-Hant)。

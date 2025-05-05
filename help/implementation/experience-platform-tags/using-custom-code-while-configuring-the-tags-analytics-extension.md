@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/27272/?quality=12&learn=on)
 
-請參閱[本文件](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html)，以了解有關本影片中參照的 <i>doPlugins 函數</i>的更多資訊。
+請參閱[本文件](https://experienceleague.adobe.com/docs/analytics/implementation/vars/plugins/impl-plugins.html?lang=zh-Hant)，以了解有關本影片中參照的 <i>doPlugins 函數</i>的更多資訊。

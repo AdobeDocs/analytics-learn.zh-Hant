@@ -15,6 +15,6 @@ ht-degree: 10%
 
 # 區段中的滾動式日期範圍 {#rolling-date-ranges-in-segments}
 
-在本影片中，瞭解如何在區段中使用滾動式日期範圍，可讓您建立「上週購買的人」或「過去60天內造訪過我網站的人」等區段。 如需詳細檔案，說明如何建立可在區段中使用的滾動式日期範圍，請造訪[建立自訂日期範圍](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html)。
+在本影片中，瞭解如何在區段中使用滾動式日期範圍，可讓您建立「上週購買的人」或「過去60天內造訪過我網站的人」等區段。 如需詳細檔案，說明如何建立可在區段中使用的滾動式日期範圍，請造訪[建立自訂日期範圍](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges.html?lang=zh-Hant)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25403/?quality=12&learn=on)

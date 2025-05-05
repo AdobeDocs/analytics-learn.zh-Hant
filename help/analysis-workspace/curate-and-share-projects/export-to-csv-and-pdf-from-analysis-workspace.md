@@ -22,4 +22,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/341276/?quality=12&learn=on)
 
-如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=en)。
+如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=zh-Hant)。

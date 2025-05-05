@@ -28,4 +28,4 @@ ht-degree: 65%
 
 可以分享的範例[!UICONTROL 區段]資料包括：協力廠商資料提供者的人口統計資訊、廣告伺服器的行銷活動資料 (例如站外印象) 和上線的 CRM 資料。這是市場上DMP與分析引擎之間的首次產品化整合。
 
-如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html)。
+如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=zh-Hant)。

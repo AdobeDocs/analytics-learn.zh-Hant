@@ -20,4 +20,4 @@ ht-degree: 23%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=zh-Hant)。

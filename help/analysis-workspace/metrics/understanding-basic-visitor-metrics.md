@@ -15,7 +15,7 @@ ht-degree: 11%
 
 # 了解基本訪客量度
 
-瞭解Adobe Analytics中的[[!UICONTROL 頁面檢視]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=en)、[[!UICONTROL 造訪]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=zh-Hant)和[[!UICONTROL 訪客]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=zh-Hant)。
+瞭解Adobe Analytics中的[[!UICONTROL 頁面檢視]](https://experienceleague.adobe.com/docs/analytics/components/metrics/page-views.html?lang=zh-Hant)、[[!UICONTROL 造訪]](https://experienceleague.adobe.com/docs/analytics/components/metrics/visits.html?lang=zh-Hant)和[[!UICONTROL 訪客]](https://experienceleague.adobe.com/docs/analytics/components/metrics/unique-visitors.html?lang=zh-Hant)。
 
 * 取得這些基本造訪量度的定義，並瞭解其異同。
 

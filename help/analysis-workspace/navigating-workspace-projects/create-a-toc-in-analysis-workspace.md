@@ -18,6 +18,6 @@ ht-degree: 21%
 
 # 在 Analysis Workspace 中建立目錄 {#create-a-table-of-contents-in-analysis-workspace}
 
-瞭解Analysis Workspace中的目錄，其中提供的連結可讓使用者快速跳至專案內的面板和視覺效果。 如需詳細檔案，請造訪[專案目錄](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents)。
+瞭解Analysis Workspace中的目錄，其中提供的連結可讓使用者快速跳至專案內的面板和視覺效果。 如需詳細檔案，請造訪[專案目錄](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/build-workspace-project/project-table-of-contents)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26990/?quality=12&learn=on)

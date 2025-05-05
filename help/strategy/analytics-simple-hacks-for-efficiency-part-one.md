@@ -89,4 +89,4 @@ Analytics 團隊發現他們的生產力和效率被各種原因消耗殆盡。 
    * 透過協助社交發佈和獲勝來建立其存在感
    * 利用正常的辦公時間來協助培訓訓練人員並減少臨時要求
 
-在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心了解更多策略和構想領導力。
+在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hant)中心了解更多策略和構想領導力。

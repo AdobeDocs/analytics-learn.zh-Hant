@@ -19,4 +19,4 @@ ht-degree: 16%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3434957/?quality=12&learn=on)
 
-如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/en/docs/analytics/analyze/report-builder/home)。
+如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/report-builder/home)。

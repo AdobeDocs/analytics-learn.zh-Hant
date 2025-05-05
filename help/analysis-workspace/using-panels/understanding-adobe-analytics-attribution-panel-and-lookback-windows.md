@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # 瞭解Adobe Analytics歸因面板和回顧期間
 
-當我第一次思考[歸因面板](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en)和&#x200B;**回顧期間**&#x200B;時，我立刻想到&#39;*時間旅行&#39;*&#x200B;的概念；當然，也想到，我們對於許多新工具的典型回應，像這樣只是為了推遲嘗試使用，因為它們看起來太複雜。
+當我第一次思考[歸因面板](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=zh-Hant)和&#x200B;**回顧期間**&#x200B;時，我立刻想到&#39;*時間旅行&#39;*&#x200B;的概念；當然，也想到，我們對於許多新工具的典型回應，像這樣只是為了推遲嘗試使用，因為它們看起來太複雜。
 
 我的意思是說實話，只要看看這些選項、開關、面板、讀取器和旋鈕。  說真的，我們來談談這些複雜的閃光燈、水管、量測計…… 等待!!  現在不是談論時間機器時分心的時候，我們只是沒有時間……，還是我們？
 
@@ -43,7 +43,7 @@ ht-degree: 1%
 
 在&#x200B;**歸因**&#x200B;中，只要考慮一段&#39;b5&#39;7b間內，事件/動作可能是由個人、數個個人或任意數目的不同事件之一所造成。
 
-根據[Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en)，*歸因*&#x200B;可讓分析人員自訂&#x200B;*Dimension*&#x200B;專案接收&#x200B;*成功事件*&#x200B;評分的方式。
+根據[Adobe](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=zh-Hant)，*歸因*&#x200B;可讓分析人員自訂&#x200B;*Dimension*&#x200B;專案接收&#x200B;*成功事件*&#x200B;評分的方式。
 
 
 >[!WARNING]
@@ -85,7 +85,7 @@ ht-degree: 1%
 
 - **自訂**：您挑選要獲得學分的人。  這是您的行銷活動！
 
-如需這些和其他歸因模型的詳細資訊，請[按一下這裡](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
+如需這些和其他歸因模型的詳細資訊，請[按一下這裡](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hant)
 
 為了更吸引人，讓我們來談談倒轉時鐘！
 

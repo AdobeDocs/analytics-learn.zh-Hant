@@ -20,4 +20,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28165/?quality=12&learn=on)
 
-請在 Experience League 這裡檢視 Analysis Workspace 概觀影片或參加[免費的入門課程](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)，關注此影片！
+請在 Experience League 這裡檢視 Analysis Workspace 概觀影片或參加[免費的入門課程](https://experienceleague.adobe.com/?lang=zh-hant&recommended=Analytics-U-1-2020.1.workspace)，關注此影片！

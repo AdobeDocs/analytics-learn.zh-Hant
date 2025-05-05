@@ -22,4 +22,4 @@ ht-degree: 58%
 
 >[!VIDEO](https://video.tv.adobe.com/v/341449/?quality=12&learn=on)
 
-如需有關此功能的詳細資訊，請參閱[文件](https://experienceleague.adobe.com/en/docs/analytics/export/data-warehouse/t-tableau)。
+如需有關此功能的詳細資訊，請參閱[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics/export/data-warehouse/t-tableau)。
