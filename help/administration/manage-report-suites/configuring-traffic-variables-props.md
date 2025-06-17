@@ -1,14 +1,14 @@
 ---
 title: 設定流量變數 (Prop)
 description: 本影片逐步解說在 Analytics Admin Console 中的流量變數設定 (常稱為「prop」)。
-feature: Variables
+feature: Appmeasurement Implementation
 role: Admin
 level: Beginner
 doc-type: feature video
 thumbnail: 339441.jpg
 kt: 9528
 exl-id: 39ac3d0e-7f5c-44c3-946d-57e2a395a9f6
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '50'
 ht-degree: 100%

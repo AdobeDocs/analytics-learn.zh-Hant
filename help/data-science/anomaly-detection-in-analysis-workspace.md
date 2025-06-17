@@ -1,7 +1,7 @@
 ---
 title: Analysis Workspace 中的異常偵測
 description: Analysis Workspace 會自動針對任何時間序列視覺效果或資料表格偵測資料中的異常。您無須費力，就能找到「未知的未知事物」。
-feature: Data Science
+feature: Anomaly Detection
 topics: null
 activity: use
 doc-type: feature video
@@ -10,7 +10,7 @@ kt: 2336
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%

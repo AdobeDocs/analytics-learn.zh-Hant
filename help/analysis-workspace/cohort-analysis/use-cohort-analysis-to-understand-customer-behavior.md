@@ -1,7 +1,7 @@
 ---
 title: 使用同類群組分析來了解客戶行為
 description: 若要改善客戶體驗和收入，企業必須瞭解客戶行為。 同類群組分析有助於理解參與度和保留率，進而改善帳戶建立作業，並為高流量月份建立行銷活動。
-feature: Cohort Analysis
+feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
@@ -9,7 +9,7 @@ last-substantial-update: 2023-05-16T00:00:00Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
 workflow-type: tm+mt
 source-wordcount: '1146'
 ht-degree: 13%
@@ -55,7 +55,7 @@ ht-degree: 13%
 1. **包含條件：**&#x200B;次造訪
 1. **回訪條件：**&#x200B;次造訪
 1. **粒度：**&#x200B;個月
-1. **設定：**&#x200B;滾動式計算
+1. **設定：**滾動式計算
 \*\*可讓您根據上一欄計算保留率，而非根據包含欄。 因此，這表示使用者包含在每個月中\*\*
 1. **區段：**&#x200B;您可以選取特定區段，以進一步推動此分析
    1. 特定登陸頁面
@@ -115,7 +115,7 @@ ht-degree: 13%
 1. **包含條件：**&#x200B;造訪+登入成功事件
 1. **回訪條件：**&#x200B;次造訪
 1. **粒度：**&#x200B;個月
-1. **設定：**&#x200B;滾動式計算
+1. **設定：**滾動式計算
 \*\*可讓您根據上一欄計算保留率，而非根據包含欄。 因此，這表示使用者包含在每個月中\*\*
 
 ### 解譯結果
@@ -170,6 +170,6 @@ ht-degree: 13%
 
 ![Jennifer Yacenda](assets/jennifer-yacenda.png)
 
-**Jennifer Yacenda**，萬豪高級Director
+**Jennifer Yacenda**，萬豪高級總監
 
 Adobe Analytics 達人
