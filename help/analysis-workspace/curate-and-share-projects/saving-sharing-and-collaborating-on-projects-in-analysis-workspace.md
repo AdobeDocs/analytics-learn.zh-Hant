@@ -18,6 +18,6 @@ ht-degree: 100%
 
 在這段影片中，了解如何儲存和匯出自己的專案、傳送專案至其他收件者，以及邀請他人在您的專案上協作。
 
->[!VIDEO](https://video.tv.adobe.com/v/30993/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3470874/?quality=12&learn=on&captions=chi_hant)
 
 如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/send-schedule-files.html?lang=zh-Hant)。
