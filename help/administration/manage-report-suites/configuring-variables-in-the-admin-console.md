@@ -19,5 +19,5 @@ ht-degree: 0%
 
 瞭解如何在「報表套裝管理器」中設定變數和事件，確保報表、維度和量度都有正確的名稱和行為。
 
->[!VIDEO](https://video.tv.adobe.com/v/3456978/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/28755/?quality=12&learn=on)
 

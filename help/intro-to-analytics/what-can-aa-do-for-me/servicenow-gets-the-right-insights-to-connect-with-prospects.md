@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31504/?quality=12&learn=on)
 
-Adobe Experience Cloud 可為您提供超越市場對手的一切整合工具，範圍涵蓋頻道行銷、數位廣告、對象和資料最佳化等方面。
+Adobe Experience Cloud 可為您提供超越市場對手的一切整合工具，範圍涵蓋頻道行銷、數位廣告、客群和資料最佳化等方面。

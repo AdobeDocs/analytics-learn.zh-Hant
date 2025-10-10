@@ -21,6 +21,6 @@ ht-degree: 100%
 
 [!UICONTROL 同類群組表]提供兩種分析類型 - [!UICONTROL 留存率]和[!UICONTROL 流失率]。[!UICONTROL 留存率]指出多少位使用者隨著時間仍留存，而[!UICONTROL 流失率]選項則說明失去多少使用者 (1 - 留存率)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430159/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/25966/?quality=12&learn=on)
 
 如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hant)。

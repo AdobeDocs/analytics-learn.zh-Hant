@@ -1,6 +1,6 @@
 ---
 title: Adobe Analytics中的Activity Map概觀
-description: 瞭解Activity Map，這是一個協助您直接在您的網站上以視覺效果呈現使用者活動資料的工具。 查看您的頁面連結的點按次數 (或其他量度)。
+description: 瞭解Activity Map，此工具可協助您直接在您的網站上以視覺效果呈現使用者活動資料。 查看您的頁面連結的點按次數 (或其他量度)。
 feature: Activity Map
 thumbnail: 25451.jpg
 kt: 2349
@@ -17,8 +17,8 @@ ht-degree: 44%
 
 # Adobe Analytics中的[!UICONTROL Activity Map]總覽
 
-瞭解Activity Map，這是一個協助您直接在您的網站上以視覺效果呈現使用者活動資料的工具。 查看您的頁面連結的點按次數 (或其他量度)。
+瞭解Activity Map，此工具可協助您直接在您的網站上以視覺效果呈現使用者活動資料。 查看您的頁面連結的點按次數 (或其他量度)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/activity-map/activity-map)。
+如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map)。

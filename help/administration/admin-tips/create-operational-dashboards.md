@@ -12,8 +12,8 @@ thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
 source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
 workflow-type: tm+mt
-source-wordcount: '1152'
-ht-degree: 100%
+source-wordcount: '1151'
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ _探索 Adobe Analytics Workspace 中的操作儀表板如何徹底改變溝通�
 
 我繼續建立操作儀表板以分享給全公司。到目前為止，使用者可以得到資訊、資訊集中並減少挫折感。這是一個簡單、持續發展的過程，隨時間過去，效率會不斷提高。
 
-沒有我，使用者也能獲得很多有用的資訊，了解網站的各個區域，了解 Adobe Analytics 有多厲害，並且 (對我來說很重要？？) 問我的問題更少，我被佔用的時間也更少。
+沒有我，人們就能取得許多好資訊、瞭解網站區域、瞭解Adobe Analytics有多酷，以及（對我來說很重要😊）更少問我問題，節省我的時間。
 
 **我強烈建議您為所有屬性或網站主要區域建立儀表板。**&#x200B;其中應該提供屬性/網站/應用程式/流量的概觀，以及基本資訊和快速深入分析。它們應該與整個公司共享，讓所有使用者無需任何介入即可了解該屬性。對我來說，這些儀表板通常可幫我回答 80% 的問題，節省我寶貴的時間。
 
@@ -47,7 +47,7 @@ _探索 Adobe Analytics Workspace 中的操作儀表板如何徹底改變溝通�
 
 厭倦了無止盡地重複提供答案？停止！製作常見問題儀表板來節省時間。使用者可以提問之前先查閱它，或者您可以使用其快速連結作為回覆。
 
-只需建立[文字視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=zh-Hant)，其中問題做為標題，答案/說明做為內容，全部摺疊起來，只顯示問題。按相關性 (例如頁面或產品) 或使用面板將其分組。保持簡潔，常見查詢優先放在頂端。
+只需建立[文字視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html)，其中問題做為標題，答案/說明做為內容，全部摺疊起來，只顯示問題。按相關性 (例如頁面或產品) 或使用面板將其分組。保持簡潔，常見查詢優先放在頂端。
 
 與其寫長篇電子郵件或重新發現舊的說明，不如更新您的常見問題儀表板。從現在開始並隨時間擴展。使用超連結來參考其他儀表板或報告中的相關常見問題。從其他儀表板連結到常見問題，在需要時提供複雜的內容。
 

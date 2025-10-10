@@ -1,6 +1,6 @@
 ---
 title: 在計算量度中使用維度
-description: Dimension可在計算量度產生器中使用，並可新增至任何計算量度公式，以將新量度限製為維度或維度值。
+description: 維度可用於計算量度產生器，並可新增至任何計算量度公式，以將新量度限製為維度或維度值。
 feature: Calculated Metrics
 kt: 1904
 role: User
@@ -15,7 +15,7 @@ ht-degree: 22%
 
 # 在計算量度中使用維度 {#using-dimensions-in-calculated-metrics}
 
-Dimension可在計算量度產生器中使用，並可新增至任何計算量度公式，以將新量度限製為維度或維度值。
+維度可用於計算量度產生器，並可新增至任何計算量度公式，以將新量度限製為維度或維度值。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23723/?quality=12&learn=on)
 

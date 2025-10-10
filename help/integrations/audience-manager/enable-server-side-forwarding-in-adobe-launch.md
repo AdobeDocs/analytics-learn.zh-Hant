@@ -23,6 +23,6 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->已在Experience Cloud介面中將[!UICONTROL Launch]重新命名為[!UICONTROL 標籤]。 從[!UICONTROL 應用程式切換器]選取[!UICONTROL 資料彙集]以開啟標籤，並執行此影片中介紹的步驟。
+>已在Experience Cloud介面中將「[!UICONTROL Launch]」重新命名為「[!UICONTROL 標籤]」。 從[!UICONTROL 應用程式切換器]選取[!UICONTROL 資料彙集]以開啟標籤，並執行此影片中介紹的步驟。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25172?quality=12&learn=on)

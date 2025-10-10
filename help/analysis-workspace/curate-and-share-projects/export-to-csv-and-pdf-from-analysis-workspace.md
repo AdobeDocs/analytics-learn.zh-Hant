@@ -20,6 +20,6 @@ ht-degree: 100%
 
 了解如何將 Workspace Analysis 專案匯出至 CSV 和 PDF 檔案，以擴大此功能的靈活性。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445733/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/341276/?quality=12&learn=on)
 
-如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=zh-Hant)。
+如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=en)。

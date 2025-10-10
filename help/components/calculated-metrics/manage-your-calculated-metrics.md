@@ -20,4 +20,4 @@ ht-degree: 19%
 
 瞭解如何管理計算量度，包括尋找計算量度、檢視清單、重新命名、刪除、共用等。
 
->[!VIDEO](https://video.tv.adobe.com/v/3423585/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3421406/?learn=on)

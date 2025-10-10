@@ -20,4 +20,4 @@ ht-degree: 100%
 
 在行動裝置檢視分析時，運用合適的視覺效果變得前所未有的重要。在本影片中，了解如何將視覺效果新增到行動計分卡專案。
 
->[!VIDEO](https://video.tv.adobe.com/v/3445777/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/337570/?quality=12&learn=on)

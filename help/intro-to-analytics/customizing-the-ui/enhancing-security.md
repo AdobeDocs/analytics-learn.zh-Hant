@@ -18,6 +18,6 @@ ht-degree: 100%
 
 # 增強安全性 {#enhance-security}
 
-了解公司設定中的安全管理員設定如何控制 Adobe Analytics 的存取。這包括增強式密碼、密碼到期和復原功能，以及電子郵件網域限制。
+了解公司設定中的安全管理員設定如何控制 Adobe Analytics 的存取。這包括增強式密碼、密碼期限和復原功能，以及電子郵件網域限制。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25458/?quality=12&learn=on)

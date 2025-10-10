@@ -16,6 +16,6 @@ ht-degree: 14%
 
 # 在虛擬報告套裝中自訂造訪
 
-您可以使用虛擬報表套裝，以非破壞性方式變更Adobe Analytics中的造訪定義。 本影片說明和可用的不同選項。 如需詳細檔案，請造訪[內容感知工作階段](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html?lang=zh-Hant){target="_blank"}。
+您可以使用虛擬報表套裝，以非破壞性方式變更Adobe Analytics中的造訪定義。 本影片說明和可用的不同選項。 如需詳細檔案，請造訪[內容感知工作階段](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-mobile-visit-processing.html){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428480/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/23545/?quality=12&learn=on)

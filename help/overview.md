@@ -90,4 +90,4 @@ ht-degree: 100%
 
 ## 其他資源
 
-[Adobe Analytics 文件](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)
+[Adobe Analytics 文件](https://experienceleague.adobe.com/docs/analytics.html)

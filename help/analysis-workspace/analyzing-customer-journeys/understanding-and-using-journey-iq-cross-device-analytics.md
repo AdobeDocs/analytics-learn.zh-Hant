@@ -1,6 +1,6 @@
 ---
 title: 了解並使用 Journey IQ - 跨裝置分析
-description: 使用者與您的品牌互動時，他們會以許多方式在多種裝置上進行互動。跨裝置分析會整合 Adobe Experience Platform 身份識別服務，以識別多少部裝置對應到使用者。然後運用此情報建立使用者行為的跨裝置檢視。如此便能夠對使用者進行分析，而非對裝置。
+description: 使用者與您的品牌互動時，他們會以許多方式在多種裝置上進行互動。跨裝置分析會整合 Adobe Experience Platform 身分識別服務，以身分識別多少部裝置對應到使用者。然後運用此情報建立使用者行為的跨裝置檢視。如此便能夠對使用者進行分析，而非對裝置。
 feature: CDA
 topics: null
 activity: use
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 使用者與您的品牌互動時，他們會以許多方式在多種裝置上進行互動。跨裝置分析會整合 [!DNL Adobe Experience Platform Identity Service]，以識別多少部裝置對應到使用者。然後運用此情報建立使用者行為的跨裝置檢視。如此便能夠對使用者進行分析，而非對裝置。
 
-## 跨裝置分析總覽
+## 跨裝置分析概觀
 
 ### 我不是我的裝置
 
@@ -55,7 +55,7 @@ ht-degree: 100%
 
 ## [!DNL Cross-Device Analytics]的運作方式
 
-[!DNL Journey IQ: Cross-Device Analytics (CDA)] 會和 [!DNL Adobe Experience Platform Identity Service] 整合，並利用 [!DNL Device Graph] 來辨識裝置與使用者的對應方式。然後運用此情報建立使用者行為的跨裝置檢視。CDA 包含無與倫比的功能和工具，有助於您的企業了解多個裝置的使用情況，以及在其與您的品牌互動過程中，橫跨這些裝置的客戶體驗。它作為 Analysis Workspace 下方的圖層，使用如[!UICONTROL 流失]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]及[!DNL Attribution IQ]等強大工具，提供深入的個人型對象分析和跨裝置歸因、細分和歷程分析見解。
+[!DNL Journey IQ: Cross-Device Analytics (CDA)] 會和 [!DNL Adobe Experience Platform Identity Service] 整合，並利用 [!DNL Device Graph] 來辨識裝置與使用者的對應方式。然後運用此情報建立使用者行為的跨裝置檢視。CDA 包含無與倫比的功能和工具，有助於您的企業了解多個裝置的使用情況，以及在其與您的品牌互動過程中，橫跨這些裝置的客戶體驗。它作為 Analysis Workspace 下方的圖層，使用如[!UICONTROL 流失]、[!DNL Flow]、[!DNL Cohort]、[!DNL Segment IQ]及[!DNL Attribution IQ]等強大工具，提供深入的個人型客群分析和跨裝置歸因、細分和歷程分析見解。
 
 ### 此 [!DNL Cross-Device Virtual Report Suite]
 
@@ -108,7 +108,7 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/tw/legal/produ
 
 ### 不是訪客的使用者
 
-在 CDA [!UICONTROL 虛擬報告套裝]中，您會見到一些變動。例如，「[!UICONTROL 不重複訪客]」量度已被兩個量度取代：「[!UICONTROL 使用者]」和「[!UICONTROL 不重複裝置]」。這些新量度能讓您更深入分析對象規模。
+在 CDA [!UICONTROL 虛擬報告套裝]中，您會見到一些變動。例如，「[!UICONTROL 不重複訪客]」量度已被兩個量度取代：「[!UICONTROL 使用者]」和「[!UICONTROL 不重複裝置]」。這些新量度能讓您更深入分析客群規模。
 
 *使用者和不重複裝置*
 ![CDA [!UICONTROL 使用者量度]](assets/cda-people-metric.png)
@@ -133,12 +133,12 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/tw/legal/produ
 
 ## 分析 Analysis Workspace 中的跨裝置資料
 
-### 個人化對象分析
+### 個人化客群分析
 
-您是否曾想過有多少人正在與您的品牌互動？您是否想要了解他們使用多少裝置及裝置類型？他們的使用情況如何重疊？您可以使用 CDA VRS 建立跨裝置[文氏圖表](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hant)和每人裝置數[長條圖](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=zh-Hant)。
+您是否曾想過有多少人正在與您的品牌互動？您是否想要了解他們使用多少裝置及裝置類型？他們的使用情況如何重疊？您可以使用 CDA VRS 建立跨裝置[文氏圖表](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/venn.html?lang=zh-Hant)和每人裝置數[直方圖](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=zh-Hant)。
 
-*個人化對象分析*
-![文式圖表和長條圖](assets/cda-venn-and-histogram.png)
+*個人化客群分析*
+![文式圖表和直方圖](assets/cda-venn-and-histogram.png)
 
 ### 跨裝置[!DNL Flow]
 

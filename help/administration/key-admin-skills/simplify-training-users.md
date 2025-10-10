@@ -18,7 +18,7 @@ ht-degree: 100%
 
 # 有關如何簡化和減少使用者培訓時間的秘訣和竅門
 
->[!VIDEO](https://video.tv.adobe.com/v/341110/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
 確保貴組織的商務使用者已受到 Adobe Analytics 的良好培訓對於協助建立資料驅動的決策文化至關重要。當使用者可以輕鬆地在 Adobe Analytics 中尋找資訊時，就可以自行解答簡單的業務問題，好讓分析師有更多時間可以解答有挑戰性的業務問題。分享您的知識有助於推動資料民主化，並讓商務使用者更獨立地做出以績效為根據的決策。
 

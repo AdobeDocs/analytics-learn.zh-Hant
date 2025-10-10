@@ -21,6 +21,6 @@ ht-degree: 81%
 
 >[!VIDEO](https://video.tv.adobe.com/v/23547/?quality=12&learn=on)
 
-除了現有功能之外，此功能用於編輯全部請求的[!UICONTROL 報告套裝]、[!UICONTROL 日期範圍]、[!UICONTROL 詳細程度]和[!UICONTROL 區段]。您可以從右鍵功能表或[管理]視窗中的[編輯多個]大量編輯請求。
+除了現有功能之外，此功能用於編輯全部請求的[!UICONTROL 報告套裝]、[!UICONTROL 日期範圍]、[!UICONTROL 詳細程度]和[!UICONTROL 區段]。您可以從右鍵功能表或[管理]視窗中的[編輯多個大量編輯請求。]
 
 如需有關此功能的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/report-builder/manage-requests/edit-multiple-metrics.html?lang=zh-Hant)。

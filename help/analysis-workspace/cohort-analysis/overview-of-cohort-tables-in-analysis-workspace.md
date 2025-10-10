@@ -22,6 +22,6 @@ ht-degree: 100%
 
 [!UICONTROL 同類群組表格]內的[!UICONTROL 滾動計算]設定可以用於分析[!UICONTROL 同類群組]比較期間，以了解如何隨著時間內保留 ([!UICONTROL 流失]) 相同的使用者。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430093/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/25965/?quality=12&learn=on)
 
 如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hant)。

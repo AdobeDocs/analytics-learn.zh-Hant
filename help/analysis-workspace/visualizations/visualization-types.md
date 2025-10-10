@@ -10,7 +10,7 @@ exl-id: 5e176b61-6fb2-46f6-8b77-b26338e8422c
 source-git-commit: da8f29dbee916403604000e969e294a2ecad52cf
 workflow-type: tm+mt
 source-wordcount: '209'
-ht-degree: 22%
+ht-degree: 27%
 
 ---
 
@@ -37,7 +37,7 @@ ht-degree: 22%
 
 <td style="vertical-align: top;">
 
-* 自由表格
+* 自由格式表格
 * 文字
 
   </td>
@@ -48,7 +48,7 @@ ht-degree: 22%
 
 <td style="vertical-align: top;">
 
-* 自由表格
+* 自由格式表格
 * 關鍵量度摘要
 * 摘要數字
 * 摘要變更
@@ -64,8 +64,8 @@ ht-degree: 22%
 * 長條圖
 * 橫條圖
 * 堆疊長條圖
-* 棧疊橫條圖
-* 自由表格
+* 堆疊橫條圖
+* 自由格式表格
 * 具有條件式格式的自由格式表格
 * 組合圖表
 * 專案符號（比較實際數字與目標）
@@ -115,7 +115,7 @@ ht-degree: 22%
 
 <td style="vertical-align: top;">
 
-* 長條圖
+* 直方圖
 
   </td>
 </tr>
@@ -156,4 +156,4 @@ ht-degree: 22%
 
 </table>
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)。

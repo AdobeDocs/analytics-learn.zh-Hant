@@ -16,7 +16,7 @@ ht-degree: 79%
 
 # Adobe Analytics 教育課程
 
->[!VIDEO](https://video.tv.adobe.com/v/3443872/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/334350/?quality=12&learn=on)
 
 ## Analytics 課程內容
 
@@ -42,6 +42,6 @@ Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您
 
 在此課程的每個區段結尾，都有可與 Adobe Analytics University 沙箱環境結合的特製活動。
 
-在此註冊以取得存取權：[Analytics 課程註冊](https://experienceleague.adobe.com/landing/analytics-university/?lang=zh-Hant)
+在此註冊以取得存取權：[Analytics 課程註冊](https://experienceleague.adobe.com/landing/analytics-university/)
 
 [下載課程 PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)

@@ -51,7 +51,7 @@ Adobe 的 AI 工具並不是要取代您，而是要讓您的工作產生最大�
 
 1. 資料彙集取決於您的組織，可能包括各種頻道和媒介。 包括 OTT 裝置、影片、企業、客服中心、實體店面、社交電子郵件、網路、廣告、行動應用程式、可穿戴裝置、物聯網、語音助手、連接卡片和地理/空間。
 
-1. 資料處理包括即時資料彙集、處理規則、對象整合、內容感知工作階段、即時觸發器和視圖，以及平台。
+1. 資料處理包括即時資料彙集、處理規則、客群整合、內容感知工作階段、即時觸發器和視圖，以及平台。
 
 1. 分析和機器學習包括區段 IQ、虛擬分析人員、分段、Analysis Workspace
 
@@ -108,7 +108,7 @@ Adobe 的 AI 工具並不是要取代您，而是要讓您的工作產生最大�
 [區段 IQ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/segment-iq.html?lang=tw)：
 
 * 發現區段之間的差異和重疊，為您的分段策略提供資訊
-* 發掘推動 KPI 的對象區段的關鍵特徵
+* 發掘推動 KPI 的客群細分群體的關鍵特徵
 * 在數秒到數分鐘時間內即可獲得報告和視覺呈現，顯示跨維度、量度和其他區段的共同之處
 * 改進與高價值客戶的互動
 
@@ -126,4 +126,4 @@ Adobe 的 AI 工具並不是要取代您，而是要讓您的工作產生最大�
 
 如需詳細資訊，請觀看我們的[網路研討會](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)。
 
-在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hant)中心了解更多策略和構想領導力。
+在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心了解更多策略和構想領導力。

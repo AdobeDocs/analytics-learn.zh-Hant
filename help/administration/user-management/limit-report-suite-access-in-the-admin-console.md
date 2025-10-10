@@ -1,6 +1,6 @@
 ---
 title: 在 Admin Console 限制報表套裝的存取權限
-description: Adobe Analytics 使用者需要存取合適的資料。了解如何使用 Admin Console 確保使用者只能存取其角色所需的報表套裝。請依照 Adobe Admin Console 中的快速步驟，以在您的組織中建立報告套裝特定的產品描述檔。
+description: Adobe Analytics 使用者需要存取合適的資料。了解如何使用 Admin Console 確保使用者只能存取其角色所需的報表套裝。請依照 Adobe Admin Console 中的快速步驟，以在您的組織中建立報告套裝特定的產品設定檔。
 feature: User Management
 topics: null
 activity: setup
@@ -21,6 +21,6 @@ ht-degree: 100%
 
 # 在 [!UICONTROL Admin Console] 限制報表套裝的存取權限
 
-Adobe Analytics 使用者需要存取合適的資料。了解如何使用 [!UICONTROL Admin Console] 確保使用者只能存取其角色所需的報表套裝。請依照 [Adobe Admin Console](https://adminconsole.adobe.com/) 中的快速步驟，以在您的組織中建立報告套裝特定的產品描述檔。
+Adobe Analytics 使用者需要存取合適的資料。了解如何使用 [!UICONTROL Admin Console] 確保使用者只能存取其角色所需的報表套裝。請依照 [Adobe Admin Console](https://adminconsole.adobe.com/) 中的快速步驟，以在您的組織中建立報告套裝特定的產品設定檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)

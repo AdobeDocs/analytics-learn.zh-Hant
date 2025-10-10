@@ -14,7 +14,7 @@ ht-degree: 3%
 
 ---
 
-# 將基本零售業變數和事件新增至Experience Platform[!DNL tags]中的規則
+# 將基本零售業變數和事件新增至Experience Platform [!DNL tags]中的規則
 
 此影片示範如何在[!DNL tags]中使用特殊產品字串延伸來追蹤基本零售業變數和事件，例如產品檢視、購物車新增和結帳。
 

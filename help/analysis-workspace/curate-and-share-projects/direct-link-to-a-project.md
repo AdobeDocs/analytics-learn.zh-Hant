@@ -20,6 +20,6 @@ ht-degree: 100%
 
 本影片說明如何建立可帶領同事前往 Analysis Workspace 專案的短連結，好讓分析更民主化。
 
->[!VIDEO](https://video.tv.adobe.com/v/3439098/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/341027/?quality=12&learn=on)
 
 如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/shareable-links.html?lang=zh-Hant)。

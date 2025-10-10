@@ -19,4 +19,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25408/?quality=12&learn=on)
 
-請瀏覽檔案，以取得建立計算量度時使用[基本](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html?lang=zh-Hant)和[進階](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html?lang=zh-Hant)函式的詳細資訊。
+請瀏覽檔案，以取得建立計算量度時使用[基本](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-functions.html)和[進階](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetrics-reference/cm-adv-functions.html)函式的詳細資訊。

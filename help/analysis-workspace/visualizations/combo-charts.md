@@ -20,4 +20,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3409159/?quality=12&learn=on)
 
-如需詳細資訊，請造訪此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html?lang=zh-Hant)。
+如需詳細資訊，請造訪此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/combo-charts.html)。

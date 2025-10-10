@@ -24,4 +24,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25961/?quality=12&learn=on)
 
-如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=zh-Hant)。
+如需詳細資訊，請參閱本[文件](https://experienceleague.adobe.com/docs/mobile-services/using/get-started-ug/gs.html?lang=en)。

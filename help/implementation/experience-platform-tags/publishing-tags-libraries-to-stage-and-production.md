@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何在 Experience Platform [!DNL tags] 中，將開發環境中的網站分析程式碼發佈到中繼和生產環境，以及如何設定報告套裝以正確接收正確的資料。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429981/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/28777/?quality=12&learn=on)

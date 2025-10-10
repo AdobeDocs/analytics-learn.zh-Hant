@@ -1,6 +1,6 @@
 ---
 title: 區段產生器概觀
-description: 使用 Adobe Analytics 中的分段功能分解您的資料。此影片將逐步說明區段產生器，並提供基本概覽。
+description: 使用 Adobe Analytics 中的分段功能分解您的資料。此影片將逐步說明區段產生器，並提供基本概觀。
 feature: Segmentation
 thumbnail: 25404.jpg
 kt: 2300
@@ -16,6 +16,6 @@ ht-degree: 100%
 
 # Adobe Analytics 中的區段產生器 {#segment-builder-in-adobe-analytics}
 
-使用 Adobe Analytics 中的分段功能分解您的資料。此影片將逐步說明區段產生器，並提供基本概覽。
+使用 Adobe Analytics 中的分段功能分解您的資料。此影片將逐步說明區段產生器，並提供基本概觀。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25404/?quality=12&learn=on)

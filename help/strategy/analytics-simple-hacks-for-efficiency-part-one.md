@@ -9,7 +9,7 @@ exl-id: 5d1077fd-d006-4a85-bf1c-54f6b2d31934
 source-git-commit: d7fd77640928697f5857ccfcaf2c0f561aebeac3
 workflow-type: tm+mt
 source-wordcount: '711'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -43,15 +43,15 @@ Analytics 團隊發現他們的生產力和效率被各種原因消耗殆盡。 
 
 1. 資料彙集文件和治理 - 技術規格：
 
-   與 SDR 相比，技術規格的對象較受限，但對於完整功能的實施，也同樣重要。 一個良好的技術規格，應該包含實施解決方案所需的一切開發、QA 和標記管理資源。 請務必盡量加入適應獨特實施架構所需的一切文件。
+   與 SDR 相比，技術規格的客群較受限，但對於完整功能的實施，也同樣重要。 一個良好的技術規格，應該包含實施解決方案所需的一切開發、QA 和標記管理資源。 請務必盡量加入適應獨特實施架構所需的一切文件。
 
    **技術規格**
 
-   _使用案例：_&#x200B;描述如何建構資料彙集指令碼的指示
+   使用案例&#x200B;:_說明如何建構資料收集的指令碼(_U)
 
-   _主要使用者：_&#x200B;開發人員
+   主要使用者&#x200B;:_開發人員(_P)
 
-   _其他附註：_
+   其他附註(_O):_
 
    * 專為您的部署環境建構的高等技術文件
    * 對初始實施和後續維護/參考都很有用
@@ -74,11 +74,11 @@ Analytics 團隊發現他們的生產力和效率被各種原因消耗殆盡。 
 
    Analytics 健全儀表板 (AHD)：
 
-   _使用案例：_&#x200B;單一報表套裝擷取的每個量度和維度的快照
+   單一報表套裝擷取的每個量度和維度的使用案例&#x200B;:_快照(_U)
 
-   _主要使用者：_ Analytics SME 和/或開發人員負責人
+   主要使用者&#x200B;:_領導Analytics SME和/或開發人員(_P)
 
-   _其他附註：_
+   其他附註(_O):_
    * 使用 Adobe Reporting API 的自訂整合透過 Excel 傳遞
    * 使用者必須具備 Analytics Web 服務 API 存取權
    * 具有半自動化選項
@@ -89,4 +89,4 @@ Analytics 團隊發現他們的生產力和效率被各種原因消耗殆盡。 
    * 透過協助社交發佈和獲勝來建立其存在感
    * 利用正常的辦公時間來協助培訓訓練人員並減少臨時要求
 
-在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hant)中心了解更多策略和構想領導力。
+在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心了解更多策略和構想領導力。

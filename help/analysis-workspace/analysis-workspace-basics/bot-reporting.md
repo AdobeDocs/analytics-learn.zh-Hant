@@ -20,6 +20,6 @@ ht-degree: 52%
 
 瞭解如何在Analysis Workspace中報告機器人資料。 機器人資料是以摘要資料來提供，並且可以在啟用機器人的報告套件中進行分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/3447648/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3420314/?learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/dimensions/bot-name.html)。

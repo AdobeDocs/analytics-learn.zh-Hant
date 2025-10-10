@@ -1,5 +1,5 @@
 ---
-title: Analysis Workspace 總覽
+title: Analysis Workspace 概觀
 description: 取得 Adobe Analytics 解決方案 Analysis Workspace 整體概觀，其中包含專案建立和範本、面板、視覺效果、維度、量度、區段，以及高價值的功能。
 feature: Workspace Basics
 role: User
@@ -14,7 +14,7 @@ ht-degree: 100%
 
 ---
 
-# Analysis Workspace 總覽 {#analysis-workspace-overview}
+# Analysis Workspace 概觀 {#analysis-workspace-overview}
 
 取得 Adobe Analytics 解決方案 Analysis Workspace 整體概觀，其中包含專案建立和範本、面板、視覺效果、維度、量度、區段，以及高價值的功能。
 

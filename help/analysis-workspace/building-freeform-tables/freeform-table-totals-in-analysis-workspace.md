@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解什麼會影響自由格式表格總計，以及如何啟用和停用它們。
 
->[!VIDEO](https://video.tv.adobe.com/v/3437406/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/29273/?quality=12&learn=on)

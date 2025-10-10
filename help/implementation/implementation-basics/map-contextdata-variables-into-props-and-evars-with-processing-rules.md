@@ -16,7 +16,7 @@ ht-degree: 100%
 
 # 使用處理規則將 contextData 變數對應至 Prop 和 eVar {#map-contextdata-variables-into-props-and-evars-with-processing-rules}
 
-在實施 Adobe Analytics 使用 [!DNL contextData] 變數時，為了使資料顯示在實際報告中，您需要將 [!DNL contextData] 變數對應至[!UICONTROL 處理規則]介面中的 [!DNL props/eVars]。本影片將展示如何執行此操作。 有關詳細文件，請參閱[處理規則概述](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules.html?lang=zh-Hant)。
+在實施 Adobe Analytics 使用 [!DNL contextData] 變數時，為了使資料顯示在實際報告中，您需要將 [!DNL contextData] 變數對應至[!UICONTROL 處理規則]介面中的 [!DNL props/eVars]。本影片將展示如何執行此操作。 有關詳細文件，請參閱[處理規則概觀](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/manage-report-suites/edit-report-suite/report-suite-general/c-processing-rules/processing-rules.html)。
 
 >[!IMPORTANT]
 >

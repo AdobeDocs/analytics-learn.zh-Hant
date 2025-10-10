@@ -13,7 +13,7 @@ exl-id: b5843678-6444-453b-a9c9-1e301ffca876
 source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 100%
+ht-degree: 79%
 
 ---
 
@@ -34,7 +34,7 @@ ht-degree: 100%
 
 **第二**，如果您依照本影片中的步驟進行，請注意您可以[使用自由格式表格產生器](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)設定您的表格。
 
-* 3:20 - 交叉表維度會在捨棄時自動適時變動，表示其值會隨著時間變更。 若是此分析，最好引入靜態欄。在影片的 6:33 了解更多關於動態欄的資訊：[自由格式表格中的列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
-* 4:30 - 欄設定現在可以大量更新，而不用逐一更新。在影片的 8:45 了解更多資訊：[自由格式表格中的列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 3:20 — 交叉表維度會在捨棄時自動動態變化，表示其值會隨著時間變更。 若是此分析，最好引入靜態欄。在影片的6:33瞭解更多關於動態欄的資訊：自由格式表格中的[列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 4:30 — 欄設定現在可以大量更新，而不是逐一更新。 在影片的8:45瞭解更多資訊：自由格式表格中的[列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
-如需有關本主題的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hant)。
+如需有關本主題的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hant)。

@@ -38,7 +38,7 @@ ht-degree: 100%
 
 ## 其他資源 {#additional-resources}
 
-* [有關記錄的更多資訊](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=zh-Hant)
+* [有關記錄的更多資訊](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [下載示範控制面板](https://adobe.ly/2ygP5ws)
 
 後續行動：我們正積極進行並希望很快能在 [!DNL Analytics] 易用的 UI 當中展示這項資訊 (及更多詳情)。

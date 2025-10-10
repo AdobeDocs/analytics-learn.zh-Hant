@@ -24,4 +24,4 @@ ht-degree: 100%
 
 下拉式篩選器為合併專案和面板的實用方式。例如，如果您的一個專案有多個版本，提供特定國家/地區的報告，您現在可以將這些專案摺疊至單一專案，並加入用戶可以切換的國家/地區下拉式篩選器。
 
-如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=zh-Hant)。
+如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=en)。

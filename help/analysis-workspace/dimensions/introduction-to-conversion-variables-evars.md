@@ -18,6 +18,6 @@ ht-degree: 19%
 
 了解轉換變數（也稱為[!DNL eVars]）在Adobe Analytics中的使用方式，包括其與轉換事件及流量變數的不同之處。
 
->[!VIDEO](https://video.tv.adobe.com/v/3429028/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=zh-Hant)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html)。

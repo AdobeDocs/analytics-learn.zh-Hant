@@ -18,9 +18,9 @@ ht-degree: 1%
 
 # 現在只需等待區段……使用區段在Analysis Workspace中探索新的深入分析
 
-無論您是新的Adobe Analytics使用者或經驗豐富的專家，都將在您的Analysis Workspace專案中善用一些區段。 如[Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hant)所述，「區段可讓您根據特性或網站互動來識別訪客的子集」。 雖然此功能的基本成果表示將使用者群組、造訪或點選隔離到您的網站，但像您這樣思維敏銳的分析人員可以使用此工具發揮創意，並找到獲得有關網站活動深入分析的新方式。 可能的選項清單非常龐大，所以您可以嘗試建立自己的選項，並在貴組織或社群(例如Experience League上的[Adobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或Slack[#Measure社群](https://www.measure.chat/)社群)中與他人分享。
+無論您是新的Adobe Analytics使用者或經驗豐富的專家，都將在您的Analysis Workspace專案中善用一些區段。 如[Adobe Experience League](https://experienceleague.adobe.com/docs/analytics/components/segmentation/seg-overview.html?lang=zh-Hant)所述，「區段可讓您根據特性或網站互動來識別訪客的子集」。 雖然此功能的基本成果表示將使用者群組、造訪或點選隔離到您的網站，但像您這樣思維敏銳的分析人員可以使用此工具發揮創意，並找到獲得有關網站活動深入分析的新方式。 可能的選項清單非常龐大，所以您可以嘗試建立自己的選項，並在貴組織或社群(例如Experience League上的[Adobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)，或[Slack](https://www.measure.chat/)社群)中與其他人#Measure行分享。
 
-如果您需要有關如何建立區段的快速複習程式，請參閱有關在Analysis Workspace中使用[區段產生器](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=zh-Hant)的Experience League檔案。
+如果您需要有關如何建立區段的快速複習資料，請參閱有關在Analysis Workspace中使用[區段產生器](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-build.html?lang=en)的Experience League檔案。
 
 ## 比較和對比區段
 
@@ -78,7 +78,7 @@ ht-degree: 1%
 
 ![區段12](assets/s12.png)
 
-使用區段來尋找新見解的可能性是無限的！ 這只是起點。 請自己嘗試幾個專案，讓社群知道您發現的內容：Experience League上的[Adobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或[Slack#Measure3&rbrace;社群。](https://www.measure.chat/)
+使用區段來尋找新見解的可能性是無限的！ 這只是起點。 請自行嘗試一些專案，讓社群知道您發現的專案：Experience League上的[Adobe Analytics社群](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community)或[#Measure Slack](https://www.measure.chat/)社群。
 
 分段快樂！
 

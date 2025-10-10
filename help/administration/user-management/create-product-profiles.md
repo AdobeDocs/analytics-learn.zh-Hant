@@ -1,5 +1,5 @@
 ---
-title: 在Experience CloudAdmin Console中建立產品設定檔
+title: 在Experience Cloud Admin Console中建立產品設定檔
 description: 在 Experience Cloud Admin Console 中建立 Analytics 產品設定檔，以管理報告套裝、量度、維度和工具的存取權。
 feature: User Management
 doc-type: feature video
@@ -17,10 +17,10 @@ ht-degree: 71%
 
 ---
 
-# 在Experience CloudAdmin Console中建立產品設定檔
+# 在Experience Cloud Admin Console中建立產品設定檔
 
 在 Experience Cloud Admin Console 中建立 Analytics 產品設定檔，以管理報告套裝、量度、維度和工具的存取權。
 
->[!VIDEO](https://video.tv.adobe.com/v/3448818/?learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
 
-瀏覽[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics/admin/admin-console/permissions/product-profile)，以了解更多。
+瀏覽[文件](https://experienceleague.adobe.com/en/docs/analytics/admin/admin-console/permissions/product-profile)，以了解更多。
