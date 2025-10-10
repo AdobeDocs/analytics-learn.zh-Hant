@@ -28,11 +28,11 @@ ht-degree: 100%
 
 如果您是商務使用者、商務從業人員或其他類似的角色，建議您參加以下課程了解基礎知識，以幫助您順暢使用 Analysis Workspace。
 
-1. [Analysis Workspace 快速入門](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace)
-1. [自由格式表格：分析的基礎](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.3)
-1. [使用視覺效果訴說您的資料故事](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2021.1.visualizations)
-1. [將值歸因於 Customer Journey 中的數位接觸點](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.2)
+1. [Analysis Workspace 快速入門](https://experienceleague.adobe.com/?lang=zh-hant&recommended=Analytics-U-1-2020.1.workspace)
+1. [自由格式表格：分析的基礎](https://experienceleague.adobe.com/?lang=zh-hant&recommended=Analytics-U-1-2020.3)
+1. [使用視覺效果訴說您的資料故事](https://experienceleague.adobe.com/?lang=zh-hant&recommended=Analytics-U-1-2021.1.visualizations)
+1. [將值歸因於 Customer Journey 中的數位接觸點](https://experienceleague.adobe.com/?lang=zh-hant&recommended=Analytics-U-1-2020.2)
 
-您可以在 Experience League 上取得與 [Adobe Analytics](https://experienceleague.adobe.com/?recommended=Analytics-U-1-2020.1.workspace) 相關的其他課程。
+您可以在 Experience League 上取得與 [Adobe Analytics](https://experienceleague.adobe.com/?lang=zh-hant&recommended=Analytics-U-1-2020.1.workspace) 相關的其他課程。
 
 謝謝您！

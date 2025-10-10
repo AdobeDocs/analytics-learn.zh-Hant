@@ -20,4 +20,4 @@ ht-degree: 19%
 
 >[!VIDEO](https://video.tv.adobe.com/v/28759/?quality=12&learn=on)
 
-如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html)。
+如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/dimensions/evar.html?lang=zh-Hant)。

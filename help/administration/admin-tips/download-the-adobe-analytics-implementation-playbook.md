@@ -101,7 +101,7 @@ ht-degree: 94%
 >
 >在 Adobe Analytics 中建立網站名稱/屬性維度。 在 Adobe Analytics 中擁有專門用於識別網站名稱/應用程式名稱的專用維度 (通常是 eVar)，可允許進行分段、疑難排解、虛擬報告套裝建立等。 其好處無窮無盡，尤其是在一個 (全域) 報告套裝中結合多個網站時。 關鍵是確保開發團隊一律在屬性維度中設定此值，包括所有頁面載入 (s.t 呼叫/trackState) 和所有自訂事件 (s.tl 呼叫/trackAction)。 處理規則可以是有價值的工具，可協助您正確且一致地設定這些值。
 
-[觀看Doug Moore製作的這部影片](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"}，瞭解填寫實施行動手冊的詳細資訊。
+[觀看Doug Moore製作的這部影片](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=zh-Hant){target="_blank"}，瞭解填寫實施行動手冊的詳細資訊。
 
 ## 作者
 

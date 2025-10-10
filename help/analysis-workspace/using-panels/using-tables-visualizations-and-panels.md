@@ -23,4 +23,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/30369/?quality=12&learn=on)
 
-如需詳細資訊，請瀏覽[面板](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html)和[視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html)的文件。
+如需詳細資訊，請瀏覽[面板](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/panels.html?lang=zh-Hant)和[視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/freeform-analysis-visualizations.html?lang=zh-Hant)的文件。

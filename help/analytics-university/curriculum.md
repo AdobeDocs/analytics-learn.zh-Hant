@@ -42,6 +42,6 @@ Adobe 自豪地向貴校呈現此 Analytics 基礎內容。在此課程內，您
 
 在此課程的每個區段結尾，都有可與 Adobe Analytics University 沙箱環境結合的特製活動。
 
-在此註冊以取得存取權：[Analytics 課程註冊](https://experienceleague.adobe.com/landing/analytics-university/)
+在此註冊以取得存取權：[Analytics 課程註冊](https://experienceleague.adobe.com/landing/analytics-university/?lang=zh-Hant)
 
 [下載課程 PDF](assets/Adobe-Analytics-Curriculum_2021.pdf)

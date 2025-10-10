@@ -126,4 +126,4 @@ Adobe 的 AI 工具並不是要取代您，而是要讓您的工作產生最大�
 
 如需詳細資訊，請觀看我們的[網路研討會](https://adobecustomersuccess.adobeconnect.com/pmetho6ivh68/)。
 
-在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心了解更多策略和構想領導力。
+在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hant)中心了解更多策略和構想領導力。

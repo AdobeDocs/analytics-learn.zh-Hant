@@ -95,4 +95,4 @@ ht-degree: 100%
 
 善用報告 API，可將標準報告從[!UICONTROL 工作區]移到排程報告和儀表板。 此外，也能運用 [!UICONTROL Analysis Workspace] 建置 API 要求。
 
-在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html)中心了解更多策略和構想領導力。
+在[客戶成功](https://experienceleague.adobe.com/docs/customer-success/customer-success/overview.html?lang=zh-Hant)中心了解更多策略和構想領導力。

@@ -22,6 +22,6 @@ ht-degree: 100%
 
 在 Analysis Workspace 中，我們現在提供更多篩選控制，包含 11 項篩選條件與 AND/OR 運算子。
 
-如需可用篩選器的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=en)。
+如需可用篩選器的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/visualizations/freeform-table/pagination-filtering-sorting.html#cja-workspace?lang=zh-Hant)。
 
 **注意：** 進階特殊字元無法在 Analysis Workspace 中使用。
