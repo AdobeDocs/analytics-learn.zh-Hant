@@ -18,6 +18,6 @@ ht-degree: 23%
 
 瞭解流量變數的型別以及它們在Adobe Analytics中的使用方式，包括流量、內容和流量分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/28767/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429904/?quality=12&learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/dimensions/prop.html?lang=zh-Hant)。

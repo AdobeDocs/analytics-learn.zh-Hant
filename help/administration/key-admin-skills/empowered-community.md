@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # 打造賦權社群
 
->[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341118/?quality=12&learn=on&captions=chi_hant)
 
 賦權社群具有一些顯著的特徵。 首先，它有 Adobe Analytics 管理員當作後盾。 它了解業務需求在其實作中的呈現方式。 最後但並非最不重要的一點是，它有方法能夠自信地使用分析，以實現資料導向式決策。 許多企業都受益於內部 Adobe Analytics 使用者群組或較正式的社群所提供的結構。
 

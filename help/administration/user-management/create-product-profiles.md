@@ -21,6 +21,6 @@ ht-degree: 71%
 
 在 Experience Cloud Admin Console 中建立 Analytics 產品設定檔，以管理報告套裝、量度、維度和工具的存取權。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428986/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448818/?learn=on&captions=chi_hant)
 
 瀏覽[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics/admin/admin-console/permissions/product-profile)，以了解更多。

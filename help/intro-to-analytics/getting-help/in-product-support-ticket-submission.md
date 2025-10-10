@@ -17,4 +17,4 @@ ht-degree: 60%
 
 瞭解如何直接從產品中提交支援票證給Adobe的[!DNL Customer Care]，以精簡解決方法的流程。
 
->[!VIDEO](https://video.tv.adobe.com/v/23133/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430052/?quality=12&learn=on&captions=chi_hant)

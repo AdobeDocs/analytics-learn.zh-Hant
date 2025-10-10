@@ -18,6 +18,6 @@ ht-degree: 23%
 
 瞭解如何建立參與率量度，並在[!DNL Analysis Workspace]中使用這些量度。
 
->[!VIDEO](https://video.tv.adobe.com/v/41266/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429887/?quality=12&learn=on&captions=chi_hant)
 
 如需詳細資訊，請參閱[文件](https://experienceleague.adobe.com/docs/analytics/components/calculated-metrics/calcmetric-workflow/participation-metric.html?lang=zh-Hant)。

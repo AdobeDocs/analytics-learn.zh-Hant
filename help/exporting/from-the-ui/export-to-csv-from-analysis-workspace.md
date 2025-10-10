@@ -19,4 +19,4 @@ ht-degree: 24%
 
 瞭解如何將整個專案或個別表格匯出至CSV，以在Excel和其他BI工具中進行分析。
 
->[!VIDEO](https://video.tv.adobe.com/v/24712/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429877/?quality=12&learn=on&captions=chi_hant)

@@ -19,6 +19,6 @@ ht-degree: 100%
 
 媒體播放時間花費面板透過一天中所選粒度期間的觀看時間，來讓媒體用戶了解他們的觀看量。您也可以「放大」一天中的一段期間，或建立循序時間區段，以清楚顯示一天中各部分進出的潛在客戶。
 
->[!VIDEO](https://video.tv.adobe.com/v/338699/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446711/?quality=12&learn=on&captions=chi_hant)
 
 如需詳細資訊，請瀏覽此[文件](https://experienceleague.adobe.com/docs/media-analytics/using/media-reports/media-playback-time-spent.html?lang=zh-Hant)。

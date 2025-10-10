@@ -18,4 +18,4 @@ ht-degree: 100%
 
 獲取一些在 Analysis Workspace 中選取報告套裝的技巧。
 
->[!VIDEO](https://video.tv.adobe.com/v/23967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428558/?quality=12&learn=on&captions=chi_hant)

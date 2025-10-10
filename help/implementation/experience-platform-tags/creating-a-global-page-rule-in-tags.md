@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何使用 Experience Platform 在每個頁面上為要傳送至 Adob&#x200B;&#x200B;e Analytics 的資料點設定全域頁面規則[!DNL tags]。
 
->[!VIDEO](https://video.tv.adobe.com/v/28769/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443019/?quality=12&learn=on&captions=chi_hant)
