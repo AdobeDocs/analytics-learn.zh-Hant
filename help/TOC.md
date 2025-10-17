@@ -4,10 +4,10 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 4beeaf5dc1fceb3397662516764a0160d539d6fd
+source-git-commit: e0e36746dcdad99bf20db0b5722d7ee8626f1288
 workflow-type: tm+mt
-source-wordcount: '2172'
-ht-degree: 88%
+source-wordcount: '2176'
+ht-degree: 87%
 
 ---
 
@@ -47,7 +47,7 @@ ht-degree: 88%
       + [新增維度和量度說明](intro-to-analytics/customizing-the-ui/adding-dimension-and-metric-descriptions.md)
       + [增強安全性](intro-to-analytics/customizing-the-ui/enhancing-security.md)
       + [將 Analysis Workspace 專案設為您的登陸頁面](intro-to-analytics/customizing-the-ui/setting-an-analysis-workspace-project-as-your-landing-page.md)
-   + 開始說明 {#getting-help}
+   + 取得協助 {#getting-help}
       + [在 Adobe Analytics 中取得協助](intro-to-analytics/getting-help/getting-help.md)
       + [產品內支援服務單提交](intro-to-analytics/getting-help/in-product-support-ticket-submission.md)
 + Analysis Workspace {#analysis-workspace}
@@ -64,7 +64,7 @@ ht-degree: 88%
       + [在 Analysis Workspace 中選取報告套裝](analysis-workspace/analysis-workspace-basics/selecting-a-report-suite-in-analysis-workspace.md)
       + [檢視 Analysis Workspace 效能量度](analysis-workspace/analysis-workspace-basics/view-analysis-workspace-performance-metrics.md)
       + [建立機器人報告](analysis-workspace/analysis-workspace-basics/bot-reporting.md)
-   + 提示與祕訣 {#tips-and-tricks}
+   + 提示與秘訣 {#tips-and-tricks}
       + [在自由表格中建立超連結](analysis-workspace/tips-and-tricks/create-hyperlinks-in-freeform-tables.md)
       + [Analysis Workspace 7 個秘訣與技巧](analysis-workspace/tips-and-tricks/seven-tips-and-tricks-in-analysis-workspace.md)
       + [提高工作流程效率的按右鍵秘訣和技巧](analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
@@ -107,7 +107,7 @@ ht-degree: 88%
       + [自由格式表格中的資料列和資料欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [自由格式表格總計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [使用自由格式表格產生器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [按一下滑鼠右鍵了解工作區效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=zh-Hant)
+      + [按一下滑鼠右鍵了解工作區效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [重新排序靜態資料列](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [在自由表格中使用 Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=zh-Hant)
       + [交叉銷售分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
@@ -155,7 +155,7 @@ ht-degree: 88%
       + [套用區段至您的 Analysis Workspace 專案](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [套用臨時區段](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [對區段使用不同的 Attribution IQ 模型](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=zh-Hant)
-      + [選擇面板的區段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=zh-Hant)
+      + [選擇面板的區段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [在 Analysis Workspace 中將區段用作維度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [在 Analysis Workspace 中使用區段來限制資料](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace 中的快速區段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
@@ -240,7 +240,7 @@ ht-degree: 88%
    + 公司設定 {#company-settings}
       + [強制執行電子郵件網域限制](administration/company-settings/enforce-email-domain-restrictions.md)
       + [檢視您帳戶的可用功能](administration/company-settings/view-your-accounts-available-features.md)
-   + 使用者管理 {#user-management}
+   + User Management {#user-management}
       + [新增管理員至Adobe Analytics](administration/user-management/adding-an-administrator-to-adobe-analytics.md)
       + [建立產品設定檔](administration/user-management/create-product-profiles.md)
       + [在Admin Console限制報表套裝的存取許可權](administration/user-management/limit-report-suite-access-in-the-admin-console.md)
@@ -336,6 +336,7 @@ ht-degree: 88%
       + [「分類設定」簡介](components/classifications/introduction-to-classification-sets.md)
       + [使用「分類設定」](components/classifications/use-classification-sets.md)
       + [分類集資料匯入方法](components/classifications/classification-sets-data-import-methods.md)
+      + [分類設定作業歷史記錄](components/classifications/classification-sets-job-history.md)
    + 虛擬報告套裝 {#virtual-report-suites}
       + [虛擬報告套裝概觀](components/virtual-report-suites/virtual-report-suites.md)
       + [元件策劃](components/virtual-report-suites/component-curation-in-virtual-report-suites.md)
