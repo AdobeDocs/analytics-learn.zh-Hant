@@ -20,6 +20,6 @@ ht-degree: 11%
 
 瞭解使用分類設定匯入分類資料的不同方法，以及一些相關的使用案例。
 
->[!VIDEO](https://video.tv.adobe.com/v/3475826/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3475839/?captions=chi_hant&learn=on&enablevpops)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics/components/classifications/sets/overview){target="_blank"}。

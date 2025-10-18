@@ -18,4 +18,4 @@ ht-degree: 100%
 
 了解如何使用 Analysis Workspace 中的左側邊欄尋找、建立及新增項目到自由格式表格。
 
->[!VIDEO](https://video.tv.adobe.com/v/40089/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3475919/?captions=chi_hant&quality=12&learn=on)
