@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Adobe Analytics可讓您為使用者建立「虛擬報告套裝」，將您的資料分段並將使用者/群組限制至允許的資料區段 本影片說明如何建立和使用虛擬報告套裝。 如需詳細檔案，請造訪[虛擬報表套裝總覽](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=zh-Hant){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/25412/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3476982/?captions=chi_hant&quality=12&learn=on)
 
