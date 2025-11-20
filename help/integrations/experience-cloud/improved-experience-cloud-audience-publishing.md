@@ -27,6 +27,6 @@ ht-degree: 100%
 >[!VIDEO](https://video.tv.adobe.com/v/32842/?quality=12&learn=on)
 
 此外，可以一次發佈的[!UICONTROL 區段]數量已從每個[!UICONTROL 報告套裝] 20 個提高到 75 個。
-如需詳細資訊，請參閱 Analytics 說明中的[發佈區段至 Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html?lang=zh-Hant)。
+如需詳細資訊，請參閱 Analytics 說明中的[發佈區段至 Experience Cloud](https://experienceleague.adobe.com/docs/analytics/components/segmentation/segmentation-workflow/seg-publish.html)。
 
-另請閱讀 Experience Cloud 說明中的[客群](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html?lang=zh-Hant)，以了解[!UICONTROL 客群庫]的資訊。
+另請閱讀 Experience Cloud 說明中的[客群](https://experienceleague.adobe.com/docs/core-services/interface/audiences/audience-library.html)，以了解[!UICONTROL 客群庫]的資訊。
