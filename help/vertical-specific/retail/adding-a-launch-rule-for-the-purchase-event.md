@@ -16,7 +16,7 @@ ht-degree: 39%
 
 # 在Experience Platform [!DNL tags]中為購買事件新增規則
 
-這段影片說明如何在 [!DNL Experience Platform Launch] 中使用產品字串[!UICONTROL 延伸]來追蹤您網站上的購買情形，進而在您的分析中產生[!UICONTROL 收入]、[!UICONTROL 訂單]和[!UICONTROL 單位][!UICONTROL 量度]。
+這段影片說明如何在 [!DNL Experience Platform Launch] 中使用產品字串[!UICONTROL 延伸]來追蹤您網站上的購買情形，進而在您的分析中產生[!UICONTROL 收入]、[!UICONTROL 訂單]和[!UICONTROL 單位]&#x200B;[!UICONTROL 量度]。
 
 >[!NOTE]
 >
