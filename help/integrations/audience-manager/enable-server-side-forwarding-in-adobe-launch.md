@@ -6,11 +6,11 @@ topic: Integrations
 team: Technical Marketing
 thumbnail: 25172.jpg
 kt: 1993
-role: Leader, Architect, Admin, Developer
+role: Leader, Admin, Developer
 level: Intermediate
 badgeIntegration: label="整合" type="positive"
 exl-id: 393d23f9-8c25-4210-b11b-cd9e02e63712
-source-git-commit: 520c7d01a2d0238d53fcace4b5a2bc41fb76abee
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '68'
 ht-degree: 1%

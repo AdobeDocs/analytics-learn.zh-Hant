@@ -4,10 +4,10 @@ description: 了解 [!DNL tags] 中 Analytics 擴充功能的一般設定選項�
 feature: Tags
 topics: Development
 kt: 2837
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 exl-id: b4e89144-730e-4256-9c9f-c38f9c814e7b
-source-git-commit: a45667a8d7ccb46b9e33bd11a78fac9714a61df5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 87%
@@ -22,4 +22,4 @@ ht-degree: 87%
 >
 > Launch 現已&#x200B;**[!DNL tags]**
 
->[!VIDEO](https://video.tv.adobe.com/v/3429914/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/27093/?quality=12&learn=on)

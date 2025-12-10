@@ -8,19 +8,19 @@ doc-type: technical video
 team: Technical Marketing
 kt: 2561
 topic: Mobile
-role: Developer, Data Engineer
+role: Developer
 level: Experienced
 exl-id: 8bcc2f31-fac6-45eb-84d8-0ad65779a369
-source-git-commit: 4d467928756950074620388645523021b21fb0d5
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '141'
 ht-degree: 99%
 
 ---
 
-# 使用 Experience Platform SDK 初始化和查看[!UICONTROL 生命週期]&#x200B;[!UICONTROL 量度] {#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}
+# 使用 Experience Platform SDK 初始化和查看[!UICONTROL 生命週期][!UICONTROL 量度] {#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}
 
-[!UICONTROL 生命週期]&#x200B;[!UICONTROL 量度]是有關您應用程式用戶的寶貴現成資訊。這些[!UICONTROL 量度]包含有關應用程式用戶生命週期的資訊，例如裝置資訊、安裝或升級資訊、工作階段開始和暫停時間等。在本影片中，觀看如何設定應用程式中的[!UICONTROL 生命週期] [!UICONTROL 量度]，以及如何在偵錯工具中查看結果。
+[!UICONTROL 生命週期][!UICONTROL 量度]是有關您應用程式用戶的寶貴現成資訊。這些[!UICONTROL 量度]包含有關應用程式用戶生命週期的資訊，例如裝置資訊、安裝或升級資訊、工作階段開始和暫停時間等。在本影片中，觀看如何設定應用程式中的[!UICONTROL 生命週期] [!UICONTROL 量度]，以及如何在偵錯工具中查看結果。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
 

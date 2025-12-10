@@ -3,12 +3,12 @@ title: 在 Experience Platform [!DNL tags]中使用資料層設定 Analytics 變
 description: 了解如何將資料層用於獲取 Analytics 資料和其他 Experience Cloud 解決方案。
 feature: Tags
 topics: Development
-role: Developer, Data Engineer
+role: Developer
 level: Beginner
 kt: 1852
 thumbnail: 25899.jpg
 exl-id: 408ceb47-df05-4456-85bb-0ef2798a05a5
-source-git-commit: 7c9c1da81fac391f030c6a39a81d039a5b084f63
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '126'
 ht-degree: 100%

@@ -7,10 +7,10 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 2336
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: 175c91e5-6ae5-4e52-acb5-6c8fc2731bea
-source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '72'
 ht-degree: 100%

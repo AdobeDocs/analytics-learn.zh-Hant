@@ -7,10 +7,10 @@ activity: use
 doc-type: feature video
 team: Technical Marketing
 kt: 3945
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-source-git-commit: 8fc641743bc9e07b838a22ca64ccc15344d52764
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '1054'
 ht-degree: 100%
@@ -54,11 +54,11 @@ Analysis Workspace 是在 Adobe Analytics 中的強大工具，可以協助您�
 
 >[!TIP]
 >
->**期盼許久的功能：**&#x200B;我的客戶要求我們能夠輕鬆複製和插入視覺效果和面板。現在他們花更少的時間重新建立深入見解，轉而將更多時間探索新的深入見解。
+>**期盼許久的功能：**&#x200B;我的客戶要求我們能夠輕鬆複製和插入視覺效果和面板。現在他們花更少的時間重新建立洞察，轉而將更多時間探索新的洞察。
 
-### ***秘訣 4：只要按一下就能切換時間詳細程度視覺效果***
+### ***秘訣 4：只要按一下就能切換時間顆粒度視覺效果***
 
-使用趨勢視覺效果時輕鬆變更時間檢視。在之前的 Analysis Workspace 反覆項目中，變更時間表示取消隱藏來源表格、在新的[!UICONTROL 維度]中拖曳，然後重新隱藏表格。現在可以輕鬆從「[!UICONTROL 視覺效果設定]」(右上齒輪) 下拉式選單您要示範的時間詳細程度。
+使用趨勢視覺效果時輕鬆變更時間檢視。在之前的 Analysis Workspace 反覆項目中，變更時間表示取消隱藏來源表格、在新的[!UICONTROL 維度]中拖曳，然後重新隱藏表格。現在可以輕鬆從「[!UICONTROL 視覺效果設定]」(右上齒輪) 下拉式選單您要示範的時間顆粒度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
@@ -68,7 +68,7 @@ Analysis Workspace 是在 Adobe Analytics 中的強大工具，可以協助您�
 
 Adobe Analytics 會收集大量資料。[!DNL Virtual Report Suites]中的元件組織可讓管理員為組織內的每個業務單位製作資料集。這表示在 Analysis Workspace 中工作的分析師不必費力鑽研資料，就是找出對他們而言最重要的地方。在[!UICONTROL 「元件]」下方，只要選取[!UICONTROL 虛擬報告套裝]產生器中名為「[!UICONTROL 啟用虛擬報告套裝元件自訂]」的方塊，然後選取符合特定團隊量度的[!UICONTROL 元件]。
 
->[!VIDEO](https://video.tv.adobe.com/v/3426920/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
 
 >[!TIP]
 >
@@ -88,14 +88,14 @@ Adobe Analytics 會收集大量資料。[!DNL Virtual Report Suites]中的元件
 
 您現在可以輕鬆地將任何專案轉換為自訂範本。只要從「[!UICONTROL 專案]」下拉式選單選取「[!UICONTROL 另存為範本]」、新增讓範本容易找到的標記，然後按一下「[!UICONTROL 將專案另存為範本]」。現在範本將可供「[!UICONTROL 自訂範本]」標籤下方的所有 Analysis Workspace 使用者使用。這可讓分析師使用有意義的資料點展開專案，而不會從頭開始。
 
->[!VIDEO](https://video.tv.adobe.com/v/3428581/?quality=12&learn=on&captions=chi_hant)
+>[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
 
 >[!TIP]
 >
 >**期盼許久的功能：**&#x200B;數位客戶要求我們提供盡可能將專案另存為自訂範本的功能。現在此功能已成為他們最愛的功能之一。
 
-[按一下此處以尋找 Experience League 的更多秘訣和技巧](https://experienceleague.adobe.com/zh-hant?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
+[按一下此處以尋找 Experience League 的更多秘訣和技巧](https://experienceleague.adobe.com/?search=tips&tag=Analysis+Workspace#recommended/solutions/analytics)
 
 | 關於作者 |            |
 |------------|------------|
-| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser 是 Adobe Analytics 產品管理團隊的經理。<br>在擔任此角色的過程中，她會與客戶見面，以了解其業務需求、<br>運用她所學到的知識告知 Adobe Analytics 產品藍圖<br>並安排新產品功能的優先順序。在目前的職位之前，<br>Jen 曾是 Adobe Consulting 團隊的主要顧問，擔任<br>資料視覺效果、 Analysis Workspace 和[!DNL Report Builder]的主題專家。<br><br>我們從她真實世界所獲得的見解中，編撰出下列秘訣和技巧，<br>以協助更輕鬆地建置、以視覺效果呈現，以及共用您的 Analysis Workspace 專案 |
+| ![Jen Lasser](assets/jlasser-headshot-s.jpg) | Jen Lasser 是 Adobe Analytics 產品管理團隊的經理。<br>在擔任此角色的過程中，她會與客戶見面，以了解其業務需求、<br>運用她所學到的知識告知 Adobe Analytics 產品藍圖<br>並安排新產品功能的優先順序。在目前的職位之前，<br>Jen 曾是 Adobe Consulting 團隊的主要顧問，擔任<br>資料視覺效果、 Analysis Workspace 和[!DNL Report Builder]的主題專家。<br><br>我們從她在真實世界所獲得的洞察中，編撰出下列秘訣和技巧，<br>以協助更輕鬆地建置、以視覺效果呈現，以及共用您的 Analysis Workspace 專案 |

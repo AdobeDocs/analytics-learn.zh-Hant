@@ -4,10 +4,10 @@ description: 本影片逐步說明資料控管及資料標記如何融入 GDPR �
 feature: Data Governance
 thumbnail: 25455.jpg
 kt: 2361
-role: Admin, Architect
+role: Admin, Developer
 level: Intermediate
 exl-id: b78c2b02-a4cb-413d-83c1-ec6a6ef61630
-source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '76'
 ht-degree: 100%

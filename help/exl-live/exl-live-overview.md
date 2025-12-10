@@ -2,12 +2,12 @@
 title: Experience League LIVE 活動
 description: 先前 Experience League LIVE 活動的連結集合
 type: Event
-role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
+role: User, Developer, Admin, Leader
 level: Beginner
 hide: true
 hidefromtoc: true
 exl-id: 3c8c6737-3c42-4c87-8850-996798ccfda6
-source-git-commit: dd65de735e01c6c5654f98dbc44b13b64ae1de0c
+source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
 workflow-type: tm+mt
 source-wordcount: '190'
 ht-degree: 100%
@@ -93,4 +93,4 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 >[!TIP]
 >
->如需其他學習方法，請查看我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請查看我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
