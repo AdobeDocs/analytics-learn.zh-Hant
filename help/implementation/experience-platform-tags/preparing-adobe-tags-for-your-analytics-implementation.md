@@ -18,4 +18,4 @@ ht-degree: 0%
 
 在 [!DNL tags] 中實施 Analytics 之前，您需要一些支援文件，並且需要在 Analytics 和 [!DNL tags] 中設定一些內容。本影片涵蓋了這些內容。
 
->[!VIDEO](https://video.tv.adobe.com/v/28752/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429969/?captions=chi_hant&quality=12&learn=on)
