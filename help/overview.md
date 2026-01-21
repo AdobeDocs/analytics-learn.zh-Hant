@@ -9,9 +9,9 @@ thumbnail: null
 kt: 10453
 exl-id: 3aa2bc96-ed20-46f7-ba9a-a2b7e8b23313
 source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '244'
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 充份運用 [!DNL Adobe Analytics]。  使用這些教學課程來了解 Analytics 功能，並為您的企業獲取利益。 此內容適用於管理員、資料分析師、行銷人員、開發人員和架構師。
 
-若要開始執行，
+若要開始使用，
 
 * 請參閱「**新增功能**」部份，了解最新更新和功能
 * **工作人員選擇**&#x200B;特別顯示我們最喜歡的一些內容
@@ -40,7 +40,7 @@ ht-degree: 0%
 
 <div id="staff-picks-section">
 
-## 工作人員選擇
+## 員工精選
 
 <table>
 <tr>
@@ -90,4 +90,4 @@ ht-degree: 0%
 
 ## 其他資源
 
-[Adobe Analytics 文件](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant)
+[Adobe Analytics 文件](https://experienceleague.adobe.com/docs/analytics.html)
