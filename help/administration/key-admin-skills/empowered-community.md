@@ -113,4 +113,4 @@ ht-degree: 100%
 
 * 職涯發展 - 賦權社群將許多分析師團隊的關注焦點從反應性和戰術性轉變為指示性和策略性。 這為您社群的管理專案團隊開啟了職涯發展的機會。
 
-如果您擁有內部 Adobe Analytics 使用者群組或較正式的「社群」或是您正在努力建立社群，我們很樂意在 [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions) 中聽到您的故事！
+如果您擁有內部 Adobe Analytics 使用者群組或較正式的「社群」或是您正在努力建立社群，我們很樂意在 [Adobe Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=zh-Hant) 中聽到您的故事！

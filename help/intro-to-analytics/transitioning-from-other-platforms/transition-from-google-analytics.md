@@ -137,7 +137,7 @@ GA4 使用者有更多選項，可自訂首頁畫面並將自己的報表新增�
 
 >[!IMPORTANT]
 >
->若要進一步了解如何使用下拉式清單和自由格式劃分，請參閱 <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>若要進一步了解如何使用下拉式清單和自由格式劃分，請參閱 <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=zh-Hant>
 
 ##### 2.1.2.2。Google Analytics：儀表板、自訂報表和已儲存報表
 
