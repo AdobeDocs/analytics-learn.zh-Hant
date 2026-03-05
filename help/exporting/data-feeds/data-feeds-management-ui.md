@@ -20,6 +20,6 @@ ht-degree: 57%
 
 Adobe Analytics [!UICONTROL 資料摘要]可讓您匯出原始點按資料流資料，以匯入並與Adobe Analytics以外的其他資料來源合併。 您可以在Adobe Analytics中建立並管理您自己的[!UICONTROL 資料摘要]。 這段影片將說明如何進行。
 
->[!VIDEO](https://video.tv.adobe.com/v/25452/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428570/?captions=chi_hant&quality=12&learn=on)
 
 如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/export/analytics-data-feed/df-manage-feeds.html?lang=zh-Hant#)。
