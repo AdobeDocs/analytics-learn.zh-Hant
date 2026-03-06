@@ -1,23 +1,21 @@
 ---
 title: 尋找您的資料摘要 ID
-description: 有時如果資料摘要傳遞失敗或是有重新傳送資料摘要檔案的要求，您就可能需要聯絡 Adobe。 如果客戶有提供資料摘要 ID，客戶支援團隊就可以方便地處理這類要求。
-feature: Admin Tools, Data Feeds, Data Configuration and Collection
+description: 有時您可能需要就資料摘要檔案聯絡Adobe。 如果客戶有提供資料摘要ID，客戶支援團隊就可以方便地處理任何請求。
+feature: Data Feeds
 topic: Administration
 role: User, Admin
 level: Beginner
-doc-type: feature video
-thumbnail: 335747.jpg
-kt: KT-8464
+kt: 8464
 exl-id: 5687e37d-8284-43c2-9b5f-39852bce538a
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+source-git-commit: 14374d74a55ac531a31b7de7f28ba143f9f9411d
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 100%
+source-wordcount: '84'
+ht-degree: 11%
 
 ---
 
 # 尋找您的資料摘要 ID
 
-有時如果資料摘要傳遞失敗或是有重新傳送資料摘要檔案的要求，您就可能需要聯絡 Adobe。 如果客戶有提供資料摘要 ID，客戶支援團隊就可以方便地處理這類要求。
+有時您可能需要就資料摘要檔案聯絡Adobe。 如果客戶有提供資料摘要ID，客戶支援團隊就可以方便地處理任何請求。
 
->[!VIDEO](https://video.tv.adobe.com/v/335747/?quality=12&learn=on)
+>[!SLIDE](aa-data-feeds-id)
