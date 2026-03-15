@@ -23,4 +23,4 @@ ht-degree: 63%
 
 了解如何使用[!UICONTROL 分類規則產生器]，以自動在 Adobe Analytics 中套用規則型[!UICONTROL 分類]。
 
->[!VIDEO](https://video.tv.adobe.com/v/25884?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3434380?captions=chi_hant&quality=12&learn=on)
