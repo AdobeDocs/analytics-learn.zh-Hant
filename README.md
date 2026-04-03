@@ -7,6 +7,6 @@ ht-degree: 0%
 ---
 # analytics-learn.en
 
-Analytics的協作教學課程和啟用資料
+Analytics的合作教學課程與賦權教材
 
 [foo] (bar)
