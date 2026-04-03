@@ -9,4 +9,4 @@ ht-degree: 0%
 
 Analytics的合作教學課程與賦權教材
 
-[foo](bar)
+[foo] (bar)
