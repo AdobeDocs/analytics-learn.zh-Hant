@@ -4,7 +4,7 @@ user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
 auto-video-transcripts: true
-source-git-commit: 2915e2410ba2189b75323ced05e007697d5c0956
+source-git-commit: 7f3b8f3da6d6d98d49735d00258665f0a47412b0
 workflow-type: tm+mt
 source-wordcount: '2177'
 ht-degree: 99%
@@ -448,6 +448,6 @@ ht-degree: 99%
       + [將 Web SDK 變數對應至 Adobe Analytics](analysis-use-cases/internal-site-search/map-web-sdk-variables-into-adobe-analytics.md)
       + [設定內部網站搜尋報告](analysis-use-cases/internal-site-search/configure-internal-site-search-reports.md)
    + [設定市場內郵遞區號分析](analysis-use-cases/setting-up-in-market-zip-code-analysis-use-case.md)
-+ [Analytics University 課程](analytics-university/curriculum.md)
-+ [Experience League LIVE](exl-live/exl-live-overview.md)
-+ [適用於商業使用者的 Analytics 基礎知識已淘汰](retired-courses/retire-fundamentals-for-business-users-course.md)
++ {hide-from-toc}[Analytics University 課程](analytics-university/curriculum.md)
++ {hide-from-toc}[Experience League LIVE](exl-live/exl-live-overview.md)
++ {hide-from-toc}[適用於商務使用者的分析基礎已淘汰](retired-courses/retire-fundamentals-for-business-users-course.md)
