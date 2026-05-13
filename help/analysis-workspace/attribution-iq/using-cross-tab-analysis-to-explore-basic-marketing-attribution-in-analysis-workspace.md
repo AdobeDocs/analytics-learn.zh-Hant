@@ -1,6 +1,6 @@
 ---
 title: 在 Analysis Workspace 中使用交叉表分析來探索基本的行銷歸因
-description: 有許多方式可透過 Adobe Analytics 將您的歸因方法提升到全新的境界。 這部影片的重點，在於介紹如何使用工作區中的交叉表分析，從行銷管道報表獲取更深入的見解。
+description: 有許多方式可透過 Adobe Analytics 將您的歸因方法提升到全新的境界。 這部影片的重點，在於介紹如何使用工作區中的交叉表分析，從行銷管道報告獲取更深入的洞察。
 feature: Marketing Channels
 activity: use
 doc-type: feature video
@@ -10,22 +10,39 @@ kt: 6067
 role: User
 level: Intermediate
 exl-id: b5843678-6444-453b-a9c9-1e301ffca876
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/sL2cT1XhY4Nc2EOBp8jE38VhYAkQxdtAVedAq0a0Ydc
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+  - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: 303
 ht-degree: 79%
 
 ---
 
 # 在 Analysis Workspace 中使用交叉表分析來探索基本的行銷歸因
 
-有許多方式可透過 Adobe Analytics 將您的歸因方法提升到全新的境界。 這部影片的重點，在於介紹如何使用工作區中的交叉表分析，從行銷管道報表獲取更深入的見解。
+有許多方式可透過 Adobe Analytics 將您的歸因方法提升到全新的境界。 這部影片的重點，在於介紹如何使用工作區中的交叉表分析，從行銷管道報告獲取更深入的洞察。
 
 >[!VIDEO](https://video.tv.adobe.com/v/39237/?quality=12&learn=on)
 
-**更新**：自影片發佈以來，[!DNL Workspace] 已進行過數次改進。由於影片中有一些您應知道的絕佳秘訣，因此我們正離開影片直播。
+**更新**：自影片發佈以來，[!DNL Workspace] 已進行過數次改進。 由於影片中有一些您應知道的絕佳秘訣，因此我們正離開影片直播。
 
-**首先**，請務必查看 [!UICONTROL Attribution IQ] 功能，協助讓您的行銷歸因分析走得更遠。這包含下列影片和相關影片：
+**首先**，請務必查看 [!UICONTROL Attribution IQ] 功能，協助讓您的行銷歸因分析走得更遠。 這包含下列影片和相關影片：
 
 * [使用 Attribution IQ 面板](using-the-attribution-iq-panel.md)
 * [新增 Attribution IQ 模型的並排比較](adding-side-by-side-comparisons-of-attribution-iq-models.md)
@@ -34,7 +51,7 @@ ht-degree: 79%
 
 **第二**，如果您依照本影片中的步驟進行，請注意您可以[使用自由格式表格產生器](../building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)設定您的表格。
 
-* 3:20 — 交叉表維度會在捨棄時自動動態變化，表示其值會隨著時間變更。 若是此分析，最好引入靜態欄。在影片的6:33瞭解更多關於動態欄的資訊：自由格式表格中的[列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
+* 3:20 — 交叉表維度會在捨棄時自動動態變化，表示其值會隨著時間變更。 若是此分析，最好引入靜態欄。 在影片的6:33瞭解更多關於動態欄的資訊：自由格式表格中的[列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 * 4:30 — 欄設定現在可以大量更新，而不是逐一更新。 在影片的8:45瞭解更多資訊：自由格式表格中的[列和欄設定](../building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
 
 如需有關本主題的詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=zh-Hant)。

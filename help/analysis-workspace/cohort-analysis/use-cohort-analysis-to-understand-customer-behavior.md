@@ -5,14 +5,25 @@ feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-source-git-commit: d24bab984f57dbf197c5f6fb39d0a82e6fcf2ad2
+TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+subfeature_v2:
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1146'
-ht-degree: 13%
+source-wordcount: 1155
+ht-degree: 8%
 
 ---
 
@@ -134,13 +145,13 @@ ht-degree: 13%
 
 ## 第4部分：自訂Dimension同類群組
 
-自訂Dimension同類群組：根據選取的維度建立同類群組，而非根據以時間為主的同類群組（預設）。 許多客戶希望能透過時間以外的其他方法分析其同類群組，而新的「自訂維度同類群組」功能，可靈活地根據客戶選擇的維度建立同類群組。使用行銷管道、行銷活動、產品、頁面、地區等 Adobe Analytics 維度，說明保留率在不同維度值的變化。The
+自訂Dimension同類群組：根據選取的維度建立同類群組，而非根據以時間為主的同類群組（預設）。 許多客戶希望能透過時間以外的其他方法分析其同類群組，而新的「自訂維度同類群組」功能，可靈活地根據客戶選擇的維度建立同類群組。 使用行銷管道、行銷活動、產品、頁面、地區等 Adobe Analytics 維度，說明保留率在不同維度值的變化。 此
 
 自訂Dimension同類群組區段定義只會將維度專案套用為包含時段的一部分，而非回訪定義的一部分。
 
-選擇「自訂Dimension同類群組」選項後，您可以將任何需要的維度拖放至拖放區域。 這可讓您比較同一時段中類似的維度項目。例如，您可以並排比較各個城市的效能，
+選擇「自訂Dimension同類群組」選項後，您可以將任何需要的維度拖放至拖放區域。 這可讓您比較相同時段內的類似維度專案。 例如，您可以並排比較各個城市的效能，
 
-側、產品、行銷活動等。 這會傳回您的前14個維度專案。 不過，您可以使用篩選器 (將游標停留在拖曳的維度右方即可使用)，僅顯示需要的維度項目。「自訂維度同類群組」無法與「延時表格」功能搭配使用。
+側、產品、行銷活動等。這會傳回您的前14個維度專案。 不過，您可以使用篩選器（將滑鼠游標停留在拖曳的維度右側，以存取篩選器）來只顯示想要的維度專案。 自訂Dimension同類群組無法與延時表格功能搭配使用。
 
 ### 哪些產品會提升網站粘著度？
 
@@ -149,13 +160,13 @@ ht-degree: 13%
 **在2月：** 3個產品脫穎而出，保留率較高
 
 1) 產品1
-1) Product2
-1) Product3
+1) 產品2
+1) 產品3
 
 **於3月：**
 
 1) 產品1
-1) Product2
+1) 產品2
 1) 產品3 — 與平均保留率相比，保留率越高，效能通常就越好。
 
 ![同類群組表格5](assets/cohort5.png)

@@ -9,10 +9,24 @@ doc-type: article
 thumbnail: 10535.jpg
 kt: 10535
 exl-id: 1474e117-8668-4f21-ba86-e3fb88d98468
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/EhZlNayX6rlHryQ-Hb8bR9mJg9h2LhUWYZy--aWElus
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 100%
+source-wordcount: 515
+ht-degree: 98%
 
 ---
 
@@ -20,7 +34,7 @@ ht-degree: 100%
 
 **主題：**&#x200B;在工作區中建立新聞與公告專案，這種專案主要是文字，並與整個公司分享。 無需將其作為使用者的強制登陸頁面 (雖然可以)，因為它每次更新時都會浮動到清單的頂端。
 
-**理由：**&#x200B;您的使用者可能不希望每次 Adobe Analytics 有變動時都收到電子郵件。 此外，期望使用者定期檢查內部 Adobe Analytics 網站 (Confluence 或其他 - 請參閱[建立內部 Adobe Analytics 網站](create-an-internal-adobe-analytics-site.md)秘訣) 也不太可能。取而代之的是，您可以運用工作區，讓用戶不用離開介面。 用戶每次登入時，都會看到新聞與公告儀表板。
+**理由：**&#x200B;您的使用者可能不希望每次 Adobe Analytics 有變動時都收到電子郵件。 此外，期望使用者定期檢查內部 Adobe Analytics 網站 (Confluence 或其他 - 請參閱[建立內部 Adobe Analytics 網站](create-an-internal-adobe-analytics-site.md)秘訣) 也不太可能。 取而代之的是，您可以運用工作區，讓用戶不用離開介面。 用戶每次登入時，都會看到新聞與公告儀表板。
 
 **做法：**&#x200B;登入工作區並建立一個新專案。 確保此專案在專案設定中與組織中的每個人分享。 此專案的頂端 (說明) 可以指向您的內部 Adobe Analytics 網站，並標註最佳聯絡人或 DL。 接下來我建議 4 個區段，都是文字為主：
 1. 新的版本和功能：
@@ -43,7 +57,7 @@ ht-degree: 100%
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-NortonLifeLock 數位分析平台經理 Christel Guidon
+NortonLifeLock數位分析平台經理Christel Guidon
 Adobe Analytics 達人
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)

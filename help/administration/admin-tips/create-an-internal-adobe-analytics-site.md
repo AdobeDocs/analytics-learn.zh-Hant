@@ -9,10 +9,22 @@ doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
 exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/5xgcAdoRhVgZZ3wjDpBrDCEAXWNADptU4yQlbbZUGG0
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 92%
+source-wordcount: 301
+ht-degree: 89%
 
 ---
 
@@ -39,7 +51,7 @@ ht-degree: 92%
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-NortonLifeLock 數位分析平台經理 Christel Guidon
+NortonLifeLock數位分析平台經理Christel Guidon
 Adobe Analytics 達人
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)

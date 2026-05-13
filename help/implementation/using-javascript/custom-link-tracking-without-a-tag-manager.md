@@ -1,6 +1,6 @@
 ---
 title: 無 Tag Manager 的自訂連結追蹤
-description: 對於頁面上的許多動作，不應將追蹤視為頁面檢視處理。在本影片中，您將了解如何將連結追蹤指標編碼到 Analytics，如果您未使用 Tag Manager (如 Experience Platform Launch)。請參閱編碼並學習重要秘訣。
+description: 對於頁面上的許多動作，不應將追蹤視為頁面檢視處理。 在本影片中，您將了解如何將連結追蹤指標編碼到 Analytics，如果您未使用 Tag Manager (如 Experience Platform Launch)。 請參閱編碼並學習重要秘訣。
 feature: Appmeasurement Implementation
 topics: null
 activity: implement
@@ -10,27 +10,37 @@ kt: 1845
 role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+role_v2:
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: 272
+ht-degree: 100%
 
 ---
 
 # 無 Tag Manager 的自訂連結追蹤 {#custom-link-tracking-without-a-tag-manager}
 
-對於頁面上的許多動作，不應將追蹤視為頁面檢視處理。在本影片中，您將了解如何將連結追蹤指標編碼到 Analytics，如果您未使用 Tag Manager (如 Adobe [!DNL Experience Platform Launch])。請參閱編碼並學習重要秘訣。
+對於頁面上的許多動作，不應將追蹤視為頁面檢視處理。 在本影片中，您將了解如何將連結追蹤指標編碼到 Analytics，如果您未使用 Tag Manager (如 Adobe [!DNL Experience Platform Launch])。 請參閱編碼並學習重要秘訣。
 
 ## 傳送 s.tl() 指標 {#sending-an-s-tl-beacon}
 
 有兩個功能會傳送資料到 Adobe Analytics：
 
 1. s.t() - 「追蹤」指標是頁面檢視點擊，增加指定頁面名稱的頁面檢視，以及設定其他變數
-1. s.tl() - 「追蹤連結」指標常稱為「自訂連結」點擊/治標，不會增加頁面檢視並忽略 pageName 變數。這常用於追蹤頁面上不會載入新頁面/畫面的小動作，或不會造成新頁面載入的其他動作。
+1. s.tl() - 「追蹤連結」指標常稱為「自訂連結」點擊/治標，不會增加頁面檢視並忽略 pageName 變數。 這常用於追蹤頁面上不會載入新頁面/畫面的小動作，或不會造成新頁面載入的其他動作。
 
 >[!NOTE]
 >
->在本影片中，我們將說明如何在未使用 Tag Manager (如 Adobe [!DNL Experience Platform Launch]) 時編碼自訂連結點擊。我們建議您使用 [!DNL Experience Platform Launch] 我們對於實作的最佳實務建議。然而，如果您需要在 `s.tl()` 中編碼，以下說明該怎麼做。
+>在本影片中，我們將說明如何在未使用 Tag Manager (如 Adobe [!DNL Experience Platform Launch]) 時編碼自訂連結點擊。 我們建議您使用 [!DNL Experience Platform Launch] 我們對於實作的最佳實務建議。 然而，如果您需要在 `s.tl()` 中編碼，以下說明該怎麼做。
 
 >[!VIDEO](https://video.tv.adobe.com/v/25832/?quality=12&learn=on)
 

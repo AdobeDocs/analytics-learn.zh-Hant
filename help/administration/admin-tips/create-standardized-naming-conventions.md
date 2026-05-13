@@ -9,10 +9,23 @@ doc-type: article
 thumbnail: 10531.jpg
 kt: 10531
 exl-id: 0fe3b981-0d9b-4f12-a6ca-63a4140f4baf
-source-git-commit: 54f9d15d705cd2d9dfa0fb177d14e2e602e35b7c
+TQID: https://experienceleague.adobe.com/nnAluH2AvqNbWEPk3lbthk-xDl-tnqyW8uHg4Beurq0
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 80%
+source-wordcount: 331
+ht-degree: 78%
 
 ---
 
@@ -26,7 +39,7 @@ ht-degree: 80%
 
 最好在整個平台上保持頁面名稱一致（或應用程式的熒幕名稱）。 例如，您可以將`property:section:sub section:sub sub section:unique page name`設定為變數/維度。 如果以上這些都是資料層中的單獨欄位，您甚至可以直接在 JS 檔案/Launch 中建置頁面名稱。 將所有這些元素都設定在其本身的維度中，可協助您更輕鬆地劃分網站/應用程式的特定屬性或區域，以及更加了解流量。
 
-可讓使用者更容易找到和理解資料的任何措施，包括命名慣例這樣簡單的項目，都能提高 Adobe Analytics 的使用率，也能為企業提供更好的深入分析。
+可讓使用者更容易找到和理解資料的任何措施，包括命名慣例這樣簡單的項目，都能提高 Adobe Analytics 的使用率，也能為企業提供更好的洞察。
 
 ## 作者
 
@@ -34,7 +47,7 @@ ht-degree: 80%
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-NortonLifeLock 數位分析平台經理 Christel Guidon
+NortonLifeLock數位分析平台經理Christel Guidon
 Adobe Analytics 達人
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)

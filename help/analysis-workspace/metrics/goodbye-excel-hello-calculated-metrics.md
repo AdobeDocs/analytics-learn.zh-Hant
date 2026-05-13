@@ -1,26 +1,39 @@
 ---
-title: 拋開您的 Excel，換用計算量度
+title: 捨棄 Excel，換用計算量度
 description: 閱讀本文，瞭解在Adobe Analytics中使用計算量度的好處，以及如何提供您連續、動態的資料檢視。
 feature: Calculated Metrics
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-05-02T00:00:00Z
+last-substantial-update: 2023-05-02T00:00:00.000Z
 jira: KT-13178
 thumbnail: KT-13178.jpeg
 exl-id: d4f69244-6614-41f3-ac48-70adabb8a8e7
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/TqBSmUzTHOHqVfKdn3711CKiVMyQgjsRSP5ddUnEpdQ
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+  - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '1286'
+source-wordcount: 1289
 ht-degree: 2%
 
 ---
 
-# 拋開您的 Excel，換用計算量度
+# 捨棄 Excel，換用計算量度
 
 閱讀本文，瞭解在Adobe Analytics中使用計算量度的好處，以及如何提供您連續、動態的資料檢視。
 
-嗨！ 為什麼現在使用Excel？ 我知道為什麼。 您必須向正確的人員彙報。 您正忙著從Adobe Analytics輸入資料、計算轉換率、繪製圖表，並準備將所有資料放進即將送給決策者的PowerPoint中。 我真的希望您至少是使用Report Builder來執行此操作，但我知道您中的一些人是手動將資料從Workspace複製並貼上到Excel。
+您好！ 為什麼現在使用Excel？ 我知道為什麼。 您必須向正確的人員彙報。 您正忙著從Adobe Analytics輸入資料、計算轉換率、繪製圖表，並準備將所有資料放進即將送給決策者的PowerPoint中。 我真的希望您至少是使用Report Builder來執行此操作，但我知道您中的一些人是手動將資料從Workspace複製並貼上到Excel。
 
 原因為何？
 

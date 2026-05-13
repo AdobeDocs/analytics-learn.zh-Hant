@@ -5,14 +5,29 @@ feature: Visualizations
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13267
 thumbnail: KT-13267.jpeg
 exl-id: e7792731-11eb-4186-a12f-0e5b2d0b7663
-source-git-commit: d95136a21c08312a81baba7673cb7135270af4bd
+TQID: https://experienceleague.adobe.com/JFCys3PfiNrBoCkeNPLWD0rZB5qZYF15Uzy7fVySxyw
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '492'
-ht-degree: 2%
+source-wordcount: 496
+ht-degree: 1%
 
 ---
 
@@ -35,7 +50,7 @@ ht-degree: 2%
 
 ![文字03](assets/t03.png)
 
-讓我們開始吧。一個非常實用的上下文片段可以新增到任何Analysis Workspace專案，那就是超連結 — 這可以包括連結到報告中詳述的頁面的URL、連結到其他Analysis Workspace專案、外部報告上下文頁面的連結，或任何其他可能在檢視您的報告時方便使用的連結。 選取文字的任何部分並選取「連結」圖示，即可存取此功能：
+讓我們開始吧。 一個非常實用的上下文片段可以新增到任何Analysis Workspace專案，那就是超連結 — 這可以包括連結到報告中詳述的頁面的URL、連結到其他Analysis Workspace專案、外部報告上下文頁面的連結，或任何其他可能在檢視您的報告時方便使用的連結。 選取文字的任何部分並選取「連結」圖示，即可存取此功能：
 
 ![文字04](assets/t04.png)
 

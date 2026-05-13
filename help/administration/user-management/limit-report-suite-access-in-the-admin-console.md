@@ -1,6 +1,6 @@
 ---
 title: 在 Admin Console 限制報表套裝的存取權限
-description: Adobe Analytics 使用者需要存取合適的資料。了解如何使用 Admin Console 確保使用者只能存取其角色所需的報表套裝。請依照 Adobe Admin Console 中的快速步驟，以在您的組織中建立報告套裝特定的產品設定檔。
+description: Adobe Analytics 使用者需要存取合適的資料。 了解如何使用 Admin Console 確保使用者只能存取其角色所需的報表套裝。 請依照 Adobe Admin Console 中的快速步驟，以在您的組織中建立報告套裝特定的產品設定檔。
 feature: User Management
 topics: null
 activity: setup
@@ -12,15 +12,30 @@ topic: Administration
 role: Admin
 level: Beginner
 exl-id: 71050e4f-a6e3-4fe2-88dd-866d207f6c7c
-source-git-commit: 84984ad9bf65cfc69117e40ac0e0cfe503cac5e5
+TQID: https://experienceleague.adobe.com/4yZheFbSnmms99n1B5DHxJkcWUcrltrIRwtaTAedtmA
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+subfeature_v2:
+  - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '121'
+source-wordcount: 124
 ht-degree: 100%
 
 ---
 
 # 在 [!UICONTROL Admin Console] 限制報表套裝的存取權限
 
-Adobe Analytics 使用者需要存取合適的資料。了解如何使用 [!UICONTROL Admin Console] 確保使用者只能存取其角色所需的報表套裝。請依照 [Adobe Admin Console](https://adminconsole.adobe.com/) 中的快速步驟，以在您的組織中建立報告套裝特定的產品設定檔。
+Adobe Analytics 使用者需要存取合適的資料。 了解如何使用 [!UICONTROL Admin Console] 確保使用者只能存取其角色所需的報表套裝。 請依照 [Adobe Admin Console](https://adminconsole.adobe.com/) 中的快速步驟，以在您的組織中建立報告套裝特定的產品設定檔。
 
 >[!VIDEO](https://video.tv.adobe.com/v/37714/?quality=12&learn=on)
