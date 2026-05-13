@@ -37,4 +37,4 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/29768/?quality=12&learn=on)
 
-如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)。
+如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=zh-Hant)。

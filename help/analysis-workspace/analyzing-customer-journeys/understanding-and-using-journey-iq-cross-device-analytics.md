@@ -80,7 +80,7 @@ ht-degree: 94%
 
 ### 此 [!DNL Cross-Device Virtual Report Suite]
 
-CDA 透過特殊類型的跨裝置[[!UICONTROL 虛擬報告套裝]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html)提出。 這可讓您在將跨裝置分析導入您的組織時，繼續使用以原始裝置為基礎的報告套裝。 CDA VRS 的設定很容易。
+CDA 透過特殊類型的跨裝置[[!UICONTROL 虛擬報告套裝]](https://experienceleague.adobe.com/docs/analytics/components/virtual-report-suites/vrs-about.html?lang=zh-Hant)提出。 這可讓您在將跨裝置分析導入您的組織時，繼續使用以原始裝置為基礎的報告套裝。 CDA VRS 的設定很容易。
 
 在 VRS 產生器的步驟 1，請選擇已由 Adobe 設為啟用 CDA 的[!UICONTROL 報告套裝]：
 

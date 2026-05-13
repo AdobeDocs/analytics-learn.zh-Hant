@@ -35,4 +35,4 @@ ht-degree: 40%
 
 >[!VIDEO](https://video.tv.adobe.com/v/25451/?quality=12&learn=on)
 
-如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/activity-map)。
+如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/activity-map/activity-map)。

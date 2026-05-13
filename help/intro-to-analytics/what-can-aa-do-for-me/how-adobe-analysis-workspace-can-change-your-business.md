@@ -37,4 +37,4 @@ ht-degree: 92%
 
 >[!VIDEO](https://video.tv.adobe.com/v/31501/?quality=12&learn=on)
 
-[進一步瞭解Adobe Analysis Workspace](https://business.adobe.com/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)
+[進一步瞭解Adobe Analysis Workspace](https://business.adobe.com/tw/products/analytics/ad-hoc-analysis.html?sdid=T32PLYTV&mv=search)

@@ -32,6 +32,6 @@ ht-degree: 9%
 
 # 透過SFTP傳送[!DNL Data Warehouse]個報告
 
-瞭解如何在Adobe Analytics中建立[!DNL Data Warehouse]請求，以及為SFTP傳送進行設定。 如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/en/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw)。
+瞭解如何在Adobe Analytics中建立[!DNL Data Warehouse]請求，以及為SFTP傳送進行設定。 如需詳細資訊，請查看[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics/export/ftp-and-sftp/secure-file-transfer-protocol/ftp-sftp-dw)。
 
 >[!VIDEO](https://video.tv.adobe.com/v/335751/?quality=12&learn=on)
