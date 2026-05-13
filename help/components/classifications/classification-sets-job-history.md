@@ -27,4 +27,4 @@ ht-degree: 100%
 
 檢視上傳及下載分類集資料的工作歷史記錄。
 
->[!VIDEO](https://video.tv.adobe.com/v/3476025/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3476038/?captions=chi_hant&learn=on&enablevpops)

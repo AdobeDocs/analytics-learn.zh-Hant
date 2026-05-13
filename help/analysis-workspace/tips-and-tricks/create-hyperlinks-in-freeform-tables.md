@@ -34,4 +34,4 @@ ht-degree: 36%
 
 了解如何為一個或多個維度項目建立超連結，以使這些在 Analysis Workspace 的自由格式表格中成為可點選項目。 您可以使用變數，為具有URL值的維度專案、具有非URL值的維度專案的自訂URL，或為多個維度專案的動態自訂URL建立超連結。 如需詳細檔案，請造訪[在自由格式表格中建立維度的超連結](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/visualizations/freeform-table/freeform-table-hyperlinks)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430411/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445799/?captions=chi_hant&learn=on)

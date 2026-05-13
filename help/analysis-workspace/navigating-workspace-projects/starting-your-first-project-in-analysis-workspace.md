@@ -37,4 +37,4 @@ ht-degree: 34%
 
 了解如何從頭開始或利用範本建立新的 Analysis Workspace 專案。 範本可協助您開始分析，並可透過公司建立的專案使用現成可用的範本。 如需詳細檔案，請參閱[在Analysis Workspace中建立專案](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/build-workspace-project/create-projects)。
 
->[!VIDEO](https://video.tv.adobe.com/v/30368/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429824/?captions=chi_hant&quality=12&learn=on)

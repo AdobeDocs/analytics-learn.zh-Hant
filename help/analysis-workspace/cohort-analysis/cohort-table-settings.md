@@ -35,7 +35,7 @@ ht-degree: 53%
 
 瞭解如何使用同類群組表格設定來自訂留存率或流失率表格的檢視。
 
->[!VIDEO](https://video.tv.adobe.com/v/29433/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430099/?captions=chi_hant&quality=12&learn=on)
 
 [!UICONTROL 同類群組表格]的自訂包括以下功能
 

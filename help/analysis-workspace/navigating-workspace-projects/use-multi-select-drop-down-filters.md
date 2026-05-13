@@ -34,4 +34,4 @@ ht-degree: 76%
 
 了解 Analysis Workspace 下拉式篩選器中的複選欄位選項，讓使用者顯示任何所選欄位中的資料。 如需詳細檔案，請造訪[面板概觀](https://experienceleague.adobe.com/zh-hant/docs/analytics/analyze/analysis-workspace/panels/panels#static-drop-down-segments)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3430412/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439948/?captions=chi_hant&learn=on)

@@ -28,6 +28,6 @@ ht-degree: 59%
 
 「自訂[!UICONTROL 同類群組] [!UICONTROL 維度]」選項可讓您使用時間以外的[!UICONTROL 維度]分析[!UICONTROL 同類群組]。 依行銷管道、行銷活動區域、產品頁面等比較[!UICONTROL 同類群組]，以更清楚瞭解[!UICONTROL 維度]專案如何變更[!UICONTROL 保留率] （或[!UICONTROL 流失率]）。
 
->[!VIDEO](https://video.tv.adobe.com/v/25967/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430178/?captions=chi_hant&quality=12&learn=on)
 
 如需詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hant)。

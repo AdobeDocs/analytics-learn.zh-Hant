@@ -34,6 +34,6 @@ ht-degree: 100%
 
 如何在 Analysis Workspace 中建置[!UICONTROL 同類群組]分析表格。
 
->[!VIDEO](https://video.tv.adobe.com/v/23990/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3430081/?captions=chi_hant&quality=12&learn=on)
 
 如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/cohort-table/cohort-analysis.html?lang=zh-Hant)。

@@ -27,4 +27,4 @@ ht-degree: 100%
 
 本影片說明如何使用 [!DNL tags] 中的規則追蹤您網站上的轉換事件 (成功事件)。
 
->[!VIDEO](https://video.tv.adobe.com/v/28778/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429952/?captions=chi_hant&quality=12&learn=on)
