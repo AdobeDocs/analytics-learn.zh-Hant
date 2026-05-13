@@ -10,12 +10,26 @@ thumbnail: 10530.jpg
 kt: 10530
 exl-id: aab53a12-3f11-49c9-aba4-dc926bcf776b
 TQID: https://experienceleague.adobe.com/k735psrg7FGmmdRvYgM6PihxGVyfwPJDhQ9We4NMBEU
-product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
-feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
-subfeature_v2: id: c8add8f2-4250-4fd9-9cde-9707036c567did: cc449013-c052-42d5-9ca4-0d2bceb6f06aid: e7d92df1-c5ba-4e93-85df-f83171b889be
-role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-topic_v2: id: aa2f3246-cb95-4b30-8899-fdf7d73550ccid: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2:
+  - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+subfeature_v2:
+  - id: c8add8f2-4250-4fd9-9cde-9707036c567d
+  - id: cc449013-c052-42d5-9ca4-0d2bceb6f06a
+  - id: e7d92df1-c5ba-4e93-85df-f83171b889be
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2:
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+  - id: c1579802-ddd4-4214-8a91-97b2066abe11
+  - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+  - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
 source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
 source-wordcount: 1823
@@ -54,7 +68,7 @@ ht-degree: 89%
 * 對於不熟悉實施的新手（新員工、希望更瞭解可用報告的企業負責人等） 本檔案提供了所有實施變數及其用途的最佳檢視，讓個人可以自助學習您的AA設定。
 * 對於 AA 產品所有者/技術使用者，本文件可提醒如何設定其他變數以及新增維度時可以使用哪些變數。
 
-**做法：**首先，在 Excel 文件中列出所有 Adobe 開箱即用的變數 (頁面、產品、地理等)，以及 eVar、prop、事件和清單變數。 每個網站/報告套件都應該有一個標籤。
+**做法：**&#x200B;首先，在 Excel 文件中列出所有 Adobe 開箱即用的變數 (頁面、產品、地理等)，以及 eVar、prop、事件和清單變數。 每個網站/報告套件都應該有一個標籤。
 對於每個維度，我增加了下列欄：
 * **名稱：**&#x200B;提供大部分人都能理解的簡易短名稱。 名稱必須夠直覺，讓新使用者可以馬上了解該變數要擷取的內容。
 * **說明：**&#x200B;變數用途和其追蹤資料的更多詳細資料。 我會讓此項目保持簡短和簡單，並符合介面中使用的說明。 理想情況下，我不希望我的使用者需要查閱標記文件。 因此，在管理員後端設定新維度時，我也會新增相同的說明。 這樣一來，使用者就能直接在工作區中點擊資訊圖示，了解維度是什麼 - 不需要開啟 Excel 文件！
@@ -93,7 +107,7 @@ ht-degree: 89%
 
 **理由：**&#x200B;這可讓您清楚了解使用者在所有數位屬性中的旅程，以及 Adobe Analytics 有涵蓋和未涵蓋的範圍，因此您可以優先向缺少標記的屬性新增標記。 以這種方式配置您的數位生態系統，可以找出標記策略中的潛在機會，進而全面了解使用者的旅程。 例如 - 您是否需要全域報表套件來追蹤多個網域/網站？ 網域或應用程式之間是否需要將訪客 ID 遞交到混合體驗？ 是否需要更新內部 URL 篩選器以進行跨網域追蹤？
 
-**做法：**確定文件的所有者，以提供控管和管理更新的單一責任來源。
+**做法：**&#x200B;確定文件的所有者，以提供控管和管理更新的單一責任來源。
 在屬性標籤上列出以下內容：
 * **屬性名稱：**&#x200B;這可以是網域、子網域、應用程式名稱等。即使在同一個網域中，如果某些部分是分開管理的（例如由不同的團隊或不同的技術管理），這些應該分離出來。
 * **連結 (URL)** 到可用的屬性
