@@ -9,10 +9,16 @@ doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
 exl-id: be00c8c0-a4bc-4380-98da-d1e2a3d31ec5
-source-git-commit: df00d4fb8cc5093903ed4628dfe12f152294123a
+TQID: https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 100%
+source-wordcount: 366
+ht-degree: 87%
 
 ---
 
@@ -34,7 +40,7 @@ ht-degree: 100%
 * 如何設定的詳細說明。 您可以在此處指定所需的任何資料層物件及其語法，以及任何需要設定的 TMS 規則和規則設定的詳細資料。
 * QA 中涵蓋要確保的測試案例，以及您希望在成功的測試案例中看到的所有變數。 概述當開發人員測試此增強功能時，成功實施應包括的內容。
 
-理想情況下，此文件只需針對下一個網站進行調整，您可以更新屬性名稱、頁面命名慣例等基本知識。 不用每次都重複相同的步驟，就能節省更多時間。
+理想情況下，此檔案只需針對下一個網站進行調整，您可以更新屬性名稱、頁面命名慣例等基本知識。無需每次都重複相同的步驟，您可以節省更多時間。
 
 ## 作者
 
@@ -42,7 +48,7 @@ ht-degree: 100%
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
-NortonLifeLock 數位分析平台經理 Christel Guidon
+NortonLifeLock數位分析平台經理Christel Guidon
 Adobe Analytics 達人
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)

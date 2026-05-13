@@ -1,6 +1,6 @@
 ---
 title: 如何識別您的分析追蹤伺服器和報表套裝 ID
-description: 設定 Adobe Analytics 或在其他 Experience Cloud 解決方案中引用時，了解您所使用的 Analytics「追蹤伺服器」通常很有用或者甚至是有必要，或者了解您的資料所要發送的「報表套裝」也很有用。本影片將展示如何找到這兩個值，無論您是否已經實施 Adobe Analytics。
+description: 設定 Adobe Analytics 或在其他 Experience Cloud 解決方案中引用時，了解您所使用的 Analytics「追蹤伺服器」通常很有用或者甚至是有必要，或者了解您的資料所要發送的「報表套裝」也很有用。 本影片將展示如何找到這兩個值，無論您是否已經實施 Adobe Analytics。
 feature: Implementation Basics
 topics: null
 activity: implement
@@ -10,16 +10,22 @@ kt: 2358
 role: Developer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+TQID: https://experienceleague.adobe.com/DRy-lxNuEQR9Tb-nIoev0Mu1OzSiCcLcqve1eDf7p6Q
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+feature_v2: id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+role_v2: id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87cid: c2be0313-b3ae-45e0-b454-d20bf54b23f2
+source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: 334
 ht-degree: 100%
 
 ---
 
 # 如何識別您的 Analytics [!DNL tracking server]和[!UICONTROL 報表套裝 ID] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
-設定 Adobe Analytics 或在其他 Experience Cloud 解決方案中引用時，了解您所使用的 Analytics「追蹤伺服器」通常很有用或者甚至是有必要，或者了解您的資料所要發送的「[!UICONTROL 報表套裝]」也很有用。本影片將展示如何找到這兩個值，無論您是否已經實施 Adobe Analytics。
+設定 Adobe Analytics 或在其他 Experience Cloud 解決方案中引用時，了解您所使用的 Analytics「追蹤伺服器」通常很有用或者甚至是有必要，或者了解您的資料所要發送的「[!UICONTROL 報表套裝]」也很有用。 本影片將展示如何找到這兩個值，無論您是否已經實施 Adobe Analytics。
 
 >[!IMPORTANT]
 >
@@ -27,13 +33,13 @@ ht-degree: 100%
 
 ## 實施以後 {#after-implementation}
 
-在網站上實施 Analytics 以後，您可以在追蹤指標中找到[!DNL tracking server]和 [!DNL report suite ID]。[!DNL tracking server]是指標內的主機名稱，因此很容易可找到。[!UICONTROL 報表套裝] ID 是指標路徑名稱內在 &quot;/b/ss/&quot; 以後且以逗號分隔的清單。
+在網站上實施 Analytics 以後，您可以在追蹤指標中找到[!DNL tracking server]和 [!DNL report suite ID]。 [!DNL tracking server]是指標內的主機名稱，因此很容易可找到。 [!UICONTROL 報表套裝] ID 是指標路徑名稱內在 &quot;/b/ss/&quot; 以後且以逗號分隔的清單。
 
 若要查看指標，以及隨 Analytics 和其他 Experience Cloud 解決方案而來的所有其他資訊，請安裝 [“Experience Cloud Debugger” Chrome Extension](https://chrome.google.com/webstore/detail/adobe-experience-cloud-de/ocdmogmohccmeicdhlhhgepeaijenapj?hl=en)。
 
 ## 實施以前 {#before-implementation}
 
-**[!DNL Tracking server]** - 如果您尚未開始實施 Adobe Analytics，則您將需為 &quot;.sc.omtrdc.net&quot; [!DNL tracking server] 選擇一個子網域。例如，假設我有一家銷售帽子的網絡商店，名為 &quot;Jim&#39;s Brims&quot;。我只需設定我的 [!DNL tracking server]為：
+**[!DNL Tracking server]** - 如果您尚未開始實施 Adobe Analytics，則您將需為 &quot;.sc.omtrdc.net&quot; [!DNL tracking server] 選擇一個子網域。 例如，假設我有一家銷售帽子的網絡商店，名為 &quot;Jim&#39;s Brims&quot;。 我只需設定我的 [!DNL tracking server]為：
 
 “jimsbrims.sc.omtrdc.net” 即可。
 
