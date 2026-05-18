@@ -3,8 +3,7 @@ user-guide-title: Adobe Analytics 教學課程
 user-guide-description: 觀看 Adobe Analytics 教學影片，了解如何充份運用您的資料。
 breadcrumb-title: Analytics 教學課程
 solution: Analytics
-product_v2:
-  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+product_v2: id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
 auto-video-transcripts: true
 source-git-commit: 4904f7059495d0f4d8780360f7abe9396087d968
 workflow-type: tm+mt
@@ -109,7 +108,7 @@ ht-degree: 96%
       + [自由格式表格中的資料列和資料欄設定](analysis-workspace/building-freeform-tables/row-and-column-settings-in-freeform-tables.md)
       + [自由格式表格總計](analysis-workspace/building-freeform-tables/freeform-table-totals-in-analysis-workspace.md)
       + [使用自由格式表格產生器](analysis-workspace/building-freeform-tables/using-the-freeform-table-builder-in-analysis-workspace.md)
-      + [按一下滑鼠右鍵瞭解工作區效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html?lang=zh-Hant)
+      + [按一下滑鼠右鍵瞭解工作區效率](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/right-click-for-workspace-efficiency.html)
       + [重新排序靜態資料列](analysis-workspace/building-freeform-tables/reordering-static-rows-in-analysis-workspace.md)
       + [在自由格式表格中使用Attribution IQ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-attribution-iq-in-freeform-tables.html?lang=zh-Hant)
       + [交叉銷售分析](analysis-workspace/building-freeform-tables/cross-sell-analysis-workspace.md)
@@ -157,7 +156,7 @@ ht-degree: 96%
       + [套用區段至您的 Analysis Workspace 專案](analysis-workspace/applying-segments/applying-segments-to-your-analysis-workspace-project.md)
       + [套用臨時區段](analysis-workspace/applying-segments/ad-hoc-temporary-segments.md)
       + [對區段使用不同的Attribution IQ模型](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/attribution-iq/using-different-attribution-iq-models-with-segments.html?lang=zh-Hant)
-      + [選擇面板的區段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html?lang=zh-Hant)
+      + [選擇面板的區段](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/choose-segments-for-a-panel.html)
       + [在 Analysis Workspace 中將區段用作維度](analysis-workspace/applying-segments/using-segments-as-dimensions-in-analysis-workspace.md)
       + [在 Analysis Workspace 中使用區段來限制資料](analysis-workspace/applying-segments/using-segments-to-limit-data-in-analysis-workspace.md)
       + [Analysis Workspace 中的快速區段](analysis-workspace/applying-segments/quick-segments-in-analysis-workspace.md)
