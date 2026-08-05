@@ -38,5 +38,5 @@ ht-degree: 100%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3453257/?captions=chi_hant&quality=12&learn=on)
 
-如需有關本功能的詳細資訊，請瀏覽[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hant)。
+如需有關此功能的詳細資訊，請參閱此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hant)。
 
