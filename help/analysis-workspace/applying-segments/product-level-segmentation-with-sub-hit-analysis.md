@@ -20,6 +20,6 @@ Adobe Analytics中的傳統區段通常僅限於點選層級，若有多個產�
 
 此影片示範Adobe Analytics中的子點選分析如何提供更細微的分段功能。
 
-如需其他資訊，請瀏覽此[文件](https://experienceleague.adobe.com/en/docs/analytics/components/segmentation/sub-hit){target="_blank"}。
+如需其他資訊，請瀏覽此[文件](https://experienceleague.adobe.com/zh-hant/docs/analytics/components/segmentation/sub-hit){target="_blank"}。
 
->[!VIDEO](https://video.tv.adobe.com/v/3497075/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3497084/?captions=chi_hant&quality=12&learn=on)
