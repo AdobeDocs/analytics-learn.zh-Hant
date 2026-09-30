@@ -2,7 +2,7 @@
 title: 無 Tag Manager 的自訂連結追蹤
 description: 對於頁面上的許多動作，不應將追蹤視為頁面檢視處理。 在本影片中，您將了解如何將連結追蹤指標編碼到 Analytics，如果您未使用 Tag Manager (如 Experience Platform Launch)。 請參閱編碼並學習重要秘訣。
 feature: Appmeasurement Implementation
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,23 +10,32 @@ kt: 1845
 role: Developer
 level: Intermediate
 exl-id: e4567b1c-414e-44ad-982f-52b0150e7eda
-TQID: https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA
+TQID: 'https://experienceleague.adobe.com/BU98KM1JAq3v6Gd7SRU0FNT3qW-4a9UvP0M-ffFqJIA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: e9dbdbc5-3e52-40f0-a7bc-e18542967b7a
+    internal-label: Implementations
+subfeature_v2:
+  - id: d2311670-43bd-4c2e-bc98-1da2aaba9cef
+    internal-label: Appmeasurement implementation
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Measurement
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 272
+source-wordcount: '272'
 ht-degree: 100%
-
 ---
-
 # 無 Tag Manager 的自訂連結追蹤 {#custom-link-tracking-without-a-tag-manager}
 
 對於頁面上的許多動作，不應將追蹤視為頁面檢視處理。 在本影片中，您將了解如何將連結追蹤指標編碼到 Analytics，如果您未使用 Tag Manager (如 Adobe [!DNL Experience Platform Launch])。 請參閱編碼並學習重要秘訣。

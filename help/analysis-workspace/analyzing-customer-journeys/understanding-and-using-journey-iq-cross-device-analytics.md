@@ -1,8 +1,8 @@
 ---
 title: 了解並使用 Journey IQ - 跨裝置分析
-description: 使用者與您的品牌互動時，他們會以許多方式在多種裝置上進行互動。 跨裝置分析會整合 Adobe Experience Platform 身分識別服務，以身分識別多少部裝置對應到使用者。 然後運用此情報建立使用者行為的跨裝置檢視。 如此便能夠對使用者進行分析，而非對裝置。
+description: 使用者與您的品牌互動時，他們會以許多方式在多種裝置上進行互動。 跨裝置分析會整合 Adobe Experience Platform 身分識別服務，以識別裝置如何對應到使用者。 然後運用此情報建立使用者行為的跨裝置檢視。 如此便能夠對使用者進行分析，而非對裝置。
 feature: CDA
-topics: null
+topics:
 activity: use
 doc-type: article
 team: Technical Marketing
@@ -10,34 +10,50 @@ kt: 4138
 role: User
 level: Intermediate
 exl-id: 3748d5d7-d250-4057-8131-afdc66c80200
-TQID: https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ
+TQID: 'https://experienceleague.adobe.com/CaoHMLfB--J0pgpUBmuX-pmCa2VwgWDDp8DH5k4yFAQ'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: b8734a57-d5fb-44a8-8ee1-65225cecaeae
+    internal-label: Data configuration and collection
 subfeature_v2:
   - id: a544b409-2610-410d-a842-474ac1d0d54e
+    internal-label: Segment Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: b3a8b8a0-1cc2-48a8-ac82-ffd9c66ccab4
+    internal-label: Attribution
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
+  - id: f99536a1-75c7-4151-a2c8-073630632526
+    internal-label: CDA
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1607
+source-wordcount: '1607'
 ht-degree: 94%
-
 ---
-
 # 了解並使用 [!DNL Journey IQ] - 跨裝置分析
 
 使用者與您的品牌互動時，他們會以許多方式在多種裝置上進行互動。 跨裝置分析會整合 [!DNL Adobe Experience Platform Identity Service]，以識別多少部裝置對應到使用者。 然後運用此情報建立使用者行為的跨裝置檢視。 如此便能夠對使用者進行分析，而非對裝置。
@@ -53,19 +69,19 @@ ht-degree: 94%
 *Isabelle是三位訪客*
 ![傳統Analytics歷程](assets/cda-isabelle-journey-traditional-analytics.png)
 
-透過傳統分析，Isabelle 的歷程可以分成三部分。 她以三位不重複訪客表示，每位都使用不同裝置執行分離的任務。 所需的是統一跨裝置檢視 Isabelle 的互動。 [!DNL Journey IQ: Cross-Device Analytics] 提供此檢視。
+透過傳統分析，Isabelle 的歷程可以分成三部分。 她以三位不重複訪客表示，每位都使用不同裝置執行分離的任務。 所需的是 Isabelle 互動情況的統一跨裝置視圖。 [!DNL Journey IQ: Cross-Device Analytics] 提供此檢視。
 
 *Isabelle是一個人*
 ![跨裝置分析歷程](assets/cda-isabelle-journey-cross-device-analytics.png)
 
 ### 跨裝置檢視提供更佳的分析
 
-取得 Isabelle 行為以人為中心的跨裝置檢視後，即可讓您的分析產生巨大差異。 例如，傳統以訪客為基礎的方法無法呈現行銷頻道有效性的完整面貌。 接著再次查看 Isabelle 的歷程，著重於哪個頻道收到其產品檢視和購買的點數。 為了簡化，我們將使用[!UICONTROL 上次接觸]歸因，但當您將 Isabelle 的行為分成多個個別訪客時，使用任何歸因模式都會發生相同的問題。 使用傳統以訪客為基礎的世界檢視會產生非常不同，甚至是誤導的結果：
+取得 Isabelle 行為以人為中心的跨裝置檢視後，即可讓您的分析產生巨大差異。 例如，傳統以訪客為基礎的方法無法呈現行銷管道有效性的完整面貌。 接著再次查看 Isabelle 的歷程，著重於哪個管道應獲得產品檢視和購買的貢獻。 為了簡化，我們將使用[!UICONTROL 上次接觸]歸因，但當您將 Isabelle 的行為分成多個個別訪客時，使用任何歸因模式都會發生相同的問題。 使用傳統以訪客為基礎的世界觀會產生非常不同，甚至具誤導性的結果：
 
 *傳統分析與跨裝置分析*
 ![頻道歸因](assets/channel-attribution.png)
 
-請注意，有了跨裝置檢視，電子郵件頻道會收到產品檢視和購買的點數，藉以更準確地呈現 Isabelle 的真實世界體驗。
+請注意，有了跨裝置視圖，電子郵件頻道會同時獲得產品檢視和購買的貢獻度，藉以更準確地呈現 Isabelle 的真實世界體驗。
 
 請繼續閱讀，以深入了解：
 
@@ -103,13 +119,13 @@ CDA 透過特殊類型的跨裝置[[!UICONTROL 虛擬報告套裝]](https://expe
 
 ### 重述記錄
 
-有時您的使用者需要一些時間才能登入，而 [!DNL Device Graph] 也需要一些時間才能辨識他們，並將他們與其裝置對應在一起。 CDA 利用 30 天回溯視窗，以便將之前未識別的訪客重述為過去最長 30 天內的個人。
+有時您的使用者需要一些時間才能登入，而 [!DNL Device Graph] 也需要一些時間才能辨識他們，並將他們與其裝置對應在一起。 CDA 利用 30 天回溯視窗，可將先前未識別的訪客重新歸類為過去最長 30 天內的個人。
 
 此做法如何協助？ 從以上討論中回想 Isabelle 的使用者歷程：
 
 ![[!DNL Cross-Device Analytics] 歷程](assets/cda-isabelle-journey-cross-device-analytics.png)
 
-Isabelle 可能直到進行購買前才登入，而且 [!DNL Device Graph] 直到 Isabelle 購買後的一段時間，才將她和她的裝置對應在一起。 但 CDA 的 30 天回溯可讓 CDA 以個人層級重述 Isabelle 的過去行為，提供您所需的跨裝置歷程檢視。
+Isabelle 可能直到進行購買前才登入，而且 [!DNL Device Graph] 直到 Isabelle 購買後的一段時間，才將她和她的裝置對應在一起。 但 CDA 的 30 天回溯可讓 CDA 將 Isabelle 過去的行為重新歸類為個人層級，提供您所需的跨裝置歷程檢視。
 
 >[!NOTE]
 >
@@ -129,7 +145,7 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/tw/legal/produ
 
 ### 不是訪客的使用者
 
-在 CDA [!UICONTROL 虛擬報告套裝]中，您會見到一些變動。 例如，「[!UICONTROL 不重複訪客]」量度已被兩個量度取代：「[!UICONTROL 使用者]」和「[!UICONTROL 不重複裝置]」。 這些新量度能讓您更洞察客群規模。
+在 CDA [!UICONTROL 虛擬報告套裝]中，您會見到一些變動。 例如，「[!UICONTROL 不重複訪客]」量度已被兩個量度取代：「[!UICONTROL 使用者]」和「[!UICONTROL 不重複裝置]」。 這些新量度可讓您更深入瞭解客群人數。
 
 *人員與不重複裝置*
 ![CDA [!UICONTROL 人員量度]](assets/cda-people-metric.png)
@@ -150,7 +166,7 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/tw/legal/produ
 * 配置：最近 (上次)
 * 有效期限：購買
 
-現在將自動從一部裝置持續存在到另一部裝置，直到引發購買事件為止。
+現在將自動從一部裝置延續到另一部裝置，直到引發購買事件為止。
 
 ## 分析 Analysis Workspace 中的跨裝置資料
 
@@ -170,7 +186,7 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/tw/legal/produ
 
 ### 跨裝置[!DNL Fallout]
 
-您可能會使用數個 [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hant) 分析使用者在成功達成前透過指定的一系列步驟成功達成的機率。 您是否知道這些 [!DNL Fallout visualizations] 的檢視在使用以傳統裝置為基礎的分析時會受到限制？ 為了成功「通過」，下一個步驟必須在跟上一步中所使用的相同瀏覽器或應用程式中發生。 在以裝置為基礎的分析中，您不會知道成功在另一部裝置上完成下一步的使用者。
+您可能會使用數個 [[!DNL Fallout visualizations]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow.html?lang=zh-Hant) 分析使用者在成功達成前透過指定的一系列步驟成功達成的機率。 您是否知道這些 [!DNL Fallout visualizations] 的檢視在使用以傳統裝置為基礎的分析時會受到限制？ 為了成功「通過」，下一個步驟必須與前一個步驟發生在相同的瀏覽器或應用程式中。 在以裝置為基礎的分析中，您不會知道成功在另一部裝置上完成下一步的使用者。
 
 不用擔心，CDA 已為您設想到這點。 CDA 會建立跨裝置檢視，使 [!DNL Fallout visualizations] 變得更為實用許多。 畢竟真正重要的是，使用者最終是否在某處成功完成其任務。
 
@@ -181,7 +197,7 @@ CDA 包含在 [[!DNL Analytics Ultimate]](https://helpx.adobe.com/tw/legal/produ
 
 由於 CDA 會在 Analysis Workspace 下方建立跨裝置資料圖層，因此您的所有分析將多了跨裝置觀點。 一個有力的範例就是透過 [[!DNL Attribution IQ]](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/attribution/attribution.html?lang=zh-Hant)。 Analysis Workspace 中的 [!DNL Attribution IQ] 可讓您並排比較多個歸因模式。 您可以使用此 CDA 功能，比較不同裝置對於成功購買的貢獻度。
 
-例如，假設您想要了解行動電話多常在最終成功購買的互動中作為第一個使用的裝置。 這以行動電話的「贏取率」表示。 CDA + [!DNL Attribution IQ] 可讓您進行此分析：
+例如，假設您想了解在最終帶來成功的互動中，行動電話有多常是最先使用的裝置。 這代表行動電話的「贏取率」。 CDA + [!DNL Attribution IQ] 可讓您進行此分析：
 
 具有CDA的&#x200B;*[!DNL Attribution IQ]*
 ![[!DNL Attribution IQ]](assets/cda-attribution-iq.png)

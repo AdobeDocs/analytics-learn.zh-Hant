@@ -9,27 +9,35 @@ last-substantial-update: 2023-05-15T00:00:00.000Z
 jira: KT-13216
 thumbnail: KT-13216.jpeg
 exl-id: 393a0cf0-d793-4185-87ed-81955ad10b0e
-TQID: https://experienceleague.adobe.com/z1eMqM4rPYzf076wc1B3VQtzlvfRyxVsX4hNEhl7LQM
+TQID: 'https://experienceleague.adobe.com/z1eMqM4rPYzf076wc1B3VQtzlvfRyxVsX4hNEhl7LQM'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+    internal-label: Alerts
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 879
+source-wordcount: '879'
 ht-degree: 93%
-
 ---
-
-# 透過執行摘要儀表板取得成功
+# 透過執行摘要儀表板推動成功
 
 _高階主管通常無法及時取得其網站和應用程式的相關資訊，依賴於每月的 Excel 圖表或淹沒在精細的數據中。 解決方案：執行摘要儀表板。_
 
@@ -50,13 +58,13 @@ _高階主管通常無法及時取得其網站和應用程式的相關資訊，�
 
 那麼，為什麼這麼多高階主管認為這樣運行網站和應用程式的方式是合理的呢？
 
-許多高階主管無法及時獲得採取行動所需的持續相關資訊。 相反，他們每月收到一份報告，其中包含從 Adobe Analytics 匯出到 Excel 中的統計數據，繪製圖表，然後放入 PowerPoint 中。 如果轉折點發生在月初，他們要到下月初才會知道，提出問題或採取行動的時間點早就過了。 自訂警報也是一個不錯的選擇，但我們都知道高階主管的電子郵件收件匣是長什麼樣的。
+許多高階主管無法及時獲得採取行動所需的持續相關資訊。 相反，他們每月收到一份報告，其中包含從 Adobe Analytics 匯出到 Excel 中的統計數據，繪製圖表，然後放入 PowerPoint 中。 如果轉折點發生在月初，他們要到下月初才會知道，提出問題或採取行動的時間點早就過了。 自訂警報也是一個不錯的選擇，但我們都知道高階主管的電子郵件收件匣長什麼樣子。
 
-您希望高階主管擁有足夠的數據能及時關注狀況，而不是讓他們沮喪絕望。 如果您收到產品負責人或行銷經理寄來的郵件，表示高階主管想要了解異常狀況，那麼您就找到了最佳時機。
+您希望高階主管擁有足夠的資料，能知道何時需要立即關注，而不是多到讓他們沮喪得乾脆放棄。 如果您收到產品負責人或行銷經理寄來的郵件，表示高階主管想要了解異常狀況，那麼您就找到了最佳時機。
 
 這就是執行摘要儀表板做為折衷方案的出場時機。 我們知道，行動計分卡非常適合高階主管在外出時快速查看情況，但執行摘要儀表板可以讓高階主管在辦公桌前輕鬆地深入了解。 行動計分卡可以提醒他們有問題發生，但執行摘要儀表板可讓他們有足夠的了解，以便向正確的人提出正確的問題。
 
-大多數高階主管都有約三個他們非常關心的 KPI。 在零售業，可能是訂單、收入和 AOV。 在 B2B，則是銷售機會、銷售機會品質和轉換率。 在服務業，可能關注造訪、預約和回訪訪客數。 無論這三者是什麼，都用大的粗體數字表示，並附上逐年變化和圖表。 關鍵量度摘要視覺化可使事情變得簡單：
+大多數高階主管都有約三個他們非常關心的 KPI。 在零售業，可能是訂單、收入和 AOV。 在 B2B，則是銷售線索、銷售線索品質和轉換率。 在服務業，可能關注造訪、預約和回訪訪客。 無論這三者是什麼，都用大的粗體數字表示，並附上逐年變化和圖表。 關鍵量度摘要視覺化可使事情變得簡單：
 
 ![放大面板](assets/zoom-in-panel.png)
 
@@ -64,7 +72,7 @@ _高階主管通常無法及時取得其網站和應用程式的相關資訊，�
 
 ![折線圖.png](assets/line-graph.png)
 
-針對組織的重要項目，加上幾個下拉列表。 我發現裝置類型和行銷管道通常是不錯的選擇：
+針對組織的重要項目，加上幾個下拉式選單。 我發現裝置類型和行銷管道通常是不錯的選擇：
 
 ![社交宣傳.png](assets/social-campaigns.png)
 

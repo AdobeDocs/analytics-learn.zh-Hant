@@ -10,30 +10,46 @@ last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 281f9f97-326f-4745-9dd3-7731c9b9b60a
-TQID: https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M
+TQID: 'https://experienceleague.adobe.com/aFowDr8ekKrxRR0VWUMiWUG5F2RBqMz5oipDYGobd2M'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
+    internal-label: Insights
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1166
+source-wordcount: '1166'
 ht-degree: 89%
-
 ---
-
 # 在 Analysis Workspace 中建立操作儀表板
 
 _探索 Adobe Analytics Workspace 中的操作儀表板如何徹底改變溝通成效和效率。 了解如何建立常見問題、新聞與公告以及錯誤與功能儀表板，以簡化資訊、改進使用者體驗並提升參與度。_
@@ -45,13 +61,13 @@ _探索 Adobe Analytics Workspace 中的操作儀表板如何徹底改變溝通�
 
 ***豁然開朗：**&#x200B;Workspace 的多功能性可能會改變遊戲規則。 使用者偏好快速、直接地在 Workspace 中得到答案，因此讓我們將他們留在那裡，避免額外的步驟。*
 
-我繼續建立操作儀表板以分享給全公司。 到目前為止，使用者可以得到資訊、資訊集中並減少挫折感。 這是一個簡單、持續發展的過程，隨時間過去，效率會不斷提高。
+我著手建立操作儀表板，以便在全公司分享。 到目前為止，使用者可以得到資訊、資訊集中並減少挫折感。 這是一個簡單、持續發展的過程，隨時間過去，效率會不斷提高。
 
 沒有我，人們就能取得許多好資訊、瞭解網站區域、瞭解Adobe Analytics有多酷，以及（對我來說很重要😊）更少問我問題，節省我的時間。
 
 **強烈建議您為網站的所有屬性或主要區域建立儀表板。** 他們應該會提供屬性/網站/應用程式/流量的概述，並具備基本資訊和快速深入分析。 它們應該與整個公司共享，讓所有使用者無需任何介入即可了解該屬性。 對我來說，這些儀表板通常可幫我回答 80% 的問題，節省我寶貴的時間。
 
-所有這些都不會阻止您保留 Confluence 網站，該網站仍然非常有用。 我甚至會在每個操作儀表板頂端放置其參考連結。 但我喜歡快捷方法，無論對我還是對我的使用者。
+所有這些都不會阻止您保留 Confluence 網站，該網站仍然非常有用。 我甚至會在每個操作儀表板頂端提到它。 但我喜歡快捷方法，無論對我還是對我的使用者。
 
 讓我向您解釋一下我為我的公司 GenDigital 建立的三個操作儀表板，它們協助我實現了這些目標。
 
@@ -64,9 +80,9 @@ _探索 Adobe Analytics Workspace 中的操作儀表板如何徹底改變溝通�
 
 厭倦了無止盡地重複提供答案？ 停止！ 製作常見問題儀表板來節省時間。 使用者可以提問之前先查閱它，或者您可以使用其快速連結作為回覆。
 
-只需建立[文字視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=zh-Hant)，其中問題做為標題，答案/說明做為內容，全部摺疊起來，只顯示問題。 按相關性 (例如頁面或產品) 或使用面板將其分組。 保持簡潔，常見查詢優先放在頂端。
+只需建立[文字視覺效果](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=zh-Hant)，其中問題做為標題，答案/說明做為內容，全部摺疊起來，只顯示問題。 依相關性將其分組 (例如依頁面或產品)，或使用面板。 保持簡潔，常見查詢優先放在頂端。
 
-與其寫長篇電子郵件或重新發現舊的說明，不如更新您的常見問題儀表板。 從現在開始並隨時間擴展。 使用超連結來參考其他儀表板或報告中的相關常見問題。 從其他儀表板連結到常見問題，在需要時提供複雜的內容。
+與其寫長篇電子郵件或重新發現舊的說明，不如更新您的常見問題儀表板。 從現在開始並隨時間擴展。 在報告中使用超連結來參考其他儀表板或相關常見問題。 從其他儀表板連結到常見問題，在需要時提供複雜的內容。
 
 對於 Gen Digital，我們的常見問題著重在自訂的 Adobe Analytics 使用，而不是基礎知識。 按一下滑鼠右鍵並選取「取得視覺化連結」並分享虛名 URL，藉此來寄送包含特定常見問題連結的電子郵件。 這為使用者突顯了確切的內容。 使用自由格式表格來解釋資料，透過「編輯描述」加入更多說明。
 
@@ -88,7 +104,7 @@ _探索 Adobe Analytics Workspace 中的操作儀表板如何徹底改變溝通�
 
 由於這些儀表板全公司的人都看得到，因此更新會立即出現在頂端。 以下是我會放在新聞與公告儀表板的資訊類型：
 
-- 我們這端的功能發佈和更新 (主要是程式碼發佈)
+- 我們這端的功能版本和更新 (主要是程式碼版本)
 - Adobe 重要新功能
 - 工作時間排程
 - 所有要查看的概觀儀表板和有用報告的清單
@@ -101,11 +117,11 @@ _探索 Adobe Analytics Workspace 中的操作儀表板如何徹底改變溝通�
 
 ## 3 - 錯誤、功能和主要版本記錄
 
-此操作儀表板的目標是有一個集中位置來放置所有錯誤。 我以前習慣在 Excel 中管理，但它很麻煩且難以共享。 為什麼不直接放在 Workspace 中呢？
+此操作儀表板的目標是提供一個集中位置來放置所有錯誤和程式錯誤。 我以前習慣在 Excel 中管理，但它很麻煩且難以共享。 為什麼不直接放在 Workspace 中呢？
 
 您可以將其整合到新聞與公告儀表板 (如果您希望它不要那麼顯著)。 但是，如果錯誤報告對您的公司來說很重要或至關重要，那麼單獨的儀表板可能是明智的選擇。
 
-我使用文字視覺效果，並運用項目要點使其非常簡單。 項目要點的開頭為錯誤的日期和屬性 (例如：「3jan23-17jan23 - Norton.com」、「2022 年 14 月 14 日之前 - Chat」)。 然後我加入詳細資訊並儘量保持簡短。 我避免指出哪個團隊出了問題，也避免加入太多使用者可能不在乎的詳細技術資訊。
+我使用文字視覺效果，並以項目符號讓內容保持非常簡單。 項目要點的開頭為錯誤的日期和屬性 (例如：「3jan23-17jan23 - Norton.com」、「2022 年 14 月 14 日之前 - Chat」)。 然後我加入詳細資訊並儘量保持簡短。 我避免指出哪個團隊出了問題，也避免加入太多使用者可能不在乎的詳細技術資訊。
 
 最新的錯誤位於頂端，而較舊的錯誤位於年度文字報告中 (例如「2022 - 已知錯誤和變更」) - 全部摺疊。
 
@@ -113,7 +129,7 @@ _探索 Adobe Analytics Workspace 中的操作儀表板如何徹底改變溝通�
 
 我也在此處放置概觀儀表板和有用報告的參考連結，類似於其他操作儀表板。 常見問題以及新聞與公告儀表板的連結位於頂端。
 
-以下是您記錄外觀的範例：
+以下是您的記錄可能呈現外觀的範例：
 
 ![螢幕擷圖 3](assets/screenshot-3.png)
 

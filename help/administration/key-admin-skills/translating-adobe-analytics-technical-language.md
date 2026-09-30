@@ -1,6 +1,6 @@
 ---
 title: 以非技術方式翻譯 Adobe Analytics 技術語言
-description: 數位世界獲得的關注度前所未有，因此，對於 Adobe Analytics 所提供豐富資料的理解、分析和採取動作，也有著越來越大的需求。 由於關注度的提升，出現了對 props 和 eVars 世界完全陌生的一群利害關係人。 身為貴組織的 Adobe Analytics 專家，您是協助利害關係人了解技術細節，進而充分運用 Adobe Analytics 投資的關鍵。
+description: 數位世界獲得的關注度前所未有，因此，對於 Adobe Analytics 所提供豐富資料的理解、分析和採取動作，也有著越來越大的需求。 由於關注度的提升，出現了對 props 和 eVars 世界完全陌生的一群利害關係人。 身為貴組織的 Adobe Analytics 專家，您是協助利害關係人了解技術細節，並充分發揮 Adobe Analytics 投資價值的關鍵。
 feature: Admin Tools
 topic: Administration
 role: Admin
@@ -8,33 +8,48 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: 00a457dc-ff0b-461f-8f02-afc4ecd6b54b
-TQID: https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU
+TQID: 'https://experienceleague.adobe.com/rbniizbRfgRB3x-zYcZ5JPKMDrT2VtPfXNc1Q75DjGU'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: c45e2849-b5ab-4ac6-8df1-bbe34c2dd79e
+    internal-label: Data Dictionary
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1027
+source-wordcount: '1045'
 ht-degree: 97%
-
 ---
-
 # 以非技術方式翻譯 Adobe Analytics 技術語言
 
 >[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
@@ -45,7 +60,7 @@ ht-degree: 97%
 
 我發現以下四個秘訣，有助於讓我的利害關係人了解 Adobe Analytics 的技術語言。
 
-## 秘訣 1：讓您的利害關係人開始強大
+## 秘訣 1：讓利害關係人有個好的開始
 
 為新的 Adobe Analytics 用戶制定可靠的入職計劃，是從一開始就推動採用的關鍵。 很多時候，您的入職計劃是他們第一次接觸 props 和 eVar 的精彩世界。 入職計劃應平易近人、息息相關並有記憶點，才能讓用戶繼續使用工具。
 
@@ -60,18 +75,18 @@ ht-degree: 97%
 
 無論您從事哪個行業，請尋找能把 Adobe Analytics 世界與利害關係人熟悉的事物連結起來的共同語言。
 
-在 [!DNL The Home Depot]，商家或商店經理可能不熟悉什麼是點擊次數、瀏覽次數或不重複訪客。 我們可以直接解釋分析伺服器呼叫、瀏覽工作階段、逾時和 Cookie... 也可以用實體店面和顧客來比喻 (也就是共同語言)。 不重複訪客是指走進商店大門的顧客； 網站瀏覽次數是指顧客前往 [!DNL Home Depot] 的次數， 而點擊次數就是顧客的行為，比如經過走道、與店員交談。
+在 [!DNL The Home Depot]，商家或商店經理可能不熟悉什麼是點擊次數、瀏覽次數或不重複訪客。 我們可以直接解釋分析伺服器呼叫、瀏覽工作階段、逾時和 Cookie… 也可以用實體店面和顧客來比喻 (也就是共同語言)。 不重複訪客是指走進商店大門的顧客； 網站瀏覽次數是指顧客前往 [!DNL Home Depot] 的次數， 而點擊次數就是顧客的行為，比如經過走道、與店員交談。
 
 >[!TIP]
 >
 >**讓您的實作反映共同語言**
 >Adobe Analytics UI 中的幾乎所有內容都是可自訂的。 如果貴組織將購物車稱為購物袋，您可以把購物車事件重新命名為購物袋。
 >
->如果您發現有數個同義詞，或是有些詞彙經常讓用戶混淆，則可考慮為貴組織建立控制詞彙表。 主動推動偏好術語的標準化， 並查看入職和啟用工作階段中最常見的混淆術語，協助用戶適應。
+>如果您發現有數個同義詞，或是有些詞彙經常讓用戶混淆，則可考慮為貴組織建立控制詞彙表。 主動推動偏好術語的標準化。 並查看入職和啟用工作階段中最常見的混淆術語，協助用戶適應。
 
-## 秘訣 3：組成新起之秀團隊
+## 秘訣 3：組成搖滾明星團隊
 
-密切尋找分析界的新起之秀 -- 他們的能力足以快速掌握 Adobe Analytics 技術的細微差別，還能在整個分析過程中輕鬆應用。 透過正式或非正式的程序，讓您的新起之秀團隊協助測試入職程序，或者成為新報告的測試版用戶。 他們還可以在自己的團隊中存在分析知識落差時提出反應。
+密切尋找分析界的新起之秀 -- 他們的能力足以快速掌握 Adobe Analytics 技術的細微差別，還能在整個分析過程中輕鬆應用。 透過正式或非正式的程序，讓您的新起之秀團隊協助測試入職程序，或者成為新報告的測試版用戶。 他們也可以指出自己團隊內在分析知識上的落差。
 
 在 [!DNL The Home Depot]，我們舉辦了一場 Adobe Analytics 挑戰賽，向用戶提出幾個可以使用工具解決的複雜問題。 這項挑戰賽不只找出一些分析界的新起之秀，也協助我們了解利害關係人對 Adobe Analytics 技術細節的理解程度。
 
@@ -84,8 +99,8 @@ ht-degree: 97%
 
 ## 秘訣 4：保持開放的溝通管道
 
-當利害關係人建構 Adobe Analytics 儀表板時，提供他們充足的協助管道。 您可以提供公開諮詢時間，讓利害關係人提出問題並與專家配對。 也可以成立協助熱線，讓利害關係人在安全的學習環境中提問。
+當利害關係人建構 Adobe Analytics 儀表板時，提供他們充足的協助管道。 您可以安排公開諮詢時段，讓利害關係人帶著問題前來，並與專家配對。 也可以成立協助熱線，讓利害關係人在安全的學習環境中提問。
 
-在 [!DNL The Home Depot]，我們的利害關係人喜歡公開諮詢時間和 Slack 協助熱線。 自這些開放管道成立以來，已經獲得報告建構的準確性提高，以及 Adobe Analytics 採用率飆升的成果。 之前，我們在全球零售商中已進入 Adobe Analytics 採用分數的前 5%！
+在 [!DNL The Home Depot]，我們的利害關係人喜歡公開諮詢時間和 Slack 協助熱線。 自這些開放管道成立以來，已經獲得報告建構的準確性提高，以及 Adobe Analytics 採用率飆升的成果。 過去，我們的 Adobe Analytics 採用分數曾躋身全球零售商前 5%！
 
 協助您的用戶了解 Adobe Analytics 的技術世界絕非易事。 我希望這些秘訣和範例可協助您的利害關係人深入研究、建構這些自由格式表格，並愛上 props 和 eVar 的世界。

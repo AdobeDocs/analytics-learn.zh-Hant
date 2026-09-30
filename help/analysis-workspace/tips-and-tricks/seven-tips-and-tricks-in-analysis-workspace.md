@@ -10,40 +10,62 @@ kt: 3945
 role: User, Developer, Admin, Leader
 level: Beginner
 exl-id: af0e66cb-4e74-4ce0-9429-4a461fd54263
-TQID: https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s
+TQID: 'https://experienceleague.adobe.com/1zP4J-xmbaaRop3-cJXtYOgwcSBbucX1unKwspg2q2s'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b0ca67c6-0a35-482c-ad91-baac1bcb26d6
+    internal-label: Workspace projects
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: ac8a38fa-dec3-4581-8f64-178fde9f64e8
+    internal-label: Report Builder
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e38cbddc-1633-4cd5-bed5-9f289f2a6029
+    internal-label: Panels
   - id: ef60b66e-5984-4336-ba72-6d978b1b6f87
+    internal-label: Report suites
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Insights
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1072
+source-wordcount: '1052'
 ht-degree: 91%
-
 ---
-
 # 更快、更輕鬆建立自訂分析專案的 7 大秘訣與技巧
 
 **擴大您的 Analysis Workspace 技能組！**
@@ -71,11 +93,11 @@ Analysis Workspace 是在 Adobe Analytics 中的強大工具，可以協助您�
 >
 >**實用提示：**&#x200B;使用快捷[!UICONTROL 計算量度]時，最多可以選取兩個[!UICONTROL 量度]欄。 使用[!UICONTROL 計算量度]產生器建立包含兩個以上[!UICONTROL 量度]的[!UICONTROL 量度]。
 
-## 以視覺效果呈現：實現專案內的資料
+## 以視覺效果呈現：讓專案中的資料活靈活現
 
 ### ***秘訣 3：隨處複製和插入視覺效果和面板***
 
-從一處輕鬆複製和插入視覺效果和面板，然後新增到另一處，甚至新增到不同的專案。 這表示您可以在專案規模變大時您可以輕鬆移動資料，並與新使用者共用您的發現，因此他們不必從頭開始分析。 只需要在您要複製的面板或視覺效果上按一下右鍵、選取「[!UICONTROL 複製視覺效果]」，然後在空白面板上按一下右鍵，以便插入。
+從一處輕鬆複製和插入視覺效果和面板，然後新增到另一處，甚至新增到不同的專案。 這表示您可以在專案規模變大時輕鬆移動資料，並與新使用者共用您的發現，因此他們不必從頭開始分析。 只需要在您要複製的面板或視覺效果上按一下右鍵、選取「[!UICONTROL 複製視覺效果]」，然後在空白面板上按一下右鍵，以便插入。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23230/?quality=12&learn=on)
 
@@ -85,7 +107,7 @@ Analysis Workspace 是在 Adobe Analytics 中的強大工具，可以協助您�
 
 ### ***秘訣 4：只要按一下就能切換時間顆粒度視覺效果***
 
-使用趨勢視覺效果時輕鬆變更時間檢視。 在之前的 Analysis Workspace 反覆項目中，變更時間表示取消隱藏來源表格、在新的[!UICONTROL 維度]中拖曳，然後重新隱藏表格。 現在可以輕鬆從「[!UICONTROL 視覺效果設定]」(右上齒輪) 下拉式選單您要示範的時間顆粒度。
+使用趨勢視覺效果時，可輕鬆變更時間視圖。 在之前的 Analysis Workspace 反覆項目中，變更時間表示取消隱藏來源表格、在新的[!UICONTROL 維度]中拖曳，然後重新隱藏表格。 現在可以輕鬆從「[!UICONTROL 視覺效果設定]」(右上齒輪) 下拉式選單您要示範的時間顆粒度。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23548/?quality=12&learn=on)
 
@@ -93,7 +115,7 @@ Analysis Workspace 是在 Adobe Analytics 中的強大工具，可以協助您�
 
 ### ***秘訣 5：建立特定業務單位的自訂[!DNL Virtual Report Suite]***
 
-Adobe Analytics 會收集大量資料。 [!DNL Virtual Report Suites]中的元件組織可讓管理員為組織內的每個業務單位製作資料集。 這表示在 Analysis Workspace 中工作的分析師不必費力鑽研資料，就是找出對他們而言最重要的地方。 在[!UICONTROL 「元件]」下方，只要選取[!UICONTROL 虛擬報告套裝]產生器中名為「[!UICONTROL 啟用虛擬報告套裝元件自訂]」的方塊，然後選取符合特定團隊量度的[!UICONTROL 元件]。
+Adobe Analytics 會收集大量資料。 [!DNL Virtual Report Suites]中的元件組織可讓管理員為組織內的每個業務單位製作資料集。 這表示在 Analysis Workspace 中工作的分析師不必費力翻找資料，就能找出對他們最重要的內容。 在[!UICONTROL 「元件]」下方，只要選取[!UICONTROL 虛擬報告套裝]產生器中名為「[!UICONTROL 啟用虛擬報告套裝元件自訂]」的方塊，然後選取符合特定團隊量度的[!UICONTROL 元件]。
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426920/?captions=chi_hant&quality=12&learn=on)
 
@@ -103,13 +125,13 @@ Adobe Analytics 會收集大量資料。 [!DNL Virtual Report Suites]中的元�
 
 ### ***秘訣 6：專案中或跨專案的面板和視覺效果連結***
 
-建立將客群帶到 Analysis Workspace 內任一處的連結。 以滑鼠右鍵按一下您要連結至的面板、選取「[!UICONTROL 取得面板連結]」，然後複製。 然後反白您要從此處連結來源的連結、選取文字方塊的文字編輯器或說明，然後貼上。 若要連結至整個專案，只要按一下「[!UICONTROL 共用]」標籤、選取「[!UICONTROL 取得面板連結]」，然後依照上述步驟進行。
+建立將客群帶到 Analysis Workspace 內任一處的連結。 以滑鼠右鍵按一下您要連結至的面板、選取「[!UICONTROL 取得面板連結]」，然後複製。 然後反白您要建立連結的文字，在文字方塊或說明的文字編輯器中選取連結圖示，然後貼上。 若要連結至整個專案，只要按一下「[!UICONTROL 共用]」標籤、選取「[!UICONTROL 取得面板連結]」，然後依照上述步驟進行。
 
 >[!VIDEO](https://video.tv.adobe.com/v/23724/?quality=12&learn=on)
 
 >[!TIP]
 >
->**實用提示：**&#x200B;連結可透過有數種方式提升您的讀者體驗。 您可以將連結指向符合專案內發現和建議事項的插圖。 或讓連結從一個目錄直接跳到讀者感興趣的章節。 您也可以連結至與您的分析相關的其他使用者專案
+>**實用提示：**&#x200B;連結可透過有數種方式提升您的讀者體驗。 您可以將連結指向符合專案內發現和建議事項的插圖。 或讓讀者從目錄直接跳到他們感興趣的章節。 您也可以連結至與您的分析相關的其他使用者專案
 
 ### ***秘訣 7：將專案另存為可以重複使用的自訂範本***
 
