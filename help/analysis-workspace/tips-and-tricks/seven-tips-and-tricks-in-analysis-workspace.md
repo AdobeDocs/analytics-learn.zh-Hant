@@ -117,7 +117,7 @@ Analysis Workspace 是在 Adobe Analytics 中的強大工具，可以協助您�
 
 Adobe Analytics 會收集大量資料。 [!DNL Virtual Report Suites]中的元件組織可讓管理員為組織內的每個業務單位製作資料集。 這表示在 Analysis Workspace 中工作的分析師不必費力翻找資料，就能找出對他們最重要的內容。 在[!UICONTROL 「元件]」下方，只要選取[!UICONTROL 虛擬報告套裝]產生器中名為「[!UICONTROL 啟用虛擬報告套裝元件自訂]」的方塊，然後選取符合特定團隊量度的[!UICONTROL 元件]。
 
->[!VIDEO](https://video.tv.adobe.com/v/23544/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426920/?captions=chi_hant&quality=12&learn=on)
 
 >[!TIP]
 >
@@ -137,7 +137,7 @@ Adobe Analytics 會收集大量資料。 [!DNL Virtual Report Suites]中的元�
 
 您現在可以輕鬆地將任何專案轉換為自訂範本。 只要從「[!UICONTROL 專案]」下拉式選單選取「[!UICONTROL 另存為範本]」、新增讓範本容易找到的標記，然後按一下「[!UICONTROL 將專案另存為範本]」。 現在範本將可供「[!UICONTROL 自訂範本]」標籤下方的所有 Analysis Workspace 使用者使用。 這可讓分析師使用有意義的資料點展開專案，而不會從頭開始。
 
->[!VIDEO](https://video.tv.adobe.com/v/23231/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428581/?captions=chi_hant&quality=12&learn=on)
 
 >[!TIP]
 >
