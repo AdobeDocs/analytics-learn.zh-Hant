@@ -105,4 +105,4 @@ Experience League LIVE 是 Experience League 團隊製作的直播串流節目�
 
 >[!TIP]
 >
->如需其他學習方法，請查看我們的免費[課程](https://experienceleague.adobe.com/#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。
+>如需其他學習方法，請查看我們的免費[課程](https://experienceleague.adobe.com/zh-hant#dashboard/learning)以及個別[教學課程](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=zh-Hant)。

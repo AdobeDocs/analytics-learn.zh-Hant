@@ -54,4 +54,4 @@ Workspace 中的註解讓您能夠有效地將內容相關的資料細微差別�
 
 >[!VIDEO](https://video.tv.adobe.com/v/341266/?quality=12&learn=on)
 
-如需詳細資訊，請造訪此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=en)。
+如需詳細資訊，請造訪此[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/components/annotations/overview.html?lang=zh-Hant)。
