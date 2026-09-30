@@ -37,9 +37,9 @@ workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 36%
 ---
-# 使用 Experience Platform SDK 初始化和查看[!UICONTROL 生命週期][!UICONTROL 量度] {#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}
+# 使用 Experience Platform SDK 初始化和查看[!UICONTROL 生命週期]&#x200B;[!UICONTROL 量度] {#initializing-and-viewing-lifecycle-metrics-with-the-experience-platform-sdk}
 
-[!UICONTROL 生命週期][!UICONTROL 量度]是有關您應用程式用戶的寶貴現成資訊。 這[!UICONTROL 個量度]包含有關應用程式使用者生命週期的資訊，例如裝置資訊、安裝或升級資訊、工作階段開始和暫停時間等。在本影片中，瞭解如何在應用程式中設定[!UICONTROL 生命週期] [!UICONTROL 量度]，以及如何在偵錯工具中檢視結果。
+[!UICONTROL 生命週期]&#x200B;[!UICONTROL 量度]是有關您應用程式用戶的寶貴現成資訊。 這[!UICONTROL 個量度]包含有關應用程式使用者生命週期的資訊，例如裝置資訊、安裝或升級資訊、工作階段開始和暫停時間等。在本影片中，瞭解如何在應用程式中設定[!UICONTROL 生命週期] [!UICONTROL 量度]，以及如何在偵錯工具中檢視結果。
 
 >[!VIDEO](https://video.tv.adobe.com/v/26258/?quality=12&learn=on)
 
