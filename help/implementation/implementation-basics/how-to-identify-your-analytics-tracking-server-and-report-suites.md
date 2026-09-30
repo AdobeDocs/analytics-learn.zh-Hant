@@ -1,8 +1,8 @@
 ---
-title: 如何識別您的分析追蹤伺服器和報表套裝 ID
+title: 如何識別您的分析追蹤伺服器和報告套裝 ID
 description: 設定 Adobe Analytics 或在其他 Experience Cloud 解決方案中引用時，了解您所使用的 Analytics「追蹤伺服器」通常很有用或者甚至是有必要，或者了解您的資料所要發送的「報表套裝」也很有用。 本影片將展示如何找到這兩個值，無論您是否已經實施 Adobe Analytics。
 feature: Implementation Basics
-topics: null
+topics:
 activity: implement
 doc-type: technical video
 team: Technical Marketing
@@ -10,32 +10,41 @@ kt: 2358
 role: Developer
 level: Beginner
 exl-id: 3925026f-69f1-4425-b3a9-6fef26375fed
-TQID: https://experienceleague.adobe.com/DRy-lxNuEQR9Tb-nIoev0Mu1OzSiCcLcqve1eDf7p6Q
+TQID: 'https://experienceleague.adobe.com/DRy-lxNuEQR9Tb-nIoev0Mu1OzSiCcLcqve1eDf7p6Q'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: c2be0313-b3ae-45e0-b454-d20bf54b23f2
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Measurement
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 334
+source-wordcount: '334'
 ht-degree: 100%
-
 ---
-
 # 如何識別您的 Analytics [!DNL tracking server]和[!UICONTROL 報表套裝 ID] {#how-to-identify-your-analytics-tracking-server-and-report-suites}
 
 設定 Adobe Analytics 或在其他 Experience Cloud 解決方案中引用時，了解您所使用的 Analytics「追蹤伺服器」通常很有用或者甚至是有必要，或者了解您的資料所要發送的「[!UICONTROL 報表套裝]」也很有用。 本影片將展示如何找到這兩個值，無論您是否已經實施 Adobe Analytics。
 
 >[!IMPORTANT]
 >
->本文和影片適用於 Adob&#x200B;&#x200B;e Analytics 的「AppMeasurement」實施作業，而不是使用 Web SDK 的實施作業。
+>本文和影片適用於 Adobe Analytics 的「AppMeasurement」實施作業，而不是使用 Web SDK 的實施作業。
 
 ## 實施以後 {#after-implementation}
 

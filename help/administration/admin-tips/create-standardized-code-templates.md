@@ -9,25 +9,34 @@ doc-type: article
 thumbnail: 10532.jpg
 kt: 10532
 exl-id: be00c8c0-a4bc-4380-98da-d1e2a3d31ec5
-TQID: https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U
+TQID: 'https://experienceleague.adobe.com/rmLhZbO6hYtpj1P0q0ZVwXglHVBC-KaHIkxyAF-7i-U'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 366
+source-wordcount: '366'
 ht-degree: 87%
-
 ---
-
 # 建立標準化的程式碼範本
 
 **主題：**&#x200B;對於「基準線」實施 (亦即貴公司認為所有 Adobe Analytics 網站必備的 KPI)，貴組織應盡可能採用單一實施方法。 例如，跨網站使用相同的資料層結構，以及運用相同的標籤管理程式規則/自訂程式碼來擷取內部搜尋或訪客輪廓資訊此類內容。
@@ -44,7 +53,7 @@ ht-degree: 87%
 | event8 | 內部搜尋計數 | 登陸內部搜尋結果頁面時 | Launch 規則 |
 
 * 如何設定的詳細說明。 您可以在此處指定所需的任何資料層物件及其語法，以及任何需要設定的 TMS 規則和規則設定的詳細資料。
-* QA 中涵蓋要確保的測試案例，以及您希望在成功的測試案例中看到的所有變數。 概述當開發人員測試此增強功能時，成功實施應包括的內容。
+* QA 中必須涵蓋的測試案例，以及您預期會在成功測試案例中看到的所有變數。 概述當開發人員測試此增強功能時，成功實施應包括的內容。
 
 理想情況下，此檔案只需針對下一個網站進行調整，您可以更新屬性名稱、頁面命名慣例等基本知識。無需每次都重複相同的步驟，您可以節省更多時間。
 

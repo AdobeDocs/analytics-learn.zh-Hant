@@ -5,40 +5,59 @@ feature: Implementation Basics
 role: Developer, Developer, Leader, User
 level: Beginner
 kt: 10454
-thumbnail: null
+thumbnail:
 last-substantial-update: 2022-10-14T00:00:00.000Z
 exl-id: ba2959f0-b667-40f9-bc59-9364a9d83f19
-TQID: https://experienceleague.adobe.com/6aNeRhdbEMFR0A9301GsuTWxWe3w-OUCeFhTOOaWUfg
+TQID: 'https://experienceleague.adobe.com/6aNeRhdbEMFR0A9301GsuTWxWe3w-OUCeFhTOOaWUfg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: c67272a6-888e-425e-9e97-a87304637eed
+    internal-label: Anomaly Detection
   - id: c80b99d6-98b9-4aeb-b5c4-933ef2ef705c
+    internal-label: Marketing Channels
   - id: f1f1a2d4-0976-4881-b091-c2bb8de7ffac
+    internal-label: Events
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
   - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
   - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bbbea26f-9621-49eb-9ab8-e06fb3bbce8c
+    internal-label: Artificial intelligence
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: d00e9f03-e50b-4162-b143-0c0817c937c2
+    internal-label: Customer journeys
   - id: d3cdead0-685a-4489-9250-4bb709942f66
+    internal-label: Data collection
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Machine learning
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 770
+source-wordcount: '770'
 ht-degree: 100%
-
 ---
-
 # 什麼是分析？{#what-is-analytics}
 
 在您沉浸於 Adobe Analytics 的學習內容之前，了解「什麼是分析？」這個基本問題的答案會很有幫助。 分析是一個廣義的術語，包含推動業務發展和轉型的多個學科，即業務分析和資料分析。 兩者是有區別的。 讓我們仔細看看。
@@ -47,7 +66,7 @@ ht-degree: 100%
 
 近年來，將網際網路用於商業目的這個做法的出現和成熟呈爆炸式增長，組織收集的有關消費者如何與品牌互動和參與品牌的資料量也呈爆炸式成長。 如果您之前聽說過巨量資料 (大數據) 這個詞，那麼這屬於業務分析領域。
 
-業務分析是企業情報的一個組成部分，專注於宏觀戰略風險和機會。 這是公司必須具備的能力才能在其產業中保持競爭力。
+業務分析是企業情報的一個組成部分，專注於宏觀戰略風險和機會。 這是公司必須具備的能力，才能在其產業中保持競爭力。
 
 有四種類型的業務分析：
 
@@ -60,7 +79,7 @@ ht-degree: 100%
 
 ## 資料分析的角色
 
-資料分析使用許多與業務分析相同的技術，但範圍更廣，更具技術性。 例如，巨量資料分析依賴資料的品質和組織。 資料的排序、儲存和清理的效率如何？ 資料科學家在資料分析領域工作。 他們轉換巨量資料集，然後業務分析師使用這些資料集將資訊傳達給組織，以最佳化流程和指標。 資料科學家更深入地研究資料，確定趨勢和連結。
+資料分析使用許多與業務分析相同的技術，但範圍更廣，更具技術性。 例如，巨量資料分析依賴資料的品質和整理方式。 資料的排序、儲存和清理的效率如何？ 資料科學家在資料分析領域工作。 他們轉換巨量資料集，然後業務分析師使用這些資料集將資訊傳達給組織，以最佳化流程和指標。 資料科學家更深入地研究資料，確定趨勢和關聯。
 
 ![資料-分析](../what-can-aa-do-for-me/assets/data_analytics.png)
 
@@ -68,7 +87,7 @@ ht-degree: 100%
 
 Adobe Analytics 是一個強大的資料分析平台，它從支援客戶歷程的多通道數位體驗中收集資料，並提供資料分析工具。 它是行銷人員和業務分析師常用來進行業務分析的平台。
 
-業務需求、資料設計和資料收集是有效分析做法的關鍵因素。 最初，客戶收集關鍵客戶歷程的資料以及傳統數位體驗 (如 Web 和行動裝置) 的所要業務成果。 資料應可提供以下問題的答案：
+業務需求、資料設計和資料彙集是有效分析做法的關鍵因素。 最初，客戶收集關鍵客戶歷程的資料以及傳統數位體驗 (如 Web 和行動裝置) 的所要業務成果。 資料應可提供以下問題的答案：
 
 * 「哪些內容和內容類型受訪客歡迎？」
 * 「哪些路徑會帶來高價值轉換，例如收入、預訂、潛在客戶或訂閱？」
@@ -77,11 +96,11 @@ Adobe Analytics 是一個強大的資料分析平台，它從支援客戶歷程�
 
 ![分析-業務-要求](../what-can-aa-do-for-me/assets/analytics_business_requirements.png)
 
-一旦將資料基礎收集到 Adobe Analytics 中，行銷人員和業務分析師就會使用產品中提供的各種報告和資料視覺化工具來執行分析並講述有關資料的有意義故事。 此外，Adobe Analytics 提供各種形式的輸出。 可以是傳送到最佳化工具 (如 Adobe Target) 以執行 A/B 測試的細分群體或客群。 可以是一個預測分數，用於表示個人行為的可能性，此可能性供另一個系統用於建立模型。
+一旦將資料基礎收集到 Adobe Analytics 中，行銷人員和業務分析師就會使用產品中提供的各種報告和資料視覺化工具來執行分析並講述有關資料的有意義故事。 此外，Adobe Analytics 提供各種形式的輸出。 可以是傳送到最佳化工具 (如 Adobe Target) 以執行 A/B 測試的區段或客群。 可以是一個預測分數，用於表示個人行為的可能性，此可能性供另一個系統用於建立模型。
 
 ![分析-工作區-專案](../what-can-aa-do-for-me/assets/analytics_workspace_project.png)
 
-隨著時間的推移，客戶會透過其他通道來源 (包括 CRM、呼叫中心、實體商店、語音助理等) 讓傳統 Web 和行動資料更為豐富。 Adobe Analytics 提供了多種方法來從幾乎任何通道來源擷取資料，以建構強大的分析資料基礎。
+隨著時間的推移，客戶會透過其他管道來源 (包括 CRM、呼叫中心、實體商店、語音助理等) 讓傳統 Web 和行動資料更為豐富。 Adobe Analytics 提供了多種方法來從幾乎任何管道來源擷取資料，以建構強大的分析資料基礎。
 
 收集額外的資料集為執行更進階的規範性資料分析打開了大門，這些分析使用機器學習或進階資料模式，例如行銷歸因和異常偵測。
 

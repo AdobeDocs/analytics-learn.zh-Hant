@@ -1,6 +1,6 @@
 ---
 title: 建立基本的錄製培訓課程和短影片
-description: 建立涵蓋一系列基本和進階主題的簡單培訓短影片，當使用工具的新使用者人數增加時，您就不用每次還要開會提供相同的內容。
+description: 建立涵蓋一系列基本和進階主題的簡單培訓短影片，讓新使用者在逐步熟悉工具時，您不必每次都透過會議提供相同的內容。
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -9,35 +9,45 @@ doc-type: article
 thumbnail: 10533.jpg
 kt: 10533
 exl-id: 60307702-9348-48b5-8364-49e90946d793
-TQID: https://experienceleague.adobe.com/FHP2g7O-C2xHI3iKNm0eZOybd7zxfjGNuwTZwE4GozE
+TQID: 'https://experienceleague.adobe.com/FHP2g7O-C2xHI3iKNm0eZOybd7zxfjGNuwTZwE4GozE'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 351
+source-wordcount: '351'
 ht-degree: 84%
-
 ---
-
 # 建立基本的錄製培訓課程和短影片
 
 **主題：**&#x200B;建立涵蓋一系列基本和進階主題的簡單培訓短影片，當使用工具的新使用者人數增加時，您就不用每次還要開會提供相同的內容。
 
 **理由：**&#x200B;這樣可節省 AA 管理員的時間、不用依賴一個人負責培訓其他人，還能讓新使用者按照自己的步調進行自我啟用。
 
-**做法：**&#x200B;為您的組織和業務使用者選擇最相關的主題，花一些時間錄製培訓短影片。 以下是從基礎到進階主題的一些建議：
+**做法：**&#x200B;為您的組織和業務使用者選擇最相關的主題，花一些時間錄製培訓短影片。 以下是一些從基礎到進階的主題建議：
 
 * 如何追蹤行銷活動
 * 如何了解頁面效能
@@ -46,9 +56,9 @@ ht-degree: 84%
 * Adobe Analytics 的 5 大技巧 (例如：如何建立下拉清單)
 * 如何使用 Attribution IQ
 
-然後，您就可以輕鬆地將使用者指向這些內容，不用撰寫冗長的電子郵件或又要開會。 如需培訓使用者的更多秘訣和技巧，請檢視[Adobe達人Thomas Edward Buckley的文章](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=zh-Hant){target="_blank"}，其內容是簡化和減少培訓使用者的時間。
+然後，您就可以輕鬆地將使用者指向這些內容，不用撰寫冗長的電子郵件或又要開會。 如需培訓使用者的更多秘訣和技巧，請檢視[Adobe Champion Thomas Edward Buckley的文章](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=zh-Hant){target="_blank"}，說明如何簡化和減少培訓使用者的時間。
 
-此外，Adobe Experience League上也有大量的[教學課程影片](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}，以及[免費課程](https://experienceleague.adobe.com/zh-hant?lang=en#dashboard/learning){target="_blank"}。 如果您需要貴公司專屬的資料和業務 KPI 影片，那麼請務必自行錄製影片。 但是，如果您需要的只是一般的教學影片，那就不需要多此一舉。
+此外，Adobe Experience League上也有大量的[教學課程影片](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=zh-Hant){target="_blank"}，以及[免費課程](https://experienceleague.adobe.com/?lang=en#dashboard/learning){target="_blank"}。 如果您需要專門針對貴公司資料和業務 KPI 的影片，那麼請務必自行錄製影片。 但是，如果您需要的只是一般的教學影片，那就不需要多此一舉。
 
 ## 作者
 

@@ -9,30 +9,39 @@ doc-type: article
 thumbnail: 10534.jpg
 kt: 10534
 exl-id: 692b6726-12f8-45fb-b7c7-8ae42e1a14b7
-TQID: https://experienceleague.adobe.com/5xgcAdoRhVgZZ3wjDpBrDCEAXWNADptU4yQlbbZUGG0
+TQID: 'https://experienceleague.adobe.com/5xgcAdoRhVgZZ3wjDpBrDCEAXWNADptU4yQlbbZUGG0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 301
+source-wordcount: '301'
 ht-degree: 89%
-
 ---
-
 # 建立內部 Adobe Analytics 網站 (Confluence 或其他)
 
 **內容：**&#x200B;如果您聽從[此秘訣](create-basic-videos-and-training.md){target="_blank"}的建議來建立訓練檔案，很明顯您不能把這些檔案放在硬碟上。 建立一個中心位置，讓所有使用者可以在其中分享和查閱培訓文件 - 一個內部 Adobe Analytics 網站 (Confluence 或其他)，您可以在其中發佈這些文件並維護不同的版本。
 
-**理由：**&#x200B;設定單一共用存放庫可提供一個位置來導向所有新使用者，並提供所有文件最新版本的單一信任來源。 也可以最佳化版本管理和共同作業。
+**理由：**&#x200B;設定單一共用存放庫可提供一個位置來導向所有新使用者，並提供所有文件最新版本的單一信任來源。 這也有助於最佳化版本管理和共同作業。
 
 **做法：**&#x200B;以下是內部網站區段的一些建議：
 
@@ -42,7 +51,7 @@ ht-degree: 89%
 * _培訓文件_：基礎和進階培訓課程，5-10 分鐘的短影片。 您也可以提供 Adobe 資源的連結：Experience League、YouTube 頻道等。
 * _管理檔案_：SAINT 檔案、JS 檔案、管理內容相關 (如資料摘要) 的知識檔案等。
 
-我也建議當您建立新帳戶時，在「歡迎使用 Adobe Analytics」電子郵件中分享此網站的連結 (並反白顯示培訓區段)。
+我也建議當您建立新帳戶時，在「歡迎使用 Adobe Analytics」電子郵件中分享此網站的連結 (並強調培訓部分)。
 
 
 ## 作者

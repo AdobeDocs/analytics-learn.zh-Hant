@@ -8,27 +8,37 @@ doc-type: feature video
 thumbnail: Workspace Basics.jpeg
 kt: KT-13087
 exl-id: 2ef470bd-b218-4286-8501-39729511c217
-TQID: https://experienceleague.adobe.com/OEgk7v-ZS78ogdLjFPaWh6YpcUW2WxLHfS6lAfBN5G0
+TQID: 'https://experienceleague.adobe.com/OEgk7v-ZS78ogdLjFPaWh6YpcUW2WxLHfS6lAfBN5G0'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
 subfeature_v2:
   - id: b0a1f9d5-5795-42a3-a6d0-bd0e2748fd06
+    internal-label: Components
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
+  - id: c457b289-f974-4a67-a5b6-dec3ffa77675
+    internal-label: Workspace basics
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Beginner
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 939
+source-wordcount: '939'
 ht-degree: 100%
-
 ---
-
 # 提高工作流程效率的 7 個按右鍵秘訣和技巧
 
 這裡有您可以在 Analysis Workspace 中用來提高工作流程的效率的 7 個按右鍵秘訣。 您可以閱讀下方文字或觀看示範影片。
@@ -55,7 +65,7 @@ ht-degree: 100%
 
 您還可以根據流失報告、流量報告或自由格式表格中的特定元素建立區段。
 
-在流失中的任何接觸點上按一下右鍵，然後選取「從接觸點建立區段」以根據事件或頁面的連續性快速建立區段。 這將立即執行您的所有邏輯，例如單個層級中的多個頁面。 只需命名您的區段，它現在就會顯示在左側邊欄的區段下方。 您可以透過在特定路徑上按一下右鍵並選取「為此路徑建立區段」來對流量報告執行相同的操作
+在流失中的任何接觸點上按一下右鍵，然後選取「從接觸點建立區段」以根據事件或頁面的連續性快速建立區段。 這將立即保留您的所有邏輯，例如單個層級中的多個頁面。 只需命名您的區段，它現在就會顯示在左側邊欄的區段下方。 您可以透過在特定路徑上按一下右鍵並選取「為此路徑建立區段」來對流量報告執行相同的操作
 
 這也適用於自由格式表格以建立快速鍵，或使用「或」陳述式快速建立區段。 在表格中選取您需要的列，按一下右鍵，然後選取「從選取項目建立區段」
 
@@ -67,15 +77,15 @@ ht-degree: 100%
 
 ## 秘訣 #5：編輯視覺效果中的標籤
 
-重新命名標籤是一個非常簡單的技巧，但在將內容拼寫出來或以清晰的方式表達出來以使您的團隊更容易理解時具有很大的價值。 重新命名標籤有助於簡化內容並在視覺效果上佔用更少的空間。
+重新命名標籤是一個非常簡單的技巧，但在清楚說明內容或以清晰的方式表達時非常有價值，讓您的團隊更容易理解。 重新命名標籤有助於簡化內容並在視覺效果上佔用更少的空間。
 
-這可以用於許多視覺效果，包括折線圖、長條圖和流失
+這可以用於許多視覺效果，包括折線圖、長條圖和流失圖
 
 ## 秘訣 #6：下載特定表格的資料
 
 使用者經常希望將資料匯出成 csv。 此技巧將幫助您擺脫工作區中 400 列的限制。 在自由格式表格的頂部，按一下右鍵，您將看到 2 個下載選項
 
-「將項目下載為 CSV (區段)」選項將允許您下載多達 50,000 列資料。  這不會包含您已經完成的任何劃分，但會包含您的所有區段和已套用的篩選器。 當有數千列資料時，這非常有用。
+「將項目下載為 CSV (區段)」選項將允許您下載多達 50,000 列資料。  這不會包含任何現有的劃分，但會包含您的所有區段和已套用的篩選器。 當有數千列資料時，這非常有用。
 
 「將資料下載為 CSV」選項僅允許您最多下載 400 列資料，但將包含劃分。
 

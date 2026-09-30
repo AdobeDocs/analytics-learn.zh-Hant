@@ -9,17 +9,18 @@ doc-type: feature video
 author: Doug Moore
 team: Technical Marketing
 kt: 1597
-source-git-commit: 474e68e2937c82efa459b6ed8048a4abd2753285
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: '141'
-ht-degree: 65%
-
+source-wordcount: '152'
+ht-degree: 63%
 ---
-
 
 # 使用 Analysis Workspace 的「[!UICONTROL 使用情況記錄追蹤]」 {#using-the-usage-log-tracking-for-analysis-workspace}
 
-此影片說明如何在[!UICONTROL 個專案上使用]使用情況記錄追蹤[!DNL Workspace]，可以協助您更清楚瞭解使用者的Adobe Analytics使用情況。
+此影片說明如何在[!DNL Workspace]個專案上使用[!UICONTROL 使用情況記錄追蹤]，可以協助您更清楚瞭解使用者的Adobe Analytics使用情況。
 
 >[!VIDEO](https://video.tv.adobe.com/v/22922/?quality=12&learn=on)
 
@@ -36,7 +37,7 @@ ht-degree: 65%
 
 ## 其他資源 {#additional-resources}
 
-* [有關記錄的更多資訊](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=zh-Hant)
+* [有關記錄的更多資訊](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/logs.html?lang=en)
 * [下載示範控制面板](https://adobe.ly/2ygP5ws)
 
 後續行動：我們正積極進行並希望很快能在 [!DNL Analytics] 易用的 UI 當中展示這項資訊 (及更多詳情)。

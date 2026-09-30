@@ -9,34 +9,47 @@ level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
 exl-id: d7fb6c34-262c-482c-95ab-fc45399bf9be
-TQID: https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg
+TQID: 'https://experienceleague.adobe.com/4aVMJTW2qTcJWNT1SnLkWpzdns0hQ4necmA6Dp-Mkzg'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
   - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
   - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
 subfeature_v2:
   - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
   - id: e318d41c-1d01-4c1e-9b18-1f61d435ceee
+    internal-label: Freeform tables
   - id: e93b8c4c-c5f7-45f8-9abe-9b710f53f502
+    internal-label: Alerts
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: d095671a-1355-40aa-8b5f-06c33c68080b
+    internal-label: Security
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Privacy
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 926
+source-wordcount: '926'
 ht-degree: 95%
-
 ---
-
 # 有關如何簡化和減少使用者培訓時間的秘訣和竅門
 
->[!VIDEO](https://video.tv.adobe.com/v/341110/?captions=chi_hant&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
 確保貴組織的商務使用者已受到 Adobe Analytics 的良好培訓對於協助建立資料驅動的決策文化至關重要。 當使用者可以輕鬆地在 Adobe Analytics 中尋找資訊時，就可以自行解答簡單的業務問題，好讓分析師有更多時間可以解答有挑戰性的業務問題。 分享您的知識有助於推動資料民主化，並讓商務使用者更獨立地做出以績效為根據的決策。
 
@@ -45,7 +58,7 @@ ht-degree: 95%
 
 ## 適合所有人的基本培訓
 
-首先，為使用 Adobe Analytics 的人建立標準化基本培訓課程，並配合大多數人的行事曆排程。 該課程可能需要約一小時，包含使用者在貴組織內開始使用 Adobe Analytics 時所需了解的一切。
+首先，建立一套使用 Adobe Analytics 的標準化基礎培訓課程，並配合大多數人的行事曆排程。 該課程可能需要約一小時，包含使用者在貴組織內開始使用 Adobe Analytics 時所需了解的一切。
 
 * 寫下議程，好讓您的培訓課程順利進行，這樣您就不會忘記一些基本知識 (這些知識可能不再是您最先想到的事)。
 * 別忘了一些簡單的事情，像是如何獲得存取權、登入，以及變更密碼或電子郵件地址。
@@ -58,17 +71,17 @@ ht-degree: 95%
 
 您可能會發現自己隨著團隊成員加入組織以及公司內的職務變動，或是為了提供存取權給新進實習生，而不斷地重複最基本的培訓內容。 在您成功地進行過一或兩次培訓課程當作練習回合之後，請務必錄製即時培訓課程，藉由提供自動化隨需培訓課程來提高您的工作效率。
 
-* 大多數的公司視訊工具都有提供錄製功能，可能就像是在下一次排程的培訓課程中按下錄製按鈕一樣簡單。 請確保此做法符合公司的隱私權政策，或是找到確保遵守規定的方式，例如在按下錄製按鈕之前要求觀眾停用他們的相機。
-* 如果貴公司未提供此功能，市面上有幾個免費或訂閱型線上工具可用來錄製螢幕共用畫面及網路攝影機視訊畫面，連同幾個簡單的視訊編輯功能。
+* 大多數的公司視訊工具都有提供錄製功能，可能就像是在下一次排程的培訓課程中按下錄製按鈕一樣簡單。 請確保此做法符合公司的隱私政策，或是找到確保遵守規定的方式，例如在按下錄製按鈕之前要求與會者停用他們的相機。
+* 如果貴公司未提供此功能，市面上有幾個免費或訂閱型線上工具可用來錄製螢幕共用畫面及網路攝影機視訊畫面，並提供簡單的視訊編輯功能。
 * 請務必找到可根據 IT 安全性政策代管影片的地方。 線上工具通常有代管功能，可向終端使用者播放內容。 否則，您將需要在公司伺服器上或透過有密碼保護的影片代管網站來代管影片。
 
 ## 適合某些人的進階培訓
 
 一個標準基本培訓課程當然無法為貴組織的使用者涵蓋所有問題和所有使用案例。 在您策劃了基本培訓課程後，請繼續策劃其他課程中的其他相關培訓主題。
 
-* 也請務必錄製這些課程，並在製作新內容時逐一提供給人使用。
-* 有時，您可能需要隨著實作的發展和進化來更新您的培訓課程，讓內容保持最新狀態。
-* 根據您如何部署實作以及如何建構組織，還可能需要針對特定部門或群組建立培訓課程，例如，向 IT 部門提供有關瀏覽器和作業系統使用的培訓、示範有關網站可用性的警示，以及向行銷部門提供有關反向連結、行銷管道及瀏覽次數最高的內容頁面的培訓。
+* 也請務必錄製這些課程，並在建立新內容時逐一提供這些課程。
+* 有時，您可能需要隨著實施的發展和進化來更新您的培訓課程，讓內容保持最新狀態。
+* 根據您的實施和組織的建構方式，還可能需要針對特定部門或群組建立培訓課程，例如，向 IT 部門提供有關瀏覽器和作業系統使用的培訓、示範有關網站可用性的警示，以及向行銷部門提供有關反向連結、行銷管道及瀏覽次數最高的內容頁面的培訓。
 * 您不需要自己製作所有內容。 Adobe 有一些絕佳的免費學習路徑和其他培訓內容，您可以在 [Adobe Experience League](https://experienceleague.adobe.com/docs/analytics.html?lang=zh-Hant) 中提供給使用者使用。
 
 
@@ -82,4 +95,4 @@ ht-degree: 95%
 
 >[!IMPORTANT]
 >
->請記住，用您的知識來強化使用者的能力有助於減輕您的負擔，這樣您就不需要一遍又一遍地回答相同的簡單問題，並讓您有更多時間聚焦於全局分析並強化您實作的品質。
+>請記住，用您的知識來強化使用者的能力有助於減輕您的負擔，這樣您就不需要一遍又一遍地回答相同的簡單問題，並讓您有更多時間聚焦於全局分析並強化您實施的品質。

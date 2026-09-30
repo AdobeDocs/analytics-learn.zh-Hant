@@ -1,6 +1,6 @@
 ---
 title: 建立新聞與公告專案
-description: 在工作區中建立新聞與公告專案，這種專案主要是文字，並與整個公司分享。
+description: 在工作區中建立新聞與公告專案，這種專案主要是文字，並與整個公司共用。
 feature: Implementation Basics
 topic: Administration
 role: Admin
@@ -9,40 +9,51 @@ doc-type: article
 thumbnail: 10535.jpg
 kt: 10535
 exl-id: 1474e117-8668-4f21-ba86-e3fb88d98468
-TQID: https://experienceleague.adobe.com/EhZlNayX6rlHryQ-Hb8bR9mJg9h2LhUWYZy--aWElus
+TQID: 'https://experienceleague.adobe.com/EhZlNayX6rlHryQ-Hb8bR9mJg9h2LhUWYZy--aWElus'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b069d60e-95f3-44d6-95a8-ddc862a4bc38
+    internal-label: Reports
   - id: f73667dc-d296-4875-8975-ac3fdc3adc42
+    internal-label: Dashboards
+  - id: a421fb65-2c82-457a-921c-28c46b697a39
+    internal-label: Analytics basics
+subfeature_v2:
+  - id: c24fe15a-643a-47bd-8278-5e027df49785
+    internal-label: Implementation basics
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Administration
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 515
+source-wordcount: '515'
 ht-degree: 98%
-
 ---
-
 # 建立新聞與公告專案
 
 **主題：**&#x200B;在工作區中建立新聞與公告專案，這種專案主要是文字，並與整個公司分享。 無需將其作為使用者的強制登陸頁面 (雖然可以)，因為它每次更新時都會浮動到清單的頂端。
 
 **理由：**&#x200B;您的使用者可能不希望每次 Adobe Analytics 有變動時都收到電子郵件。 此外，期望使用者定期檢查內部 Adobe Analytics 網站 (Confluence 或其他 - 請參閱[建立內部 Adobe Analytics 網站](create-an-internal-adobe-analytics-site.md)秘訣) 也不太可能。 取而代之的是，您可以運用工作區，讓用戶不用離開介面。 用戶每次登入時，都會看到新聞與公告儀表板。
 
-**做法：**&#x200B;登入工作區並建立一個新專案。 確保此專案在專案設定中與組織中的每個人分享。 此專案的頂端 (說明) 可以指向您的內部 Adobe Analytics 網站，並標註最佳聯絡人或 DL。 接下來我建議 4 個區段，都是文字為主：
+**做法：**&#x200B;登入工作區並建立一個新專案。 確保在專案設定中將此專案與組織中的每個人共用。 此專案的頂端 (說明) 可以指向您的內部 Adobe Analytics 網站，並標註最佳聯絡人或 DL。 接下來我建議 4 個區段，都是文字為主：
 1. 新的版本和功能：
    * 按年度順序排列項目要點 (如果數量很大則按月份)，最新的排在頂端
    * 這些項目可以包括 Adobe 的新功能、新變數/事件、新網站/應用程式、追蹤中的新功能等。
    * 項目要點應包含日期、受影響的屬性 (如果適用) 以及最低限度的細節
 1. 概觀儀表板的清單：
-   * 強烈建議您將概觀儀表板用於所有主要屬性或其他大型內容類別。 建立這些項目可停止大量臨時報告，並讓使用者不需額外協助即可快速全面了解屬性。 這些應與整個公司分享，並標記為「概觀儀表板」。 此外我還建議建立「所有網站和應用程式的概觀」儀表板，讓使用者了解整體數位環境，以及大致了解特定屬性的用途。
+   * 強烈建議為所有主要屬性或其他大型內容類別建立概觀儀表板。 建立這些項目可停止大量臨時報告，並讓使用者不需額外協助即可快速全面了解屬性。 這些應與整個公司分享，並標記為「概觀儀表板」。 此外我還建議建立「所有網站和應用程式的概觀」儀表板，讓使用者了解整體數位環境，以及特定屬性在這個更大整體中的位置。
    * 以簡單的項目要點格式列出以上項目，直接連結每個儀表板。
 1. 您可考慮的有用報告：
    * 展示您最好的儀表板以及 Adobe Analytics 的功能，讓使用者有所期待。 盡量讓更多客群可以了解和使用儀表板。

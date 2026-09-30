@@ -9,24 +9,34 @@ last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13213
 thumbnail: KT-13213.jpeg
 exl-id: 23dd43c5-47e4-46c7-88ee-66c7f62ca9cf
-TQID: https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA
+TQID: 'https://experienceleague.adobe.com/SxoG6hcTKufrPWNj0-pKeZ5l3KGeJnc-LqOazCRr8EA'
 product_v2:
   - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
 feature_v2:
   - id: b3f03848-ae12-48b2-8aab-cad18567eb32
+    internal-label: Metrics
+  - id: c153fd90-23e1-4614-81d3-3cc7571227f7
+    internal-label: Analysis Workspace
 subfeature_v2:
   - id: f836f655-eebe-4b76-82bc-697955ec1ce3
+    internal-label: Calculated Metrics
+  - id: dcae653e-62c6-4cc8-84e6-ee110b848296
+    internal-label: Visualizations
 role_v2:
   - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
-source-git-commit: 677e5a22dab92be7ff021c8410525b9091975aef
+    internal-label: Customer experience
+source-git-commit: 3e00cf9416ba2c6886e5a7efb952cac8ce370930
 workflow-type: tm+mt
-source-wordcount: 1155
+source-wordcount: '1155'
 ht-degree: 8%
-
 ---
-
 # 使用同類群組分析來了解客戶行為
 
 若要改善客戶體驗和收入，企業必須瞭解客戶行為。 同類群組分析有助於理解參與度和保留率，進而改善帳戶建立作業，並為高流量月份建立行銷活動。
@@ -66,7 +76,7 @@ ht-degree: 8%
 1. **包含條件：**&#x200B;次造訪
 1. **回訪條件：**&#x200B;次造訪
 1. **粒度：**&#x200B;個月
-1. **設定：**&#x200B;滾動式計算
+1. **設定：**滾動式計算
 \*\*可讓您根據上一欄計算保留率，而非根據包含欄。 因此，這表示使用者包含在每個月中\*\*
 1. **區段：**&#x200B;您可以選取特定區段，以進一步推動此分析
    1. 特定登陸頁面
@@ -126,7 +136,7 @@ ht-degree: 8%
 1. **包含條件：**&#x200B;造訪+登入成功事件
 1. **回訪條件：**&#x200B;次造訪
 1. **粒度：**&#x200B;個月
-1. **設定：**&#x200B;滾動式計算
+1. **設定：**滾動式計算
 \*\*可讓您根據上一欄計算保留率，而非根據包含欄。 因此，這表示使用者包含在每個月中\*\*
 
 ### 解譯結果
