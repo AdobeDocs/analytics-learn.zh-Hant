@@ -53,7 +53,7 @@ ht-degree: 76%
 
 | 客戶：<br>Jason Jamnik | Follett Corporation 的分析經理 |
 |------------|------------|
-| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **以下是我能成為 Adobe Analytics 專家的資源** <br> 「不要僅止步於基本知識！ 現在您已精通 Adobe Analytics 的基礎，您已準備好繼續學習並承擔越來越多的複雜使用案例。 以下是我使用的資源，以及我告訴加入我們在Follett團隊的新分析師的秘訣。」<br><br>[閱讀Jason的秘訣](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226) |
+| ![Jason Klapmeier](assets/jasonjamnik.jpg) | **以下是我能成為 Adobe Analytics 專家的資源** <br> 「不要僅止步於基本知識！ 現在您已精通 Adobe Analytics 的基礎，您已準備好繼續學習並承擔越來越多的複雜使用案例。 以下是我使用的資源，以及我告訴加入我們在Follett團隊的新分析師的秘訣。」<br><br>[閱讀Jason的秘訣](https://experienceleaguecommunities.adobe.com/t5/Adobe-Analytics-Discussions/Here-are-the-resources-I-used-to-become-an-expert-at-using-Adobe/m-p/354226?profile.language=zh-Hant) |
 
 | 客戶：<br>Sam Liss | Equinox 的分析工程師 |
 |------------|------------|

@@ -32,4 +32,4 @@ ht-degree: 0%
 
 本影片說明如何使用虛擬報表套裝的造訪設定，在Adobe Analytics中以事件觸發新的造訪的開端。
 
->[!VIDEO](https://video.tv.adobe.com/v/23129/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507557/?captions=chi_hant&quality=12&learn=on)

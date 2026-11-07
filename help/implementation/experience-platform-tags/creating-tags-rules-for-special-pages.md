@@ -35,4 +35,4 @@ ht-degree: 100%
 
 除了在每個頁面上收集的資料之外，您還必須在特定頁面上收集其他資料。 本影片說明如何將該資料與常見資料合併，然後傳送至 Adobe Analytics。
 
->[!VIDEO](https://video.tv.adobe.com/v/28770/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507510/?captions=chi_hant&quality=12&learn=on)

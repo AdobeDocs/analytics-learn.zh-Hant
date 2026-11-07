@@ -42,6 +42,6 @@ ht-degree: 16%
 
 瞭解Adobe Analytics中的即時報表，包括如何設定以供分析使用。
 
->[!VIDEO](https://video.tv.adobe.com/v/25454/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507465/?captions=chi_hant&quality=12&learn=on)
 
 如需詳細資訊，請瀏覽本[文件](https://experienceleague.adobe.com/docs/analytics/components/real-time-reporting/realtime.html?lang=zh-Hant)。
