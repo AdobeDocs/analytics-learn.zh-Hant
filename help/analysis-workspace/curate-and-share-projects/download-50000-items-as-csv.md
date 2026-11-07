@@ -40,6 +40,6 @@ ht-degree: 100%
 
 「將項目下載為 CSV 檔」選項可讓您在自由格式表格中，於套用區段和篩選條件後，最多下載某個維度的 50,000 個項目。 雖然 UI 在分頁前會持續顯示最多 400 個項目，但此選項可讓您在 Analysis Workspace 以外存取更多資料列。
 
->[!VIDEO](https://video.tv.adobe.com/v/40385/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507371/?captions=chi_hant&quality=12&learn=on)
 
 在[文件](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/curate-share/download-send.html?lang=zh-Hant)中了解更多。

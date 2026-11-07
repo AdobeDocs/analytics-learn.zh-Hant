@@ -46,4 +46,4 @@ ht-degree: 100%
 
 澳洲最大鞋類零售業 [!DNL Accent Group] 透過實體和數位接觸點，提供最佳客戶體驗以促進銷售和轉換率。 觀看 [!DNL Accent Group] 如可使用 Adobe Experience Cloud 建立完美無縫的數位體驗。
 
->[!VIDEO](https://video.tv.adobe.com/v/31505/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507275/?captions=chi_hant&quality=12&learn=on)
